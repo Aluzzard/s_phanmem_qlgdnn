@@ -6,7 +6,8 @@ use Illuminate\Database\Eloquent\Model;
 class ModuleManageStudents extends Model{
 	protected $fillable = [
 		'id_site',
-        'name',
+        'last_name',
+        'first_name',
         'date_of_birth', 
         'numberphone',
         'identification_id_card',

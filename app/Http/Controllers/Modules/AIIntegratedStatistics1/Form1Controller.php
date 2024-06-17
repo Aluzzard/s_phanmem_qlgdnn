@@ -1,3 +1,203 @@
 <?php
-bolt_decrypt( __FILE__ , 'Lxm462'); return 0;
-##!!!##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
+
+namespace App\Http\Controllers\Modules\AIIntegratedStatistics;
+
+use App\Http\Controllers\Controller; 
+use Illuminate\Http\Request;
+use Validator;
+use Illuminate\Support\Facades\Auth;
+//Models
+use App\Models\Modules\ModuleIntegratedStatistics;
+use App\Models\Modules\ModuleTrainingSpecialties;
+use App\Models\Modules\ModuleTypeOfCourses;
+//Requests
+use App\Http\Requests\Module\ModuleIntegratedStatisticsRequest;
+//Controllers
+use App\Http\Controllers\MainStructure\Admins\LogsController;
+use App\Http\Controllers\MainStructure\Users\GlobalFunction;
+//Export
+use App\Exports\Form1Export;
+use Maatwebsite\Excel\Facades\Excel;
+
+class Form1Controller extends Controller {
+
+    public static function form($request){
+        if( $request->input('form') && $request->input('year') ) {
+            //Phi nông nghiệp
+            //Sơ cấp
+            $array_training_specialty_so_cap = ModuleTrainingSpecialties::select('id')
+                                            ->whereIdSite( Auth::guard('user')->user()->id_site )
+                                            ->where('type_1', 2) //Sơ cấp
+                                            ->where('type_2', 1) //Phi nông nghiệp
+                                            ->get()->pluck('id')
+                                            ->toArray();
+            $courses_so_cap = ModuleTypeOfCourses::whereIdSite( Auth::guard('user')->user()->id_site )
+                                            ->where('year', $request->input('year') )
+                                            ->whereIn('id_training_specialty', $array_training_specialty_so_cap)
+                                            ->get();
+            if(count($courses_so_cap) > 0) {
+                $data['socap']['detail'] = self::partialForm1($courses_so_cap, null);
+                $data['socap']['sum'] = self::sum_array($data['socap']['detail']);
+            } else {
+                $data['socap']['sum'] = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+            }
+    
+            //Dưới 3 tháng
+            $array_training_specialty_duoi_3_thang = ModuleTrainingSpecialties::select('id')
+                                            ->whereIdSite( Auth::guard('user')->user()->id_site )
+                                            ->where('type_1', 1)
+                                            ->where('type_2', 1)
+                                            ->get()->pluck('id')
+                                            ->toArray();
+            $courses_duoi_3_thang = ModuleTypeOfCourses::whereIdSite( Auth::guard('user')->user()->id_site )
+                                            ->where('year', $request->input('year') )
+                                            ->whereIn('id_training_specialty', $array_training_specialty_duoi_3_thang)
+                                            ->get();
+            if(count($courses_duoi_3_thang) > 0) {
+                $data['duoi3thang']['detail'] = self::partialForm1($courses_duoi_3_thang, null);
+                $data['duoi3thang']['sum'] = self::sum_array($data['duoi3thang']['detail']);
+            } else {
+                $data['duoi3thang']['sum'] = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+            }
+            //Tổng phi nông nghiệp
+            $data['phinn']['sum'] = self::sum_array( [$data['socap']['sum'], $data['duoi3thang']['sum']] );
+    //         echo '<pre>';
+    // print_r($data['socap']['sum']);
+    // echo '</pre>';die;
+            //Nông nghiệp
+            $array_training_specialty_nong_nghiep = ModuleTrainingSpecialties::select('id')
+                                            ->whereIdSite( Auth::guard('user')->user()->id_site )
+                                            ->where('type_2', 2)
+                                            ->get()
+                                            ->pluck('id')
+                                            ->toArray();
+            $courses_nong_nghiep = ModuleTypeOfCourses::whereIdSite( Auth::guard('user')->user()->id_site )
+                                            ->where('year', $request->input('year') )
+                                            ->whereIn('id_training_specialty', $array_training_specialty_nong_nghiep)
+                                            ->get();
+            if(count($courses_nong_nghiep) > 0) {
+                $data['nongnghiep']['detail'] = self::partialForm1($courses_nong_nghiep, null);
+                $data['nongnghiep']['sum'] = self::sum_array($data['nongnghiep']['detail']);
+            }
+
+
+
+            //Độ tuổi
+            $courses_do_tuoi = ModuleTypeOfCourses::whereIdSite( Auth::guard('user')->user()->id_site )
+                                            ->where('year', $request->input('year') )
+                                            ->get();
+            $data['under25']['detail'] = self::partialForm1($courses_do_tuoi, 'under25');
+            $data['under25']['sum'] = self::sum_array($data['under25']['detail']);
+
+            $data['26to30']['detail'] = self::partialForm1($courses_do_tuoi, '26to30');
+            $data['26to30']['sum'] = self::sum_array($data['26to30']['detail']);
+
+            $data['31to45']['detail'] = self::partialForm1($courses_do_tuoi, '31to45');
+            $data['31to45']['sum'] = self::sum_array($data['31to45']['detail']);
+
+            $data['above45']['detail'] = self::partialForm1($courses_do_tuoi, 'above45');
+            $data['above45']['sum'] = self::sum_array($data['above45']['detail']);
+
+
+    //         echo '<pre>';
+    // print_r( $data['socap']['sum'] + $data['duoi3thang']['sum'] );
+    // echo '</pre>';die;
+
+ 
+
+                                            // ModuleManageStudents
+            // $data['socap'] = [0, 90, 0, 90, 0, 0, 0, 88, 2, 0, 0, 0, 0, 0, 40, 0, 0, 0, 0, 0, 0];
+            return $data;
+        }
+        
+    }
+
+    public static function partialForm1($courses, $ageCondition = null) {
+        foreach($courses as $key=>$course){
+            $students = $course->students;
+
+            if ($ageCondition === 'under25') {
+                $students = $students->where('date_of_birth', '>=', now()->subYears(25));
+            } elseif ($ageCondition === '26to30') {
+                $students = $students->where('date_of_birth', '>=', now()->subYears(30))
+                                     ->where('date_of_birth', '<=', now()->subYears(26));
+            } elseif ($ageCondition === '31to45') {
+                $students = $students->where('date_of_birth', '>=', now()->subYears(45))
+                                     ->where('date_of_birth', '<=', now()->subYears(31));
+            }elseif ($ageCondition === 'above45') {
+                $students = $students->where('date_of_birth', '<', now()->subYears(45));
+            }
+            // for(int $i; $i < 21; $i++){
+            $data[$key][0] = $course->training_specialty->name.' - K'.$course->name;
+            $data[$key][1] = 1;
+
+            
+            $data[$key][2] = count($students);
+            $data[$key][3] = count($students->where('gender','nu'));
+            $data[$key][4] = count($students->where('type_1', '<>', null));
+            $data[$key][5] = count($students->where('type_1', '==', 18));
+            $data[$key][6] = count($students->where('type_2', '==', 20)); //20 là id hộ nghèo
+            $data[$key][7] = $students->where('gender','nu')
+                                        ->where('type_1', '<>', null)
+                                        ->whereIn('id_ethnic', [18, 19])
+                                        ->count(); //21 là id dân tộc thiểu số nữ
+            $data[$key][8] = count($students->where('id_ethnic',19)); //19 là id dân tộc khmer
+            $data[$key][9] = count($students->where('id_ethnic','==',18)); //18 là id dân tộc Hoa
+            $data[$key][10] = count($students->where('gender','nu')->where('type_1', '==', 23)); //23 là id Lao động nữ bị mất việc làm
+            $data[$key][11] = count($students->where('type_1', '==', 22)); //24 là id Người khuyết tật
+            $data[$key][12] = count($students->where('type_1', '==', 37)); //25 là id Người thuộc hộ bị thu hồi đất
+            $data[$key][13] = count($students->where('type_2', '==', 24)); //24 là id Hộ cận nghèo
+            $data[$key][14] = count($students->where('type_3', '==', 25)); //25 là id Lao động nông thôn khác
+            $data[$key][15] = $students
+                                ->where('date_of_birth', '>=', now()->subYears(30)) // Ngày sinh lớn hơn hoặc bằng 30 năm trước
+                                ->where('date_of_birth', '<=', now()->subYears(15)) // Ngày sinh nhỏ hơn hoặc bằng 15 năm trước
+                                ->count();
+            $data[$key][16] = $students
+                                ->where('date_of_birth', '>=', now()->subYears(30)) // Ngày sinh lớn hơn hoặc bằng 30 năm trước
+                                ->where('date_of_birth', '<=', now()->subYears(15)) // Ngày sinh nhỏ hơn hoặc bằng 15 năm trước
+                                ->where('type_1', '==', 21) //Dân tộc thiểu số
+                                ->count();
+            $data[$key][17] = $students
+                                ->where('date_of_birth', '>=', now()->subYears(30)) // Ngày sinh lớn hơn hoặc bằng 30 năm trước
+                                ->where('date_of_birth', '<=', now()->subYears(15)) // Ngày sinh nhỏ hơn hoặc bằng 15 năm trước
+                                ->where('gender','nu') //Nữ thanh niên
+                                ->count();
+            $data[$key][18] = $students
+                                ->where('date_of_birth', '>=', now()->subYears(30)) // Ngày sinh lớn hơn hoặc bằng 30 năm trước
+                                ->where('date_of_birth', '<=', now()->subYears(15)) // Ngày sinh nhỏ hơn hoặc bằng 15 năm trước
+                                ->where('type_1', '==', 21) //Dân tộc thiểu số
+                                ->where('gender','nu') //Nữ thanh niên dân tộc
+                                ->count();
+            $data[$key][19] = $students
+                                ->where('date_of_birth', '>=', now()->subYears(30)) // Ngày sinh lớn hơn hoặc bằng 30 năm trước
+                                ->where('date_of_birth', '<=', now()->subYears(15)) // Ngày sinh nhỏ hơn hoặc bằng 15 năm trước
+                                ->where('id_ethnic', '==', 19) //Thanh niên dân tộc khmer
+                                ->count();
+            $data[$key][20] = $students
+                                ->where('date_of_birth', '>=', now()->subYears(30)) // Ngày sinh lớn hơn hoặc bằng 30 năm trước
+                                ->where('date_of_birth', '<=', now()->subYears(15)) // Ngày sinh nhỏ hơn hoặc bằng 15 năm trước
+                                ->where('id_ethnic', '==', 18) //Thanh niên dân tộc hoa
+                                ->count();
+            $data[$key][21] = $students
+                                ->where('class', '>', 9) // Tốt nghiệp THCS
+                                ->count();
+        }
+        return $data;
+    }
+    public static function sum_array($data) {
+        // Số cột trong mảng con
+        $numColumns = count($data[0]) - 1;
+
+        // Khởi tạo mảng để lưu trữ tổng theo cột
+        $totalColumns = array_fill(1, $numColumns, 0);
+
+        // Lặp qua các mảng con và cộng tổng theo cột
+        foreach ($data as $row) {
+            for ($i = 1; $i < $numColumns; $i++) {
+                $totalColumns[$i] += $row[$i];
+            }
+        }
+        return $totalColumns;
+    }
+
+}

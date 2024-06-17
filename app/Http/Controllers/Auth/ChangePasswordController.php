@@ -1,3 +1,40 @@
 <?php
-bolt_decrypt( __FILE__ , '7Vv6yX'); return 0;
-##!!!##FxR4a3dvfXprbW8qS3p6ZlJ+fnpmTXl4fnx5dnZvfH1mS39+ckUXFH99bypLenpmUn5+emZNeXh+fHl2dm98fWZNeXh+fHl2dm98RSoXFH99bypTdnZ/d3N4a35vZlJ+fnpmXG97f299fkUXFH99bypTdnZ/d3N4a35vZl1/enp5fH5mUGtta25vfWZLf35yRRcUf31vKlN2dn93c3hrfm9mXX96enl8fmZQa21rbm99ZlJrfXJFFxQ5OVd5bm92fRcUf31vKkt6emZXeW5vdn1mV2tzeF1+fH9tfn98b2ZLbW15f3h+X31vfH1FFxR/fW8qS3p6Zld5bm92fWZXa3N4XX58f21+f3xvZkttbXl/eH5LbndzeHN9fnxrfnl8fUUXFBcUbXZrfX0qTXJreHFvWmt9fYF5fG5NeXh+fHl2dm98Km+Cfm94bn0qTXl4fnx5dnZvfCqFFxQqKioqFxQqKioqen9sdnNtKnB/eG1+c3l4KnN4bm+CMjMqhRcUKioqKioqKip8b35/fHgqgHNvgTIxa39+cjhtcmt4cW9pemt9fYF5fG4xM0UXFCoqKiqHFxQXFCoqKip6f2x2c20qcH94bX5zeXgqa3RrgjJcb3t/b31+Ki58b3t/b31+M4UXFCoqKioTfnyDKoUXFCoqKioTEy5zeHp/fipHKi58b3t/b31+N0hrdnYyM0UXFCoqKioqKioqKioqKkt/fnJERHF/a3xuMjFrbndzeDEzN0htcm9tdTIzKkdHKjsqSSouf31vfCpHKkttbXl/eH5LbndzeHN9fnxrfnl8fUREcHN4bll8UGtzdjJLf35yRERzbjIzMypEKi5/fW98KkcqS21teX94fl99b3x9RERwc3huWXxQa3N2Mkt/fnJERHNuMjMzKkUXFCoqKioTE3NwMiouc3h6f35lMXhvgWl6a319gXl8bjFnKitHKi5zeHp/fmUxbXl4cHN8d2l6a319gXl8bjFnKjOFFxQTKioqKhMTfG9+f3x4KnxvfXp5eH1vMjM3SHR9eXgyZTFvfHx5fDFHSH58f282KjF3b319a3FvMUdIMVfrxLd+KnVy68Szfyp368WlcyqAzaoqgs2rbSp4cuvEt3gqd+vEt34qdXLrxLN/KnfrxaVzKnVyzb54cSp+fM3DeHEqdXLrxaV6MWczRRcUKioqKhMThypvdn1vKnNwMipSa31yRERtcm9tdTIuc3h6f35lMXl2bml6a319gXl8bjFnNiouf31vfDdIemt9fYF5fG4zKjOFFxQqKioqExMTLn99b3w3SHBzdnYyZRcUExMTKioqKhMxemt9fYF5fG4xKkdIKlJrfXJERHdrdW8yLnN4en9+ZTF4b4Fpemt9fYF5fG4xZzMXFBMTEyoqKipnMzdIfWuAbzIzRRcUFxQqKioqExMTfG9+f3x4KnxvfXp5eH1vMjM3SHR9eXgyZTFvfHx5fDFHSHBrdn1vNioxd299fWtxbzFHSDHOmuvFn3Mqd+vEt34qdXLrxLN/Kn5yzap4ciptzb54cSsxZzNFFxQqKioqExOHKm92fW8qhRcUExMTKioqKnxvfn98eCp8b316eXh9bzIzN0h0fXl4MmUxb3x8eXwxR0h+fH9vNioxd299fWtxbzFHSDFX68S3fip1cuvEs38qbc+zKnVyzb54cSrOm83EeHErMWczRRcUExMThxcUFxQqKioqE4cqbWt+bXIqMk+CbW96fnN5eCoubzMqhRcUKioqKioqKioqKioqfG9+f3x4KnxvfXp5eH1vMjM3SHR9eXgyZTFvfHx5fDFHSH58f282KjF3b319a3FvMUdIMc6a68Wfcyp368S3fip1cuvEs38qfnLrxK9+KmzrxKtzKzFnM0UXFCoqKioqKioqhxcUKioqKocXFBcUFxQXFIcXFA==
+namespace App\Http\Controllers\Auth;
+use App\Http\Controllers\Controller; 
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Hash;
+//Models
+use App\Models\MainStructure\AccountUsers;
+use App\Models\MainStructure\AccountAdministrators;
+
+class ChangePasswordController extends Controller {
+    
+    public function index() {
+        return view('auth.change_password');
+    }
+
+    public function ajax(Request $request){
+    	try {
+    		$input = $request->all();
+            Auth::guard('admin')->check() == 1 ? $user = AccountAdministrators::findOrFail(Auth::id()) : $user = AccountUsers::findOrFail(Auth::id()) ;
+    		if( $input['new_password'] != $input['confirm_password'] ){
+	    		return response()->json(['error'=>true, 'message'=>'Mật khẩu mới và xác nhận mật khẩu mới không trùng khớp']);
+    		} else if( Hash::check($input['old_password'], $user->password) ){
+    			$user->fill([
+			    	'password' => Hash::make($input['new_password'])
+			    ])->save();
+
+    			return response()->json(['error'=>false, 'message'=>'Đổi mật khẩu thành công!']);
+    		} else {
+			    return response()->json(['error'=>true, 'message'=>'Mật khẩu cũ không đúng!']);
+			}
+
+    	} catch (Exception $e) {
+            return response()->json(['error'=>true, 'message'=>'Đổi mật khẩu thất bại!']);
+        }
+    }
+
+
+
+}

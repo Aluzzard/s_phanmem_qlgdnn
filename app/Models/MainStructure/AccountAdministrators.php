@@ -1,3 +1,21 @@
 <?php
-bolt_decrypt( __FILE__ , 'bzAQxO'); return 0;
-##!!!##Qj9CP6OWopqopZaYmlV2paWRgqSZmqGokYKWnqOIqaeqmKmqp5pwQj9CP6qomlV+oaGqop6jlqmakXmWqZaXlqiakXqhpKaqmqOpkYKkmZqhcEI/qqiaVX6hoaqinqOWqZqRg6SpnpuemJapnqSjqJGDpKmem56Wl6GacEI/qqiaVX6hoaqinqOWqZqRe6Sqo5mWqZ6ko5F2qqmdkYqomqdVlqhVdqqpnZqjqZ6YlqmacEI/Qj+YoZaoqFV2mJikqqOpdpminqOeqKmnlqmkp6hVmq2pmqOZqFV2qqmdmqOpnpiWqZqwQj9VVVVVqqiaVYOkqZ6bnpaXoZpwQj9VQj9VVVVVpaekqZqYqZqZVVmcqpanmVVyVVyWmaKeo1xwQj9VQj9VVVVVpaekqZqYqZqZVVmbnqGhlpehmlVyVZBCP1VVVVVVVVVVXKOWoppcYVVclpiYpKqjqVxhVVyllqiorKSnmVxhQj9VVVVVknBCP1VCP1VVVVWlp6SpmpipmplVWZ2emZmao1VyVZBCP1VVVVVVVVVVXKWWqKispKeZXGFVXKeaopqil5qnlKmkoJqjXGFCP1VVVVWScEI/skI/
+
+namespace App\Models\MainStructure;
+
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Notifications\Notifiable;
+use Illuminate\Foundation\Auth\User as Authenticate;
+
+class AccountAdministrators extends Authenticate{
+    use Notifiable;
+ 
+    protected $guard = 'admin';
+ 
+    protected $fillable = [
+        'name', 'account', 'password',
+    ];
+ 
+    protected $hidden = [
+        'password', 'remember_token',
+    ];
+}

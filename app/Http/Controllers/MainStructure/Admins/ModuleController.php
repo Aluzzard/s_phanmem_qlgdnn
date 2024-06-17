@@ -1,3 +1,301 @@
 <?php
-bolt_decrypt( __FILE__ , 'tHNQDM'); return 0;
-##!!!##+fb59lpNWVFfXE1PUQwtXFxINGBgXEgvW1pgXltYWFFeX0g5TVVaP2BeYU9gYV5RSC1QWVVaXyf59vn2YV9RDC1cXEg0YGBcSC9bWmBeW1hYUV5fSC9bWmBeW1hYUV4nDPn2YV9RDDVYWGFZVVpNYFFINGBgXEg+UV1hUV9gJ/n2YV9RDC1cXEg5W1BRWF9IOU1VWj9gXmFPYGFeUUg/ZV84VV9gOVtQYVhRXyf59mFfUQwtXFxIOVtQUVhfSDlNVVo/YF5hT2BhXlFIP2VfM15bYVxfOVtQYVhRXyf59mFfUQwtXFxIOVtQUVhfSDlNVVo/YF5hT2BhXlFIP2VfMmFaT2BVW1o7Ui9bWmBeW1hYUV5fJ/n2+fZPWE1fXww5W1BhWFEvW1pgXltYWFFeDFFkYFFaUF8ML1taYF5bWFhRXgxn+fb59hsWDBkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGQwwTVpUDF+vjU9UDE+vjU8MWVtQYVhRXwwZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZDBYb+fb1XGFOWFVPDFJhWk9gVVtaDEtLT1taX2BeYU9gFBUMZ/n2DAwMDAwMDAwQYFRVXxkqXE1gVAwpDA4bYVxYW01QG1lNVVpfYF5hT2BhXlEbVU9bWhtZW1BhWFEbDif59gwMDAwMDAwMVVIMFA1IMlVYUSYmUWRVX2BfFFxhTlhVT0tcTWBUFBUaEGBUVV8ZKlxNYFQVFQxn+fYMDAwMDAwMDAwMDAxIMlVYUSYmWU1XUTBVXlFPYFteZRRcYU5YVU9LXE1gVBQVGhBgVFVfGSpcTWBUGAwcIyEhGAxgXmFRFSf59gwMDAwMDAwMafn2DAwMDGn59vn29VxhTlhVTwxSYVpPYFVbWgxYVV9gS1lbUGFYURQVZ/n29fUQU15bYVxfDCkMP2VfM15bYVxfOVtQYVhRXyYmTVhYFBUn+fb19RBUYFlYDCkMEGBUVV8ZKlBNYE1ATU5YURQVJ/n29fVeUWBhXloMYlVRYxQTWU1VWl9gXmFPYGFeURpcTVNRXxpNUFlVWl8aOVtQYVhRGjlbUGFYURMYRxNTXlthXF8TDCkqDBBTXlthXF8YDBNgTU5YUUtZW1BhWFETDCkqDBBUYFlYSRUn+fb1afn29Rsb+fb1XGFOWFVPDFJhWk9gVVtaDE1PYFVbWktZW1BhWFEUPlFdYVFfYAwQXlFdYVFfYBVn+fb19RBNT2BVW1pLYGVcUQwpDBBeUV1hUV9gGSpVWlxhYBQTVVpcYWBLTU9gVVtaS2BlXFETFSf59vX1VVIMFAwQTU9gVVtaS2BlXFEMKSkME2JVUWM5W1BhWFETDBUMZ/n29fX1YF5lDGf59vX19fUQWVtQYVhRDCkMP2VfOFVfYDlbUGFYUV8mJlJVWlAUDBBeUV1hUV9gGSpVWlxhYBQTVVBLWVtQYVhRExUMFSf59vX19fVeUWBhXloMXlFfXFtaX1EUFRkqVl9bWhRHE1FeXlteEykqUk1YX1EYDBNZW1BhWFETKSoQWVtQYVhRSRUn+fb19fVpDE9NYE9UFDFkT1FcYFVbWgwQURUMZ/n29fX19V5RYGFeWgxeUV9cW1pfURQVGSpWX1taFEcTUV5eW14TKSpgXmFRGAwTWVFfX01TURMpKhM3VK+gWlMMYFTNp28MWM2mkWUMUM2nmwxYVc2nc2ENE0kVJ/n29fX1afn29fVp+fb19VFYX1EMVVIUDBBNT2BVW1pLYGVcUQwpKQwTTVBQOVtQYVhREwwVDGf59vX19WBeZWf59gwMDAwMDAwMDAwMDPUQWVtQYVhRDCkMWlFjDD9lXzhVX2A5W1BhWFFfJ/n2DAwMDAwMDAwMDAwMDAwMDBBZW1BhWFEZKlpNWVEMKQwQXlFdYVFfYBkqVVpcYWAUE1VaXGFgS1pNWVETFSf59gwMDAwMDAwMDAwMDAwMDAwQWVtQYVhRGSpfWGFTDCkMEF5RXWFRX2AZKlVaXGFgFBNVWlxhYEtfWGFTExUn+fYMDAwMDAwMDAwMDAwMDAwMEFlbUGFYURkqXE1gVEtPW1pgXltYWFFeDCkMEF5RXWFRX2AZKlVaXGFgFBNVWlxhYEtcTWBUS09bWmBeW1hYUV4TFSf59gwMDAwMDAwMDAwMDAwMDAwQWVtQYVhRGSpcTWBUS2JVUWMMKQwQXlFdYVFfYBkqVVpcYWAUE1VaXGFgS1pNWVFLTlhNUFETFSf59gwMDAwMDAwMDAwMDAwMDAwQWVtQYVhRGSpgZVxRDCkMEF5RXWFRX2AZKlVaXGFgFBNVWlxhYEtgZVxRExUn+fYMDAwMDAwMDAwMDAwMDAwMEFlbUGFYURkqW15QUV4MKQwQXlFdYVFfYBkqVVpcYWAUE1VaXGFgS1teUFFeExUn+fYMDAwMDAwMDAwMDAwMDAwMEFlbUGFYURkqVVBLU15bYVwMKQwQXlFdYVFfYBkqVVpcYWAUE1VaXGFgS1NeW2FcS1lbUGFYURMVJ/n2DAwMDAwMDAwMDAwMDAwMDFVSFBBeUV1hUV9gGSpUTV8yVVhRFBNVWlxhYEtNYk1gTV4TFRVn+fb1DAwMDAwMDAwMDAwMDAwMDBsbDBBSVVhRS1pNWVEMKQwQUlVYURkqU1FgL1hVUVpgO15VU1VaTVg6TVlRFBUn+fb19QwMDAwMDAwMDAwMDBBSVVhRDCkMEF5RXWFRX2AZKlJVWFEUE1VaXGFgS01iTWBNXhMVJ/n29fUMDAwM9fUQUlVYUUtRZGBRWl9VW1oMKQwQUlVYURkqU1FgL1hVUVpgO15VU1VaTVgxZGBRWl9VW1oUFScMGxsMOM2mkWUMsH1hr6BVDE/Np5NNDFJVWFH59vUMDAwMDAwMDAwMDAwMDAwMEFJVWFEZKllbYlEUXGFOWFVPS1xNYFQUFRoQYFRVXxkqXE1gVBgQXlFdYVFfYBkqVVpcYWAUE1VaXGFgS1pNWVFLT1taYF5bWFhRXhMVGhMaExoQUlVYUUtRZGBRWl9VW1oVJ/n29QwMDAwMDAwMDAwMDAwMDAwQWVtQYVhRGSpNYk1gTV4MKQwQYFRVXxkqXE1gVBoQXlFdYVFfYBkqVVpcYWAUE1VaXGFgS1pNWVFLT1taYF5bWFhRXhMVGhMaExoQUlVYUUtRZGBRWl9VW1on+fb19QwMDAz1afn2DAwMDAwMDAwMDAwMDAwMDBBZW1BhWFEZKk9bWmBeW1hYUV4MKQwQXlFdYVFfYBkqVVpcYWAUE1VaXGFgS1pNWVFLT1taYF5bWFhRXhMVJ/n2DAwMDAwMDAwMDAwMDAwMDBBZW1BhWFEZKlBRX09eVVxgVVtaDCkMEF5RXWFRX2AZKlVaXGFgFBNVWlxhYEtQUV9PXlVcYFVbWhMVJ/n2DAwMDAwMDAwMDAwMDAwMDBBZW1BhWFEZKk1PYFViUQwpDBBeUV1hUV9gGSpVWlxhYBQTVVpcYWBLTU9gVWJRExUMKSkMHQwrDB0MJgwcJ/n2DAwMDAwMDAwMDAwMDAwMDBBZW1BhWFEZKl9NYlEUFSf59gwMDAwMDAwMDAwMDAwMDAwQVGBZWAwpDBBgVFVfGSpQTWBNQE1OWFEUFSf59vX19fVeUWBhXloMXlFfXFtaX1EUFRkqVl9bWhRHE1FeXlteEykqUk1YX1EYDBNZUV9fTVNREykqE0BUr5ZZDFnNp4dVDGBUr4xaVAxPr6BaUw0TGAwTYE1OWFFLWVtQYVhREwwpKgwQVGBZWEkVJ/n2DAwMDAwMDAwMDAwMaQxPTWBPVAwUMWRPUVxgVVtaDBBRFQxn+fYMDAwMDAwMDAwMDAwMDAwMXlFgYV5aDF5RX1xbWl9RFBUZKlZfW1oURxNRXl5bXhMpKmBeYVEYDBNZUV9fTVNREykqE0BUr5ZZDFnNp4dVDGBUzaaRYAxOzaaNVQ0TSRUn+fYMDAwMDAwMDAwMDAxp+fb19Wn59vX1UVhfUQxVUhQMEE1PYFVbWktgZVxRDCkpDBNRUFVgOVtQYVhREwwVDGf59vX19WBeZWf59gwMDAwMDAwMDAwMDPUQWVtQYVhRDCkMP2VfOFVfYDlbUGFYUV8mJlJVWlAUDBBeUV1hUV9gGSpVWlxhYBQTVVpcYWBLVVBLWVtQYVhRExUMFSf59gwMDAwMDAwMDAwMDAwMDAwQWVtQYVhRGSpaTVlRDCkMEF5RXWFRX2AZKlVaXGFgFBNVWlxhYEtaTVlRExUn+fYMDAwMDAwMDAwMDAwMDAwMEFlbUGFYURkqX1hhUwwpDBBeUV1hUV9gGSpVWlxhYBQTVVpcYWBLX1hhUxMVJ/n2DAwMDAwMDAwMDAwMDAwMDBBZW1BhWFEZKlxNYFRLT1taYF5bWFhRXgwpDBBeUV1hUV9gGSpVWlxhYBQTVVpcYWBLXE1gVEtPW1pgXltYWFFeExUn+fYMDAwMDAwMDAwMDAwMDAwMEFlbUGFYURkqXE1gVEtiVVFjDCkMEF5RXWFRX2AZKlVaXGFgFBNVWlxhYEtaTVlRS05YTVBRExUn+fYMDAwMDAwMDAwMDAwMDAwMEFlbUGFYURkqYGVcUQwpDBBeUV1hUV9gGSpVWlxhYBQTVVpcYWBLYGVcURMVJ/n2DAwMDAwMDAwMDAwMDAwMDBBZW1BhWFEZKlteUFFeDCkMEF5RXWFRX2AZKlVaXGFgFBNVWlxhYEtbXlBRXhMVJ/n2DAwMDAwMDAwMDAwMDAwMDBBZW1BhWFEZKlVQS1NeW2FcDCkMEF5RXWFRX2AZKlVaXGFgFBNVWlxhYEtTXlthXEtZW1BhWFETFSf59gwMDAwMDAwMDAwMDAwMDAxVUhQQXlFdYVFfYBkqVE1fMlVYURQTVVpcYWBLTWJNYE1eExUVZ/n2DAwMDAwMDAwMDAwMDAwMDPVVUhQQWVtQYVhRGSpNYk1gTV4MDSkMExMVZ/n2DAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMYVpYVVpXFFxhTlhVT0tcTWBUFBUaEFlbUGFYURkqTWJNYE1eFSf59gwMDAwMDAwMDAwMDAwMDAwMDAwMafn29fUMDAwM9fUQUlVYUQwpDBBeUV1hUV9gGSpSVVhRFBNVWlxhYEtNYk1gTV4TFSf59vX1DAwMDPX1EFJVWFFLUWRgUVpfVVtaDCkMEFJVWFEZKlNRYC9YVVFaYDteVVNVWk1YMWRgUVpfVVtaFBUnDBsbDDjNppFlDLB9Ya+gVQxPzaeTTQxSVVhR+fb1DAwMDAwMDAwMDAwMDAwMDBBSVVhRGSpZW2JRFFxhTlhVT0tcTWBUFBUaEGBUVV8ZKlxNYFQYEF5RXWFRX2AZKlVaXGFgFBNVWlxhYEtaTVlRS09bWmBeW1hYUV4TFRoTGhMaEFJVWFFLUWRgUVpfVVtaFSf59vUMDAwMDAwMDAwMDAwMDAwMEFlbUGFYURkqTWJNYE1eDCkMEGBUVV8ZKlxNYFQaEF5RXWFRX2AZKlVaXGFgFBNVWlxhYEtaTVlRS09bWmBeW1hYUV4TFRoTGhMaEFJVWFFLUWRgUVpfVVtaJ/n29fUMDAwM9Wn59gwMDAwMDAwMDAwMDAwMDAwQWVtQYVhRGSpPW1pgXltYWFFeDCkMEF5RXWFRX2AZKlVaXGFgFBNVWlxhYEtaTVlRS09bWmBeW1hYUV4TFSf59gwMDAwMDAwMDAwMDAwMDAwQWVtQYVhRGSpQUV9PXlVcYFVbWgwpDBBeUV1hUV9gGSpVWlxhYBQTVVpcYWBLUFFfT15VXGBVW1oTFSf59gwMDAwMDAwMDAwMDAwMDAwQWVtQYVhRGSpNT2BVYlEMKQwQXlFdYVFfYBkqVVpcYWAUE1VaXGFgS01PYFViURMVDCkpDB0MKwwdDCYMHCf59gwMDAwMDAwMDAwMDAwMDAwQWVtQYVhRGSpfTWJRFBUn+fYMDAwMDAwMDAwMDAwMDAwMEFRgWVgMKQwQYFRVXxkqUE1gTUBNTlhRFBUn+fb19fX1XlFgYV5aDF5RX1xbWl9RFBUZKlZfW1oURxNRXl5bXhMpKlJNWF9RGAwTWVFfX01TURMpKhMvVM2ndVpUDF/Np5lNDGBUr4xaVAxPr6BaUw0TGAwTYE1OWFFLWVtQYVhREwwpKgwQVGBZWEkVJ/n2DAwMDAwMDAwMDAwMaQxPTWBPVAwUMWRPUVxgVVtaDBBRFQxn+fYMDAwMDAwMDAwMDAwMDAwMXlFgYV5aDF5RX1xbWl9RFBUZKlZfW1oURxNRXl5bXhMpKmBeYVEYDBNZUV9fTVNREykqEy9Uzad1WlQMX82nmU0MYFTNppFgDE7Npo1VDRNJFSf59gwMDAwMDAwMDAwMDGn59vX1afn29fVRWF9RDFVSFAwQTU9gVVtaS2BlXFEMKSkME1BRWDlbUGFYURMMFQxn+fb19fVgXmVn+fYMDAwMDAwMDAwMDAz1EFlbUGFYUQwpDD9lXzhVX2A5W1BhWFFfJiZSVVpQFAwQXlFdYVFfYBkqVVpcYWAUE1VaXGFgS1VQS1lbUGFYURMVDBUn+fYMDAwMDAwMDAwMDAwMDAwMEFlbUGFYURkqUFFYUWBRFBUn+fYMDAwMDAwMDAwMDAwMDAwMVVIUEFlbUGFYURkqTWJNYE1eDA0pDBMTFWf59gwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDGFaWFVaVxRcYU5YVU9LXE1gVBQVGhBZW1BhWFEZKk1iTWBNXhUn+fYMDAwMDAwMDAwMDAwMDAwMDAwMDGn59gwMDAwMDAwMDAwMDAwMDAwQVGBZWAwpDBBgVFVfGSpQTWBNQE1OWFEUFSf59vX19fVeUWBhXloMXlFfXFtaX1EUFRkqVl9bWhRHE1FeXlteEykqUk1YX1EYDBNZUV9fTVNREykqE0Rbr40MYFSvjFpUDE+voFpTDRMYDBNQTWBNYE1OWFETDCkqDBBUYFlYGAwTYGVcURMMKSoMEE1PYFVbWktgZVxRSRUn+fYMDAwMDAwMDAwMDAxpDE9NYE9UDBQxZE9RXGBVW1oMEFEVDGf59gwMDAwMDAwMDAwMDAwMDAxeUWBhXloMXlFfXFtaX1EUFRkqVl9bWhRHE1FeXlteEykqYF5hURgME1lRX19NU1ETKSoTRFuvjQxgVM2mkWAMTs2mjVUNE0kVJ/n2DAwMDAwMDAwMDAwMafn29fVpDFFYX1EMVVIMFAwQTU9gVVtaS2BlXFEMKSkME2JVUWMyYVpPYFVbWjlbUGFYURMVDGf59vX19WBeZQxn+fb19fX1EFJhWk9gVVtaXwwpDD9lXzJhWk9gVVtaO1IvW1pgXltYWFFeXyYmY1RRXlEUE1VQS1lbUGFYURMYDBBeUV1hUV9gGSpVWlxhYBQTVVBLWVtQYVhRExUVGSpTUWAUFSf59vX19fUQVGBZWDJhWk9gVVtaDCkMEGBUVV8ZKlBNYE0yYVpPYFVbWjlbUGFYURQQUmFaT2BVW1pfFSf59vX19fVeUWBhXloMXlFfXFtaX1EUFRkqVl9bWhRHE1FeXlteEykqUk1YX1EYDBNUYFlYEykqEFRgWVgyYVpPYFVbWhgME1VQS1lbUGFYURMpKhBeUV1hUV9gGSpVWlxhYBQTVVBLWVtQYVhRExUMSRUn+fb19fVpDE9NYE9UDBQxZE9RXGBVW1oMEFEVDGf59gwMDAwMDAwMDAwMDAwMDAxeUWBhXloMXlFfXFtaX1EUFRkqVl9bWhRHE1FeXlteEykqYF5hURgME1lRX19NU1ETKSoTL1TNp3VaVAxfzaeZTQxgVM2mkWAMTs2mjVUNE0kVJ/n2DAwMDAwMDAwMDAwMafn29fVpDFFYX1EMVVIMFAwQTU9gVVtaS2BlXFEMKSkME2JVUWMzXlthXF85W1BhWFETFQxn+fb19fVgXmUMZ/n29fX19RBTXlthXEtZW1BhWFFfDCkMEGBUVV8ZKlBNYE0zXlthXDlbUGFYURQVJ/n29fX19V5RYGFeWgxeUV9cW1pfURQVGSpWX1taFEcTUV5eW14TKSpSTVhfURgME1RgWVgTKSoQU15bYVxLWVtQYVhRXwxJFSf59vX19WkMT01gT1QMFDFkT1FcYFVbWgwQURUMZ/n2DAwMDAwMDAwMDAwMDAwMDF5RYGFeWgxeUV9cW1pfURQVGSpWX1taFEcTUV5eW14TKSpgXmFRGAwTWVFfX01TURMpKhMvVM2ndVpUDF/Np5lNDGBUzaaRYAxOzaaNVQ0TSRUn+fYMDAwMDAwMDAwMDAxp+fb19Wn59vn29Wn59vn29RsbDDBNWlQMX6+NT1QMT6+NTwxZW1BhWFFf+fb1XGFOWFVPDFJhWk9gVVtaDFBNYE1ATU5YURQVZ/n29fUQWVtQYVhRXwwpDD9lXzhVX2A5W1BhWFFfJiZbXlBRXi5lFBNNT2BVYlETGAwTUFFfTxMVGSpbXlBRXi5lFBNVUEtTXlthXBMVGSpTUWAUFSf59vX1EFRgWVgMKQwTEyf59vX1VVIUEFlbUGFYUV8VZ/n29fX1UlteUU1PVAwUEFlbUGFYUV8MTV8MEFdRZSkqEFlbUGFYURVn+fb19fX1EFRgWVgMGikMEyhgXioTJ/n29fX19RBUYFlYDBopDBP1KGBQKhMaFBBXUWUXHRUaEygbYFAqEyf59vX19fUQVGBZWAwaKQwT9ShgUCoTGhBZW1BhWFEZKlpNWVEaEygbYFAqEyf59vX19fUQVGBZWAwaKQwT9ShgUCoTGhBZW1BhWFEZKlBRX09eVVxgVVtaGhMoG2BQKhMn+fb19fX1VVIUDBBZW1BhWFEZKk1PYFViUQwpKQwdDBVn+fb19fX19RBUYFlYDBopDBP1KGBQDE9YTV9fKQ5gUWRgGV9hT09RX18OKihfYF5bWlMqOc2niygbX2BeW1pTKigbYFAqEyf59vX19fVpDFFYX1EMVVIMFAwQWVtQYVhRGSpNT2BVYlEMKSkMHAwVDGf59vX19fX1EFRgWVgMGikME/UoYFAMT1hNX18pDmBRZGAZUE1aU1FeDiooX2BeW1pTKkDNpptgKBtfYF5bWlMqKBtgUCoTJ/n29fX19Wn59vX19fVVUhQMEFlbUGFYURkqYGVcUQwpKQwdDBVn+fb19fX19RBUYFlYDBopDBP1KGBQKi01KBtgUCoTJ/n29fX19WkMUVhfUQxVUgwUDBBZW1BhWFEZKmBlXFEMKSkMHgwVDGf59vX19fX1EFRgWVgMGikME/UoYFAqQTUoG2BQKhMn+fb19fX1afn29fX19RBUYFlYDBopDBP1KGBQKhMaEFlbUGFYURkqT1taYF5bWFhRXhoTKBtgUCoTJ/n29fX19RBUYFlYDBopDBP1KGBQKhMaEFlbUGFYURkqTmVLU15bYVwZKlpNWVEaEygbYFAqEyf59vX19fUQVGBZWAwaKQwT9ShgUCoTJ/n29fX19RBUYFlYDBopDBP19fUoTmFgYFtaDGBlXFEpDk5hYGBbWg4MT1hNX18pDk5gWgxOYFoZT2FfYFtaGVJbYV4MTmBaGWNNXlpVWlMODFBNYE0ZYFtTU1hRKQ5ZW1BNWA4MUE1gTRlgTV5TUWApDg8tT2BVW1o5W1BhWFEODFtaT1hVT1cpDlJhWk9LTmFgYFtaL1hVT1cUTFFQVWA5W1BhWFFMGBMaEFlbUGFYURkqVVAaExUOKvn29fX19fX19fX19ShVDE9YTV9fKQ5STQxOVVMZVU9bWgxSTRlcUVpPVVgOKigbVSooX1xNWgxPWE1fXykOWVgZHg4qP82nmU0oG19cTVoq+fb19fX19fX19fUoG05hYGBbWioTJ/n29fX19RBUYFlYDBopDBP19fUoTmFgYFtaDGBlXFEpDk5hYGBbWg4MT1hNX18pDk5gWgxOYFoZT2FfYFtaGVJbYV4MTmBaGVBNWlNRXg4MUE1gTRlgW1NTWFEpDllbUE1YDgxQTWBNGWBNXlNRYCkOD1BRWFFgUTlbUE1YDgxbWk9YVU9XKQ5SYVpPS05hYGBbWi9YVU9XFExQUVg5W1BhWFFMGBMaEFlbUGFYURkqVVAaExUOKvn29fX19fX19fX19ShVDE9YTV9fKQ5STQxOVVMZVU9bWgxSTRlgVVlRXw4qKBtVKihfXE1aDE9YTV9fKQ5ZWBkeDipEr59NKBtfXE1aKvn29fX19fX19fX1KBtOYWBgW1oqEyf59vX19fUQVGBZWAwaKQwT9fX1KE5hYGBbWgxgZVxRKQ5OYWBgW1oODE9YTV9fKQ5OYFoMTmBaGU9hX2BbWhlSW2FeDE5gWhlVWlJbDgxQTWBNGWBbU1NYUSkOWVtQTVgODFBNYE0ZYE1eU1FgKQ4PT1taUlVTOVtQYVhRDgxbWk9YVU9XKQ5SYVpPS05hYGBbWi9YVU9XFExPW1pSVVM5W1BhWFFMGBMaEFlbUGFYURkqVVAaExUOKvn29fX19fX19fX19ShVDE9YTV9fKQ5STQxOVVMZVU9bWgxSTRlPW1NfDiooG1UqKF9cTVoMT1hNX18pDllYGR4OKi/NppFhDFSvmFpUKBtfXE1aKvn29fX19fX19fX1KBtOYWBgW1oqEyf59vX19fUQVGBZWAwaKQwT9SgbYFAqEyf59vX19fUQVGBZWAwaKQwTKBtgXioTJ/n29fX1afn29fVp+fb19V5RYGFeWgwQVGBZWCf59vVp+fb59hsWDBkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGQwvzaaRYQxUr5haVAxPr41PDE9UzaeVTwxasG9aUwxPzaeTTQxZW1BhWFEMGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGQwWG/n2+fb1GxswTWBNDFJhWk9gVVtaDFlbUGFYUfn29VxhTlhVTwxSYVpPYFVbWgxQTWBNMmFaT2BVW1o5W1BhWFEUEFxLUE1gTRVn+fb19RBUYFlYDCkMExMn+fb19VVSFBBcS1BNYE0VZ/n29fX1UlteUU1PVAwUEFxLUE1gTQxNXwwQUmFaT2BVW1oVZ/n29fX19RBUYFlYDBopDBMoYF4MW1pPWFVPVykOUmFaT0tOYWBgW1o5W1BNWC9bWlJVUy9YVU9XFExRUFVgMmFaT2BVW1pMGBMaEFJhWk9gVVtaGSpVUBoTFQ4qEyf59vX19fVVUgwUDBBSYVpPYFVbWhkqWVFgVFtQDCkpDB0MFWf59vX19fX1EFRgWVgMGikME/UoYFAqKF9cTVoMT1hNX18pDk5gWgxOYFoZY01eWlVaUw4qDDMxQAwoG19cTVoqKBtgUCoTJ/n29fX19WkMUVhfUQxn+fb19fX19RBUYFlYDBopDBP1KGBQKihfXE1aDE9YTV9fKQ5OYFoMTmBaGVxeVVlNXmUOKgw8Oz9ADCgbX1xNWiooG2BQKhMn+fb19fX1afn2+fb19fX1EFRgWVgMGikME/UoYFAqExoQUmFaT2BVW1oZKlJhWk9gVVtaGhMoG2BQKhMn+fb19fX1EFRgWVgMGikME/UoYFAqExoQUmFaT2BVW1oZKlBRX09eVVxgVVtaGhMoG2BQKhMn+fb19fX1EFRgWVgMGikME/UoYFAqEyf59vX19fUQVGBZWAwaKQwT9fX1KE5hYGBbWgxgZVxRKQ5OYWBgW1oODE9YTV9fKQ5OYFoMTmBaGU9hX2BbWhlSW2FeDE5gWhlQTVpTUV4ODFBNYE0ZYFtTU1hRKQ5ZW1BNWA4MUE1gTRlgTV5TUWApDg9QUVhRYFE5W1BNWA4MW1pPWFVPVykOUmFaT0tOYWBgW1o5W1BNWC9bWlJVUy9YVU9XFExQUVgyYVpPYFVbWkwYExoQUmFaT2BVW1oZKlVQGhMVDir59vX19fX19fX19fUoVQxPWE1fXykOUk0MTlVTGVVPW1oMUk0ZYFVZUV8OKigbVSooX1xNWgxPWE1fXykOWVgZHg4qRK+fTSgbX1xNWir59vX19fX19fX19SgbTmFgYFtaKhMn+fb19fX1EFRgWVgMGikME/UoG2BQKhMn+fb19fX1EFRgWVgMGikMEygbYF4qEyf59vX19Wn59vX1afn29fVeUWBhXloMEFRgWVgn+fb1afn2+fb1XGFOWFVPDFJhWk9gVVtaDE1PYFVbWktSYVpPYFVbWhQ+UV1hUV9gDBBeUV1hUV9gFWf59vX1EE1PYFVbWktgZVxRDCkMEF5RXWFRX2AZKlVaXGFgFBNVWlxhYEtNT2BVW1pLYGVcURMVJ/n2+fb19VVSFBBNT2BVW1pLYGVcUQwpKQwTYlVRYzJhWk9gVVtaExVn+fb19fVgXmUMZ/n29fX19RBSYVpPYFVbWgwpDD9lXzJhWk9gVVtaO1IvW1pgXltYWFFeXyYmUlVaUBQMEF5RXWFRX2AZKlVaXGFgFBNVUEtZW1BhWFETFQwVJ/n29fX19V5RYGFeWgxeUV9cW1pfURQVGSpWX1taFEcTUV5eW14TKSpSTVhfURgME1lRX19NU1ETKSoTOM2mkWUMUM2nmwxYVc2nc2EMT1TNp5VPDFqwb1pTDGBUr4xaVAxPr6BaUw0TGAwTUmFaT2BVW1oTDCkqDBBSYVpPYFVbWkkVJwz59vX19WkMT01gT1QMFDFkT1FcYFVbWgwQURUMZ/n29fX19V5RYGFeWgxeUV9cW1pfURQVGSpWX1taFEcTUV5eW14TKSpgXmFRGAwTWVFfX01TURMpKhM4zaaRZQxQzaebDFhVzadzYQxPVM2nlU8MWrBvWlMMYFTNppFgDE7Npo1VDRNJFScM+fb19fVp+fb19fX59vX1aQxRWF9RDFVSDBQQTU9gVVtaS2BlXFEMKSkME01QUDJhWk9gVVtaExVn+fb19fVgXmUMZ/n29fX19RBSYVpPYFVbWgwpDFpRYww/ZV8yYVpPYFVbWjtSL1taYF5bWFhRXl8n+fb19fX1EFJhWk9gVVtaGSpSYVpPYFVbWgwpDBBeUV1hUV9gGSpVWlxhYBQTVVpcYWBLWk1ZUUtSYVpPYFVbWhMVJ/n29fX19RBSYVpPYFVbWhkqVVBLWVtQYVhRDCkMEF5RXWFRX2AZKlVaXGFgFBNVWlxhYEtVUEtZW1BhWFETFSf59vX19fUQUmFaT2BVW1oZKllRYFRbUAwpDBBeUV1hUV9gGSpVWlxhYBQTVVpcYWBLWVFgVFtQS1JhWk9gVVtaExUn+fb19fX1EFJhWk9gVVtaGSpQUV9PXlVcYFVbWgwpDBBeUV1hUV9gGSpVWlxhYBQTVVpcYWBLUFFfT15VXGBVW1pLUmFaT2BVW1oTFSf59vX19fUQUmFaT2BVW1oZKl9NYlEUFSf59vn29fX19RBSYVpPYFVbWl8MKQw/ZV8yYVpPYFVbWjtSL1taYF5bWFhRXl8mJmNUUV5RFBNVUEtZW1BhWFETGAwQXlFdYVFfYBkqVVpcYWAUE1VaXGFgS1VQS1lbUGFYURMVDBUZKlNRYBQVJ/n29fX19RBUYFlYDCkMEGBUVV8ZKlBNYE0yYVpPYFVbWjlbUGFYURQQUmFaT2BVW1pfFSf59vX19fVeUWBhXloMXlFfXFtaX1EUFRkqVl9bWhRHE1FeXlteEykqUk1YX1EYDBNZUV9fTVNREykqE0BUr5ZZDFnNp4dVDE9UzaeVTwxasG9aUwxgVK+MWlQMT6+gWlMNExgME1BNYE1gTU5YURMMKSoMEFRgWVhJFScM+fb19fVpDE9NYE9UDBQxZE9RXGBVW1oMEFEVDGf59vX19fVeUWBhXloMXlFfXFtaX1EUFRkqVl9bWhRHE1FeXlteEykqYF5hURgME1lRX19NU1ETKSoTQFSvllkMWc2nh1UMT1TNp5VPDFqwb1pTDGBUzaaRYAxOzaaNVQ0TSRUnDPn29fX1afn29fVpDFFYX1EMVVIMFBBNT2BVW1pLYGVcUQwpKQwTUVBVYDJhWk9gVVtaExUMZ/n29fX1EFJhWk9gVVtaDCkMP2VfMmFaT2BVW1o7Ui9bWmBeW1hYUV5fJiZSVVpQFAwQXlFdYVFfYBkqVVpcYWAUE1VaXGFgS1VQS1JhWk9gVVtaExUMFSf59vX19RBSYVpPYFVbWhkqUmFaT2BVW1oMKQwQXlFdYVFfYBkqVVpcYWAUE1VaXGFgS1pNWVFLUmFaT2BVW1oTFSf59vX19RBSYVpPYFVbWhkqVVBLWVtQYVhRDCkMEF5RXWFRX2AZKlVaXGFgFBNVWlxhYEtVUEtZW1BhWFETFSf59vX19RBSYVpPYFVbWhkqWVFgVFtQDCkMEF5RXWFRX2AZKlVaXGFgFBNVWlxhYEtZUWBUW1BLUmFaT2BVW1oTFSf59vX19RBSYVpPYFVbWhkqUFFfT15VXGBVW1oMKQwQXlFdYVFfYBkqVVpcYWAUE1VaXGFgS1BRX09eVVxgVVtaS1JhWk9gVVtaExUn+fb19fUQUmFaT2BVW1oZKmFcUE1gURQVJ/n2+fb19fUQUmFaT2BVW1pfDCkMP2VfMmFaT2BVW1o7Ui9bWmBeW1hYUV5fJiZjVFFeURQTVVBLWVtQYVhRExgMEF5RXWFRX2AZKlVaXGFgFBNVWlxhYEtVUEtZW1BhWFETFQwVGSpTUWAUFSf59vX19RBUYFlYDCkMEGBUVV8ZKlBNYE0yYVpPYFVbWjlbUGFYURQQUmFaT2BVW1pfFSf59vX19V5RYGFeWgxeUV9cW1pfURQVGSpWX1taFEcTUV5eW14TKSpSTVhfURgME1lRX19NU1ETKSoTL82mmVwMWlTNpplgDGBUr4xaVAxPr6BaUw0TGAwTUE1gTWBNTlhREwwpKgwQVGBZWEkVJwz59vX1aQxRWF9RDFVSDBQQTU9gVVtaS2BlXFEMKSkME1BRWDJhWk9gVVtaExUMZ/n29fX1EFJhWk9gVVtaDCkMP2VfMmFaT2BVW1o7Ui9bWmBeW1hYUV5fJiZSVVpQFAwQXlFdYVFfYBkqVVpcYWAUE1VaXGFgS1VQS1lbUGFYURMVDBUn+fb19fUQUmFaT2BVW1oZKlBRWFFgURQVJ/n2+fb19fUQUmFaT2BVW1pfDCkMP2VfMmFaT2BVW1o7Ui9bWmBeW1hYUV5fJiZjVFFeURQTVVBLWVtQYVhRExgMEFJhWk9gVVtaGSpVUEtZW1BhWFEMFRkqU1FgFBUn+fb19fUQVGBZWAwpDBBgVFVfGSpQTWBNMmFaT2BVW1o5W1BhWFEUEFJhWk9gVVtaXxUn+fb19fVeUWBhXloMXlFfXFtaX1EUFRkqVl9bWhRHE1FeXlteEykqUk1YX1EYDBNZUV9fTVNREykqE0Svn00MUM2nmwxYVc2nc2EMYFSvjFpUDE+voFpTDRMYDBNQTWBNYE1OWFETDCkqDBBUYFlYGAwTYGVcURMMKSoMEE1PYFVbWktgZVxRSRUnDPn29fVp9fn29Wn59hsbMVpQDE/NppFhDFSvmFpUDE+vjU8MT1TNp5VPDFqwb1pT+fb59hsWDBkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGQw6VK+fWQxPr41PDFlbUGFYUV8MGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGQwWG/n29RsbME1gTQxSYVpPYFVbWgxZW1BhWFH59vVcYU5YVU8MUmFaT2BVW1oMUE1gTTNeW2FcOVtQYVhRFBVn+fb19RBUYFlYDCkMExMn+fb19RBTXlthXDlbUGFYUV8MKQw/ZV8zXlthXF85W1BhWFFfJiZbXlBRXi5lFBNbXlBRXhMVGSpTUWAUFSf59vX1VVIUEFNeW2FcOVtQYVhRXxVn+fb19fVSW15RTU9UDBQQU15bYVw5W1BhWFFfDE1fDBBTXlthXDlbUGFYURVn+fb19fX1EFRgWVgMGikMEyhgXgxbWk9YVU9XKQ5SYVpPS05hYGBbWjlbUE1YM15bYVxfOVtQYVhRL1hVT1cUTFFQVWAzXlthXDlbUGFYUV9MGBMaEFNeW2FcOVtQYVhRGSpVUBoTFQ4qEyf59vX19fUQVGBZWAwaKQwT9ShgUCoTGhBTXlthXDlbUGFYURkqWk1ZURoTKBtgUCoTJ/n29fX19RBUYFlYDBopDBP1KGBQKhMaEFNeW2FcOVtQYVhRGSpbXlBRXhoTKBtgUCoTJ/n29fX19RBUYFlYDBopDBP1KGBQKhMn+fb19fX1EFRgWVgMGikME/X19ShOYWBgW1oMYGVcUSkOTmFgYFtaDgxPWE1fXykOTmBaDE5gWhlPYV9gW1oZUlthXgxOYFoZUE1aU1FeDgxQTWBNGWBbU1NYUSkOWVtQTVgODFBNYE0ZYE1eU1FgKQ4PUFFYUWBROVtQTVgODFtaT1hVT1cpDlJhWk9LTmFgYFtaOVtQTVgzXlthXF85W1BhWFEvWFVPVxRMUFFYM15bYVw5W1BhWFFfTBgTGhBTXlthXDlbUGFYURkqVVAaExUOKvn29fX19fX19fX19ShVDE9YTV9fKQ5STQxOVVMZVU9bWgxSTRlgVVlRXw4qKBtVKihfXE1aDE9YTV9fKQ5ZWBkeDipEr59NKBtfXE1aKvn29fX19fX19fX1KBtOYWBgW1oqEyf59vX19fUQVGBZWAwaKQwT9SgbYFAqEyf59vX19fUQVGBZWAwaKQwTKBtgXioTJ/n29fX1afn29fVp+fb19V5RYGFeWgwQVGBZWCf59vVp+fb59vVcYU5YVU8MUmFaT2BVW1oMTU9gVVtaS1NeW2FcX0tZW1BhWFFfFD5RXWFRX2AMEF5RXWFRX2AVZ/n29fUQTU9gVVtaS2BlXFEMKQwQXlFdYVFfYBkqVVpcYWAUE1VaXGFgS01PYFVbWktgZVxRExUn+fb59vX1VVIUEE1PYFVbWktgZVxRDCkpDBNiVVFjM15bYVw5W1BhWFFfExVn+fb19fVgXmUMZ/n29fX19RBTXlthXEtZW1BhWFFfDCkMP2VfM15bYVxfOVtQYVhRXyYmUlVaUBQMEF5RXWFRX2AZKlVaXGFgFBNVUEtTXlthXEtZW1BhWFETFQwVJ/n29fX19V5RYGFeWgxeUV9cW1pfURQVGSpWX1taFEcTUV5eW14TKSpSTVhfURgME1lRX19NU1ETKSoTOM2mkWUMUM2nmwxYVc2nc2EMT1TNp5VPDFqwb1pTDGBUr4xaVAxPr6BaUw0TGAwTU15bYVxLWVtQYVhRXxMMKSoMEFNeW2FcS1lbUGFYUV9JFScM+fb19fVpDE9NYE9UDBQxZE9RXGBVW1oMEFEVDGf59vX19fVeUWBhXloMXlFfXFtaX1EUFRkqVl9bWhRHE1FeXlteEykqYF5hURgME1lRX19NU1ETKSoTOM2mkWUMUM2nmwxYVc2nc2EMT1TNp5VPDFqwb1pTDGBUzaaRYAxOzaaNVQ0TSRUnDPn29fX1afn29fX1+fb19WkMUVhfUQxVUgwUEE1PYFVbWktgZVxRDCkpDBNNUFAzXlthXDlbUGFYUV8TFWf59vX19WBeZQxn+fb19fX1EFNeW2FcS1lbUGFYUV8MKQxaUWMMP2VfM15bYVxfOVtQYVhRXyf59vX19fUQU15bYVxLWVtQYVhRXxkqWk1ZUQwpDBBeUV1hUV9gGSpVWlxhYBQTVVpcYWBLWk1ZUUtTXlthXEtZW1BhWFFfExUn+fb19fX1EFNeW2FcS1lbUGFYUV8ZKlteUFFeDCkMEF5RXWFRX2AZKlVaXGFgFBNVWlxhYEtbXlBRXktTXlthXEtZW1BhWFFfExUMKSkMExMMKwwTHBMMJgwQXlFdYVFfYBkqVVpcYWAUE1VaXGFgS1teUFFeS1NeW2FcS1lbUGFYUV8TFSf59vX19fUQU15bYVxLWVtQYVhRXxkqX01iURQVJ/n2+fb19fX1EFRgWVhLU15bYVxLWVtQYVhRXwwpDBBgVFVfGSpQTWBNM15bYVw5W1BhWFEUFSf59vX19fVeUWBhXloMXlFfXFtaX1EUFRkqVl9bWhRHE1FeXlteEykqUk1YX1EYDBNZUV9fTVNREykqE0BUr5ZZDFnNp4dVDFpUr59ZDFlbUGFYUQxgVK+MWlQMT6+gWlMNExgME1RgWVhLU15bYVxLWVtQYVhRXxMMKSoMEFRgWVhLU15bYVxLWVtQYVhRX0kVJwz59vX19WkMT01gT1QMFDFkT1FcYFVbWgwQURUMZ/n29fX19V5RYGFeWgxeUV9cW1pfURQVGSpWX1taFEcTUV5eW14TKSpgXmFRGAwTWVFfX01TURMpKhNAVK+WWQxZzaeHVQxaVK+fWQxZW1BhWFEMYFTNppFgDE7Npo1VDRNJFScM+fb19fVp+fb19WkMUVhfUQxVUgwUEE1PYFVbWktgZVxRDCkpDBNRUFVgM15bYVw5W1BhWFFfExUMZ/n29fX1EFNeW2FcS1lbUGFYUV8MKQw/ZV8zXlthXF85W1BhWFFfJiZSVVpQFAwQXlFdYVFfYBkqVVpcYWAUE1VaXGFgS1VQS1NeW2FcS1lbUGFYUV8TFQwVJ/n29fX1EFNeW2FcS1lbUGFYUV8ZKlpNWVEMKQwQXlFdYVFfYBkqVVpcYWAUE1VaXGFgS1pNWVFLU15bYVxLWVtQYVhRXxMVJ/n29fX1EFNeW2FcS1lbUGFYUV8ZKlteUFFeDCkMEF5RXWFRX2AZKlVaXGFgFBNVWlxhYEtbXlBRXktTXlthXEtZW1BhWFFfExUMKSkMExMMKwwTHBMMJgwQXlFdYVFfYBkqVVpcYWAUE1VaXGFgS1teUFFeS1NeW2FcS1lbUGFYUV8TFSf59vX19RBTXlthXEtZW1BhWFFfGSphXFBNYFEUFSf59vn29fX1EFRgWVhLU15bYVxLWVtQYVhRXwwpDBBgVFVfGSpQTWBNM15bYVw5W1BhWFEUFSf59vX19V5RYGFeWgxeUV9cW1pfURQVGSpWX1taFEcTUV5eW14TKSpSTVhfURgME1lRX19NU1ETKSoTL82mmVwMWlTNpplgDGBUr4xaVAxPr6BaUw0TGAwTVGBZWEtTXlthXEtZW1BhWFFfEwwpKgwQVGBZWEtTXlthXEtZW1BhWFFfSRUnDPn29fVpDFFYX1EMVVIMFBBNT2BVW1pLYGVcUQwpKQwTUFFYM15bYVw5W1BhWFFfExUMZ/n29fX1EFNeW2FcS1lbUGFYUV8MKQw/ZV8zXlthXF85W1BhWFFfJiZSVVpQFAwQXlFdYVFfYBkqVVpcYWAUE1VaXGFgS1VQS1lbUGFYURMVDBUn+fb19fUQU15bYVxLWVtQYVhRXxkqUFFYUWBRFBUn+fb59vX19RBUYFlYS1NeW2FcS1lbUGFYUV8MKQwQYFRVXxkqUE1gTTNeW2FcOVtQYVhRFBUn+fb19fVeUWBhXloMXlFfXFtaX1EUFRkqVl9bWhRHE1FeXlteEykqUk1YX1EYDBNZUV9fTVNREykqE0Svn00MUM2nmwxYVc2nc2EMYFSvjFpUDE+voFpTDRMYDBNQTWBNYE1OWFETDCkqDBBUYFlYS1NeW2FcS1lbUGFYUV8YDBNgZVxREwwpKgwQTU9gVVtaS2BlXFFJFScM+fb19Wn1+fb1afn2+fYbGzFaUAxaVK+fWQxPr41PDFlbUGFYUV/59vn2afn2
+
+namespace App\Http\Controllers\MainStructure\Admins;
+
+use App\Http\Controllers\Controller; 
+use Illuminate\Http\Request;
+use App\Models\MainStructure\SysListModules;
+use App\Models\MainStructure\SysGroupsModules;
+use App\Models\MainStructure\SysFunctionOfControllers;
+
+class ModuleController extends Controller {
+
+/* ------------------------------------ Danh sách các modules ------------------------------------- */
+	public function __construct() {
+        $this->path = "/upload/mainstructure/icon/module/";
+        if (!\File::exists(public_path().$this->path)) {
+            \File::makeDirectory(public_path().$this->path, 0755, true);
+        }
+    }
+
+	public function list_module(){
+		$groups = SysGroupsModules::all();
+		$html = $this->dataTable();
+		return view('mainstructure.pages.admins.Module.Module',['groups' => $groups, 'table_module' => $html]);
+	}
+	//
+	public function action_module(Request $request){
+		$action_type = $request->input('input_action_type');
+		if ( $action_type == 'viewModule' ) {
+			try {
+				$module = SysListModules::find( $request->input('id_module') );
+				return response()->json(['error'=>false, 'module'=>$module]);
+			} catch(Exception $e) {
+				return response()->json(['error'=>true, 'message'=>'Không thể lấy dữ liệu!']);
+			}
+		}
+		else if( $action_type == 'addModule' ) {
+			try{
+            	$module = new SysListModules;
+                $module->name = $request->input('input_name');
+                $module->slug = $request->input('input_slug');
+                $module->path_controller = $request->input('input_path_controller');
+                $module->path_view = $request->input('input_name_blade');
+                $module->type = $request->input('input_type');
+                $module->order = $request->input('input_order');
+                $module->id_group = $request->input('input_group_module');
+                if($request->hasFile('input_avatar')){
+	                // $file_name = $file->getClientOriginalName();
+		            $file = $request->file('input_avatar');
+		    		$file_extension = $file->getClientOriginalExtension(); // Lấy đuôi của file
+	                $file->move(public_path().$this->path,$request->input('input_name_controller').'.'.$file_extension);
+	                $module->avatar = $this->path.$request->input('input_name_controller').'.'.$file_extension;
+		    	}
+                $module->controller = $request->input('input_name_controller');
+                $module->description = $request->input('input_description');
+                $module->active = $request->input('input_active') == 1 ? 1 : 0;
+                $module->save();
+                $html = $this->dataTable();
+				return response()->json(['error'=>false, 'message'=>'Thêm mới thành công!', 'table_module' => $html]);
+            } catch (Exception $e) {
+                return response()->json(['error'=>true, 'message'=>'Thêm mới thất bại!']);
+            }
+		}
+		else if( $action_type == 'editModule' ) {
+			try{
+            	$module = SysListModules::find( $request->input('input_id_module') );
+                $module->name = $request->input('input_name');
+                $module->slug = $request->input('input_slug');
+                $module->path_controller = $request->input('input_path_controller');
+                $module->path_view = $request->input('input_name_blade');
+                $module->type = $request->input('input_type');
+                $module->order = $request->input('input_order');
+                $module->id_group = $request->input('input_group_module');
+                if($request->hasFile('input_avatar')){
+                	if($module->avatar != ''){
+                        unlink(public_path().$module->avatar);
+                    }
+		    		$file = $request->file('input_avatar');
+		    		$file_extension = $file->getClientOriginalExtension(); // Lấy đuôi của file
+	                $file->move(public_path().$this->path,$request->input('input_name_controller').'.'.$file_extension);
+	                $module->avatar = $this->path.$request->input('input_name_controller').'.'.$file_extension;
+		    	}
+                $module->controller = $request->input('input_name_controller');
+                $module->description = $request->input('input_description');
+                $module->active = $request->input('input_active') == 1 ? 1 : 0;
+                $module->save();
+                $html = $this->dataTable();
+				return response()->json(['error'=>false, 'message'=>'Chỉnh sửa thành công!', 'table_module' => $html]);
+            } catch (Exception $e) {
+                return response()->json(['error'=>true, 'message'=>'Chỉnh sửa thất bại!']);
+            }
+		}
+		else if( $action_type == 'delModule' ) {
+			try{
+            	$module = SysListModules::find( $request->input('input_id_module') );
+                $module->delete();
+                if($module->avatar != ''){
+                        unlink(public_path().$module->avatar);
+                    }
+                $html = $this->dataTable();
+				return response()->json(['error'=>false, 'message'=>'Xoá thành công!', 'datatable' => $html, 'type' => $action_type]);
+            } catch (Exception $e) {
+                return response()->json(['error'=>true, 'message'=>'Xoá thất bại!']);
+            }
+		} else if ( $action_type == 'viewFunctionModule') {
+			try {
+				$functions = SysFunctionOfControllers::where('id_module', $request->input('id_module'))->get();
+				$htmlFunction = $this->dataFunctionModule($functions);
+				return response()->json(['error'=>false, 'html'=>$htmlFunction, 'id_module'=>$request->input('id_module') ]);
+			} catch (Exception $e) {
+                return response()->json(['error'=>true, 'message'=>'Chỉnh sửa thất bại!']);
+            }
+		} else if ( $action_type == 'viewGroupsModule') {
+			try {
+				$group_modules = $this->dataGroupModule();
+				return response()->json(['error'=>false, 'html'=>$group_modules ]);
+			} catch (Exception $e) {
+                return response()->json(['error'=>true, 'message'=>'Chỉnh sửa thất bại!']);
+            }
+		}
+
+	}
+
+	// Danh sách các modules
+	public function dataTable(){
+		$modules = SysListModules::orderBy('active', 'desc')->orderBy('id_group')->get();
+		$html = '';
+		if($modules){
+			foreach ($modules as $key=>$module){
+				$html .= '<tr>';
+				$html .= '	<td>'.($key+1).'</td>';
+				$html .= '	<td>'.$module->name.'</td>';
+				$html .= '	<td>'.$module->description.'</td>';
+				if( $module->active == 1 ){
+					$html .= '	<td class="text-success"><strong>Mở</strong></td>';
+				} else if ( $module->active == 0 ) {
+					$html .= '	<td class="text-danger"><strong>Tắt</strong></td>';
+				}
+				if( $module->type == 1 ){
+					$html .= '	<td>AI</td>';
+				} else if ( $module->type == 2 ) {
+					$html .= '	<td>UI</td>';
+				}
+				$html .= '	<td>'.$module->controller.'</td>';
+				$html .= '	<td>'.$module->by_group->name.'</td>';
+				$html .= '	<td>';
+				$html .= '			<button type="button" class="btn btn-custon-four btn-warning" data-toggle="modal" data-target="#ActionModule" onclick="func_buttonClick(`editModule`,'.$module->id.')">
+										<i class="fa big-icon fa-pencil"></i><span class="ml-2">Sửa</span>
+									</button>';
+				$html .= '			<button type="button" class="btn btn-custon-four btn-danger" data-toggle="modal" data-target="#deleteModal" onclick="func_buttonClick(`delModule`,'.$module->id.')">
+										<i class="fa big-icon fa-times"></i><span class="ml-2">Xóa</span>
+									</button>';
+				$html .= '			<button type="button" class="btn btn-custon-four btn-info" data-toggle="modal" data-target="#configModule" onclick="func_buttonClick(`configModule`,'.$module->id.')">
+										<i class="fa big-icon fa-cogs"></i><span class="ml-2">Cấu hình</span>
+									</button>';
+				$html .= '	</td>';
+				$html .= '</tr>';
+			}
+		}
+		return $html;
+	}
+
+/* ------------------------------------ Cấu hình các chức năng của module ------------------------------------- */
+
+	//Data function module
+	public function dataFunctionModule($p_data){
+		$html = '';
+		if($p_data){
+			foreach ($p_data as $function){
+				$html .= '<tr onclick="func_buttonModalConfigClick(`editFunction`,'.$function->id.')">';
+				if ( $function->method == 1 ){
+					$html .= '	<td><span class="btn btn-warning"> GET </span></td>';
+				} else {
+					$html .= '	<td><span class="btn btn-primary"> POST </span></td>';
+				}
+
+				$html .= '	<td>'.$function->function.'</td>';
+				$html .= '	<td>'.$function->description.'</td>';
+				$html .= '	<td>';
+				$html .= '			<button type="button" class="btn btn-custon-four btn-danger" data-toggle="modal" data-target="#deleteModal" onclick="func_buttonModalConfigClick(`delFunction`,'.$function->id.')">
+										<i class="fa big-icon fa-times"></i><span class="ml-2">Xóa</span>
+									</button>';
+				$html .= '	</td>';
+				$html .= '</tr>';
+			}
+		}
+		return $html;
+	}
+
+	public function action_function(Request $request){
+		$action_type = $request->input('input_action_type');
+
+		if($action_type == 'viewFunction'){
+			try {
+				$function = SysFunctionOfControllers::find( $request->input('id_module') );
+				return response()->json(['error'=>false, 'message'=>'Lấy dữ liệu chức năng thành công!', 'function' => $function]); 
+			} catch (Exception $e) {
+				return response()->json(['error'=>true, 'message'=>'Lấy dữ liệu chức năng thất bại!']); 
+			}
+			
+		} else if ($action_type == 'addFunction'){
+			try {
+				$function = new SysFunctionOfControllers;
+				$function->function = $request->input('input_name_function');
+				$function->id_module = $request->input('input_id_module');
+				$function->method = $request->input('input_method_function');
+				$function->description = $request->input('input_description_function');
+				$function->save();
+
+				$functions = SysFunctionOfControllers::where('id_module', $request->input('input_id_module') )->get();
+				$html = $this->dataFunctionModule($functions);
+				return response()->json(['error'=>false, 'message'=>'Thêm mới chức năng thành công!', 'datatable' => $html]); 
+			} catch (Exception $e) {
+				return response()->json(['error'=>true, 'message'=>'Thêm mới chức năng thất bại!']); 
+			}
+		} else if ($action_type == 'editFunction') {
+			$function = SysFunctionOfControllers::find( $request->input('input_id_function') );
+			$function->function = $request->input('input_name_function');
+			$function->id_module = $request->input('input_id_module');
+			$function->method = $request->input('input_method_function');
+			$function->description = $request->input('input_description_function');
+			$function->update();
+
+			$functions = SysFunctionOfControllers::where('id_module', $request->input('input_id_module') )->get();
+			$html = $this->dataFunctionModule($functions);
+			return response()->json(['error'=>false, 'message'=>'Cập nhật thành công!', 'datatable' => $html]); 
+		} else if ($action_type == 'delFunction') {
+			$function = SysFunctionOfControllers::find( $request->input('input_id_module') );
+			$function->delete();
+
+			$functions = SysFunctionOfControllers::where('id_module', $function->id_module )->get();
+			$html = $this->dataFunctionModule($functions);
+			return response()->json(['error'=>false, 'message'=>'Xóa dữ liệu thành công!', 'datatable' => $html, 'type' => $action_type]); 
+		}	
+	}
+//End cấu hình các chức năng
+
+/* ------------------------------------ Nhóm các modules ------------------------------------- */
+	//Data function module
+	public function dataGroupModule(){
+		$html = '';
+		$groupModules = SysGroupsModules::orderBy('order')->get();
+		if($groupModules){
+			foreach ($groupModules as $groupModule){
+				$html .= '<tr onclick="func_buttonModalGroupsModuleClick(`editGroupModules`,'.$groupModule->id.')">';
+				$html .= '	<td>'.$groupModule->name.'</td>';
+				$html .= '	<td>'.$groupModule->order.'</td>';
+				$html .= '	<td>';
+				$html .= '			<button type="button" class="btn btn-custon-four btn-danger" data-toggle="modal" data-target="#deleteModal" onclick="func_buttonModalGroupsModuleClick(`delGroupModules`,'.$groupModule->id.')">
+										<i class="fa big-icon fa-times"></i><span class="ml-2">Xóa</span>
+									</button>';
+				$html .= '	</td>';
+				$html .= '</tr>';
+			}
+		}
+		return $html;
+	}
+
+	public function action_groups_modules(Request $request){
+		$action_type = $request->input('input_action_type');
+
+		if($action_type == 'viewGroupModules'){
+			try {
+				$group_modules = SysGroupsModules::find( $request->input('id_group_module') );
+				return response()->json(['error'=>false, 'message'=>'Lấy dữ liệu chức năng thành công!', 'group_modules' => $group_modules]); 
+			} catch (Exception $e) {
+				return response()->json(['error'=>true, 'message'=>'Lấy dữ liệu chức năng thất bại!']); 
+			}
+			
+		} else if ($action_type == 'addGroupModules'){
+			try {
+				$group_modules = new SysGroupsModules;
+				$group_modules->name = $request->input('input_name_group_modules');
+				$group_modules->order = $request->input('input_order_group_modules') == '' ? '0' : $request->input('input_order_group_modules');
+				$group_modules->save();
+
+				$html_group_modules = $this->dataGroupModule();
+				return response()->json(['error'=>false, 'message'=>'Thêm mới nhóm module thành công!', 'html_group_modules' => $html_group_modules]); 
+			} catch (Exception $e) {
+				return response()->json(['error'=>true, 'message'=>'Thêm mới nhóm module thất bại!']); 
+			}
+		} else if ($action_type == 'editGroupModules') {
+			$group_modules = SysGroupsModules::find( $request->input('input_id_group_modules') );
+			$group_modules->name = $request->input('input_name_group_modules');
+			$group_modules->order = $request->input('input_order_group_modules') == '' ? '0' : $request->input('input_order_group_modules');
+			$group_modules->update();
+
+			$html_group_modules = $this->dataGroupModule();
+			return response()->json(['error'=>false, 'message'=>'Cập nhật thành công!', 'html_group_modules' => $html_group_modules]); 
+		} else if ($action_type == 'delGroupModules') {
+			$group_modules = SysGroupsModules::find( $request->input('input_id_module') );
+			$group_modules->delete();
+
+			$html_group_modules = $this->dataGroupModule();
+			return response()->json(['error'=>false, 'message'=>'Xóa dữ liệu thành công!', 'datatable' => $html_group_modules, 'type' => $action_type]); 
+		}	
+	}
+
+//End nhóm các modules
+
+}

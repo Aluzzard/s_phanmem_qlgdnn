@@ -1,3 +1,161 @@
 <?php
-bolt_decrypt( __FILE__ , 'heT5TN'); return 0;
-##!!!##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a10YcwUCGBgYGBgYGBgYGBgYWVpnamwgHywoLB8hMwUCGBgYGBgYGBh1BQIYGBgYdQUCGBgYGAUCGBgYGGhtWmRhWxhebWZbbGFnZhhcWWxZTFlaZF0gSl1pbV1rbBgcal1pbV1rbCFzBQIYGBgYGBgYGBxbbWpqXWZsV2FcV2thbF0YNRg5bWxgMjJfbVlqXCAfbWtdah8hJTZta11qICElNmFcV2thbF0zBQIYGBgYGBgYGBxhXFdsallhZmFmX1draF1bYVlkbHEYNRgcal1pbV1rbCU2YWZobWwgH2FcV2xqWWFmYWZfV2toXVthWWRscR8hMwUCGBgYGBgYGBgcYWxdZWsYNRhFZ1xtZF1McWhdR147Z21qa11rMjJvYF1qXUFcS2FsXSAcW21qal1mbFdhXFdrYWxdIQUCGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYJTZvYF1qXSBebWZbbGFnZiAcaW1danEhGG1rXRggGBxhXFdsallhZmFmX1draF1bYVlkbHEYIRhzBQIYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYYV4gHGFcV2xqWWFmYWZfV2toXVthWWRscRk1KCEYHGltXWpxJTZvYF1qXUFcTGpZYWZhZl9LaF1bYVlkbHEgHGFcV2xqWWFmYWZfV2toXVthWWRscSEzBQIYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBh1IQUCGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYJTZnalxdajpxIB9sYWRkV2xgXVdsYWVdHyEFAhgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGCU2X11sICEzBQIYGBgYGBgYGBxgbGVkGDUYHx8zBQIYGBgYGBgYGGFeIBxhbF1layFzBQIYGBgYGBgYGBgYGBheZ2pdWVtgGCAcYWxdZWsYWWsYHGFsXWUhcwUCGBgYGBgYGBgYGBgYGBgYGBxgbGVkGCY1GB80bGo2HzMFAhgYGBgYGBgYGBgYGBgYGBgcYGxlZBgmNRgfGBg0bFw2HyYcYWxdZSU2bGpZYWZhZl9Xa2hdW2FZZGxxJTZmWWVdJh80J2xcNh8zBQIYGBgYGBgYGBgYGBgYGBgYHGBsZWQYJjUYHxgYNGxcNkNgu6tZGB8mHGFsXWUlNmZZZV0mHycfJhxhbF1lJTZxXVlqJh80J2xcNh8zBQIYGBgYGBgYGBgYGBgYGBgYHGBsZWQYJjUYHxgYNGxcNhgfJlxZbF0gH1wnZSdRHyQYa2xqbGdsYWVdIBxhbF1lJTZeamdlV2xgXVdsYWVdISEmHxglGB8mXFlsXSAfXCdlJ1EfJBhrbGpsZ2xhZV0gHGFsXWUlNmxhZGRXbGBdV2xhZV0hISYfNCdsXDYfMwUCBQIYGBgYGBgYGBgYGBgYGBgYYV4gGBxhbF1lJTZsYWRkV2xgXVdsYWVdGDYYXFlsXSAfUSVlJVwfISEFAhgYGBgYGBgYGBgYGBgYGBgYGBgYHGBsZWQYJjUYHxgYNGxcNjRrbGpnZl8YW2RZa2s1GmxdcGwla21bW11raxo2vIhZZl8YYNmzhVs0J2tsamdmXzY0J2xcNh8zBQIYGBgYGBgYGBgYGBgYGBgYXWRrXQUCGBgYGBgYGBgYGBgYGBgYGBgYGBgcYGxlZBgmNRgfGBg0bFw2NGtsamdmXxhbZFlrazUabF1wbCVcWWZfXWoaNryIu5sYY9myt2wYbGC7slsYY2C7q1kYYNmzhVs0J2tsamdmXzY0J2xcNh8zBQIFAhgYGBgYGBgYGBgYGBgYGBgcYGxlZBgmNRgfGBg0bFw2HzMFAhgYGBgYGBgYGBgYGBgYGBgcYGxlZBgmNRgfGBgYGBgYNFxhbhhbZFlrazUaWm1sbGdmJVloJWRha2wYal1raGdma2FuXSVabGYaNgUCGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYNFxhbhhbZFlrazUaWmxmJV9qZ21oGFpsZiVbbWtsZ2UlX2pnbWhrGFpsZiVbbWtsZ2UlX2pnbWhrJWdmXRhabGYlZV8lWiUpKBo2BQIYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYNFptbGxnZhhscWhdNRpabWxsZ2YaGFtkWWtrNRpabGYYWmxmJWhqYWVZanEYXGpnaFxnb2YlbGdfX2RdGhhcWWxZJWxnX19kXTUaXGpnaFxnb2YaNkxgWWcYbLuZWxg0YRhbZFlrazUaXlkYXlklWWZfZF0lXGdvZho2NCdhNgUCGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGDQnWm1sbGdmNgUCGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGDRtZBhbZFlrazUaXGpnaFxnb2YlZV1mbRhabGYlXGpnaFxnb2YlZV1mbRoYamdkXTUaZV1mbRo2HzMFAhgYGBgYGBgYGBgYGBgYGBhhXiAYP2RnWllkPm1mW2xhZ2YyMltgXVtjSmdkXUVnXG1kXTpxTWtdaiAfXVxhbB8hGDU1GGxqbV0hcwUCGBgYGBgYGBgYGBgYGBgYGBxgbGVkGCY1GB8YGBgYGBgYGBgYGBgYGBgYGBg0ZGE2BQIYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBg0WRhcWWxZJWxnX19kXTUaZWdcWWQaGFxZbFklbFlqX11sNRobWVtsYWdmRWdcWWQaGGdmW2RhW2M1Gl5tZltXWm1sbGdmO2RhW2MgWF1cYWxYJB8mHGFsXWUlNmFcJh8hGjY0YRhbZFlrazUaXlkYXlklXVxhbBhoaiUrGjY0J2E2vIhh2bN7ZRhcWWZgNCdZNgUCGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBg0J2RhNh8zBQIYGBgYGBgYGBgYGBgYGBgYdQUCGBgYGBgYGBgYGBgYGBgYGBxgbGVkGCY1GB8YGBgYGBgYGBgYGBgYGDQnbWQ2BQIYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBg0J1xhbjYFAhgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYNCdcYW42HzMFAhgYGBgYGBgYGBgYGBgYGBgcYGxlZBgmNRgfGBg0J2xcNh8zGBgYGBgYGBgYGBgYGBgYGBgYGBgYBQIYGBgYGBgYGBgYGBgYGBgYHGBsZWQYJjUYHzQnbGo2HzMFAhgYGBgYGBgYGBgYGHUFAhgYGBgYGBgYdQUCGBgYGBgYGBhqXWxtamYYHGBsZWQzBQIYGBgYdQUCGBgYGGhtWmRhWxhebWZbbGFnZhhcWWxZTFlaZF05bGxdZlxZZltdIEpdaW1da2wYHGpdaW1da2whcwUCGBgYGBgYGBgcbGpZYWZhZl9Xa2hdW2FZZGxxGDUYRWdcbWRdTHFoXUdeO2dtamtdazIyb2Bdal1BXCAYHGpdaW1da2wlNmFmaG1sIB9hXB8hGCEFAhgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBglNl5hamtsICElNmFcV2xqWWFmYWZfV2toXVthWWRscTMFAhgYGBgYGBgYHFlra2FfZmVdZmxrGDUYRWdcbWRdTF1ZW2BhZl85a2thX2ZlXWZsMjJvYF1qXUFcO2dtamtdIBgcal1pbV1rbCU2YWZobWwgH2FcHyEYIQUCGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGCU2b2Bdal1BXExqWWFmYWZfS2hdW2FZZGxxIBxsallhZmFmX1draF1bYVlkbHEhBQIYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYJTZnalxdajpxIB9rbFlqbFdsYWVdHyEFAhgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBglNl9dbCAhMwUCGBgYGBgYGBgcWWxsXWZcWWZbXWsYNRhFZ1xtZF05bGxdZlxZZltdMjJvYF1qXUFcO2dtamtdIBgcal1pbV1rbCU2YWZobWwgH2FcHyEYIQUCGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGCU2b2Bdal1BXExqWWFmYWZfS2hdW2FZZGxxIBxsallhZmFmX1draF1bYVlkbHEhBQIYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYJTZfXWwgITMFAhgYGBgYGBgYBQIYGBgYGBgYGBxgbGVkGDUYHzRsYF1ZXDYfMwUCGBgYGBgYGBgcYGxlZBgmNRgfGBgYNGxqNh8zBQIYGBgYGBgYGBxgbGVkGCY1GB8YGBgYGBgYNGxgNky7omYYYNmzhVsYbmG7omY0J2xgNh8zBQIYGBgYGBgYGBxgbGVkGCY1GB8YGBgYGBgYNGxgNryIu5sYbtmyp2ZfNCdsYDYfMwUCBQIFAhgYGBgYGBgYHGpda21kbDlqallxGDUYU1UzBQIYGBgYGBgYGF5nal1ZW2AYIBxZa2thX2ZlXWZsaxhZaxgcYWxdZSEYcwUCGBgYGBgYGBgYGBgYHGtsWWpsPFlsXRg1GGZdbxg8WWxdTGFlXSAcYWxdZVMaa2xZamxXbGFlXRpVITMFAhgYGBgYGBgYGBgYGBxdZlw8WWxdGDUYZl1vGDxZbF1MYWVdIBxhbF1lUxpdZlxXbGFlXRpVITMFAgUCGBgYGBgYGBgYGBgYb2BhZF0YIBxrbFlqbDxZbF0YNBgcXWZcPFlsXSEYcwUCGBgYGBgYGBgYGBgYGBgYGBxqXWttZGw5ampZcVNVGDUYHGtsWWpsPFlsXSU2XmdqZVlsIBpcJ2UnURohMwUCGBgYGBgYGBgYGBgYGBgYGBxrbFlqbDxZbF0lNmVnXGFecSAaIykYXFlxGiEzBQIYGBgYGBgYGBgYGBh1BQIYGBgYGBgYGHUFAhgYGBgYGBgYHGZdbzlqallxGDUYU1UzBQIYGBgYGBgYGBxsXWVoGDUYKDMFAhgYGBgYGBgYXmdqXVlbYBggHGpda21kbDlqallxGFlrGBxcWWxdIRhzBQIYGBgYGBgYGBgYGBgcaFlqbGsYNRhdcGhkZ1xdIB8nHyQYHFxZbF0hMwUCGBgYGBgYGBgYGBgYHGZdbzxZbF0YNRgcaFlqbGtTKFUzBQIYGBgYGBgYGBgYGBhhXhggHGxdZWgYGTUYHGhZamxrUylVIRhzBQIYGBgYGBgYGBgYGBgYGBgYHGZdbzxZbF0YJjUYHxgnHxgmGBxoWWpsa1MpVTMFAhgYGBgYGBgYGBgYGHUFAhgYGBgYGBgYGBgYGBxsXWVoGDUYHGhZamxrUylVMwUCGBgYGBgYGBgYGBgYHGZdbzlqallxU1UYNRgcZl1vPFlsXTMFAhgYGBgYGBgYdQUCGBgYGBgYGBheZ2pdWVtgIBxmXW85ampZcRhZaxgcYWxdZSEYcwUCGBgYGBgYGBgYGBgYHGBsZWQYJjUYHxgYGDRsYDYfJhxhbF1lJh80J2xgNh8zBQIYGBgYGBgYGHUFAgUCGBgYGBgYGBgcYGxlZBgmNRgfGBgYNCdsajYfMwUCGBgYGBgYGBgcYGxlZBgmNRgfNCdsYF1ZXDYfMwUCGBgYGBgYGBgcYGxlZBgmNRgfNGxaZ1xxNh8zBQIYGBgYGBgYGF5nal1ZW2AgHFlsbF1mXFlmW11rGFlrGBxZbGxdZlxZZltdIRhzBQIYGBgYGBgYGBgYGBgcbF1laBg1GF1waGRnXF0gGiQaJBgcWWxsXWZcWWZbXSU2WWxsXWZcWWZbXRghMwUCGBgYGBgYGBgFAhgYGBgYGBgYGBgYGBxgbGVkGCY1GB8YGBg0bGoYXFlsWSVhXCVrbG1cXWZsNRofJhxZbGxdZlxZZltdJTZhXFdrbG1cXWZsJh8aNh8zBQIYGBgYGBgYGBgYGBgcYGxlZBgmNRgfGBgYGBgYNGxcNh8mHFlsbF1mXFlmW10lNmtsbVxdZmwlNmZZZV0mHzQnbFw2HzMFAhgYGBgYGBgYGBgYGBxgbGVkGCY1GB8YGBg0bFw2HyYga21aa2xqV1tnbWZsIBxZbGxdZlxZZltdJTZZbGxdZlxZZltdJBgaQxohGCMYa21aa2xqV1tnbWZsIBxZbGxdZlxZZltdJTZZbGxdZlxZZltdJBgaSBohISYfNCdsXDYfMwUCBQIYGBgYGBgYGBgYGBheZ2ogHGEYNRgoMxgcYRg0GFtnbWZsIBxsXWVoITMYHGEjIyEYcwUCGBgYGBgYGBgYGBgYGBgYGGFeIBxsXWVoUxxhVRg1NRgfKB8hGHMFAhgYGBgYGBgYGBgYGBgYGBgYGBgYHGBsZWQYJjUYHxgYNGxcGFtkWWtrNRpaZ3AlWWxsXWZcWWZbXRo2NCdsXDYfMwUCGBgYGBgYGBgYGBgYGBgYGHUYXWRrXRhzBQIYGBgYGBgYGBgYGBgYGBgYGBgYGBxgbGVkGCY1GB8YGDRsXBhbZFlrazUaWmdwJVlsbF1mXFlmW10aNh8mHGxdZWhTHGFVJh80J2xcNh8zBQIYGBgYGBgYGBgYGBgYGBgYdQUCGBgYGBgYGBgYGBgYdQUCGBgYGBgYGBgYGBgYHGBsZWQYJjUYHxgYGDQnbGo2HzMFAgUCGBgYGBgYGBh1BQIFAhgYGBgYGBgYHGBsZWQYJjUYHzQnbFpnXHE2HzMFAhgYGBgYGBgYHGBsZWQYJjUYHx8zBQIYGBgYGBgYGGpdbG1qZhgcYGxlZDMFAhgYGBh1BQIYGBgYaG1aZGFbGF5tZltsYWdmGGRnWVxcbCBKXWltXWtsGBxqXWltXWtsIRhzBQIYGBgYGBgYGGxqcXMFAhgYGBgYGBgYGBgYGBxsWVpkXVdgbGVkGDUYHGxgYWslNlxZbFlMWVpkXSAcal1pbV1rbCEzBQIYGBgYGBgYGBgYGBhqXWxtamYYal1raGdma10gISU2YmtnZiBTH11qamdqHzU2Xllka10kGB9sWVpkXVdgbGVkHxg1NhgcbFlaZF1XYGxlZFUhMwUCGBgYGBgYGBh1GFtZbFtgGCA9cFtdaGxhZ2YYHF0hGHMFAhgYGBgYGBgYGBgYGGpdbG1qZhhqXWtoZ2ZrXSAhJTZia2dmIFMfXWpqZ2ofNTZsam1dJBgfZV1ra1lfXR81Nh9E2bKdcRhc2bOnGGRh2bN/bRhsYNmynWwYWtmymWEZH1UhMwUCGBgYGBgYGBh1BQIYGBgYdQUCGBgYGGhtWmRhWxhebWZbbGFnZhhuYV1vIBxqXWltXWtsIXMFAhgYGBgYGBgYbGpxGHMFAhgYGBgYGBgYGBgYGBxgbGVkGDUYHGxgYWslNlxZbFlMWVpkXTlsbF1mXFlmW10gHGpdaW1da2whMwUCGBgYGBgYGBgYGBgYBQIYGBgYGBgYGBgYGBhqXWxtamYYal1raGdma10gISU2YmtnZiBTH11qamdqHzU2GF5ZZGtdJBgfYGxlZB81NhxgbGVkVSEzBQIYGBgYGBgYGHUYW1lsW2AYID1wW11obGFnZhgcXSEYcwUCGBgYGBgYGBgYGBgYGGpdbG1qZhhqXWtoZ2ZrXSAhJTZia2dmIFMfXWpqZ2ofNTYYbGptXSQYH2Vda2tZX10fGDU2GB9E2bKdcRhc2bOnGGRh2bN/bRhsYNmynWwYWtmymWEfVSEzBQIYGBgYGBgYGHUFAhgYGBh1BQIYGBgYaG1aZGFbGF5tZltsYWdmGF1cYWwgHGpdaW1da2whcwUCGBgYGBgYGBhsanEYcwUCGBgYGBgYGBgYGBgYHG5ZZGFcWWxnahg1GE5ZZGFcWWxnajIyZVljXSAcal1pbV1rbCU2WWRkICEkGEVnXG1kXTlsbF1mXFlmW11KXWltXWtsMjJqbWRdayAcal1pbV1rbCU2YWZobWwgH2FcHyEhJBhFZ1xtZF05bGxdZlxZZltdSl1pbV1rbDIyZV1ra1lfXWsgISEzBQIYGBgYGBgYGBgYGBhhXiAcbllkYVxZbGdqJTZeWWFkayAhIXMFAhgYGBgYGBgYGBgYGBgYGBhqXWxtamYYal1raGdma10gISU2YmtnZiBTH11qamdqHxg1Nhhsam1dJBgfbllkYVxZbF0fGDU2GF5ZZGtdJBgfZV1ra1lfXR8YNTYYHG5ZZGFcWWxnaiU2ZV1ra1lfXWsgISU2WWRkICFVITMFAhgYGBgYGBgYGBgYGHUYXWRrXRhzBQIYGBgYGBgYGBgYGBgYGBgYHFlqallxV2FrV1tgXVtjXVwYNRgcal1pbV1rbCU2YWZobWwgH1lqallxV2FrV1tgXVtjXVwfITMFAhgYGBgYGBgYGBgYGBgYGBgcYVxXbGpZYWZhZl9Xa2hdW2FZZGxxGDUYRWdcbWRdTHFoXUdeO2dtamtdazIyXmFmXCAcal1pbV1rbCU2YWZobWwgH2FcV1tnbWprXR8hISU2YVxXbGpZYWZhZl9Xa2hdW2FZZGxxMwUCGBgYGBgYGBgYGBgYGBgYGF5nal1ZW2AgHFlqallxV2FrV1tgXVtjXVwYWWsYHGFsXWUhcwUCGBgYGBgYGBgYGBgYGBgYGBgYGBgcWWxsXWZcWWZbXRg1GEVnXG1kXTlsbF1mXFlmW10yMm9gXWpdQVxLbG1cXWZsIBxhbF1lUx9hXFdrbG1cXWZsH1UhBQIYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGCU2XmFqa2wgITMFAhgYGBgYGBgYGBgYGBgYGBgYGBgYYV4gHFlsbF1mXFlmW10hcwUCGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYHFlsbF1mXFlmW10lNllsbF1mXFlmW10YNRgcYWxdZVMfWWxsXWZcWWZbXR9VMwUCGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYHFlsbF1mXFlmW10lNm1oXFlsXSAhMwUCGBgYGBgYGBgYGBgYGBgYGBgYGBh1GF1ka10YcwUCGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYHFlsbF1mXFlmW10YNRhmXW8YRWdcbWRdOWxsXWZcWWZbXTMFAhgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBxZbGxdZlxZZltdJTZhXFdrYWxdGDUYOW1sYDIyX21ZalwgH21rXWofISU2bWtdaiAhJTZhXFdrYWxdMwUCGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYHFlsbF1mXFlmW10lNmFcV2tsbVxdZmwYNRgcYWxdZVMfYVxXa2xtXF1mbB9VMwUCGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYHFlsbF1mXFlmW10lNllsbF1mXFlmW10YNRgcYWxdZVMfWWxsXWZcWWZbXR9VMwUCGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYHFlsbF1mXFlmW10lNmFcV2xqWWFmYWZfV2toXVthWWRscRg1GBxhXFdsallhZmFmX1draF1bYVlkbHEzBQIYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgcWWxsXWZcWWZbXSU2YVxXW2dtamtdGDUYHGpdaW1da2wlNmFmaG1sIB9hXFdbZ21qa10fITMFAhgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBxZbGxdZlxZZltdJTZrWW5dICEzBQIYGBgYGBgYGBgYGBgYGBgYGBgYGHUFAhgYGBgYGBgYGBgYGBgYGBh1GBgYGBgYGBgYGBgYGBgYGAUCGBgYGBgYGBgYGBgYGBgYGGpdbG1qZhhqXWtoZ2ZrXSAhJTZia2dmIFMfXWpqZ2ofNTYYXllka10kGB9lXWtrWV9dHxg1NhgfvIhh2bN7ZRhcWWZgGGxgu5hmYBhbu6xmXx9VITMFAhgYGBgYGBgYGBgYGHUFAhgYGBgYGBgYdRhbWWxbYBggPXBbXWhsYWdmGBxdIRhzBQIYGBgYGBgYGBgYGBgYal1sbWpmGGpda2hnZmtdICElNmJrZ2YgUx9dampnah81Nhhsam1dJBgfZV1ra1lfXR8YNTYYH7yIYdmze2UYXFlmYBhsYNmynWwYWtmymWEfVSEzBQIYGBgYGBgYGHUFAhgYGBh1BQIFAnUFAg==
+
+namespace App\Http\Controllers\Modules\AIAttendance;
+
+use App\Http\Controllers\Controller; 
+use Illuminate\Http\Request;
+use Validator;
+use Illuminate\Support\Facades\Auth;
+use DateTime;
+
+//Models
+use App\Models\Modules\ModuleAttendance;
+use App\Models\Modules\ModuleTrainingSpecialties;
+use App\Models\Modules\ModuleTypeOfCourses;
+use App\Models\Modules\ModuleTeachingAssignment;
+
+//Requests
+use App\Http\Requests\Module\ModuleAttendanceRequest;
+//Controllers
+use App\Http\Controllers\MainStructure\Admins\LogsController;
+use App\Http\Controllers\MainStructure\Users\GlobalFunction;
+
+class AIAttendanceController extends Controller {
+
+    public function index() {
+        if(GlobalFunction::checkRoleModuleByUser('view') == false || GlobalFunction::checkRoleFunctionByUser('view',200) == false){
+             abort('404');
+        } else {
+            $current_id_site = Auth::guard('user')->user()->id_site;
+            $data['training_specialties'] = ModuleTrainingSpecialties::whereIdSite($current_id_site)->with(['courses' => function($query) {
+                $query->orderBy('year', 'desc')->orderBy('name', 'desc');
+            }])->get();
+
+            return view('modules.AIAttendance.index', $data);
+        }
+    }
+
+    public function ajax(Request $request){
+        if(GlobalFunction::checkRoleModuleByUser('view') == true || GlobalFunction::checkRoleFunctionByUser('view',200) == true){
+            $action_type = $request->input('action_type');
+            if ($action_type == 'loadTableAttendance' ) {
+                if( GlobalFunction::checkRoleModuleByUser('view') == true ){
+                    return $this->loadTableAttendance($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if( $action_type == 'edit' ) {
+                if( GlobalFunction::checkRoleModuleByUser('edit') == true ){
+                    return $this->edit($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+        } else {
+            abort('404');
+        }
+    }
+    
+    public function dataTableAttendance(Request $request){
+        $assignments = ModuleTeachingAssignment::whereIdCourse( $request->input('id_course') )
+                                                    ->orderBy('start_time')
+                                                    ->get();
+        $attendances = ModuleAttendance::whereIdCourse( $request->input('id_course') )
+                                                    ->get();
+        
+        $html = '<table><thead>';
+        $html .= '   <tr>';
+        $html .= '       <th>Tên học viên</th>';
+        $html .= '       <th>Đã vắng</th>';
+
+
+        $resultArray = [];
+        foreach ($assignments as $item) {
+            $startDate = new DateTime($item["start_time"]);
+            $endDate = new DateTime($item["end_time"]);
+
+            while ($startDate < $endDate) {
+                $resultArray[] = $startDate->format("d/m/Y");
+                $startDate->modify("+1 day");
+            }
+        }
+        $newArray = [];
+        $temp = 0;
+        foreach ($resultArray as $date) {
+            $parts = explode('/', $date);
+            $newDate = $parts[0];
+            if ($temp != $parts[1]) {
+                $newDate .= '</br>/' . $parts[1];
+            }
+            $temp = $parts[1];
+            $newArray[] = $newDate;
+        }
+        foreach($newArray as $item) {
+            $html .= '   <th>'.$item.'</th>';
+        }
+
+        $html .= '   </tr>';
+        $html .= '</thead>';
+        $html .= '<tbody>';
+        foreach($attendances as $attendance) {
+            $temp = explode(",", $attendance->attendance );
+        
+            $html .= '   <tr data-id-student="'.$attendance->id_student.'">';
+            $html .= '      <td>'.$attendance->student->last_name.' '.$attendance->student->first_name.'</td>';
+            $html .= '   <td>'.(substr_count($attendance->attendance, "K") + substr_count($attendance->attendance, "P")).'</td>';
+
+            for($i = 0; $i < count($temp); $i++) {
+                if($temp[$i] == '0') {
+                    $html .= '  <td class="box-attendance"></td>';
+                } else {
+                    $html .= '  <td class="box-attendance">'.$temp[$i].'</td>';
+                }
+            }
+            $html .= '   </tr>';
+        }
+
+        $html .= '</tbody>';
+        $html .= '</table>';
+        return $html;
+    }
+    public function loadTableAttendance($request){
+        try {
+            $html = $this->dataTableAttendance($request);
+            
+            return response()->json(['error'=> false, 'html'=>$html]);
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Lấy dữ liệu thất bại']);
+        }
+    }
+    public function edit($request){
+        try {
+            $validator = Validator::make($request->all(), ModuleAttendanceRequest::rules($request->input('id')), ModuleAttendanceRequest::messages());
+            if($validator->fails()){
+                return response()->json(['error' => true, 'validate' => false, 'message' => $validator->messages()->all()]);
+            } else {
+                $array_is_checked = $request->input('array_is_checked');
+                $id_training_specialty = ModuleTypeOfCourses::find($request->input('id_course'))->id_training_specialty;
+                foreach($array_is_checked as $item){
+                    $attendance = ModuleAttendance::whereIdStudent($item['id_student'])
+                                                        ->first();
+                    if($attendance){
+                        $attendance->attendance = $item['attendance'];
+                        $attendance->update();
+                    } else {
+                        $attendance = new ModuleAttendance;
+                        $attendance->id_site = Auth::guard('user')->user()->id_site;
+                        $attendance->id_student = $item['id_student'];
+                        $attendance->attendance = $item['attendance'];
+                        $attendance->id_course = $request->input('id_course');
+                        $attendance->save();
+                    }
+                }                
+                return response()->json(['error'=> false, 'message' => 'Điểm danh thành công']);
+            }
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Điểm danh thất bại']);
+        }
+    }
+
+}

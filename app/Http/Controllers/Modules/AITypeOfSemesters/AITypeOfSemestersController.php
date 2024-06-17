@@ -1,3 +1,167 @@
 <?php
-bolt_decrypt( __FILE__ , '9CVQYI'); return 0;
-##!!!##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
+
+namespace App\Http\Controllers\Modules\AITypeOfSemesters;
+
+use App\Http\Controllers\Controller; 
+use Illuminate\Http\Request;
+use Validator;
+use Illuminate\Support\Facades\Auth;
+//Models
+use App\Models\Modules\ModuleTypeOfSemesters;
+//Requests
+use App\Http\Requests\Module\ModuleTypeOfSemestersRequest;
+//Controllers
+use App\Http\Controllers\MainStructure\Admins\LogsController;
+use App\Http\Controllers\MainStructure\Users\GlobalFunction;
+
+class AITypeOfSemestersController extends Controller {
+
+    public function index() {
+        if(GlobalFunction::checkRoleModuleByUser('view') == false || GlobalFunction::checkRoleFunctionByUser('view',200) == false){
+             abort('404');
+        } else {
+            $data['check_add'] = GlobalFunction::checkRoleModuleByUser('add');
+            return view('modules.AITypeOfSemesters.index', $data);
+        }
+    }
+
+    public function ajax(Request $request){
+        if(GlobalFunction::checkRoleModuleByUser('view') == true || GlobalFunction::checkRoleFunctionByUser('view',200) == true){
+            $action_type = $request->input('action_type');
+            if ($action_type == 'loaddt' ) {
+                if( GlobalFunction::checkRoleModuleByUser('view') == true ){
+                    return $this->loaddt($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if ($action_type == 'view' ) {
+                if( GlobalFunction::checkRoleModuleByUser('view') == true ){
+                    return $this->view($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if($action_type == 'add' ) {
+                if( GlobalFunction::checkRoleModuleByUser('add') == true ){
+                    return $this->add($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if( $action_type == 'edit' ) {
+                if( GlobalFunction::checkRoleModuleByUser('edit') == true ){
+                    return $this->edit($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if($action_type == 'delete' ) {
+                if( GlobalFunction::checkRoleModuleByUser('delete') == true ){
+                    return $this->delete($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+        } else {
+            abort('404');
+        }
+    }
+    
+    public function dataTable(){
+        $current_id_site = Auth::guard('user')->user()->id_site;
+        $listofpeoples = ModuleTypeOfSemesters::whereIdSite($current_id_site)->get();
+        $html = '';
+        if($listofpeoples){
+            foreach ($listofpeoples as $people){
+                $html .= '<tr>';
+                $html .= '  <td>'.$people->name.'</td>';
+                $html .= '  <td>';
+                $html .= '      <div class="button-ap-list responsive-btn">
+                                    <div class="btn-group btn-custom-groups btn-custom-groups-one btn-mg-b-10">
+                                        <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Thao tác <i class="fa fa-angle-down"></i>
+                                        </button>
+                                        <ul class="dropdown-menu btn-dropdown-menu" role="menu">';
+                if( GlobalFunction::checkRoleModuleByUser('edit') == true){
+                $html .= '                  <li>
+                                                <a data-toggle="modal" data-target="#actionModal" onclick="func_buttonClick(`edit`,'.$people->id.')"><i class="fa fa-edit pr-3"></i>Sửa</a>
+                                            </li>';
+                }
+                if( GlobalFunction::checkRoleModuleByUser('delete') == true){
+                $html .= '                  <li>
+                                                <a data-toggle="modal" data-target="#deleteModal" onclick="func_buttonClick(`delete`,'.$people->id.')"><i class="fa fa-recycle pr-3"></i>Xóa</a>
+                                            </li>';
+                }
+                $html .= '              </ul>
+                                    </div>
+                                </div>';
+                $html .= '  </td>';                     
+                $html .= '</tr>';
+            }
+        }
+        return $html;
+    }
+    public function loaddt(Request $request) {
+        try{
+            $table_html = $this->dataTable($request->input());
+            return response()->json(['error'=>false, 'table_html' => $table_html]);
+        } catch (Exception $e) {
+            return response()->json(['error'=>true, 'message'=>'Lấy dữ liệu thất bại!']);
+        }
+    }
+    public function view($request){
+        try {
+            $people = ModuleTypeOfSemesters::find( $request->input('id') );
+            return response()->json(['error'=> false, 'people'=>$people]);
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Lấy dữ liệu thất bại']);
+        }
+    }
+    public function add($request){
+        try {
+            $validator = Validator::make($request->all(), ModuleTypeOfSemestersRequest::rules($request->input('id')), ModuleTypeOfSemestersRequest::messages());
+            if($validator->fails()){
+                return response()->json(['error' => true, 'validate' => false, 'message' => $validator->messages()->all()]);
+            } else {
+                $input = $request->all();
+                $input['id_site'] = Auth::guard('user')->user()->id_site;
+                ModuleTypeOfSemesters::create($input);
+                $html = $this->dataTable($request->input());
+                LogsController::write("AITypeOfSemesters", "Thêm", "Học kỳ: ".$input["name"]);
+                return response()->json(['error'=> false, 'message' => 'Thêm học kỳ thành công', 'table_html' => $html]);
+            }
+        } catch (Exception $e) {
+            return response()->json(['error'=> true, 'message' => 'Thêm học kỳ thất bại']);
+        }
+    }
+    public function edit($request){
+        try {
+            $validator = Validator::make($request->all(), ModuleTypeOfSemestersRequest::rules($request->input('id')), ModuleTypeOfSemestersRequest::messages());
+            if($validator->fails()){
+                return response()->json(['error' => true, 'validate' => false, 'message' => $validator->messages()->all()]);
+            } else {
+                $input = $request->all();
+                $people = ModuleTypeOfSemesters::find( $request->input('id') );
+                $people->update($input);
+                $html = $this->dataTable($request->input());
+                LogsController::write("AITypeOfSemesters", "Sửa", "Học kỳ: ".$input["name"]);
+                return response()->json(['error'=> false, 'message' => 'Sửa học kỳ thành công', 'table_html' => $html]);
+            }
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Sửa học kỳ thất bại']);
+        }
+    }
+    public function delete($request){
+        try {
+            $people_id = $request->input('id');
+            $people = ModuleTypeOfSemesters::find( $people_id );
+            $people->delete();
+            LogsController::write("AITypeOfSemesters", "Xoá", "Học kỳ: ".$people->name);
+            
+            $html = $this->dataTable($request->input());
+            return response()->json(['error'=> false, 'message' => 'Xóa học kỳ thành công', 'table_html' => $html]);
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Xóa học kỳ thất bại']);
+        }
+    }
+}

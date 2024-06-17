@@ -1,3 +1,37 @@
 <?php
-bolt_decrypt( __FILE__ , 'GbvGsT'); return 0;
-##!!!##Ojc6N6Kgkk12mZmimpabjqGSiXGOoY6PjqCSiXqWlJ+OoZacm6CJepaUn46hlpybaDo3oqCSTXaZmaKalpuOoZKJcY6hjo+OoJKJgJCVkpqOiW+ZopKdn5aboWg6N6Kgkk12mZmimpabjqGSiYCinZ2cn6GJc46QjpGSoImAkJWSmo5oOjc6N5CZjqCgTXCfko6hkoKgkp+ggY6PmZJNkqWhkpuRoE16lpSfjqGWnJs6N6g6N01NTU1cV1c6N01NTU1NV01/optNoZWSTZqWlJ+OoZacm6BbOjdNTU1NTVc6N01NTU1NV01tn5Khop+bTaOclpE6N01NTU1NV1w6N01NTU2doo+ZlpBNk6KbkKGWnJtNop1VVjo3TU1NTag6N01NTU1NTU1NgJCVkpqOZ2eQn5KOoZJVVKKgkp+gVFlNk6KbkKGWnJtNVW+ZopKdn5aboU1RoY6PmZJWTag6N01NTU1NTU1NTU1NTVGhjo+ZklproJqOmZl2m6GSlJKfVVSWkVRWWmuim6CWlJuSkVVWWmuOoqGcdpuQn5KakpuhVVZoOjdNTU1NTU1NTU1NTU1RoY6PmZJaa6Chn5ablFVUoqCSn5uOmpJUWWJdVlpropuWnqKSVVZoOjdNTU1NTU1NTU1NTU1RoY6PmZJaa6Chn5ablFVUm46aklRZYl1WaDo3TU1NTU1NTU1NTU1NUaGOj5mSWmugoZ+Wm5RVVJKajpaZVFliXVZoOjdNTU1NTU1NTU1NTU1RoY6PmZJaa6Chn5ablFVUnZWcm5JUWV5dVmg6N01NTU1NTU1NTU1NTVGhjo+ZklproKGflpuUVVSdjqCgpJyfkVRZXl1dVmg6N01NTU1NTU1NTU1NTVGhjo+Zklprj5ycmZKOm1VUjpChlqOSVFZoOjdNTU1NTU1NTU1NTU1RoY6PmZJaa6GWmpKgoY6anaBVVmg6N01NTU1NTU1NqlZoOjdNTU1Nqjo3OjdNTU1NXFdXOjdNTU1NTVdNf5Kjkp+gkk2hlZJNmpaUn46hlpyboFs6N01NTU1NVzo3TU1NTU1XTW2fkqGin5tNo5yWkTo3TU1NTU1XXDo3TU1NTZ2ij5mWkE2TopuQoZacm02RnKSbVVY6N01NTU2oOjdNTU1NTU1NTYCQlZKajmdnkZ+cnXaTcqWWoKGgVVSioJKfoFRWaDo3TU1NTao6N6o6Nw==
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateUsersTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('users', function (Blueprint $table) {
+            $table->smallInteger('id')->unsigned()->autoIncrement();
+            $table->string('username',50)->unique();
+            $table->string('name',50);
+            $table->string('email',50);
+            $table->string('phone',10);
+            $table->string('password',100);
+            $table->boolean('active');
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('users');
+    }
+}

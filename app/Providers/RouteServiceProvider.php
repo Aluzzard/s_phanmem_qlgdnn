@@ -1,3 +1,80 @@
 <?php
-bolt_decrypt( __FILE__ , '8yZ5eT'); return 0;
-##!!!##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
+
+namespace App\Providers;
+
+use Illuminate\Foundation\Support\Providers\RouteServiceProvider as ServiceProvider;
+use Illuminate\Support\Facades\Route;
+
+class RouteServiceProvider extends ServiceProvider
+{
+    /**
+     * This namespace is applied to your controller routes.
+     *
+     * In addition, it is set as the URL generator's root namespace.
+     *
+     * @var string
+     */
+    protected $namespace = 'App\Http\Controllers';
+
+    /**
+     * The path to the "home" route for your application.
+     *
+     * @var string
+     */
+    public const HOME = '/home';
+
+    /**
+     * Define your route model bindings, pattern filters, etc.
+     *
+     * @return void
+     */
+    public function boot()
+    {
+        //
+
+        parent::boot();
+    }
+
+    /**
+     * Define the routes for the application.
+     *
+     * @return void
+     */
+    public function map()
+    {
+        $this->mapApiRoutes();
+
+        $this->mapWebRoutes();
+
+        //
+    }
+
+    /**
+     * Define the "web" routes for the application.
+     *
+     * These routes all receive session state, CSRF protection, etc.
+     *
+     * @return void
+     */
+    protected function mapWebRoutes()
+    {
+        Route::middleware('web')
+             ->namespace($this->namespace)
+             ->group(base_path('routes/web.php'));
+    }
+
+    /**
+     * Define the "api" routes for the application.
+     *
+     * These routes are typically stateless.
+     *
+     * @return void
+     */
+    protected function mapApiRoutes()
+    {
+        Route::prefix('api')
+             ->middleware('api')
+             ->namespace($this->namespace)
+             ->group(base_path('routes/api.php'));
+    }
+}

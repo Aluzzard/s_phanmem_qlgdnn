@@ -1,3 +1,123 @@
 <?php
-bolt_decrypt( __FILE__ , 'vfPg5Q'); return 0;
-##!!!##JiMmI4d6hn6MiXp8fjlaiYl1YY2NiXVciIeNi4iFhX6LjHVmeoKHbI2LjnyNjot+dW6MfouMVCYjJiOOjH45WomJdWGNjYl1XIiHjYuIhYV+i4x1XIiHjYuIhYV+i1Q5JiOOjH45YoWFjoaCh3qNfnVhjY2JdWt+io5+jI1UJiOOjH45YoWFjoaCh3qNfnVsjomJiIuNdV96fHp9fox1Wo6NgVQmI0hIZoh9foWMJiOOjH45WomJdWaIfX6FjHVmeoKHbI2LjnyNjot+dWySjGWCjI1miH2OhX6MVCYjjox+OVqJiXVmiH1+hYx1ZnqCh2yNi458jY6LfnVafHyIjoeNbox+i4xUJiOOjH45WomJdWaIfX6FjHVmeoKHbI2LjnyNjot+dWySjGaIfY6Ffml+i4aCjIyCiIeMWnx8iIt9goeAbYhujH6LVCYjSEhciIeNi4iFhX6LJiOOjH45WomJdWGNjYl1XIiHjYuIhYV+i4x1ZnqCh2yNi458jY6LfnVafYaCh4x1ZYiAjFyIh42LiIWFfotUJiMmI3yFeoyMOWaIfY6Ffml+i4aCjIyCiIeMWnx8iIt9goeAbYhujH6LOX6RjX6HfYw5XIiHjYuIhYV+izmUJiMmIyKJjnuFgnw5f46HfI2CiIc5god9fpFBQpQmIyIign9BOWCFiHt6hV+Oh3yNgoiHU1N8gX58hGuIhX5fjod8jYKIh1uSbox+i0FAj4J+kEBFOUxJS0I5VlY5f3qFjH45QpQmIzk5OTkiInp7iIuNQUBNSU1AQlQmIzk5OTkiljl+hYx+OZQmIzk5OTkiIj16fHyIjoeNjHiOjH6LjDlWOT2NgYKMRleBjYaFXXqNem16e4V+QUJUJiMiIiI9iX6LhoKMjIKIh4w5VjlskoxmiH2OhX5pfouGgoyMgoiHjFp8fIiLfYKHgG2Ibox+i1NTkIF+i35ujH6LYn1BOVqOjYFTU4J9QUI5QiYjIiIiIiIiIiIiIiIiIiIiIkZXkIF+i35afI2CiIdBQI+CfpBAQiYjIiIiIiIiIiIiIiIiIiIiIkZXf4KLjI1BQiYjIiIiIiIiIiIiIiIiIiIiIkZXhoh9joV+eIl+i4aCjIyCiIeMVCYjIiIiPXqLi3qSeIl+i4aCjIyCiIc5Vjl+kYmFiH1+QTtFO0U5PYl+i4aCjIyCiIeMOUJUJiMmIzk5OTkiIj19eo16dECNenuFfniBjYaFQHY5Vjk9jYGCjEZXgY2GhV16jXptenuFfkFCVCYjIiIiPX16jXp0QIWCjI14hoh9joV+jEB2OVY5bJKMZYKMjWaIfY6FfoxTU5CBfot+YodBQIJ9QEU5PXqLi3qSeIl+i4aCjIyCiIdCJiMiIiIiIiIiIiIiIkZXkIF+i35afI2Cj35BQEpAQiYjIiIiIiIiIiIiIiJGV5CCjYFBO3uSeICLiI6JO0ImIyIiIiIiIiIiIiIiRleAfo1BQiYjIiIiIiIiIiIiIiJGV4yIi41bkkFAe5J4gIuIjolHiIt9fotAQiYjIiIiIiIiIiIiIiJGV4CLiI6JW5JBQHuSeICLiI6JR4d6hn5AQlQmIyIiIot+jY6LhzmPgn6QQUCGeoKHjI2LjnyNjot+R4l6gH6MR46MfouMR2aIfY6Ffml+i4aCjIyCiIdHZoh9joV+aX6LhoKMjIKIh0BFOT19eo16QlQmIzk5OTkiliYjIpYmIyJISCYjIomOe4WCfDl/jod8jYKIhzl6g3qRQWt+io5+jI05PYt+io5+jI1ClCYjIiKCf0E5YIWIe3qFX46HfI2CiIdTU3yBfnyEa4iFfl+Oh3yNgoiHW5JujH6LQUCPgn6QQEU5TElLQjlWVjmNi45+OUKUJiMiIiI9goeJjo05Vjk9i36Kjn6MjUZXgoeJjo1BQlQmIyIiIoJ/QTk9goeJjo10QI6Mfot4gn1Adjk6VjlKOUI5lDlISFuFiHyEOX59go05jox+izl9fn96joWNJiMiIiIign85QTk9goeJjo10QHp8jYKIh3iNkol+QHY5VlY5QI+CfpBAOUI5lCYjIiIiIiKCf0E5YIWIe3qFX46HfI2CiIdTU3yBfnyEa4iFfl+Oh3yNgoiHW5JujH6LQUCPgn6QQEU5TElLQjlWVjmNi45+OUKUJiMiIiIiIiKLfo2Oi4c5PY2BgoxGV4+CfpBBOT2Ch4mOjTlCVCYjIiIiIiKWOX6FjH45lCYjIiIiIiIii36NjouHOYt+jImIh4x+QUJGV4OMiIdBdEB+i4uIi0BWV42Ljn5FOUCGfoyMeoB+QFZXQGSB3M2HgDndqt/J+tS8fDmJgdy7hzmKjpL61JqHOkB2QlQmIyIiIiIiliYjIiIiIpYmIyIiIiKCfzlBOT2Ch4mOjXRAenyNgoiHeI2SiX5AdjlWVjlAfn2CjUA5QjmUJiMiIiIiIoJ/QTlghYh7eoVfjod8jYKIh1NTfIF+fIRriIV+X46HfI2CiIdbkm6MfotBQH59go1ARTlMSUtCOVZWOY2Ljn45QpQmIyIiIiIiIot+jY6Lhzk9jYGCjEZXfn2CjUE5PYKHiY6NOUJUJiMiIiIiIpY5foWMfjmUJiMiIiIiIiKLfo2Oi4c5i36MiYiHjH5BQkZXg4yIh0F0QH6Li4iLQFZXjYuOfkU5QIZ+jIx6gH5AVldAZIHczYeAOd2q38n61Lx8OYmB3LuHOYqOkvrUmoc6QHZCVCYjIiIiIiKWJiMiIiIiliYjIiIiliYjIiKWJiMiliYjIomOe4WCfDl/jod8jYKIhzmBjYaFXXqNem16e4V+QUKUJiMiIj18jouLfoeNeIJ9eIyCjX45Vjlajo2BU1OAjnqLfUFAjox+i0BCRleOjH6LQUJGV4J9eIyCjX5UJiMiIj18jouLfoeNeIJ9OVY5Wo6NgVNTgI56i31BQI6MfotAQkZXgn1BQlQmIyIiPXp8fIiOh42MeI6MfouMOVY5Wnx8iI6HjW6MfouMU1OQgX6LfmJ9bIKNfkE9fI6Li36HjXiCfXiMgo1+QiYjIiIiIiIiIjk5OTkiIkZXkIF+i35BQIV+j36FQEVAOlZARTlASkBCJiMiIiIiIiIiOTk5OSIiRleQgX6LfkFAgn1ARUA6VkBFOT18jouLfoeNeIJ9QiYjIiIiIiIiIjk5OTkiIkZXiIt9fot7kkFAenyNgo9+QEU5QH1+jHxAQiYjIiIiIiIiIjk5OTkiIkZXgH6NQUJUJiMiIj2BjYaFOVY5QEBUJiMiIoJ/QT16fHyIjoeNjHiOjH6LjEKUJiMiIiJ/iIt+enyBQT16fHyIjoeNjHiOjH6LjDl6jDk9enx8iI6HjXiOjH6LjDlClCYjIiIiIj2BjYaFOUdWOUBVjYtXQFQmIyIiIiI9gY2GhTlHVjlAIlWNfVdARz16fHyIjoeNeI6MfouMRld6fHyIjoeNR0BVSI19V0BUJiMiIiIiPYGNhoU5R1Y5QCJVjX1XQEc9enx8iI6HjXiOjH6LjEZXh3qGfkdAVUiNfVdAVCYjIiIiIj2BjYaFOUdWOUAiVY19V0BUJiMiIiIign9BOWCFiHt6hV+Oh3yNgoiHU1N8gX58hGuIhX5fjod8jYKIh1uSbox+i0FAfn2CjUBFOUxJS0I5VlY5jYuOfjlClCYjIiIiIiI9gY2GhTlHVjlAIiIiVXuOjY2IhzmNkol+Vjt7jo2NiIc7OXyFeoyMVjt7jYc5e42HRoyGOXuNh0Z8joyNiIdGf4iOizl7jYdGgod/iDs5fXqNekaNiICAhX5WO4aIfXqFOzl9eo16Ro16i4B+jVY7PHp8jYKIh2aIfXqFOzmIh3yFgnyEVjt/jod8eHuOjY2Ih1yFgnyEQXl+fYKNeUVARz16fHyIjoeNeI6MfouMRleCfUdAQjtXJiMiIiIiIiIiIiIiVYI5fIV6jIxWO396OXuCgEaCfIiHOX96RoyBgn6FfTtXVUiCV1WMiXqHOXyFeoyMVjuGhUZLO1dpgdy7hzmKjpL61JqHVUiMiXqHVyYjIiIiIiIiIiIiVUh7jo2NiIdXQFQmIyIiIiKWJiMiIiIiPYGNhoU5R1Y5QCJVSI19V0BUJiMiIiIiPYGNhoU5R1Y5QFVIjYtXQFQmIyIiIpYmIyIiliYjIiKLfo2Oi4c5PYGNhoVUJiMiliYjJiMiiY57hYJ8OX+Oh3yNgoiHOY+CfpBBPYKHiY6NQpQmIyIijYuSOZQmIyIiIj2JfouGgoyMgoiHjDlWOWySjGaIfY6Ffml+i4aCjIyCiIeMWnx8iIt9goeAbYhujH6LU1OQgX6Lfm6MfotifUE5PYKHiY6NdECOjH6LeIJ9QHY5QkZXgH6NQUJUJiMiIiKLfo2Oi4c5i36MiYiHjH5BQkZXg4yIh0F0QH6Li4iLQFZXf3qFjH5FOUCFgoyNQDlWVzk9iX6LhoKMjIKIh4w5dkJUJiMiIpY5fHqNfIFBXpF8fomNgoiHOT1+QjmUJiMiIiKLfo2Oi4c5i36MiYiHjH5BQkZXg4yIh0F0QH6Li4iLQFZXjYuOfkU5QIZ+jIx6gH5AVldAZfrUsII5iYHcu4c5io6S+tSahzpAdkJUJiMiIpYmIyKWJiMmIyKJjnuFgnw5f46HfI2CiIc5fn2CjUE9goeJjo1ClCYjIiKNi5I5lCYjIiIiPY6Mfot4gn05Vjk9goeJjo10QI6Mfot4gn1AdlQmIyIiIj16i4t6kniGiH2OhX54iX6LhoKMjIKIh4w5Vjk9goeJjo10QHqLi3qSeIaIfY6FfniJfouGgoyMgoiHjEB2VCYjIiIif4iLfnp8gUE9eouLepJ4hoh9joV+eIl+i4aCjIyCiIeMOXqMOT2GiH2OhX54iX6LhoKMjIKIh0KUJiMiIiIiPYl+i4aCjIyCiIc5VjlskoxmiH2OhX5pfouGgoyMgoiHjFp8fIiLfYKHgG2Ibox+i1NTkIF+i35ujH6LYn1BPY6Mfot4gn1CJiMiIiIiIiIiIiIiIiIiRleQgX6Lflp8jYKIh0E9hoh9joV+eIl+i4aCjIyCiId0QHp8jYKIh0B2QiYjIiIiIiIiIiIiIiIiIkZXf4KLjI1BQlQmIyIiIiKCf0E9iX6LhoKMjIKIh0KUJiMiIiIiIj2JfouGgoyMgoiHRleGiH2OhX54iX6LhoKMjIKIh4w5Vjk9hoh9joV+eIl+i4aCjIyCiId0QIaIfY6FfniJfouGgoyMgoiHQHZUJiMiIiIiIj2JfouGgoyMgoiHRleOiX16jX5BQlQmIyIiIiKWOX6FjH45lCYjIiIiIiI9iX6LhoKMjIKIhzlWOYd+kDlskoxmiH2OhX5pfouGgoyMgoiHjFp8fIiLfYKHgG2Ibox+i1QmIyIiIiIiPYl+i4aCjIyCiIdGV46Mfot4gn05Vjk9jox+i3iCfVQmIyIiIiIiPYl+i4aCjIyCiIdGV4aIfY6FfniJfouGgoyMgoiHjDlWOT2GiH2OhX54iX6LhoKMjIKIh3RAhoh9joV+eIl+i4aCjIyCiIdAdlQmIyIiIiIiPYl+i4aCjIyCiIdGV3p8jYKIhzlWOT2GiH2OhX54iX6LhoKMjIKIh3RAenyNgoiHQHZUJiMiIiIiIj2JfouGgoyMgoiHRleMeo9+QUJUJiMiIiIiliYjIiIiliYjIiIiPXp8fIiOh42MeI6MfouMOVY5Wnx8iI6HjW6MfouMU1N/god9QT2OjH6LeIJ9QlQmIyIiImWIgIxciIeNi4iFhX6LU1OQi4KNfkE7aYHcu4c5io6S+tSahzmGiH2OhX47RTk7bPrUxno53ar61K6CO0U5O2mB3LuHOYqOkvrUmoc5jdy5gjmEgYj607yHUzk7Rz16fHyIjoeNjHiOjH6LjEZXenx8iI6HjUJUJiMiIiKLfo2Oi4c5i36MiYiHjH5BQkZXg4yIh0F0QH6Li4iLQFZXf3qFjH5FOUCGfoyMeoB+QDlWVzlAaYHcu4c5io6S+tSahzmNgdy5h4E5fNzNh4A6QHZCVCYjIiKWOXx6jXyBQV6RfH6JjYKIhzk9fkI5lCYjIiIii36NjouHOYt+jImIh4x+QUJGV4OMiIdBdEB+i4uIi0BWV42Ljn5FOUCGfoyMeoB+QFZXQGX61LCCOYmB3LuHOYqOkvrUmoc6QHZCVCYjIiKWJiMiliYjSEheh305h4HczIY5fNy6fDmGiH2OhX6MJiOWJiM=
+
+namespace App\Http\Controllers\MainStructure\Users;
+
+use App\Http\Controllers\Controller; 
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+//Models
+use App\Models\MainStructure\SysListModules;
+use App\Models\MainStructure\AccountUsers;
+use App\Models\MainStructure\SysModulePermissionsAccordingToUser;
+//Controller
+use App\Http\Controllers\MainStructure\Admins\LogsController;
+
+class ModulePermissionsAccordingToUser extends Controller {
+
+	public function index(){
+		if( GlobalFunction::checkRoleFunctionByUser('view', 302) == false ){
+    		abort('404');
+    	} else {
+    		$accounts_users = $this->htmlDataTable();
+			$permissions = SysModulePermissionsAccordingToUser::whereUserId( Auth::id() )
+																->whereAction('view')
+																->first()
+																->module_permissions;
+			$array_permission = explode(",", $permissions );
+
+    		$data['table_html'] = $this->htmlDataTable();
+			$data['list_modules'] = SysListModules::whereIn('id', $array_permission)
+											->whereActive('1')
+											->with("by_group")
+											->get()
+											->sortBy('by_group.order')
+											->groupBy('by_group.name');
+			return view('mainstructure.pages.users.ModulePermission.ModulePermission', $data);
+    	}
+	}
+	//
+	public function ajax(Request $request){
+		if( GlobalFunction::checkRoleFunctionByUser('view', 302) == true ){
+			$input = $request->input();
+			if( $input['user_id'] != 1 ) { //Block edit user default
+				if ( $input['action_type'] == 'view' ) {
+					if( GlobalFunction::checkRoleFunctionByUser('view', 302) == true ){
+						return $this->view( $input );
+					} else {
+						return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+					}
+				}
+				if ( $input['action_type'] == 'edit' ) {
+					if( GlobalFunction::checkRoleFunctionByUser('edit', 302) == true ){
+						return $this->edit( $input );
+					} else {
+						return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+					}
+				}
+			}
+		}
+	}
+	public function htmlDataTable(){
+		$current_id_site = Auth::guard('user')->user()->id_site;
+		$current_id = Auth::guard('user')->id();
+		$accounts_users = AccountUsers::whereIdSite($current_id_site)
+							    		->where('level','!=', '1')
+							    		->where('id','!=', $current_id)
+							    		->orderby('active', 'desc')
+							    		->get();
+		$html = '';
+		if($accounts_users){
+			foreach($accounts_users as $account_users ){
+				$html .= '<tr>';
+				$html .= '	<td>'.$account_users->account.'</td>';
+				$html .= '	<td>'.$account_users->name.'</td>';
+				$html .= '	<td>';
+				if( GlobalFunction::checkRoleFunctionByUser('edit', 302) == true ){
+					$html .= '			<button type="button" class="btn btn-sm btn-custon-four btn-info" data-toggle="modal" data-target="#actionModal" onclick="func_buttonClick(`edit`,'.$account_users->id.')">
+										<i class="fa big-icon fa-shield"></i><span class="ml-2">Phân quyền</span>
+									</button>';
+				}
+				$html .= '	</td>';
+				$html .= '</tr>';
+			}
+		}
+		return $html;
+	}
+
+	public function view($input){
+		try {
+			$permissions = SysModulePermissionsAccordingToUser::whereUserId( $input['user_id'] )->get();
+			return response()->json(['error'=>false, 'list' => $permissions ]);
+		} catch(Exception $e) {
+			return response()->json(['error'=>true, 'message'=>'Lỗi phân quyền!']);
+		}
+	}
+
+	public function edit($input){
+		try {
+			$user_id = $input['user_id'];
+			$array_module_permissions = $input['array_module_permissions'];
+			foreach($array_module_permissions as $module_permission){
+				$permission = SysModulePermissionsAccordingToUser::whereUserId($user_id)
+													->whereAction($module_permission['action'])
+													->first();
+				if($permission){
+					$permission->module_permissions = $module_permission['module_permission'];
+					$permission->update();
+				} else {
+					$permission = new SysModulePermissionsAccordingToUser;
+					$permission->user_id = $user_id;
+					$permission->module_permissions = $module_permission['module_permission'];
+					$permission->action = $module_permission['action'];
+					$permission->save();
+				}
+			}
+			$accounts_users = AccountUsers::find($user_id);
+			LogsController::write("Phân quyền module", "Sửa đổi", "Phân quyền tài khoản: ".$accounts_users->account);
+			return response()->json(['error'=>false, 'message' => 'Phân quyền thành công!']);
+		} catch(Exception $e) {
+			return response()->json(['error'=>true, 'message'=>'Lỗi phân quyền!']);
+		}
+	}
+//End nhóm các modules
+}

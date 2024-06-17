@@ -1,3 +1,32 @@
 <?php
-bolt_decrypt( __FILE__ , 'ev4Un5'); return 0;
-##!!!##FBEUEXVodGx6d2hqbCdId3djT3t7d2NZbHh8bHp7emNUdmt8c2xCFBEUEXx6bCdQc3N8dHB1aHtsY012fHVraHtwdnVjT3t7d2NNdnl0WWx4fGx6e0IUEXx6bCdQc3N8dHB1aHtsY1p8d3d2eXtjTWhqaGtsemNIfHtvQhQRfHpsJ1Bzc3x0cHVoe2xjXWhzcGtoe3B2dWNZfHNsQhQRFBFqc2h6eidUdmt8c2xbgHdsVm1ZbHNwbnB2dXpZbHh8bHp7J2x/e2x1a3onTXZ5dFlseHxsensnghQRFBEnJycnd3xpc3BqJ218dWp7cHZ1J3l8c2x6LytwazAnghQRJycnJycnJyd5bHt8eXUnYhQRJycnJycnJycQLnVodGwuJ0RFJxQRJycnJycnJycnJycnJycnJ2IUEScnJycnJycnJycnJycnJycnJycnLnlseHxweWxrLjMnFBEnJycnJycnJycnJycnJycnJycnJ1l8c2xBQXx1cHh8bC8udHZrfHNsZnuAd2xmdm1meWxzcG5wdnV6LjAUEScnJycnJycnJycnJycnJycnJycnNEV+b2x5bC9tfHVqe3B2dScvK3h8bHmAMCeCFBEnJycnJycnJycnJycnJycnJycnJycnJycreHxseYA0RX5vbHlsLy5wa2Z6cHtsLjMnSHx7b0FBbnxoeWsvLnx6bHkuMDRFfHpseS8wNEVwa2Z6cHtsMEIUEScnJycnJycnJycnJycnJycnJycnhDAUEScnJycnJycnJycnJycnJycnJycnNEVwbnV2eWwvK3BrMBQRJycnJycnJycnJycnJycnJ2QUEScnJycnJycnZEIUEScnJyeEFBEUEScnJyd3fGlzcGonbXx1antwdnUndGx6emhubHovMBQRJycnJ4IUEScnJycnJycneWx7fHl1J2IUEScnJycnJycnJycnJy51aHRsNXlseHxweWxrLicnJycnJycnJycnJycnREUuXXxwJ3PKuXVuJ3Vv6MG0dyd7yrF1J3vKu3UnbnDKqHYoLjMUEScnJycnJycnJycnJy51aHRsNXx1cHh8bC4nJycnJycnJycnJycnJycnREUuW8q7dSducMqodifLmMqqJ3vowpp1J3vowahwKC4zFBEnJycnJycnJ2RCFBEnJycnhCcnJycUEYQUEQ==
+
+namespace App\Http\Requests\Module;
+
+use Illuminate\Foundation\Http\FormRequest;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Validation\Rule;
+
+class ModuleTypeOfReligionsRequest extends FormRequest {
+
+    public function rules($id) {
+        return [
+        	'name' => 
+                [
+                    'required', 
+                    Rule::unique('module_type_of_religions')
+                    ->where(function ($query) {
+                        $query->where('id_site', Auth::guard('user')->user()->id_site);
+                    })
+                    ->ignore($id)
+                ]
+        ];
+    }
+
+    public function messages()
+    {
+        return [
+            'name.required'              =>'Vui lòng nhập tên tôn giáo!',
+            'name.unique'                =>'Tôn giáo đã tồn tại!',
+        ];
+    }    
+}

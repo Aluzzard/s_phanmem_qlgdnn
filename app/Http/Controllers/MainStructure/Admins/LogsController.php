@@ -1,3 +1,44 @@
 <?php
-bolt_decrypt( __FILE__ , 'pPTboT'); return 0;
-##!!!##RkNGQ6eapp6sqZqcnll6qamVga2tqZV8qKetq6ilpZ6rrJWGmqKnjK2rrpytrquelXqdpqKnrHRGQ0ZDrqyeWXqpqZWBra2plXyop62rqKWlnquslXyop62rqKWlnqt0RkOurJ5ZgqWlrqaip5qtnpWMrqmpqKutlX+anJqdnqyVeq6toXRGQ66snlmCpaWupqKnmq2elYGtramVi56qrp6srXRGQ66snll6qamVhqidnqWslYaaoqeMrauunK2uq56VjLKshaigrHRGQ0ZDnKWarKxZhaigrHyop62rqKWlnqtZnrGtnqedrFl8qKetq6ilpZ6rWbRGQ0ZDQqmum6WinFmfrqecraKop1mwq6KtnmFdqZimqJ2upZ5lWV2pmJqcraKop2VZXamYnZ6tmqKlYlm0RkNCQl2lqKBZdlmnnrBZjLKshaigrHRGQ0JCXaWooGZ3pqidrqWeWXZZXamYpqidrqWedEZDQkJdpaigZneanK2iqKdZdlldqZianK2iqKd0RkNCQl2lqKBmd52erZqipVl2WV2pmJ2erZqipXRGQ0JCXaWooGZ3rqyeq5iinVl2WXquraFzc6CumqudYWCurJ6rYGJmd6KdYWJ0RkNCQl2lqKBmd6yar55hYnRGQ0K2RkNGQ0KprpulopxZn66nnK2iqKdZoqednrFhYrRGQ0JCXa2am6WemKGtpqVZdlldraGirGZ3nZqtmo2am6WeYWJ0RkNCQquera6rp1mvop6wYWCmmqKnrK2rrpytrqueZ6maoJ6sZ5qdpqKnrGeFqKBnhaigYGWUYK2am6WemKGtpqVgdnddrZqbpZ6Yoa2mpZZidEZDQrZGQ0ZDQmhoWX2ap6FZrPzanKFZnPzanFmlqKCsRkNCqa6bpaKcWZ+up5ytoqinWZ2arZqNmpulnmFitEZDQkJdpaigrFl2WYyyrIWooKxzc6irnZ6re7JhYJyrnpqtnp2Ymq1gZWCdnqycYGJmd6CerWFidEZDQkJdoa2mpVl2WWBgdEZDQkKin2FdpaigrGK0RkNCQkKfqKuempyhWWFdpaigrFmarFldpJ6ydnddpaigYrRGQ0JCQkJdoa2mpVlndllgda2rd2B0RkNCQkJCXaGtpqVZZ3ZZYEJ1rZ13YGdhXaSesmRqYmdgdWitnXdgdEZDQkJCQl2hraalWWd2WWBCda2dd2BnXaWooGZ3rqyeq2Z3mpycqK6nrWdgdWitnXdgdEZDQkJCQl2hraalWWd2WWBCda2dd2BnXaWooGZ3pqidrqWeZ2B1aK2dd2B0RkNCQkJCXaGtpqVZZ3ZZYEJ1rZ13YGddpaigZneanK2iqKdnYHVorZ13YHRGQ0JCQkJdoa2mpVlndllgQnWtnXdgZ12lqKBmd52erZqipWdgdWitnXdgdEZDQkJCQl2hraalWWd2WWBCda2dd2BnXaWooGZ3nKuemq2enZiarWdgdWitnXdgdEZDQkJCQl2hraalWWd2WWB1aK2rd2B0RkNCQkK2RkNCQrZGQ0JCq56trqunWV2hraaldEZDQrZGQ7ZGQw==
+
+namespace App\Http\Controllers\MainStructure\Admins;
+
+use App\Http\Controllers\Controller;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Http\Request;
+use App\Models\MainStructure\SysLogs;
+
+class LogsController extends Controller {
+
+	public function write($p_module, $p_action, $p_detail) {
+		$log = new SysLogs;
+		$log->module = $p_module;
+		$log->action = $p_action;
+		$log->detail = $p_detail;
+		$log->user_id = Auth::guard('user')->id();
+		$log->save();
+	}
+
+	public function index(){
+		$table_html = $this->dataTable();
+		return view('mainstructure.pages.admins.Log.Log',['table_html'=>$table_html]);
+	}
+
+	// Danh sách các logs
+	public function dataTable(){
+		$logs = SysLogs::orderBy('created_at','desc')->get();
+		$html = '';
+		if($logs){
+			foreach ($logs as $key=>$log){
+				$html .= '<tr>';
+				$html .= '	<td>'.($key+1).'</td>';
+				$html .= '	<td>'.$log->user->account.'</td>';
+				$html .= '	<td>'.$log->module.'</td>';
+				$html .= '	<td>'.$log->action.'</td>';
+				$html .= '	<td>'.$log->detail.'</td>';
+				$html .= '	<td>'.$log->created_at.'</td>';
+				$html .= '</tr>';
+			}
+		}
+		return $html;
+	}
+}

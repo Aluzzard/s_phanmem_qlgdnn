@@ -1,3 +1,25 @@
 <?php
-bolt_decrypt( __FILE__ , 'PiZNm5'); return 0;
-##!!!##EA0QDXFkcGh2c2RmaCNEc3NfS3d3c19VaHR4aHZ3dl9QZGxxVnd1eGZ3eHVoPhANEA14dmgjTG9veHBscWR3aF9JcnhxZ2R3bHJxX0t3d3NfSXJ1cFVodHhodnc+EA0QDWZvZHZ2I1draHBoVWh0eGh2dyNoe3docWd2I0lydXBVaHR4aHZ3I34QDRANIyMjI3N4ZW9sZiNpeHFmd2xycSN1eG9odisnbGcsI34QDSMjIyMjIyMjdWh3eHVxI14QDSMjIyMjIyMjDCpxZHBoKiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjQEEqdWh0eGx1aGcjfyN4cWx0eGg9dnx2YndraHBodi9xZHBoLyoxJ2xnLxANIyMjIyMjIyMjIyMjKmZyZ2gqIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyNAQSp1aHR4bHVoZyN/I3hxbHR4aD12fHZid2tocGh2L2ZyZ2gvKjEnbGcvEA0jIyMjIyMjI2A+EA0jIyMjgBANEA0jIyMjc3hlb2xmI2l4cWZ3bHJxI3BodnZkamh2KywQDSMjIyN+EA0jIyMjIyMjI3Vod3h1cSNeEA0jIyMjIyMjIwwqcWRwaDF4cWx0eGgqIyMjIyMjIyMjIyMjIyMjI0BBKlfGrXEjx5TGpiN35L6WcSN35L2kbCQqLxANIyMjIyMjIyMjIyMjKnFkcGgxdWh0eGx1aGcqIyMjIyMjIyMjIyMjIyNAQSpZeGwjb8a1cWojcWvkvbBzI3fGrXEkKi8QDSMjIyMjIyMjIyMjIypmcmdoMXhxbHR4aCojIyMjIyMjIyMjIyMjIyMjQEEqV8atcSN1xr13I2rkvpBxI8eUxqYjd+S+lnEjd+S9pGwkKi8QDSMjIyMjIyMjIyMjIypmcmdoMXVodHhsdWhnKiMjIyMjIyMjIyMjIyMjQEEqWXhsI2/GtXFqI3Fr5L2wcyN3xq1xI3XGvXcjauS+kHEkKi8QDSMjIyMjIyMjYD4QDSMjIyOAEA2AEA0=
+
+namespace App\Http\Requests\MainStructure;
+
+use Illuminate\Foundation\Http\FormRequest;
+
+class ThemeRequest extends FormRequest {
+
+    public function rules($id) {
+        return [
+        	'name'                       =>'required | unique:sys_themes,name,'.$id,
+            'code'                       =>'required | unique:sys_themes,code,'.$id,
+        ];
+    }
+
+    public function messages()
+    {
+        return [
+        	'name.unique'                =>'Tên đã tồn tại!',
+            'name.required'              =>'Vui lòng nhập tên!',
+            'code.unique'                =>'Tên rút gọn đã tồn tại!',
+            'code.required'              =>'Vui lòng nhập tên rút gọn!',
+        ];
+    }
+}

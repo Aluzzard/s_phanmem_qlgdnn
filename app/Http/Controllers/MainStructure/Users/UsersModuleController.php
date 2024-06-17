@@ -1,3 +1,83 @@
 <?php
-bolt_decrypt( __FILE__ , 'L7kMGe'); return 0;
-##!!!##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
+
+namespace App\Http\Controllers\MainStructure\Users;
+
+use Illuminate\Support\Facades\Auth;
+use App\Http\Controllers\Controller; 
+use Illuminate\Http\Request;
+//Models
+use App\Models\MainStructure\SysGroupModules;
+use App\Models\MainStructure\SysListModules;
+use App\Models\MainStructure\SysModulePermissionsAccordingToUser;
+use App\Models\MainStructure\SysLogs;
+//Controllers
+use App\Http\Controllers\MainStructure\Admins\LogsController;
+use App\Http\Controllers\MainStructure\Users\GlobalFunction;
+
+class UsersModuleController extends Controller {
+	public function listModule(){
+		if(GlobalFunction::checkRoleFunctionByUser('view', 200) == false){
+    		abort('404');
+    	} else {
+    		$user_id = Auth::guard('user')->id();
+			$permission = SysModulePermissionsAccordingToUser::whereUserId($user_id)->first();
+			if($permission){
+				$array_permission = explode(",", $permission->module_permissions );
+				$list_modules = SysListModules::whereActive('1')
+											->whereType(1)
+											->whereIn("id", $array_permission)
+											->with("by_group")
+											->get()
+											->sortBy('by_group.order')
+											->groupBy('by_group.name');
+			} else {
+				$list_modules = [];
+			}
+
+
+    		$data['htmlListModule'] = $this->htmlListModule($list_modules);
+			return view('mainstructure.pages.users.ListModule.ListModule', $data);
+    	}
+	}
+	public function htmlListModule($list_modules){
+		$html = '';
+		if($list_modules) {
+			foreach ($list_modules as $group_modules => $modules) {
+				$html .= '<div class="row" style="display: flex; flex-wrap: wrap;">';
+				$html .= '	<div class="col-lg-12">';
+				$html .= '		<h4>'.$group_modules.'</h4>';
+				$html .= '	</div>';
+				foreach ($modules->sortBy('order') as $module) {
+				$html .= '	<div class="col-md-1">';
+				$html .= '		<a href="'.route( $module->controller.'.get.'.'index' ).'" class="text-center py-3 d-flex-wrap module">';
+				$html .= '			<div class="sizefull"><img src="'.(($module->avatar) ? ($module->avatar) : ('upload/mainstructure/icon/module/default.png')).'" width="50"></div>';
+				$html .= '			<div class="sizefull"><span>'.$module->name.'</span></div>';
+				$html .= '		</a>';
+				$html .= '	</div>';
+				}
+				$html .= '</div>';
+			}
+			return $html;
+		}
+	}
+	public function ajaxSearchModule(Request $request){
+		$search_text = $request->input('text');
+		$user_id = Auth::guard('user')->id();
+		$permission = SysModulePermissionsAccordingToUser::whereUserId($user_id)->first();
+		if($permission){
+			$array_permission = explode(",", $permission->module_permissions );
+			$list_modules = SysListModules::whereActive('1')
+										->whereType(1)
+										->whereIn("id", $array_permission)
+										->where('name','like','%'.$search_text.'%')
+										->with("by_group")
+										->get()
+										->sortBy('by_group.order')
+										->groupBy('by_group.name');
+		} else {
+			$list_modules = [];
+		}
+		$htmlListModule = $this->htmlListModule($list_modules);
+		return response()->json(['error'=> false, 'htmlListModule'=>$htmlListModule]);
+	}
+}

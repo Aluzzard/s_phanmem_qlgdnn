@@ -1,3 +1,32 @@
 <?php
-bolt_decrypt( __FILE__ , 'KwjQ7G'); return 0;
-##!!!##CAUIBWlcaGBua1xeYBs8a2tXQ29va1dNYGxwYG5vbldIal9wZ2A2CAUIBXBuYBtEZ2dwaGRpXG9gV0FqcGlfXG9kamlXQ29va1dBam1oTWBscGBubzYIBXBuYBtEZ2dwaGRpXG9gV05wa2tqbW9XQVxeXF9gblc8cG9jNggFcG5gG0RnZ3BoZGlcb2BXUVxnZF9cb2RqaVdNcGdgNggFCAVeZ1xubhtIal9wZ2BPdGtgSmFPbVxkaWRpYk5wXW50bm9gaG5NYGxwYG5vG2Bzb2BpX24bQWptaE1gbHBgbm8bdggFCAUbGxsba3BdZ2ReG2FwaV5vZGppG21wZ2BuIx9kXyQbdggFGxsbGxsbGxttYG9wbWkbVggFGxsbGxsbGxsEImlcaGAiGzg5GwgFGxsbGxsbGxsbGxsbGxsbG1YIBRsbGxsbGxsbGxsbGxsbGxsbGxsbIm1gbHBkbWBfIicbCAUbGxsbGxsbGxsbGxsbGxsbGxsbG01wZ2A1NXBpZGxwYCMiaGpfcGdgWm90a2BaamFab21cZGlkaWJabnBdbnRub2BobiIkCAUbGxsbGxsbGxsbGxsbGxsbGxsbGyg5cmNgbWAjYXBpXm9kamkbIx9scGBtdCQbdggFGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbH2xwYG10KDlyY2BtYCMiZF9abmRvYCInGzxwb2M1NWJwXG1fIyJwbmBtIiQoOXBuYG0jJCg5ZF9abmRvYCQ2CAUbGxsbGxsbGxsbGxsbGxsbGxsbG3gkCAUbGxsbGxsbGxsbGxsbGxsbGxsbGyg5ZGJpam1gIx9kXyQIBRsbGxsbGxsbGxsbGxsbGxtYCAUbGxsbGxsbG1g2CAUbGxsbeAgFCAUbGxsba3BdZ2ReG2FwaV5vZGppG2hgbm5cYmBuIyQIBRsbGxt2CAUbGxsbGxsbG21gb3BtaRtWCAUbGxsbGxsbGxsbGxsiaVxoYCltYGxwZG1gXyIbGxsbGxsbGxsbGxsbGzg5IlFwZBtnvq1pYhtpY9y1qGsbb76laRtj3LaCG7+MvptqG2/ctZxqHCInCAUbGxsbGxsbGxsbGxsiaVxoYClwaWRscGAiGxsbGxsbGxsbGxsbGxsbGzg5IkPctoIbv4y+m2obb9y1nGobv4y+nhtv3LaOaRtv3LWcZBwiJwgFGxsbGxsbGxtYNggFGxsbG3gbGxsbCAV4CAU=
+
+namespace App\Http\Requests\Module;
+
+use Illuminate\Foundation\Http\FormRequest;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Validation\Rule;
+
+class ModuleTypeOfTrainingSubsystemsRequest extends FormRequest {
+
+    public function rules($id) {
+        return [
+        	'name' => 
+                [
+                    'required', 
+                    Rule::unique('module_type_of_training_subsystems')
+                    ->where(function ($query) {
+                        $query->where('id_site', Auth::guard('user')->user()->id_site);
+                    })
+                    ->ignore($id)
+                ]
+        ];
+    }
+
+    public function messages()
+    {
+        return [
+            'name.required'              =>'Vui lòng nhập tên hệ đào tạo!',
+            'name.unique'                =>'Hệ đào tạo đã tồn tại!',
+        ];
+    }    
+}

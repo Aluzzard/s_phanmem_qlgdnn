@@ -1,3 +1,175 @@
 <?php
-bolt_decrypt( __FILE__ , 'VOuBv1'); return 0;
-##!!!##EA0QDXFkcGh2c2RmaCNEc3NfS3d3c19GcnF3dXJvb2h1dl9Qcmd4b2h2X0RMRnJxdmxnaHVscWpKdWRneGR3bHJxSHtkcEZycWdsd2xycXY+EA0QDXh2aCNEc3NfS3d3c19GcnF3dXJvb2h1dl9GcnF3dXJvb2h1PiMQDXh2aCNMb294cGxxZHdoX0t3d3NfVWh0eGh2dz4QDXh2aCNZZG9sZ2R3cnU+EA14dmgjTG9veHBscWR3aF9WeHNzcnV3X0lkZmRnaHZfRHh3az4QDTIyUHJnaG92EA14dmgjRHNzX1ByZ2hvdl9Qcmd4b2h2X1ByZ3hvaER3d2hxZ2RxZmg+EA14dmgjRHNzX1ByZ2hvdl9Qcmd4b2h2X1ByZ3hvaFBkcWRqaFZ3eGdocXd2PhANeHZoI0Rzc19Qcmdob3ZfUHJneG9odl9Qcmd4b2hXdWRscWxxalZzaGZsZG93bGh2PhANeHZoI0Rzc19Qcmdob3ZfUHJneG9odl9Qcmd4b2hXfHNoUmlGcnh1dmh2PhANMjJVaHR4aHZ3dhANeHZoI0Rzc19Ld3dzX1VodHhodnd2X1ByZ3hvaF9Qcmd4b2hEd3docWdkcWZoVWh0eGh2dz4QDTIyRnJxd3Vyb29odXYQDXh2aCNEc3NfS3d3c19GcnF3dXJvb2h1dl9QZGxxVnd1eGZ3eHVoX0RncGxxdl9Pcmp2RnJxd3Vyb29odT4QDXh2aCNEc3NfS3d3c19GcnF3dXJvb2h1dl9QZGxxVnd1eGZ3eHVoX1h2aHV2X0pvcmVkb0l4cWZ3bHJxPhANEA1mb2R2diNETEZycXZsZ2h1bHFqSnVkZ3hkd2xycUh7ZHBGcnFnbHdscnF2RnJxd3Vyb29odSNoe3docWd2I0ZycXd1cm9vaHUjfhANEA0jIyMjc3hlb2xmI2l4cWZ3bHJxI2xxZ2h7KywjfhANIyMjIyMjIyNsaStKb3JlZG9JeHFmd2xycT09ZmtoZm5Vcm9oUHJneG9oRXxYdmh1Kyp5bGh6KiwjQEAjaWRvdmgjf38jSm9yZWRvSXhxZndscnE9PWZraGZuVXJvaEl4cWZ3bHJxRXxYdmh1Kyp5bGh6Ki81MzMsI0BAI2lkb3ZoLH4QDSMjIyMjIyMjIyMjIyNkZXJ1dysqNzM3Kiw+EA0jIyMjIyMjI4AjaG92aCN+EA0jIyMjIyMjIyMjIyMnZnh1dWhxd2JsZ2J2bHdoI0AjRHh3az09anhkdWcrKnh2aHUqLDBBeHZodSssMEFsZ2J2bHdoPhANIyMjIyMjIyMjIyMjJ2dkd2ReKnd1ZGxxbHFqYnZzaGZsZG93bGh2KmAjQCNQcmd4b2hXdWRscWxxalZzaGZsZG93bGh2PT16a2h1aExnVmx3aCsnZnh1dWhxd2JsZ2J2bHdoLDBBamh3Kyw+EA0jIyMjIyMjIyMjIyMnZ2R3ZF4qZnJ4dXZodipgI0AjUHJneG9oV3xzaFJpRnJ4dXZodj09emtodWhMZ1Zsd2grJ2Z4dXVocXdibGdidmx3aCwQDSMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMwQXpraHVoTGdXdWRscWxxalZzaGZsZG93fCsnZ2R3ZF4qd3VkbHFscWpidnNoZmxkb3dsaHYqYDBBaWx1dncrLDBBbGcsEA0jIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjMEFqaHcrLD4QDSMjIyMjIyMjIyMjIxANIyMjIyMjIyMjIyMjJ2R3d2hxZ2RxZmh2I0AjUHJneG9oRHd3aHFnZHFmaD09emtodWhMZ0ZyeHV2aCsjNDsjLDBBamh3Kyw+EA0jIyMjIyMjIyMjIyMnd3VkbHFscWpidnNoZmxkb3d8I0AjUHJneG9oV3VkbHFscWpWc2hmbGRvd2xodj09emtodWhMZysjJ2R3d2hxZ2RxZmh2MEFpbHV2dyssMEFsZ2J3dWRscWxxamJ2c2hmbGRvd3wjLDBBaWx1dncrLD4QDSMjIyMjIyMjIyMjI3Vod3h1cSN5bGh6Kypwcmd4b2h2MURMRnJxdmxnaHVscWpKdWRneGR3bHJxSHtkcEZycWdsd2xycXYxbHFnaHsqLyMnZ2R3ZCw+EA0jIyMjIyMjI4AQDSMjIyOAEA0QDSMjIyNzeGVvbGYjaXhxZndscnEjZG1keytVaHR4aHZ3Iyd1aHR4aHZ3LH4QDSMjIyMjIyMjbGkrSm9yZWRvSXhxZndscnE9PWZraGZuVXJvaFByZ3hvaEV8WHZodSsqeWxoeiosI0BAI3d1eGgjf38jSm9yZWRvSXhxZndscnE9PWZraGZuVXJvaEl4cWZ3bHJxRXxYdmh1Kyp5bGh6Ki81MzMsI0BAI3d1eGgsfhANIyMjIyMjIyMjIyMjJ2Rmd2xycWJ3fHNoI0AjJ3VodHhodncwQWxxc3h3KypkZndscnFid3xzaCosPhANIyMjIyMjIyMjIyMjbGkjKydkZndscnFid3xzaCNAQCMqZnJ4dXZoKiMsI34QDSMjIyMjIyMjIyMjIyMjIyNsaSsjSm9yZWRvSXhxZndscnE9PWZraGZuVXJvaFByZ3hvaEV8WHZodSsqeWxoeiosI0BAI3d1eGgjLH4QDSMjIyMjIyMjIyMjIyMjIyMjIyMjdWh3eHVxIyd3a2x2MEFmcnh1dmgrJ3VodHhodncsPhANIyMjIyMjIyMjIyMjIyMjI4AjaG92aCN+EA0jIyMjIyMjIyMjIyMjIyMjIyMjI3Vod3h1cSN1aHZzcnF2aCssMEFtdnJxK14qaHV1cnUqQEF3dXhoLyMqcGh2dmRqaCpAQSpOa8a3cWojx5TJs+S+pmYjc2vGpXEjdHh85L6EcSQqYCw+EA0jIyMjIyMjIyMjIyMjIyMjgBANIyMjIyMjIyMjIyMjgBANIyMjIyMjIyMjIyMjaG92aCNsaSMrJ2Rmd2xycWJ3fHNoI0BAIypvcmRnZ3cqIywjfhANIyMjIyMjIyMjIyMjIyMjI2xpKyNKb3JlZG9JeHFmd2xycT09ZmtoZm5Vcm9oUHJneG9oRXxYdmh1Kyp5bGh6KiwjQEAjd3V4aCMsfhANIyMjIyMjIyMjIyMjIyMjIyMjIyN1aHd4dXEjJ3drbHYwQW9yZGdndysndWh0eGh2dyw+EA0jIyMjIyMjIyMjIyMjIyMjgCNob3ZoI34QDSMjIyMjIyMjIyMjIyMjIyMjIyMjdWh3eHVxI3VodnNycXZoKywwQW12cnErXipodXVydSpAQXd1eGgvIypwaHZ2ZGpoKkBBKk5rxrdxaiPHlMmz5L6mZiNza8alcSN0eHzkvoRxJCpgLD4QDSMjIyMjIyMjIyMjIyMjIyOAEA0jIyMjIyMjIyMjIyOAEA0jIyMjIyMjIyMjIyNob3ZoI2xpIysnZGZ3bHJxYnd8c2gjQEAjKnlsaHoqIywjfhANIyMjIyMjIyMjIyMjIyMjI2xpKyNKb3JlZG9JeHFmd2xycT09ZmtoZm5Vcm9oUHJneG9oRXxYdmh1Kyp5bGh6KiwjQEAjd3V4aCMsfhANIyMjIyMjIyMjIyMjIyMjIyMjIyN1aHd4dXEjJ3drbHYwQXlsaHorJ3VodHhodncsPhANIyMjIyMjIyMjIyMjIyMjI4AjaG92aCN+EA0jIyMjIyMjIyMjIyMjIyMjIyMjI3Vod3h1cSN1aHZzcnF2aCssMEFtdnJxK14qaHV1cnUqQEF3dXhoLyMqcGh2dmRqaCpAQSpOa8a3cWojx5TJs+S+pmYjc2vGpXEjdHh85L6EcSQqYCw+EA0jIyMjIyMjIyMjIyMjIyMjgBANIyMjIyMjIyMjIyMjgBANIyMjIyMjIyMjIyMjaG92aCNsaSsnZGZ3bHJxYnd8c2gjQEAjKmRnZyojLCN+EA0jIyMjIyMjIyMjIyMjIyMjbGkrI0pvcmVkb0l4cWZ3bHJxPT1ma2hmblVyb2hQcmd4b2hFfFh2aHUrKmRnZyosI0BAI3d1eGgjLH4QDSMjIyMjIyMjIyMjIyMjIyMjIyMjdWh3eHVxIyd3a2x2MEFkZ2crJ3VodHhodncsPhANIyMjIyMjIyMjIyMjIyMjI4AjaG92aCN+EA0jIyMjIyMjIyMjIyMjIyMjIyMjI3Vod3h1cSN1aHZzcnF2aCssMEFtdnJxK14qaHV1cnUqQEF3dXhoLyMqcGh2dmRqaCpAQSpOa8a3cWojx5TJs+S+pmYjc2vGpXEjdHh85L6EcSQqYCw+EA0jIyMjIyMjIyMjIyMjIyMjgBANIyMjIyMjIyMjIyMjgBANIyMjIyMjIyMjIyMjaG92aCNsaSsjJ2Rmd2xycWJ3fHNoI0BAIypoZ2x3KiMsI34QDSMjIyMjIyMjIyMjIyMjIyNsaSsjSm9yZWRvSXhxZndscnE9PWZraGZuVXJvaFByZ3hvaEV8WHZodSsqaGdsdyosI0BAI3d1eGgjLH4QDSMjIyMjIyMjIyMjIyMjIyMjIyMjdWh3eHVxIyd3a2x2MEFoZ2x3Kyd1aHR4aHZ3LD4QDSMjIyMjIyMjIyMjIyMjIyOAI2hvdmgjfhANIyMjIyMjIyMjIyMjIyMjIyMjIyN1aHd4dXEjdWh2c3JxdmgrLDBBbXZycSteKmh1dXJ1KkBBd3V4aC8jKnBodnZkamgqQEEqTmvGt3FqI8eUybPkvqZmI3NrxqVxI3R4fOS+hHEkKmAsPhANIyMjIyMjIyMjIyMjIyMjI4AQDSMjIyMjIyMjIyMjI4AQDSMjIyMjIyMjIyMjI2hvdmgjbGkrJ2Rmd2xycWJ3fHNoI0BAIypnaG9od2gqIywjfhANIyMjIyMjIyMjIyMjIyMjI2xpKyNKb3JlZG9JeHFmd2xycT09ZmtoZm5Vcm9oUHJneG9oRXxYdmh1KypnaG9od2gqLCNAQCN3dXhoIyx+EA0jIyMjIyMjIyMjIyMjIyMjIyMjI3Vod3h1cSMnd2tsdjBBZ2hvaHdoKyd1aHR4aHZ3LD4QDSMjIyMjIyMjIyMjIyMjIyOAI2hvdmgjfhANIyMjIyMjIyMjIyMjIyMjIyMjIyN1aHd4dXEjdWh2c3JxdmgrLDBBbXZycSteKmh1dXJ1KkBBd3V4aC8jKnBodnZkamgqQEEqTmvGt3FqI8eUybPkvqZmI3NrxqVxI3R4fOS+hHEkKmAsPhANIyMjIyMjIyMjIyMjIyMjI4AQDSMjIyMjIyMjIyMjI4AQDSMjIyMjIyMjgCNob3ZoI34QDSMjIyMjIyMjIyMjI2RlcnV3Kyo3MzcqLD4QDSMjIyMjIyMjgBANIyMjI4AQDSMjIyMQDSMjIyNzeGVvbGYjaXhxZndscnEjZ2R3ZFdkZW9oK1VodHhodncjJ3VodHhodncsfhANIyMjIyMjIyMna3dwbyNAIyoqPhANEA0jIyMjIyMjI2xpKyd1aHR4aHZ3MEFscXN4dysqbGdid3VkbHFscWpidnNoZmxkb3d8KiwjJEAjMyMpKSMndWh0eGh2dzBBbHFzeHcrKmxnYmZyeHV2aCosIyRAIzMsI34QDSMjIyMjIyMjIyMjIydmeHV1aHF3YmxnYnZsd2gjQCNEeHdrPT1qeGR1ZysqeHZodSosMEF4dmh1KywwQWxnYnZsd2g+EA0jIyMjIyMjIyMjIyMnbGdid3VkbHFscWpidnNoZmxkb3d8I0AjJ3VodHhodncwQWxxc3h3KypsZ2J3dWRscWxxamJ2c2hmbGRvd3wqLD4QDSMjIyMjIyMjIyMjIydsZ2Jmcnh1dmgjQCMndWh0eGh2dzBBbHFzeHcrKmxnYmZyeHV2aCosPhANIyMjIyMjIyMjIyMjJ2R3d2hxZ2RxZmh2I0AjUHJneG9oRHd3aHFnZHFmaD09emtodWhMZ1Zsd2grJ2Z4dXVocXdibGdidmx3aCwQDSMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMwQXpraHVoK2l4cWZ3bHJxKyd0eGh1fCwjeHZoIysjJ2xnYnd1ZGxxbHFqYnZzaGZsZG93fCMsI34QDSMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjbGkrJ2xnYnd1ZGxxbHFqYnZzaGZsZG93fCRAMywjJ3R4aHV8MEF6a2h1aExnV3VkbHFscWpWc2hmbGRvd3wrJ2xnYnd1ZGxxbHFqYnZzaGZsZG93fCw+EA0jIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjgCwQDSMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMwQXpraHVoK2l4cWZ3bHJxKyd0eGh1fCwjeHZoIysjJ2xnYmZyeHV2aCMsI34QDSMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjbGkrJ2xnYmZyeHV2aCRAMywjJ3R4aHV8MEF6a2h1aExnRnJ4dXZoKydsZ2Jmcnh1dmgsPhANIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjI4AsEA0jIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjMEFqaHcrLD4QDSMjIyMjIyMjIyMjIydscWlydXBkd2xycWJmcnh1dmgjQCNQcmd4b2hXfHNoUmlGcnh1dmh2PT1pbHFnKydsZ2Jmcnh1dmgsPhANIyMjIyMjIyMjIyMjbGkrI2ZyeHF3Kydkd3docWdkcWZodixBMywjfhANIyMjIyMjIyMjIyMjIyMjIyd3dWRscWxxamJ2c2hmbGRvd3wjQCNQcmd4b2hXdWRscWxxalZzaGZsZG93bGh2PT16a2h1aExnKyMnZHd3aHFnZHFmaHYwQWlsdXZ3KywwQWxnYnd1ZGxxbHFqYnZzaGZsZG93fCMsMEFpbHV2dyssPhANIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIxANIyMjIyMjIyMjIyMjIyMjIydrd3BvIzFAIyo/d2toZGdBKj4QDSMjIyMjIyMjIyMjIyMjIyMna3dwbyMxQCMqIyMjP3d1QSo+EA0jIyMjIyMjIyMjIyMjIyMjJ2t3cG8jMUAjKiMjIyMjIyM/d2sjdXJ6dnNkcUAlNSVBV8atcSNr5L6QZiN5bMatcT8yd2tBKj4QDSMjIyMjIyMjIyMjIyMjIyMna3dwbyMxQCMqIyMjIyMjIz93ayN1cnp2c2RxQCU1JUFbxqx3PzJ3a0EqPhANEA0jIyMjIyMjIyMjIyMjIyMjJ2t3cG8jMUAjKiMjIyMjIyM/d2sjdXJ6dnNkcUAlNSVBRXjkvphsI3nkvbJxaj8yd2tBKj4QDSMjIyMjIyMjIyMjIyMjIyMna3dwbyMxQCMqIyMjIyMjIz93ayN1cnp2c2RxQCU1JUFRasajfCN3a2w/MndrQSo+EA0QDRANIyMjIyMjIyMjIyMjIyMjIxANIyMjIyMjIyMjIyMjIyMjIydrd3BvIzFAIyojIyM/d2sjZnJvdnNkcUAlKjEnd3VkbHFscWpidnNoZmxkb3d8MEFneHVkd2xycWJlfGJnZHwxKiUjZ2R3ZDB2cnV3ZGVvaEAlaWRvdmglQUV45L6YbD8yd2tBKj4QDSMjIyMjIyMjIyMjIyMjIyMQDSMjIyMjIyMjIyMjIyMjIyMna3dwbyMxQCMqIyMjPzJ3dUEqPhANIyMjIyMjIyMjIyMjIyMjIydrd3BvIzFAIyojIyM/d3VBKj4QDSMjIyMjIyMjIyMjIyMjIyMQDRANIyMjIyMjIyMjIyMjIyMjI2lydSsnbCNAIzQ+IydsIz9AIyd3dWRscWxxamJ2c2hmbGRvd3wwQWd4dWR3bHJxYmV8YmdkfD4jJ2wuLiwjfhANIyMjIyMjIyMjIyMjIyMjIyMjIyMna3dwbyMxQCMqIyMjP3drQSoxJ2wxKj8yd2tBKj4QDSMjIyMjIyMjIyMjIyMjIyOAEA0jIyMjIyMjIyMjIyMjIyMjJ2t3cG8jMUAjKiMjIz8yd3VBKj4QDSMjIyMjIyMjIyMjIyMjIyMna3dwbyMxQCMqPzJ3a2hkZ0EqPhANIyMjIyMjIyMjIyMjIyMjIydrd3BvIzFAIyo/d2VyZ3xBKj4QDRANIyMjIyMjIyMjIyMjIyMjI2lydWhkZmsrJ2R3d2hxZ2RxZmh2I2R2Iydkd3docWdkcWZoLCN+EA0jIyMjIyMjIyMjIyMjIyMjIyMjIyd3aHBzI0AjaHtzb3JnaCslLyUvIydkd3docWdkcWZoMEFkd3docWdkcWZoIyw+EA0jIyMjIyMjIyMjIyMjIyMjIyMjIydrd3BvIzFAIyojIyM/d3UjZ2R3ZDBsZzB2d3hnaHF3QCUqMSdkd3docWdkcWZoMEFsZ2J2d3hnaHF3MSolQSo+EA0jIyMjIyMjIyMjIyMjIyMjIyMjIydrd3BvIzFAIyojIyMjIyM/d2dBKjEnZHd3aHFnZHFmaDBBdnd4Z2hxdzBBcWRwaDEqPzJ3Z0EqPhANIyMjIyMjIyMjIyMjIyMjIyMjIyNsaSsjK3Z4ZXZ3dWJmcnhxdysnZHd3aHFnZHFmaDBBZHd3aHFnZHFmaC8jJU4lLCMuI3Z4ZXZ3dWJmcnhxdysnZHd3aHFnZHFmaDBBZHd3aHFnZHFmaC8jJVMlLCMsIz9AIzgjLH4QDSMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIydrd3BvIzFAIyojIz93ZyNmb2R2dkAld2h7dzB2eGZmaHZ2JUE/dnd1cnFqQceT5L6qI8eUbOS+hHgjbmzkvopxPzJ2d3VycWpBPzJ3Z0EqPhANIyMjIyMjIyMjIyMjIyMjIyMjIyOAI2hvdmgjfhANIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjJ2t3cG8jMUAjKiMjP3dnI2ZvZHZ2QCV3aHt3MGdkcWpodSVBP3Z3dXJxakFOa8a3cWojx5Rs5L6EeCNubOS+inE/MnZ3dXJxakE/MndnQSo+EA0jIyMjIyMjIyMjIyMjIyMjIyMjI4AQDRANIyMjIyMjIyMjIyMjIyMjIyMjIyMna3dwbyMxQCMqIyMjIyMjP3dnQSoxK3Z4ZXZ3dWJmcnhxdysnZHd3aHFnZHFmaDBBZHd3aHFnZHFmaC8jJU4lLCMuI3Z4ZXZ3dWJmcnhxdysnZHd3aHFnZHFmaDBBZHd3aHFnZHFmaC8jJVMlLCMsMSo/MndnQSo+EA0jIyMjIyMjIyMjIyMjIyMjIyMjIydrd3BvIzFAIyojIyMjIyM/d2dBKjFnZHdoKypnMnAyXCovdnd1d3J3bHBoKydscWlydXBkd2xycWJmcnh1dmgwQWh7ZHBiZ2R3aCwsMSo/MndnQSo+EA0QDSMjIyMjIyMjIyMjIyMjIyMjIyMjaXJ1KydsI0AjMz4jJ2wjPyNmcnhxdysnd2hwcyw+IydsLi4sI34QDSMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjI2xpKyd3aHBzXidsYCMkQCMqMyosI34QDSMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMna3dwbyMxQCMqIyM/d2dBKjEnd2hwc14nbGAxKj8yd2dBKj4QDSMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjI4AjaG92aCN+EA0jIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjJ2t3cG8jMUAjKiMjP3dnQT8yd2dBKj4QDSMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjI4AQDSMjIyMjIyMjIyMjIyMjIyMjIyMjgBANIyMjIyMjIyMjIyMjIyMjIyMjIyMna3dwbyMxQCMqIyMjPzJ3dUEqPhANIyMjIyMjIyMjIyMjIyMjI4AQDSMjIyMjIyMjIyMjIyMjIyMna3dwbyMxQCMqPzJ3ZXJnfEEqPhANIyMjIyMjIyMjIyMjgBANIyMjIyMjIyOAEA0jIyMjIyMjIxANIyMjIyMjIxANIyMjIyMjIyN1aHd4dXEjJ2t3cG8+EA0jIyMjgBANIyMjI3N4ZW9sZiNpeHFmd2xycSNmcnh1dmgrVWh0eGh2dyMndWh0eGh2dywjfhANIyMjIyMjIyN3dXx+EA0jIyMjIyMjIyMjIyMnZnJ4dXZodiNAI1ByZ3hvaFd8c2hSaUZyeHV2aHY9PXpraHVoTGdXdWRscWxxalZzaGZsZG93fCsndWh0eGh2dzBBbHFzeHcrKmxnKiwsMEFqaHcrLD4QDSMjIyMjIyMjIyMjI3Vod3h1cSN1aHZzcnF2aCssMEFtdnJxK14qaHV1cnUqQEFpZG92aC8jKmZyeHV2aHYqI0BBIydmcnh1dmh2YCw+EA0jIyMjIyMjI4AjZmR3ZmsjK0h7Zmhzd2xycSMnaCwjfhANIyMjIyMjIyMjIyMjdWh3eHVxI3VodnNycXZoKywwQW12cnErXipodXVydSpAQXd1eGgvIypwaHZ2ZGpoKkBBKk/kvah8I2fkvrIjb2zkvop4I3dr5L2odyNl5L2kbCQqYCw+EA0jIyMjIyMjI4AQDSMjIyOAEA0jIyMjc3hlb2xmI2l4cWZ3bHJxI29yZGdndytVaHR4aHZ3Iyd1aHR4aHZ3LCN+EA0jIyMjIyMjI3d1fH4QDSMjIyMjIyMjIyMjIyd3ZGVvaGJrd3BvI0AjJ3drbHYwQWdkd2RXZGVvaCsndWh0eGh2dyw+EA0jIyMjIyMjIyMjIyN1aHd4dXEjdWh2c3JxdmgrLDBBbXZycSteKmh1dXJ1KkBBaWRvdmgvIyp3ZGVvaGJrd3BvKiNAQSMnd2Rlb2hia3dwb2AsPhANIyMjIyMjIyOAI2Zkd2ZrIytIe2Zoc3dscnEjJ2gsI34QDSMjIyMjIyMjIyMjI3Vod3h1cSN1aHZzcnF2aCssMEFtdnJxK14qaHV1cnUqQEF3dXhoLyMqcGh2dmRqaCpAQSpP5L2ofCNn5L6yI29s5L6KeCN3a+S9qHcjZeS9pGwkKmAsPhANIyMjIyMjIyOAEA0jIyMjgBANEA2AEA0=
+
+namespace App\Http\Controllers\Modules\AIConsideringGraduationExamConditions;
+
+use App\Http\Controllers\Controller; 
+use Illuminate\Http\Request;
+use Validator;
+use Illuminate\Support\Facades\Auth;
+//Models
+use App\Models\Modules\ModuleAttendance;
+use App\Models\Modules\ModuleTrainingSpecialties;
+use App\Models\Modules\ModuleTypeOfCourses;
+//Requests
+use App\Http\Requests\Module\ModuleAttendanceRequest;
+//Controllers
+use App\Http\Controllers\MainStructure\Admins\LogsController;
+use App\Http\Controllers\MainStructure\Users\GlobalFunction;
+
+class AIConsideringGraduationExamConditionsController extends Controller {
+
+    public function index() {
+        if(GlobalFunction::checkRoleModuleByUser('view') == false || GlobalFunction::checkRoleFunctionByUser('view',200) == false){
+             abort('404');
+        } else {
+            $current_id_site = Auth::guard('user')->user()->id_site;
+            $data['training_specialties'] = ModuleTrainingSpecialties::whereIdSite($current_id_site)->get();
+            $data['courses'] = ModuleTypeOfCourses::whereIdSite($current_id_site)
+                                                    ->whereIdTrainingSpecialty($data['training_specialties']->first()->id)
+                                                    ->get();
+            
+            $attendances = ModuleAttendance::whereIdCourse( 18 )->get();
+            $training_specialty = ModuleTrainingSpecialties::whereId( $attendances->first()->id_training_specialty )->first();
+            return view('modules.AIConsideringGraduationExamConditions.index', $data);
+        }
+    }
+
+    public function ajax(Request $request){
+        if(GlobalFunction::checkRoleModuleByUser('view') == true || GlobalFunction::checkRoleFunctionByUser('view',200) == true){
+            $action_type = $request->input('action_type');
+            if ($action_type == 'course' ) {
+                if( GlobalFunction::checkRoleModuleByUser('view') == true ){
+                    return $this->course($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if ($action_type == 'loaddt' ) {
+                if( GlobalFunction::checkRoleModuleByUser('view') == true ){
+                    return $this->loaddt($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if ($action_type == 'view' ) {
+                if( GlobalFunction::checkRoleModuleByUser('view') == true ){
+                    return $this->view($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if($action_type == 'add' ) {
+                if( GlobalFunction::checkRoleModuleByUser('add') == true ){
+                    return $this->add($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if( $action_type == 'edit' ) {
+                if( GlobalFunction::checkRoleModuleByUser('edit') == true ){
+                    return $this->edit($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if($action_type == 'delete' ) {
+                if( GlobalFunction::checkRoleModuleByUser('delete') == true ){
+                    return $this->delete($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+        } else {
+            abort('404');
+        }
+    }
+    
+    public function dataTable(Request $request){
+        $html = '';
+
+        if($request->input('id_training_specialty') != 0 && $request->input('id_course') != 0) {
+            $current_id_site = Auth::guard('user')->user()->id_site;
+            $id_training_specialty = $request->input('id_training_specialty');
+            $id_course = $request->input('id_course');
+            $attendances = ModuleAttendance::whereIdSite($current_id_site)
+                                        ->where(function($query) use ( $id_training_specialty ) {
+                                            if($id_training_specialty!=0) $query->whereIdTrainingSpecialty($id_training_specialty);
+                                        })
+                                        ->where(function($query) use ( $id_course ) {
+                                            if($id_course!=0) $query->whereIdCourse($id_course);
+                                        })
+                                        ->get();
+            $information_course = ModuleTypeOfCourses::find($id_course);
+            if( count($attendances)>0) {
+                $training_specialty = ModuleTrainingSpecialties::whereId( $attendances->first()->id_training_specialty )->first();
+                                        
+                $html .= '<thead>';
+                $html .= '   <tr>';
+                $html .= '       <th rowspan="2">Tên học viên</th>';
+                $html .= '       <th rowspan="2">Xét</th>';
+
+                $html .= '       <th rowspan="2">Buổi vắng</th>';
+                $html .= '       <th rowspan="2">Ngày thi</th>';
+
+
+                
+                $html .= '   <th colspan="'.$training_specialty->duration_by_day.'" data-sortable="false">Buổi</th>';
+                
+                $html .= '   </tr>';
+                $html .= '   <tr>';
+                
+
+                for($i = 1; $i <= $training_specialty->duration_by_day; $i++) {
+                    $html .= '   <th>'.$i.'</th>';
+                }
+                $html .= '   </tr>';
+                $html .= '</thead>';
+                $html .= '<tbody>';
+
+                foreach($attendances as $attendance) {
+                    $temp = explode(",", $attendance->attendance );
+                    $html .= '   <tr data-id-student="'.$attendance->id_student.'">';
+                    $html .= '      <td>'.$attendance->student->last_name.' '.$attendance->student->first_name.'</td>';
+                    if( (substr_count($attendance->attendance, "K") + substr_count($attendance->attendance, "P") ) <= 5 ){
+                        $html .= '  <td class="text-success"><strong>Đủ điều kiện</strong></td>';
+                    } else {
+                        $html .= '  <td class="text-danger"><strong>Không điều kiện</strong></td>';
+                    }
+
+                    $html .= '      <td>'.(substr_count($attendance->attendance, "K") + substr_count($attendance->attendance, "P") ).'</td>';
+                    $html .= '      <td>'.date('d/m/Y',strtotime($information_course->exam_date)).'</td>';
+
+                    for($i = 0; $i < count($temp); $i++) {
+                        if($temp[$i] != '0') {
+                            $html .= '  <td>'.$temp[$i].'</td>';
+                        } else {
+                            $html .= '  <td></td>';
+                        }
+                    }
+                    $html .= '   </tr>';
+                }
+                $html .= '</tbody>';
+            }
+        }
+        
+       
+        return $html;
+    }
+    public function course(Request $request) {
+        try{
+            $courses = ModuleTypeOfCourses::whereIdTrainingSpecialty($request->input('id'))->get();
+            return response()->json(['error'=>false, 'courses' => $courses]);
+        } catch (Exception $e) {
+            return response()->json(['error'=>true, 'message'=>'Lấy dữ liệu thất bại!']);
+        }
+    }
+    public function loaddt(Request $request) {
+        try{
+            $table_html = $this->dataTable($request);
+            return response()->json(['error'=>false, 'table_html' => $table_html]);
+        } catch (Exception $e) {
+            return response()->json(['error'=>true, 'message'=>'Lấy dữ liệu thất bại!']);
+        }
+    }
+
+}

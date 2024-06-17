@@ -1,3 +1,37 @@
 <?php
-bolt_decrypt( __FILE__ , 'vg3BKx'); return 0;
-##!!!##Ih8iH4qIejVegYGKgn6Ddol6cVl2iXZ3doh6cWJ+fId2iX6Eg4hxYn58h3aJfoSDUCIfioh6NV6BgYqCfoN2iXpxWXaJdnd2iHpxaHh9eoJ2cVeBinqFh36DiVAiH4qIejVegYGKgn6Ddol6cWiKhYWEh4lxW3Z4dnl6iHFoeH16gnZQIh8iH3iBdoiINViHenaJeliBfnqDiYhpdneBejV6jYl6g3mINWJ+fId2iX6EgyIfkCIfNTU1NUQ/PyIfNTU1NTU/NWeKgzWJfXo1gn58h3aJfoSDiEMiHzU1NTU1PyIfNTU1NTU/NVWHeomKh4M1i4R+eSIfNTU1NTU/RCIfNTU1NYWKd4F+eDV7ioN4iX6EgzWKhT0+Ih81NTU1kCIfNTU1NTU1NTVoeH16gnZPT3iHenaJej08eIF+eoOJiDxBNXuKg3iJfoSDNT1XgYp6hYd+g4k1OYl2d4F6PjWQIh81NTU1NTU1NTU1NTU5iXZ3gXpCU4iCdoGBXoOJenx6hz08fnk8PkJTioOIfnyDenk9PkJTdoqJhF6DeId6gnqDiT0+UCIfNTU1NTU1NTU1NTU1OYl2d4F6QlOIiYd+g3w9PIqIeoeDdoJ6PEFKRT5CU4qDfoaKej0+UCIfNTU1NTU1NTU1NTU1OYl2d4F6QlOIiYd+g3w9PIN2gno8QUpFPlAiHzU1NTU1NTU1NTU1NTmJdneBekJTiImHfoN8PTx6gnZ+gTxBSkU+UCIfNTU1NTU1NTU1NTU1OYl2d4F6QlOIiYd+g3w9PIV9hIN6PEFGRT5QIh81NTU1NTU1NTU1NTU5iXZ3gXpCU4iJh36DfD08hXaIiIyEh3k8QUZFRT5QIh81NTU1NTU1NTU1NTU5iXZ3gXpCU3eEhIF6doM9PHZ4iX6Lejw+UCIfNTU1NTU1NTU1NTU1OYl2d4F6QlOJfoJ6iIl2goWIPT5QIh81NTU1NTU1NZI+UCIfNTU1NZIiHyIfNTU1NUQ/PyIfNTU1NTU/NWd6i3qHiHo1iX16NYJ+fId2iX6Eg4hDIh81NTU1NT8iHzU1NTU1PzVVh3qJioeDNYuEfnkiHzU1NTU1P0QiHzU1NTWFineBfng1e4qDeIl+hIM1eYSMgz0+Ih81NTU1kCIfNTU1NTU1NTVoeH16gnZPT3mHhIVee1qNfoiJiD08eIF+eoOJiDw+UCIfNTU1NZIiH5IiHw==
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateClientsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('clients', function (Blueprint $table) {
+            $table->smallInteger('id')->unsigned()->autoIncrement();
+            $table->string('username',50)->unique();
+            $table->string('name',50);
+            $table->string('email',50);
+            $table->string('phone',10);
+            $table->string('password',100);
+            $table->boolean('active');
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('clients');
+    }
+}

@@ -1,3 +1,32 @@
 <?php
-bolt_decrypt( __FILE__ , '1IXkhC'); return 0;
-##!!!##9fL18lZJVU1bWElLTQgpWFhEMFxcWEQ6TVldTVtcW0Q1V0xdVE0j9fL18l1bTQgxVFRdVVFWSVxNRC5XXVZMSVxRV1ZEMFxcWEQuV1pVOk1ZXU1bXCP18l1bTQgxVFRdVVFWSVxNRDtdWFhXWlxELklLSUxNW0QpXVxQI/XyXVtNCDFUVF1VUVZJXE1EPklUUUxJXFFXVkQ6XVRNI/Xy9fJLVElbWwg1V0xdVE08YVhNN048WklRVlFWTzhaV09aSVVbOk1ZXU1bXAhNYFxNVkxbCC5XWlU6TVldTVtcCGP18vXyCAgICFhdSlRRSwhOXVZLXFFXVghaXVRNWxAMUUwRCGP18ggICAgICAgIWk1cXVpWCEP18ggICAgICAgI8Q9WSVVNDwglJgj18ggICAgICAgICAgICAgICAhD9fIICAgICAgICAgICAgICAgICAgICA9aTVldUVpNTA8UCPXyCAgICAgICAgICAgICAgICAgICAg6XVRNIiJdVlFZXU0QD1VXTF1UTUdcYVhNR1dOR1xaSVFWUVZPR1haV09aSVVbDxH18ggICAgICAgICAgICAgICAgICAgIFSZfUE1aTRBOXVZLXFFXVggQDFldTVphEQhj9fIICAgICAgICAgICAgICAgICAgICAgICAgMWV1NWmEVJl9QTVpNEA9RTEdbUVxNDxQIKV1cUCIiT11JWkwQD11bTVoPERUmXVtNWhARFSZRTEdbUVxNESP18ggICAgICAgICAgICAgICAgICAgIZRH18ggICAgICAgICAgICAgICAgICAgIFSZRT1ZXWk0QDFFMEfXyCAgICAgICAgICAgICAgICEX18ggICAgICAgIRSP18ggICAhl9fL18ggICAhYXUpUUUsITl1WS1xRV1YIVU1bW0lPTVsQEfXyCAgICGP18ggICAgICAgIWk1cXVpWCEP18ggICAgICAgICAgICA9WSVVNFlpNWV1RWk1MDwgICAgICAgICAgICAgIJSYPPl1RCFSrmlZPCFZQyaKVWAhcq5JWCEtQrpiuiVZPCFxaq5RWUAiseauIVwhcyaKJVwkPFPXyCAgICAgICAgICAgID1ZJVU0WXVZRWV1NDwgICAgICAgICAgICAgICAglJg8rUK6YrolWTwhcWquUVlAIrHmriFcIXMmiiVcIrHmriwhcyaN7VghcyaKJUQkPFPXyCAgICAgICAhFI/XyCAgICGUICAgI9fJl9fI=
+
+namespace App\Http\Requests\Module;
+
+use Illuminate\Foundation\Http\FormRequest;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Validation\Rule;
+
+class ModuleTypeOfTrainingProgramsRequest extends FormRequest {
+
+    public function rules($id) {
+        return [
+        	'name' => 
+                [
+                    'required', 
+                    Rule::unique('module_type_of_training_programs')
+                    ->where(function ($query) {
+                        $query->where('id_site', Auth::guard('user')->user()->id_site);
+                    })
+                    ->ignore($id)
+                ]
+        ];
+    }
+
+    public function messages()
+    {
+        return [
+            'name.required'              =>'Vui lòng nhập tên chương trình đào tạo!',
+            'name.unique'                =>'Chương trình đào tạo đã tồn tại!',
+        ];
+    }    
+}

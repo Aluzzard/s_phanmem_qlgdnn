@@ -1,3 +1,32 @@
 <?php
-bolt_decrypt( __FILE__ , 'Scvany'); return 0;
-##!!!##gX6BfuLV4dnn5NXX2ZS15OTQvOjo5NDG2eXp2efo59DB49jp4NmvgX6Bfunn2ZS94ODp4d3i1ejZ0Lrj6eLY1ejd4+LQvOjo5NC64+bhxtnl6dnn6K+Bfunn2ZS94ODp4d3i1ejZ0Mfp5OTj5ujQutXX1djZ59C16ejcr4F+6efZlL3g4Onh3eLV6NnQytXg3djV6N3j4tDG6eDZr4F+gX7X4NXn55TB49jp4NnI7eTZw9rI5tXd4t3i28DZ6tng58bZ5enZ5+iU2ezo2eLY55S64+bhxtnl6dnn6JTvgX6BfpSUlJTk6dbg3deU2uni1+jd4+KU5ung2eecmN3YnZTvgX6UlJSUlJSUlObZ6Onm4pTPgX6UlJSUlJSUlH2b4tXh2ZuUsbKUgX6UlJSUlJSUlJSUlJSUlJSUz4F+lJSUlJSUlJSUlJSUlJSUlJSUlJSb5tnl6d3m2diboJSBfpSUlJSUlJSUlJSUlJSUlJSUlJSUxung2a6u6eLd5enZnJvh49jp4NnT6O3k2dPj2tPo5tXd4t3i29Pg2erZ4OebnYF+lJSUlJSUlJSUlJSUlJSUlJSUlJShsuvc2ebZnNrp4tfo3ePilJyY5enZ5u2dlO+BfpSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJjl6dnm7aGy69zZ5tmcm93Y0+fd6NmboJS16ejcrq7b6dXm2Jyb6efZ5pudobLp59nmnJ2hst3Y0+fd6Nmdr4F+lJSUlJSUlJSUlJSUlJSUlJSUlJTxnYF+lJSUlJSUlJSUlJSUlJSUlJSUlJShst3b4uPm2ZyY3didgX6UlJSUlJSUlJSUlJSUlJSU0YF+lJSUlJSUlJTRr4F+lJSUlPGBfoF+lJSUlOTp1uDd15Ta6eLX6N3j4pTh2efn1dvZ55ydgX6UlJSU74F+lJSUlJSUlJTm2ejp5uKUz4F+lJSUlJSUlJSUlJSUm+LV4dmi5tnl6d3m2diblJSUlJSUlJSUlJSUlJSxspvK6d2U4Dcm4tuU4txVLiHklOg3HuKU1lUuIdeUOAU3FOOU6FUuFeOVm6CBfpSUlJSUlJSUlJSUlJvi1eHZouni3eXp2ZuUlJSUlJSUlJSUlJSUlJSUsbKbtlUuIdeUOAU3FOOU6FUuFeOUOAU3F5ToVS8H4pToVS4V3ZWboIF+lJSUlJSUlJTRr4F+lJSUlPGUlJSUgX7xgX4=
+
+namespace App\Http\Requests\Module;
+
+use Illuminate\Foundation\Http\FormRequest;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Validation\Rule;
+
+class ModuleTypeOfTrainingLevelsRequest extends FormRequest {
+
+    public function rules($id) {
+        return [
+        	'name' => 
+                [
+                    'required', 
+                    Rule::unique('module_type_of_training_levels')
+                    ->where(function ($query) {
+                        $query->where('id_site', Auth::guard('user')->user()->id_site);
+                    })
+                    ->ignore($id)
+                ]
+        ];
+    }
+
+    public function messages()
+    {
+        return [
+            'name.required'              =>'Vui lòng nhập tên bậc đào tạo!',
+            'name.unique'                =>'Bậc đào tạo đã tồn tại!',
+        ];
+    }    
+}

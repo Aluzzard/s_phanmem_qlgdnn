@@ -1,3 +1,37 @@
 <?php
-bolt_decrypt( __FILE__ , 'E5tnWd'); return 0;
-##!!!##JCE3JCGFeIR8iod4enw3WIeHc2SGe3yDinNkeICFaouJjHqLjIl8UiQhJCGMinw3YIODjISAhXiLfHNbeIt4eXiKfHNcg4aIjHyFi3Nkhnt8g1IkIYyKfDdgg4OMhICFeIt8c2WGi4B9gHp4i4CGhYpzZYaLgH2AeHmDfFIkIYyKfDdgg4OMhICFeIt8c12GjIV7eIuAhoVzWIyLf3NsinyJN3iKN1iMi398hYuAeniLfFIkITckIXqDeIqKN1h6eoaMhYtsinyJijd8j4t8hXuKN1iMi398hYuAeniLfCQhkiQhNzc3N4yKfDdlhouAfYB4eYN8UiQhNyQhNzc3N4eJhot8eot8ezc7fox4iXs3VDc+jIp8iT5SJCE3JCE3Nzc3h4mGi3x6i3x7Nzt9gIODeHmDfDdUN3IkITc3Nzc3Nzc3PoV4hHw+QzckITc3Nzc3Nzc3Pnh6eoaMhYs+QzckITc3Nzc3Nzc3Pod4ioqOhol7PkMkITc3Nzc3Nzc3PnyEeICDPkMkITc3Nzc3Nzc3PoB7dnuAiouJgHqLPkMkITc3Nzc3Nzc3PoWMhHl8iYd/hoV8PkMkITc3Nzc3Nzc3Pnh6i4CNfD5DJCE3Nzc3Nzc3Nz6DfI18gz5DJCE3Nzc3Nzc3Nz6Ae3aKgIt8PiQhNzc3N3RSJCE3JCE3Nzc3h4mGi3x6i3x7Nzt/gHt7fIU3VDdyJCE3Nzc3Nzc3Nz6HeIqKjoaJez4kITc3Nzd0UiQhJCE3Nzc3h4x5g4B6N32MhXqLgIaFN3iJi4B6g3w/QJIkITc3Nzc3Nzc3iXyLjImFNzuLf4CKRFV/eIpkeIWQPz5Yh4dzZIZ7fIOKc2SGe4yDfIpzZIZ7jIN8WImLgHqDfIo+QFIkITc3NzeUJCE3Nzc3h4x5g4B6N32MhXqLgIaFN3qGhYqLiYx6i4CGhXaHiYZ7jHqLij9AkiQhNzc3Nzc3NzeJfIuMiYU3O4t/gIpEVX94imR4hZA/PliHh3Nkhnt8g4pzZIZ7jIN8inNkhnuMg3xahoWKi4mMeouAhoVniYZ7jHqLij5AUiQhNzc3N5QkIZQkIQ==
+ 
+namespace App\Models\MainStructure;
+
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Notifications\Notifiable;
+use Illuminate\Foundation\Auth\User as Authenticate;
+ 
+class AccountUsers extends Authenticate
+{
+    use Notifiable;
+ 
+    protected $guard = 'user';
+ 
+    protected $fillable = [
+        'name', 
+        'account', 
+        'password',
+        'email',
+        'id_district',
+        'numberphone',
+        'active',
+        'level',
+        'id_site'
+    ];
+ 
+    protected $hidden = [
+        'password'
+    ];
+
+    public function article(){
+        return $this->hasMany('App\Models\Modules\ModuleArticles');
+    }
+    public function construction_products(){
+        return $this->hasMany('App\Models\Modules\ModuleConstructionProducts');
+    }
+}

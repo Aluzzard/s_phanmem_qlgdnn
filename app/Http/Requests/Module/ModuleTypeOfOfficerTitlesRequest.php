@@ -1,3 +1,32 @@
 <?php
-bolt_decrypt( __FILE__ , 'gSJ2y7'); return 0;
-##!!!##8/Dz8FRHU0tZVkdJSwYnVlZCLlpaVkI4S1dbS1laWUIzVUpbUksh8/Dz8FtZSwYvUlJbU09UR1pLQixVW1RKR1pPVVRCLlpaVkIsVVhTOEtXW0tZWiHz8FtZSwYvUlJbU09UR1pLQjlbVlZVWFpCLEdJR0pLWUInW1pOIfPwW1lLBi9SUltTT1RHWktCPEdST0pHWk9VVEI4W1JLIfPw8/BJUkdZWQYzVUpbUks6X1ZLNUw1TExPSUtYOk9aUktZOEtXW0tZWgZLXlpLVEpZBixVWFM4S1dbS1laBmHz8PPwBgYGBlZbSFJPSQZMW1RJWk9VVAZYW1JLWQ4KT0oPBmHz8AYGBgYGBgYGWEtaW1hUBkHz8AYGBgYGBgYG7w1UR1NLDQYjJAbz8AYGBgYGBgYGBgYGBgYGBgZB8/AGBgYGBgYGBgYGBgYGBgYGBgYGBg1YS1dbT1hLSg0SBvPwBgYGBgYGBgYGBgYGBgYGBgYGBgY4W1JLICBbVE9XW0sODVNVSltSS0VaX1ZLRVVMRVVMTE9JS1hFWk9aUktZDQ/z8AYGBgYGBgYGBgYGBgYGBgYGBgYGEyRdTktYSw5MW1RJWk9VVAYOCldbS1hfDwZh8/AGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYKV1tLWF8TJF1OS1hLDg1PSkVZT1pLDRIGJ1taTiAgTVtHWEoODVtZS1gNDxMkW1lLWA4PEyRPSkVZT1pLDyHz8AYGBgYGBgYGBgYGBgYGBgYGBgYGYw/z8AYGBgYGBgYGBgYGBgYGBgYGBgYGEyRPTVRVWEsOCk9KD/PwBgYGBgYGBgYGBgYGBgYGBkPz8AYGBgYGBgYGQyHz8AYGBgZj8/Dz8AYGBgZWW0hST0kGTFtUSVpPVVQGU0tZWUdNS1kOD/PwBgYGBmHz8AYGBgYGBgYGWEtaW1hUBkHz8AYGBgYGBgYGBgYGBg1UR1NLFFhLV1tPWEtKDQYGBgYGBgYGBgYGBgYGIyQNPFtPBlKpmFRNBlROx6CTVgZaqZBUBklOx6GPSQZcx6GLBkmph1QGSMehfwcNEvPwBgYGBgYGBgYGBgYGDVRHU0sUW1RPV1tLDQYGBgYGBgYGBgYGBgYGBgYjJA0pTsehj0kGXMehiwZJqYdUBkjHoX8GqnepiQZax6F5VAZax6CHTwcNEvPwBgYGBgYGBgZDIfPwBgYGBmMGBgYG8/Bj8/A=
+
+namespace App\Http\Requests\Module;
+
+use Illuminate\Foundation\Http\FormRequest;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Validation\Rule;
+
+class ModuleTypeOfOfficerTitlesRequest extends FormRequest {
+
+    public function rules($id) {
+        return [
+        	'name' => 
+                [
+                    'required', 
+                    Rule::unique('module_type_of_officer_titles')
+                    ->where(function ($query) {
+                        $query->where('id_site', Auth::guard('user')->user()->id_site);
+                    })
+                    ->ignore($id)
+                ]
+        ];
+    }
+
+    public function messages()
+    {
+        return [
+            'name.required'              =>'Vui lòng nhập tên chức vụ cán bộ!',
+            'name.unique'                =>'Chức vụ cán bộ đã tồn tại!',
+        ];
+    }    
+}

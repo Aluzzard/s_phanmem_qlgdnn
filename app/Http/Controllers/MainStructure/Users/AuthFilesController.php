@@ -1,3 +1,36 @@
 <?php
-bolt_decrypt( __FILE__ , '692k6G'); return 0;
-##!!!##lpOWk/fq9u78+ers7qnK+fnl0f39+eXM+Pf9+/j19e77/OXW6vL33P37/uz9/vvu5d787vv8xJaTlpP+/O6pyvn55dH9/fnlzPj3/fv49fXu+/zlzPj3/fv49fXu+8SplpP+/O6p0vX1/vby9+r97uXR/f355dvu+v7u/P3ElpP+/O6pyvn55db47e71/OXW6vL33P37/uz9/vvu5dwC/NXy/P3W+O3+9e78xJaT/vzuqcr5+eXW+O3u9fzl1ury99z9+/7s/f777uXcAvzW+O3+9e7Z7vv28vz88vj3/Mrs7Pj77fL38N343vzu+8SWk/787qnK+fnl1vjt7vX85dbq8vfc/fv+7P3+++7l3AL8z/737P3y+PfZ7vv28vz88vj3/Mrs7Pj77fL38N343vzu+8SWk/787qnS9fX+9vL36v3u5dz++fn4+/3lz+rs6u3u/OXK/v3xxJaTlpPs9er8/KnK/v3xz/L17vzM+Pf9+/j19e77qe4B/e737fypzPj3/fv49fXu+6kElpOpqamp+f7r9fLsqe/+9+z98vj3qejo7Pj3/P37/uz9sbKpBJaTqampqampqamt/fHy/LbH9vLt7fXuAOr77rGw6v798bCyxJaTqampqQaWk5aTqampqfn+6/Xy7Knv/vfs/fL496n/8u4Asa3v+PXt7vu1qa356v3xsqkElpOpqampqampqa3v8vXuqcap/P34++rw7uj56v3xsbC46vn5uPn+6/Xy7Ljs/fG4sLet7/j17e77t7C47/L17vy4sLet+er98bLElpOWk6mpqampqamp8u+pse/y9e7o7gHy/P38sa3v8vXusrKpBJaTqampqampqampqamprer7++oC6O/y9e6pxqnuAfn1+O3usbC3sLWpre/y9e6yxJaTqampqampqampqamp8u+x7vftsa3q+/vqAujv8vXusqnGxqmw+e3vsLKpBJaTqampqampqampqampqampqa3x7urt7vv8qcap5JaTqampqampqampqampqampqampqamwzPj3/e73/bbdAvnusKnGx6mw6vn59fLs6v3y+Pe4+e3vsJaTqampqampqampqampqampqebElpOpqampqampqampqampqamp++79/vv3qfvu/Pn49/zusbK2x+34APf1+Ortsa3v8vXutamw3e78/anP8vXusLWprfHu6u3u+/y1qbDy9/Xy9+6wssSWk6mpqampqampqampqQap7vX87qkElpOpqampqampqampqampqamp++79/vv3qfvu/Pn49/zusbK2x+34APf1+Ortsa3v8vXussSWk5aTqampqampqampqampBpaTqampqampqampqamplpOpqampqampqQap7vX87qkElpOpqampqampqampqanq6/j7/bG9ub21qbDP8vXuqff4/anv+P737aqwssSWk6mpqampqampBpaTqampqQaWkwaWkw==
+
+namespace App\Http\Controllers\MainStructure\Users;
+
+use App\Http\Controllers\Controller; 
+use Illuminate\Http\Request;
+use App\Models\MainStructure\SysListModules;
+use App\Models\MainStructure\SysModulePermissionsAccordingToUser;
+use App\Models\MainStructure\SysFunctionPermissionsAccordingToUser;
+use Illuminate\Support\Facades\Auth;
+
+class AuthFilesController extends Controller {
+    public function __construct() {
+        $this->middleware('auth');
+    }
+
+    public function view($folder, $path) {
+        $file = storage_path('/app/public/cth/'.$folder.'/files/'.$path);
+
+        if (file_exists($file)) {
+            $array_file = explode('.', $file);
+            if(end($array_file) == 'pdf') {
+                $headers = [
+                    'Content-Type' => 'application/pdf'
+                ];
+                return response()->download($file, 'Test File', $headers, 'inline');
+            } else {
+                return response()->download($file);
+
+            }
+            
+        } else {
+            abort(404, 'File not found!');
+        }
+    }
+}

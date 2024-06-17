@@ -1,3 +1,55 @@
 <?php
-bolt_decrypt( __FILE__ , 'MiqgJY'); return 0;
-##!!!##Pjs+O5+SnpakoZKUllFyoaGNep6hoKOlpGw+O6akllF6nZ2mnpqfkqWWjYSmoaGgo6WNd5KUkpWWpI1ypqWZbD47PjumpJZRfpKSpaiWk6SapZaNdqmUlp2NdKCflJajn6SNhaB+oJWWnWw+O6akllF+kpKlqJaTpJqllo12qZSWnY10oJ+UlqOfpI2ImqWZhKWSo6WDoKhsPjumpJZRfpKSpaiWk6SapZaNdqmUlp2NdKCflJajn6SNhJyaoaR2nqGlqoOgqKRsPjs+O6akllFyoaGNfqCVlp2kjX6glaadlqSNfqCVpp2WfpKfkpiWhKWmlZafpaRsPjs+O5SdkqSkUYWWnqGdkqWWhKWmlZafpaR6nqGgo6VRmp6hnZaelp+lpFGFoH6glZadXVGImqWZhKWSo6WDoKhdUYScmqGkdp6hpaqDoKikUaw+Oz47PjtRUVFRoaaTnZqUUZemn5SlmqCfUaSlkqOlg6CoWVprUZqfpVGsPjtRUVFRUVFRUaOWpaajn1FjbD47UVFRUa4+Oz47UVFRUaGmk52alFGXpp+UpZqgn1GeoJWWnVmSo6OSqlFVo6CoWlGsPjtRUVFRUVFRUZqXUVlSVaOgqIxhjlGtrVFSVaOgqIxqjlGtrVFSVaOgqIxiYY5aUaw+O1FRUVFRUVFRUVFRUaOWpaajn2w+O1FRUVFRUVFRrj47UVFRUVFRUVGho5aYkJ6SpZSZkJKdnVlYYI1ZWY2VXFqNWmBYXVFVo6CojGJnjl1RVZ6SpZSZlqRabD47UVFRUVFRUVFVn6aek5ajpFFuUVWekqWUmZakjGKObD47UVFRUVFRUVFVn5aohKWjmp+YYlFuUZqeoZ2glZZZWF1YXVFVn6aek5ajpFpsPjtRUVFRUVFRUaGjlpiQnpKllJmQkp2dWVhgjVlZjZVcWo1aYFhdUVWjoKiMYmiOXVFVnpKllJmWpGJabD47UVFRUVFRUVFVn6aek5ajpGJRblFVnpKllJmWpGKMYo5sPjtRUVFRUVFRUVWflqiEpaOan5hjUW5Rmp6hnaCVlllYXVhdUVWfpp6TlqOkYlpsPjtRUVFRUVFRUaGjlpiQnpKllJmQkp2dWVhgjVlZjZVcWo1aYFhdUVWjoKiMYmmOXVFVnpKllJmWpGNabD47UVFRUVFRUVFVn6aek5ajpGNRblFVnpKllJmWpGOMYo5sPjtRUVFRUVFRUVWflqiEpaOan5hkUW5Rmp6hnaCVlllYXVhdUVWfpp6TlqOkY1psPjs+O1FRUVFRUVFRo5alpqOfUZ+WqFF+oJWmnZZ+kp+SmJaEpaaVlp+lpFmMPjtRUVFRUVFRUVFRUVFYmpWQlZqkpaOalKVYUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRbm9RcqalmWtrmKaSo5VZWKaklqNYWl5vpqSWo1laXm+alZCVmqSlo5qUpV0+O1FRUVFRUVFRUVFRUVifkp6WWFFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFub1FVo6CojGGOXT47UVFRUVFRUVFRUVFRWJWSpZaQoJeQk5qjpZlYUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUW5vUVWjoKiMYo5dPjtRUVFRUVFRUVFRUVFYn6aek5ajoZmgn5ZYUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRbm9RVaOgqIxjjl0+O1FRUVFRUVFRUVFRUViWnpKanVhRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFub1FVo6CojGSOXT47UVFRUVFRUVFRUVFRWJqVlp+lmpealJKlmqCfkJqVkJSSo5VYUVFRUVFRUVFRUVFRUVFRUW5vUVWjoKiMZY5dPjtRUVFRUVFRUVFRUVFYlZKllpCgl5CapKSmllhRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRbm9RVaOgqIxmjl0+O1FRUVFRUVFRUVFRUViVlqGSo6Welp+lkKCXkJqkpKaWWFFRUVFRUVFRUVFRUVFRUVFRUVFub1FVo6CojGeOXT47UVFRUVFRUVFRUVFRWKGWo56Sn5afpZCjlqSalZaflJZYUVFRUVFRUVFRUVFRUVFRUVFRUW5vUVWjoKiMaI5dPjtRUVFRUVFRUVFRUVFYoZ2SlJaQoJeQnZqnllhRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRbm9RVaOgqIxpjl0+O1FRUVFRUVFRUVFRUVialZCWpZmfmpRYUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFub1FVo6CojGqOXT47UVFRUVFRUVFRUVFRWKOWmJqgn1hRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUW5vUVWjoKiMYmGOXT47UVFRUVFRUVFRUVFRWJiWn5WWo1hRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUW5vUVWjoKiMYmKOUW5uUVN/kp5TUXBRU5+SnlNRa1FTn6ZTXT47UVFRUVFRUVFRUVFRWKSlkqWmpFhRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUW5vUVhjWF0+O1FRUVFRUVFRUVFRUVilqqGWkGJYUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFub1FVn5aohKWjmp+YYl0+O1FRUVFRUVFRUVFRUVilqqGWkGNYUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFub1FVn5aohKWjmp+YY10+O1FRUVFRUVFRUVFRUVilqqGWkGRYUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFub1FVn5aohKWjmp+YZF0+O1FRUVFRUVFRUVFRUVialZClo5Kan5qfmJCkoZaUmpKdpapYUVFRUVFRUVFRUVFRUVFRUVFub1FVpZmapF5vmpWQpaOSmp+an5iQpKGWlJqSnaWqXT47UVFRUVFRUVFRUVFRWJqVkJSgpqOkllhRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUW5vUVWlmZqkXm+alZCUoKajpJY+O1FRUVFRUVFRjlpsPjtRUVFRrj47rg==
+
+namespace App\Imports;
+use Illuminate\Support\Facades\Auth;
+
+use Maatwebsite\Excel\Concerns\ToModel;
+use Maatwebsite\Excel\Concerns\WithStartRow;
+use Maatwebsite\Excel\Concerns\SkipsEmptyRows;
+
+use App\Models\Modules\ModuleManageStudents;
+
+class TemplateStudentsImport implements ToModel, WithStartRow, SkipsEmptyRows {
+
+
+    public function startRow(): int {
+        return 2;
+    }
+
+    public function model(array $row) {
+        if (!$row[0] || !$row[9] || !$row[10]) {
+            return;
+        }
+        preg_match_all('/\((\d+)\)/', $row[16], $matches);
+        $numbers = $matches[1];
+        $newString1 = implode(',', $numbers);
+        preg_match_all('/\((\d+)\)/', $row[17], $matches1);
+        $numbers1 = $matches1[1];
+        $newString2 = implode(',', $numbers1);
+        preg_match_all('/\((\d+)\)/', $row[18], $matches2);
+        $numbers2 = $matches2[1];
+        $newString3 = implode(',', $numbers2);
+
+        return new ModuleManageStudents([
+            'id_district'                           => Auth::guard('user')->user()->id_district,
+            'name'                                  => $row[0],
+            'date_of_birth'                         => $row[1],
+            'numberphone'                           => $row[2],
+            'email'                                 => $row[3],
+            'identification_id_card'                => $row[4],
+            'date_of_issue'                         => $row[5],
+            'department_of_issue'                   => $row[6],
+            'permanent_residence'                   => $row[7],
+            'place_of_live'                         => $row[8],
+            'id_ethnic'                             => $row[9],
+            'region'                                => $row[10],
+            'gender'                                => $row[11] == "Nam" ? "nam" : "nu",
+            'status'                                => '2',
+            'type_1'                                => $newString1,
+            'type_2'                                => $newString2,
+            'type_3'                                => $newString3,
+            'id_training_specialty'                 => $this->id_training_specialty,
+            'id_course'                             => $this->id_course
+        ]);
+    }
+}

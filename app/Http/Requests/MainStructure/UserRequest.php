@@ -1,3 +1,26 @@
 <?php
-bolt_decrypt( __FILE__ , 'oD5Keh'); return 0;
-##!!!##DQoNCm5hbWVzcGFjZSBBcHBcSHR0cFxSZXF1ZXN0c1xNYWluU3RydWN0dXJlOw0KDQp1c2UgSWxsdW1pbmF0ZVxGb3VuZGF0aW9uXEh0dHBcRm9ybVJlcXVlc3Q7DQoNCmNsYXNzIFVzZXJSZXF1ZXN0IGV4dGVuZHMgRm9ybVJlcXVlc3Qgew0KDQogICAgcHVibGljIGZ1bmN0aW9uIHJ1bGVzKCRpZCkgew0KICAgICAgICByZXR1cm4gWw0KICAgICAgICAJJ2FjY291bnQnICAgICAgICAgICAgICAgICAgICAgICA9PidtaW46IDggfCB1bmlxdWU6YWNjb3VudF91c2VycyxhY2NvdW50LCcuJGlkLA0KICAgICAgICAgICAgJ25hbWUnICAgICAgICAgICAgICAgICAgICAgICAgICA9PidtaW46IDgnLA0KICAgICAgICAgICAgJ3Bhc3N3b3JkJyAgICAgICAgICAgICAgICAgICAgICA9PidudWxsYWJsZSB8IG1pbjo4Jw0KICAgICAgICBdOw0KICAgIH0NCg0KICAgIHB1YmxpYyBmdW5jdGlvbiBtZXNzYWdlcygpDQogICAgew0KICAgICAgICByZXR1cm4gWw0KICAgICAgICAJJ2FjY291bnQudW5pcXVlJyAgICAgICAgICAgICAgICA9PidUw6puIMSRxINuZyBuaOG6rXAgxJHDoyB04buTbiB04bqhaSEnLA0KICAgICAgICAgICAgJ2FjY291bnQubWluJyAgICAgICAgICAgICAgICAgICA9PidUw6puIMSRxINuZyBuaOG6rXAgdOG7kWkgdGhp4buDdSA4IGvDvSB04buxIScsDQogICAgICAgICAgICAnbmFtZS5taW4nICAgICAgICAgICAgICAgICAgICAgID0+J1TDqm4gbmfGsOG7nWkgZMO5bmcgdOG7kWkgdGhp4buDdSA4IGvDvSB04buxIScsDQogICAgICAgICAgICAncGFzc3dvcmQubWluJyAgICAgICAgICAgICAgICAgID0+J03huq10IGto4bqpdSB04buRaSB0aGnhu4N1IDgga8O9IHThu7EhJw0KICAgICAgICBdOw0KICAgIH0NCn0NCg==
+
+namespace App\Http\Requests\MainStructure;
+
+use Illuminate\Foundation\Http\FormRequest;
+
+class UserRequest extends FormRequest {
+
+    public function rules($id) {
+        return [
+        	'account'                       =>'min: 8 | unique:account_users,account,'.$id,
+            'name'                          =>'min: 8',
+            'password'                      =>'nullable | min:8'
+        ];
+    }
+
+    public function messages()
+    {
+        return [
+        	'account.unique'                =>'Tên đăng nhập đã tồn tại!',
+            'account.min'                   =>'Tên đăng nhập tối thiểu 8 ký tự!',
+            'name.min'                      =>'Tên người dùng tối thiểu 8 ký tự!',
+            'password.min'                  =>'Mật khẩu tối thiểu 8 ký tự!'
+        ];
+    }
+}

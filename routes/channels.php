@@ -1,3 +1,18 @@
 <?php
-bolt_decrypt( __FILE__ , 'QnYSAD'); return 0;
-##!!!##/fr9+mVjVRA5XFxlXVleUWRVTENlYGBfYmRMNlFTUVRVY0wyYl9RVFNRY2Qr/fr9+h8a/fpsHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR39+mwQMmJfUVRTUWNkEDNYUV5eVVxj/fpsHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR39+mz9+mwQOFViVRBpX2UQXVFpEGJVV1ljZFViEFFcXBBfVhBkWFUQVWZVXmQQUmJfUVRTUWNkWV5XEFNYUV5eVVxjEGRYUWQQaV9lYv36bBBRYGBcWVNRZFlfXhBjZWBgX2JkYx4QRFhVEFdZZlVeEFNYUV5eVVwQUWVkWF9iWWpRZFlfXhBTUVxcUlFTW2MQUWJV/fpsEGVjVVQQZF8QU1hVU1sQWVYQUV4QUWVkWFVeZFlTUWRVVBBlY1ViEFNRXhBcWWNkVV4QZF8QZFhVEFNYUV5eVVwe/fps/foaH/36/foyYl9RVFNRY2QqKlNYUV5eVVwYFzFgYB5FY1ViHmtZVG0XHBBWZV5TZFlfXhAYFGVjVWIcEBRZVBkQa/36EBAQEGJVZGViXhAYWV5kGRAUZWNVYh0uWVQQLS0tEBhZXmQZEBRZVCv9+m0ZK/36
+
+use Illuminate\Support\Facades\Broadcast;
+
+/*
+|--------------------------------------------------------------------------
+| Broadcast Channels
+|--------------------------------------------------------------------------
+|
+| Here you may register all of the event broadcasting channels that your
+| application supports. The given channel authorization callbacks are
+| used to check if an authenticated user can listen to the channel.
+|
+*/
+
+Broadcast::channel('App.User.{id}', function ($user, $id) {
+    return (int) $user->id === (int) $id;
+});

@@ -1,3 +1,32 @@
 <?php
-bolt_decrypt( __FILE__ , 'ee7FnC'); return 0;
-##!!!##BQIFAmZZZV1raFlbXRg5aGhUQGxsaFRKXWltXWtsa1RFZ1xtZF0zBQIFAm1rXRhBZGRtZWFmWWxdVD5nbWZcWWxhZ2ZUQGxsaFQ+Z2plSl1pbV1rbDMFAm1rXRhBZGRtZWFmWWxdVEttaGhnamxUPllbWVxda1Q5bWxgMwUCbWtdGEFkZG1lYWZZbF1UTllkYVxZbGFnZlRKbWRdMwUCBQJbZFlraxhFZ1xtZF1McWhdR15LbVpiXVtsTF1ZZWtKXWltXWtsGF1wbF1mXGsYPmdqZUpdaW1da2wYcwUCBQIYGBgYaG1aZGFbGF5tZltsYWdmGGptZF1rIBxhXCEYcwUCGBgYGBgYGBhqXWxtamYYUwUCGBgYGBgYGBgBH2ZZZV0fGDU2GAUCGBgYGBgYGBgYGBgYGBgYGFMFAhgYGBgYGBgYGBgYGBgYGBgYGBgYH2pdaW1hal1cHyQYBQIYGBgYGBgYGBgYGBgYGBgYGBgYGEptZF0yMm1mYWltXSAfZWdcbWRdV2xxaF1XZ15Xa21aYl1bbFdsXVllax8hBQIYGBgYGBgYGBgYGBgYGBgYGBgYGCU2b2Bdal0gXm1mW2xhZ2YYIBxpbV1qcSEYcwUCGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYHGltXWpxJTZvYF1qXSAfYVxXa2FsXR8kGDltbGAyMl9tWWpcIB9ta11qHyElNm1rXWogISU2YVxXa2FsXSEzBQIYGBgYGBgYGBgYGBgYGBgYGBgYGHUhBQIYGBgYGBgYGBgYGBgYGBgYGBgYGCU2YV9mZ2pdIBxhXCEFAhgYGBgYGBgYGBgYGBgYGBhVBQIYGBgYGBgYGFUzBQIYGBgYdQUCBQIYGBgYaG1aZGFbGF5tZltsYWdmGGVda2tZX11rICEFAhgYGBhzBQIYGBgYGBgYGGpdbG1qZhhTBQIYGBgYGBgYGBgYGBgfZlllXSZqXWltYWpdXB8YGBgYGBgYGBgYGBgYGDU2H05tYRhku6pmXxhmYNmypWgYbLuiZhhs2bONGFrZs5EYZbusZhkfJAUCGBgYGBgYGBgYGBgYH2ZZZV0mbWZhaW1dHxgYGBgYGBgYGBgYGBgYGBg1Nh9M2bONGFrZs5EYZbusZhi8ibubGGzZs4tmGGzZsplhGR8kBQIYGBgYGBgYGFUzBQIYGBgYdRgYGBgFAnUFAg==
+
+namespace App\Http\Requests\Module;
+
+use Illuminate\Foundation\Http\FormRequest;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Validation\Rule;
+
+class ModuleTypeOfSubjectTeamsRequest extends FormRequest {
+
+    public function rules($id) {
+        return [
+        	'name' => 
+                [
+                    'required', 
+                    Rule::unique('module_type_of_subject_teams')
+                    ->where(function ($query) {
+                        $query->where('id_site', Auth::guard('user')->user()->id_site);
+                    })
+                    ->ignore($id)
+                ]
+        ];
+    }
+
+    public function messages()
+    {
+        return [
+            'name.required'              =>'Vui lòng nhập tên tổ bộ môn!',
+            'name.unique'                =>'Tổ bộ môn đã tồn tại!',
+        ];
+    }    
+}

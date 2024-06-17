@@ -1,3 +1,11 @@
 <?php
-bolt_decrypt( __FILE__ , 'uIM0Iw'); return 0;
-##!!!##CAUIBWlcaGBua1xeYBs8a2tXSGpfYGduV0hcZGlOb21wXm9wbWA2CAVwbmAbRGdncGhkaVxvYFc/XG9cXVxuYFdAZ2pscGBpb1dIal9gZzYIBQgFXmdcbm4bTnRuQXBpXm9kamlLYG1oZG5uZGppbjxeXmptX2RpYk9qUG5gbRtgc29gaV9uG0hqX2BndggFBGtwXWdkXhsfb2RoYG5vXGhrbhs4G2FcZ25gNggFBGtwXWdkXhthcGleb2RqaRtwbmBtIyQbdggFGxsbGxsbGxttYG9wbWkbH29jZG4oOV1gZ2ppYm5PaiMiPGtrV0hqX2BnbldIXGRpTm9tcF5vcG1gVzxeXmpwaW9QbmBtbiIkNggFBHgIBXg=
+
+namespace App\Models\MainStructure;
+use Illuminate\Database\Eloquent\Model;
+
+class SysFunctionPermissionsAccordingToUser extends Model{
+	public $timestamps = false;
+	public function user() {
+        return $this->belongsTo('App\Models\MainStructure\AccountUsers');
+	}
+}

@@ -1,3 +1,23 @@
 <?php
-bolt_decrypt( __FILE__ , 'ylY0rC'); return 0;
-##!!!##MC0wLZGEkIiWk4SGiENkk5N/cJKHiI+Wf3CEjJF2l5WYhpeYlYheMC2YlohDbI+PmJCMkYSXiH9nhJeEhYSWiH9oj5KUmIiRl39wkoeIj14wLTAtho+ElpZDdpyWdoyXiJZDiJuXiJGHlkNwkoeIj54wLSyTmIWPjIZDR5eMkIiWl4SQk5ZDYEOJhI+WiF4wLSyTlZKXiIaXiIdDR4mMj4+EhY+IQ2BDfjAtLCxKjJaChIaXjJmISk8wLSwsSpGEkIhKT0MwLSwsSoSHh5WIlpZKT0MwLSwsSoiQhIyPSk8wLSwsSpGYkIWIlZOLkpGISk8wLSwsSoeSkISMkYJUSk8wLSwsSoeSkISMkYJVSk8wLSwsSomSj4eIlYKJkpWCloSZiEpPMC0sLEqWl5KVhIqISk8wLSwsSpeMj4+Cl4uIgpeMkIhKTzAtLCxKl4uIkIhKTzAtLCxKkZKXiEpPMC0sLEqPkoqSSjAtLIBeMC2g
+
+namespace App\Models\MainStructure;
+use Illuminate\Database\Eloquent\Model;
+
+class SysSites extends Model{
+	public $timestamps = false;
+	protected $fillable = [
+		'is_active',
+		'name', 
+		'address', 
+		'email',
+		'numberphone',
+		'domain_1',
+		'domain_2',
+		'folder_for_save',
+		'storage',
+		'till_the_time',
+		'theme',
+		'note',
+		'logo'
+	];
+}

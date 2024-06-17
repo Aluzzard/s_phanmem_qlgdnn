@@ -1,3 +1,19 @@
 <?php
-bolt_decrypt( __FILE__ , 'sSfMdD'); return 0;
-##!!!##LisuK5aUhkFqjY2WjoqPgpWGfWeQlo+FgpWKkI99ao+UkYqTio+IXC4rlpSGQWqNjZaOio+ClYZ9dJaRkZCTlX1ngoSChYaUfWKTlYqUgo9cLisuK1BLLiudTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk4uK51BZJCPlJCNhkFzkJaVhpQuK51OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTi4rnS4rnUF1iYqUQYeKjYZBipRBmImGk4ZBmpCWQY6CmkGFhoeKj4ZBgo2NQZCHQZqQlpNBZI2QlJaThkGDgpSGhUGEkI+UkI2GLiudQYSQjo6Cj4WUT0FmgoSJQWSNkJSWk4ZBipRBg5CWj4VBlZBBgkGEkI6Ogo+FQYqPlJWCj4SGQYKNjZCYio+IQYIuK51BlIqOkY2GQYKRkZOQgoSJQZWQQYqPlYaTgoSVio+IQZiKlYlBhoKEiUGEkI6Ogo+FSJRBanBBjoaViZCFlE8uK50uK0tQLisuK2KTlYqUgo9bW4SQjo6Cj4VJSIqPlJGKk4ZITUGHlo+ElYqQj0FJSkGcLitBQUFBRZWJipROX4SQjo6Gj5VJao+UkYqTio+IW1uSlpCVhklKSlwuK55KTl+FhpSEk4qDhklIZYqUkY2CmkGCj0GKj5SRipOKj4hBkpaQlYZISlwuKw==
+
+use Illuminate\Foundation\Inspiring;
+use Illuminate\Support\Facades\Artisan;
+
+/*
+|--------------------------------------------------------------------------
+| Console Routes
+|--------------------------------------------------------------------------
+|
+| This file is where you may define all of your Closure based console
+| commands. Each Closure is bound to a command instance allowing a
+| simple approach to interacting with each command's IO methods.
+|
+*/
+
+Artisan::command('inspire', function () {
+    $this->comment(Inspiring::quote());
+})->describe('Display an inspiring quote');

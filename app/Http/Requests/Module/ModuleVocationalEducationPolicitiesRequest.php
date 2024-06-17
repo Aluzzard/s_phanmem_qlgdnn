@@ -1,3 +1,32 @@
 <?php
-bolt_decrypt( __FILE__ , 'b40CWK'); return 0;
-##!!!##uLW4tRkMGBAeGwwOEMvsGxsH8x8fGwf9EBwgEB4fHgf4Gg8gFxDmuLW4tSAeEMv0FxcgGBQZDB8QB/EaIBkPDB8UGhkH8x8fGwfxGh0Y/RAcIBAeH+a4tSAeEMv0FxcgGBQZDB8QB/4gGxsaHR8H8QwODA8QHgfsIB8T5ri1IB4Qy/QXFyAYFBkMHxAHAQwXFA8MHxQaGQf9IBcQ5ri1uLUOFwweHsv4Gg8gFxABGg4MHxQaGQwX8A8gDgwfFBoZ+xoXFA4UHxQQHv0QHCAQHh/LECMfEBkPHsvxGh0Y/RAcIBAeH8smuLW4tcvLy8sbIA0XFA7LESAZDh8UGhnLHSAXEB7TzxQP1MsmuLXLy8vLy8vLyx0QHyAdGcsGuLXLy8vLy8vLy7TSGQwYENLLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vo6cu4tcvLy8vLy8vLy8vLy8vLy8sGuLXLy8vLy8vLy8vLy8vLy8vLy8vLy9IdEBwgFB0QD9LXy7i1y8vLy8vLy8vLy8vLy8vLy8vLy8v9IBcQ5eUgGRQcIBDT0hgaDyAXEAohGg4MHxQaGQwXChAPIA4MHxQaGQobGhcUDhQfFBAe0tS4tcvLy8vLy8vLy8vLy8vLy8vLy8vL2OkiExAdENMRIBkOHxQaGcvTzxwgEB0k1MsmuLXLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vPHCAQHSTY6SITEB0Q09IUDwoeFB8Q0tfL7CAfE+XlEiAMHQ/T0iAeEB3S1NjpIB4QHdPU2OkUDwoeFB8Q1Oa4tcvLy8vLy8vLy8vLy8vLy8vLy8vLKNS4tcvLy8vLy8vLy8vLy8vLy8vLy8vL2OkUEhkaHRDTzxQP1Li1y8vLy8vLy8vLy8vLy8vLywi4tcvLy8vLy8vLCOa4tcvLy8souLW4tcvLy8sbIA0XFA7LESAZDh8UGhnLGBAeHgwSEB7T1Li1y8vLyya4tcvLy8vLy8vLHRAfIB0Zywa4tcvLy8vLy8vLy8vLy9IZDBgQ2R0QHCAUHRAP0svLy8vLy8vLy8vLy8vL6OnSASAUyxduXRkSyxkTjGVYG8sPDBkTyxiMZlAOyxkSbksZE8tvPG5LGssfjGVMGszS17i1y8vLy8vLy8vLy8vL0hkMGBDZIBkUHCAQ0svLy8vLy8vLy8vLy8vLy8vo6dLvDBkTyxiMZlAOyxkSbksZE8tvPG5LGssfjGVMGstvPG5Oyx+MZj4Zyx+MZUwUzNK4tcvLy8vLy8vLCOa4tcvLy8soy8vLy7i1KLi1
+
+namespace App\Http\Requests\Module;
+
+use Illuminate\Foundation\Http\FormRequest;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Validation\Rule;
+
+class ModuleVocationalEducationPolicitiesRequest extends FormRequest {
+
+    public function rules($id) {
+        return [
+        	'name'                              => 
+                [
+                    'required', 
+                    Rule::unique('module_vocational_education_policities')
+                    ->where(function ($query) {
+                        $query->where('id_site', Auth::guard('user')->user()->id_site);
+                    })
+                    ->ignore($id)
+                ]
+        ];
+    }
+
+    public function messages()
+    {
+        return [
+            'name.required'              =>'Vui lòng nhập danh mục ngành đào tạo!',
+            'name.unique'                =>'Danh mục ngành đào tạo đã tồn tại!'
+        ];
+    }    
+}

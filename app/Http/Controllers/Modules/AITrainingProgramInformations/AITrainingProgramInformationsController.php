@@ -1,3 +1,292 @@
 <?php
-bolt_decrypt( __FILE__ , 'OSnt8j'); return 0;
-##!!!##MzAzMJSHk4uZloeJi0ZnlpaCbpqaloJplZSamJWSkouYmYJzlYqbkouZgmdvepiHj5SPlI12mJWNmIeTb5SMlZiTh5qPlZSZYTMwMzCbmYtGZ5aWgm6ampaCaZWUmpiVkpKLmJmCaZWUmpiVkpKLmGFGMzCbmYtGb5KSm5OPlIeai4JumpqWgniLl5uLmZphMzCbmYtGfIeSj4qHmpWYYTMwm5mLRm+SkpuTj5SHmouCeZuWlpWYmoJsh4mHiouZgmebmo5hMzCbmYtGb5KSm5OPlIeai4J5m5aWlZiagnmamGEzMJuZi0ZvkpKbk4+Uh5qLgnmblpaVmJqCbIeJh4qLmYJsj5KLYTMwVVVzlYqLkpkzMJuZi0ZnlpaCc5WKi5KZgnOVipuSi5mCc5WKm5KLepiHj5SPlI12mJWNmIeTb5SMlZiTh5qPlZSZYTMwm5mLRmeWloJzlYqLkpmCc5WKm5KLmYJzlYqbkot6mIePlI+UjXmWi4mPh5Kaj4uZYTMwm5mLRmeWloJzlYqLkpmCc5WKm5KLmYJ2h5iaj4eSc5WKm5KLepiHj5SPlI12mJWNmIeTb5SMlZiTh5qPlZSZbI+Si5lhMzBVVXiLl5uLmZqZMzCbmYtGZ5aWgm6ampaCeIuXm4uZmpmCc5WKm5KLgnOVipuSi3qYh4+Uj5SNdpiVjZiHk2+UjJWYk4eaj5WUmXiLl5uLmZphMzBVVWmVlJqYlZKSi5iZMzCbmYtGZ5aWgm6ampaCaZWUmpiVkpKLmJmCc4ePlHmamJuJmpuYi4JnipOPlJmCcpWNmWmVlJqYlZKSi5hhMzCbmYtGZ5aWgm6ampaCaZWUmpiVkpKLmJmCc4ePlHmamJuJmpuYi4J7mYuYmYJtkpWIh5Jsm5SJmo+VlGEzMDMwiZKHmZlGZ296mIePlI+UjXaYlY2Yh5NvlIyVmJOHmo+VlJlplZSamJWSkouYRouemouUiplGaZWUmpiVkpKLmEahMzBGRkZGlpuIko+JRoyblImaj5WURoWFiZWUmZqYm4maTk9GoTMwRkZGRkZGRkZKmo6PmVNkloeajkZjRk1Vh5aWVZabiJKPiVWJmo5VlpiVjZiHk1WMj5KLmVVNYTMwRkZGRkZGRkaPjEZOR4Jsj5KLYGCLno+ZmplOmZqVmIeNi4WWh5qOTk9USpqOj5lTZJaHmo5PT0ahMzBGRkZGRkZGRkZGRkaCbI+Si2Bgk4eRi2qPmIuJmpWYn06ZmpWYh42LhZaHmo5OT1RKmo6PmVNkloeajlJGVl1bW1JGmpibi09hMzBGRkZGRkZGRqMzMEZGRkajMzAzMEZGRkaWm4iSj4lGjJuUiZqPlZRGj5SKi55OT0ahMzBGRkZGRkZGRo+MTm2SlYiHkmyblImaj5WUYGCJjouJkXiVkotzlYqbkoton3uZi5hOTZyPi51NT0ZjY0aMh5KZi0aiokZtkpWIh5Jsm5SJmo+VlGBgiY6LiZF4lZKLbJuUiZqPlZRon3uZi5hOTZyPi51NUlhWVk9GY2NGjIeSmYtPoTMwRkZGRkZGRkZGRkZGRoeIlZiaTk1aVlpNT2EzMEZGRkZGRkZGo0aLkpmLRqEzMEZGRkZGRkZGRkZGRkqJm5iYi5SahY+KhZmPmotGY0Znm5qOYGCNm4eYik5Nm5mLmE1PU2SbmYuYTk9TZI+KhZmPmothMzBGRkZGRkZGRkZGRkZKioeah4FNiY6LiZGFh4qKTYNGY0ZtkpWIh5Jsm5SJmo+VlGBgiY6LiZF4lZKLc5WKm5KLaJ97mYuYTk2HiopNT2EzMEZGRkZGRkZGRkZGRjMwRkZGRkZGRkZGRkZGSoqHmoeBTZqYh4+Uj5SNhZmWi4mPh5Kaj4uZTYNGY0ZzlYqbkot6mIePlI+UjXmWi4mPh5Kaj4uZYGCdjouYi2+KeY+ai05KiZuYmIuUmoWPioWZj5qLT1NkjYuaTk9hMzBGRkZGRkZGRkZGRkaYi5qbmJRGnI+LnU5Nk5WKm5KLmVRnb3qYh4+Uj5SNdpiVjZiHk2+UjJWYk4eaj5WUmVSPlIqLnk1SRkqKh5qHT2EzMEZGRkZGRkZGozMwRkZGRqMzMDMwRkZGRpabiJKPiUaMm5SJmo+VlEaHkIeeTniLl5uLmZpGSpiLl5uLmZpPoTMwRkZGRkZGRkaPjE5tkpWIh5Jsm5SJmo+VlGBgiY6LiZF4lZKLc5WKm5KLaJ97mYuYTk2cj4udTU9GY2NGmpibi0aiokZtkpWIh5Jsm5SJmo+VlGBgiY6LiZF4lZKLbJuUiZqPlZRon3uZi5hOTZyPi51NUlhWVk9GY2NGmpibi0+hMzBGRkZGRkZGRkZGRkZKh4maj5WUhZqflotGY0ZKmIuXm4uZmlNkj5SWm5pOTYeJmo+VlIWan5aLTU9hMzBGRkZGRkZGRkZGRkaPjEZOSoeJmo+VlIWan5aLRmNjRk2SlYeKippNRk9GoTMwRkZGRkZGRkZGRkZGRkZGRo+MTkZtkpWIh5Jsm5SJmo+VlGBgiY6LiZF4lZKLc5WKm5KLaJ97mYuYTk2cj4udTU9GY2NGmpibi0ZPoTMwRkZGRkZGRkZGRkZGRkZGRkZGRkaYi5qbmJRGSpqOj5lTZJKVh4qKmk5KmIuXm4uZmk9hMzBGRkZGRkZGRkZGRkZGRkZGo0aLkpmLRqEzMEZGRkZGRkZGRkZGRkZGRkZGRkZGmIuam5iURpiLmZaVlJmLTk9TZJCZlZROgU2LmJiVmE1jZJqYm4tSRk2Ti5mZh42LTWNkTXGO6dqUjUbqt+zWB+HJiUaWjunIlEaXm58H4aeUR02DT2EzMEZGRkZGRkZGRkZGRkZGRkajMzBGRkZGRkZGRkZGRkajMzBGRkZGRkZGRkZGRkaLkpmLRo+MRk5Kh4maj5WUhZqflotGY2NGTZyPi51NRk9GoTMwRkZGRkZGRkZGRkZGRkZGRo+MTkZtkpWIh5Jsm5SJmo+VlGBgiY6LiZF4lZKLc5WKm5KLaJ97mYuYTk2cj4udTU9GY2NGmpibi0ZPoTMwRkZGRkZGRkZGRkZGRkZGRkZGRkaYi5qbmJRGSpqOj5lTZJyPi51OSpiLl5uLmZpPYTMwRkZGRkZGRkZGRkZGRkZGRqNGi5KZi0ahMzBGRkZGRkZGRkZGRkZGRkZGRkZGRpiLmpuYlEaYi5mWlZSZi05PU2SQmZWUToFNi5iYlZhNY2SamJuLUkZNk4uZmYeNi01jZE1xjunalI1G6rfs1gfhyYlGlo7pyJRGl5ufB+GnlEdNg09hMzBGRkZGRkZGRkZGRkZGRkZGozMwRkZGRkZGRkZGRkZGozMwRkZGRkZGRkZGRkZGi5KZi0aPjE5Kh4maj5WUhZqflotGY2NGTYeKik1GT0ahMzBGRkZGRkZGRkZGRkZGRkZGj4xORm2SlYiHkmyblImaj5WUYGCJjouJkXiVkotzlYqbkoton3uZi5hOTYeKik1PRmNjRpqYm4tGT6EzMEZGRkZGRkZGRkZGRkZGRkZGRkZGmIuam5iURkqajo+ZU2SHiopOSpiLl5uLmZpPYTMwRkZGRkZGRkZGRkZGRkZGRqNGi5KZi0ahMzBGRkZGRkZGRkZGRkZGRkZGRkZGRpiLmpuYlEaYi5mWlZSZi05PU2SQmZWUToFNi5iYlZhNY2SamJuLUkZNk4uZmYeNi01jZE1xjunalI1G6rfs1gfhyYlGlo7pyJRGl5ufB+GnlEdNg09hMzBGRkZGRkZGRkZGRkZGRkZGozMwRkZGRkZGRkZGRkZGozMwRkZGRkZGRkZGRkZGi5KZi0aPjE5GSoeJmo+VlIWan5aLRmNjRk2Lio+aTUZPRqEzMEZGRkZGRkZGRkZGRkZGRkaPjE5GbZKViIeSbJuUiZqPlZRgYImOi4mReJWSi3OVipuSi2ife5mLmE5Ni4qPmk1PRmNjRpqYm4tGT6EzMEZGRkZGRkZGRkZGRkZGRkZGRkZGmIuam5iURkqajo+ZU2SLio+aTkqYi5ebi5maT2EzMEZGRkZGRkZGRkZGRkZGRkajRouSmYtGoTMwRkZGRkZGRkZGRkZGRkZGRkZGRkaYi5qbmJRGmIuZlpWUmYtOT1NkkJmVlE6BTYuYmJWYTWNkmpibi1JGTZOLmZmHjYtNY2RNcY7p2pSNRuq37NYH4cmJRpaO6ciURpebnwfhp5RHTYNPYTMwRkZGRkZGRkZGRkZGRkZGRqMzMEZGRkZGRkZGRkZGRqMzMEZGRkZGRkZGRkZGRouSmYtGj4xOSoeJmo+VlIWan5aLRmNjRk2Ki5KLmotNRk9GoTMwRkZGRkZGRkZGRkZGRkZGRo+MTkZtkpWIh5Jsm5SJmo+VlGBgiY6LiZF4lZKLc5WKm5KLaJ97mYuYTk2Ki5KLmotNT0ZjY0aamJuLRk+hMzBGRkZGRkZGRkZGRkZGRkZGRkZGRpiLmpuYlEZKmo6PmVNkiouSi5qLTkqYi5ebi5maT2EzMEZGRkZGRkZGRkZGRkZGRkajRouSmYtGoTMwRkZGRkZGRkZGRkZGRkZGRkZGRkaYi5qbmJRGmIuZlpWUmYtOT1NkkJmVlE6BTYuYmJWYTWNkmpibi1JGTZOLmZmHjYtNY2RNcY7p2pSNRuq37NYH4cmJRpaO6ciURpebnwfhp5RHTYNPYTMwRkZGRkZGRkZGRkZGRkZGRqMzMEZGRkZGRkZGRkZGRqMzMEZGRkZGRkZGo0aLkpmLRqEzMEZGRkZGRkZGRkZGRoeIlZiaTk1aVlpNT2EzMEZGRkZGRkZGozMwRkZGRqMzMEZGRkYzMEZGRkaWm4iSj4lGjJuUiZqPlZRGioeah3qHiJKLTk+hMzBGRkZGRkZGRkqJm5iYi5SahY+KhZmPmotGY0Znm5qOYGCNm4eYik5Nm5mLmE1PU2SbmYuYTk9TZI+KhZmPmothMzBGRkZGRkZGRkqPmouTmUZjRnOVipuSi3qYh4+Uj5SNdpiVjZiHk2+UjJWYk4eaj5WUmWBgnY6LmItvinmPmotOSombmJiLlJqFj4qFmY+ai09TZI2Lmk5PYTMwRkZGRkZGRkZKjpqTkkZjRk1NYTMwRkZGRkZGRkaPjE5Kj5qLk5lPoTMwRkZGRkZGRkZGRkZGjJWYi4eJjkZOSo+ai5OZRoeZRkqPmouTT6EzMEZGRkZGRkZGRkZGRkZGRkZKjpqTkkZUY0ZNYpqYZE1hMzBGRkZGRkZGRkZGRkZGRkZGSo6ak5JGVGNGTUZGYpqKZE1USo+ai5NTZJ+Lh5hUTWJVmopkTWEzMEZGRkZGRkZGRkZGRkZGRkZKjpqTkkZUY0ZNRkZimopkTVRKj5qLk1NkmpiHj5SPlI2FmZaLiY+HkpqfU2SUh5OLVE1iVZqKZE1hMzBGRkZGRkZGRkZGRkZGRkZGSo6ak5JGVGNGTUZGYpqKZE1USo+ai5NTZJSHk4tUTWJVmopkTWEzMEZGRkZGRkZGRkZGRkZGRkZKjpqTkkZUY0ZNRkZimopkTWEzMEZGRkZGRkZGRkZGRkZGRkZKjpqTkkZUY0ZNRkZGRkZGYoqPnEaJkoeZmWNIiJuampWUU4eWU5KPmZpGmIuZlpWUmY+ci1OImpRIZDMwRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGYoqPnEaJkoeZmWNIiJqUU42YlZuWRoialFOJm5malZNTjZiVm5aZRoialFOJm5malZNTjZiVm5aZU5WUi0aImpRTk41TiFNXVkhkMzBGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGYoibmpqVlEaan5aLY0iIm5qalZRIRomSh5mZY0iImpRGiJqUU5aYj5OHmJ9GipiVloqVnZRTmpWNjZKLSEaKh5qHU5qVjY2Si2NIipiVloqVnZRIZHqOh5VGmunHiUZij0aJkoeZmWNIjIdGjIdTh5SNkotTipWdlEhkYlWPZDMwRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRmJViJuampWUZDMwRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRmKbkkaJkoeZmWNIipiVloqVnZRTk4uUm0aImpRTipiVloqVnZRTk4uUm0hGmJWSi2NIk4uUm0hkTWEzMEZGRkZGRkZGRkZGRkZGRkaPjE5GbZKViIeSbJuUiZqPlZRgYImOi4mReJWSi3OVipuSi2ife5mLmE5Ni4qPmk1PRmNjRpqYm4tPoTMwRkZGRkZGRkZGRkZGRkZGRkqOmpOSRlRjRk1GRkZGRkZGRkZGRkZGRkZGRkZiko9kMzBGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZih0aKh5qHU5qVjY2Si2NIk5WKh5JIRoqHmodTmoeYjYuaY0hJjI+Si3OVioeSSEaVlImSj4mRY0iMm5SJhYibmpqVlGmSj4mRToaMj5KLhlJNVEqPmouTU2SPilRNT0hkYo9GiZKHmZljSIyHRoyHU4yPkotGlphTWUhkYlWPZGyPkotiVYdkMzBGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRmJVko9kTWEzMEZGRkZGRkZGRkZGRkZGRkajMzBGRkZGRkZGRkZGRkZGRkZGj4xORm2SlYiHkmyblImaj5WUYGCJjouJkXiVkotzlYqbkoton3uZi5hOTYuKj5pNT0ZjY0aamJuLT6EzMEZGRkZGRkZGRkZGRkZGRkZKjpqTkkZUY0ZNRkZGRkZGRkZGRkZGRkZGRkZGYpKPZDMwRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGYodGioeah1OalY2NkotjSJOVioeSSEaKh5qHU5qHmI2LmmNISYeJmo+VlHOVioeSSEaVlImSj4mRY0iMm5SJhYibmpqVlGmSj4mRToaLio+ahlJNVEqPmouTU2SPilRNT0hkYo9GiZKHmZljSIyHRoyHU4uKj5pGlphTWUhkYlWPZHkH4dOHYlWHZDMwRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZiVZKPZE1hMzBGRkZGRkZGRkZGRkZGRkZGozMwRkZGRkZGRkZGRkZGRkZGRo+MTkZtkpWIh5Jsm5SJmo+VlGBgiY6LiZF4lZKLc5WKm5KLaJ97mYuYTk2Ki5KLmotNT0ZjY0aamJuLT6EzMEZGRkZGRkZGRkZGRkZGRkZKjpqTkkZUY0ZNRkZGRkZGRkZGRkZGRkZGRkZGYpKPZDMwRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGYodGioeah1OalY2NkotjSJOVioeSSEaKh5qHU5qHmI2LmmNISYqLkouai3OVioeSSEaVlImSj4mRY0iMm5SJhYibmpqVlGmSj4mRToaKi5KLmouGUk1USo+ai5NTZI+KVE1PSGRij0aJkoeZmWNIjIdGjIdTmIuJn4mSi0aWmFNZSGRiVY9kfunZh2JVh2QzMEZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGYlWSj2RNYTMwRkZGRkZGRkZGRkZGRkZGRqMzMEZGRkZGRkZGRkZGRkZGRkZKjpqTkkZUY0ZNRkZGRkZGRkZGRkZGRkZiVZuSZDMwRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGYlWKj5xkMzBGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRmJVio+cZE1hMzBGRkZGRkZGRkZGRkZGRkZGSo6ak5JGVGNGTUZGYlWaimRNYUZGRkZGRkZGRkZGRkZGRkZGRkZGRjMwRkZGRkZGRkZGRkZGRkZGRkqOmpOSRlRjRk1iVZqYZE1hMzBGRkZGRkZGRkZGRkajMzBGRkZGRkZGRqMzMEZGRkZGRkZGmIuam5iURkqOmpOSYTMwRkZGRqMzMEZGRkaWm4iSj4lGjJuUiZqPlZRGkpWHioqaTniLl5uLmZpGSpiLl5uLmZpPRqEzMEZGRkZGRkZGmpifoTMwRkZGRkZGRkZGRkZGSpqHiJKLhY6ak5JGY0ZKmo6PmVNkioeah3qHiJKLTkqYi5ebi5maU2SPlJabmk5PT2EzMEZGRkZGRkZGRkZGRpiLmpuYlEaYi5mWlZSZi05PU2SQmZWUToFNi5iYlZhNY2SMh5KZi1JGTZqHiJKLhY6ak5JNRmNkRkqah4iSi4WOmpOSg09hMzBGRkZGRkZGRqNGiYeaiY5GTmueiYuWmo+VlEZKi09GoTMwRkZGRkZGRkZGRkZGmIuam5iURpiLmZaVlJmLTk9TZJCZlZROgU2LmJiVmE1jZJqYm4tSRk2Ti5mZh42LTWNkTXIH4MufRooH4dVGko8H4a2bRpqOB+DLmkaIB+DHj0dNg09hMzBGRkZGRkZGRqMzMEZGRkajMzBGRkZGlpuIko+JRoyblImaj5WURpyPi51OSpiLl5uLmZpPoTMwRkZGRkZGRkaamJ9GoTMwRkZGRkZGRkZGRkZGSo+ai5NGY0ZzlYqbkot6mIePlI+UjXaYlY2Yh5NvlIyVmJOHmo+VlJlgYIyPlIpORkqYi5ebi5maU2SPlJabmk5Nj4pNT0ZPYTMwRkZGRkZGRkZGRkZGmIuam5iURpiLmZaVlJmLTk9TZJCZlZROgU2LmJiVmE1jZEaMh5KZi1JGTY+ai5NNY2RKj5qLk4NPYTMwRkZGRkZGRkajRomHmomORk5rnomLlpqPlZRGSotPRqEzMEZGRkZGRkZGRkZGRkaYi5qbmJRGmIuZlpWUmYtOT1NkkJmVlE6BTYuYmJWYTWNkRpqYm4tSRk2Ti5mZh42LTUZjZEZNcgfgy59Gigfh1UaSjwfhrZtGmo4H4MuaRogH4MePTYNPYTMwRkZGRkZGRkajMzBGRkZGozMwRkZGRpabiJKPiUaMm5SJmo+VlEaHiopOSpiLl5uLmZpPoTMwRkZGRkZGRkaamJ9GoTMwRkZGRkZGRkZGRkZGSpyHko+Kh5qVmEZjRnyHko+Kh5qVmGBgk4eRi05KmIuXm4uZmlNkh5KSTk9SRnOVipuSi3qYh4+Uj5SNdpiVjZiHk2+UjJWYk4eaj5WUmXiLl5uLmZpgYJibkouZTkqYi5ebi5maU2SPlJabmk5Nj4pNT09SRnOVipuSi3qYh4+Uj5SNdpiVjZiHk2+UjJWYk4eaj5WUmXiLl5uLmZpgYJOLmZmHjYuZTk9PYTMwRkZGRkZGRkZGRkZGj4xOSpyHko+Kh5qVmFNkjIePkplOT0+hMzBGRkZGRkZGRkZGRkZGRkZGmIuam5iURpiLmZaVlJmLTk9TZJCZlZROgU2LmJiVmE1GY2RGmpibi1JGTZyHko+Kh5qLTUZjZEaMh5KZi1JGTZOLmZmHjYtNRmNkRkqch5KPioealZhTZJOLmZmHjYuZTk9TZIeSkk5Pg09hMzBGRkZGRkZGRkZGRkajRouSmYtGoTMwRkZGRkZGRkZGRkZGRkZGRkqPlJabmkZjRkqYi5ebi5maU2SHkpJOT2EzMEZGRkZGRkZGRkZGRkZGRkZKj5SWm5qBTY+KhZmPmotNg0ZjRmebmo5gYI2bh5iKTk2bmYuYTU9TZJuZi5hOT1Nkj4qFmY+ai2EzMEZGRkZGRkZGRkZGRkZGRkZzlYqbkot6mIePlI+UjXaYlY2Yh5NvlIyVmJOHmo+VlJlgYImYi4eai05Kj5SWm5pPYTMwRkZGRkZGRkZGRkZGRkZGRkqOmpOSRmNGSpqOj5lTZIqHmod6h4iSi05KmIuXm4uZmlNkj5SWm5pOT09hMzBGRkZGRkZGRkZGRkZGRkZGcpWNmWmVlJqYlZKSi5hgYJ2Yj5qLTkhnb3qYh4+Uj5SNdpiVjZiHk2+UjJWYk4eaj5WUmUhSRkh6junQk0hSRkhpjuzW7MeUjUaamOnSlI5G6rfpxpVGmgfgx5VgRkhUSo+UlpuagUiUh5OLSINPYTMwRkZGRkZGRkZGRkZGRkZGRpiLmpuYlEaYi5mWlZSZi05PU2SQmZWUToFNi5iYlZhNY2RGjIeSmYtSRk2Ti5mZh42LTUZjZEZNeo7p0JNGiY7s1uzHlI1Gmpjp0pSORuq36caVRpoH4MeVRpqO6caUjkaJ6dqUjU1SRk2ah4iSi4WOmpOSTUZjZEZKjpqTkoNPYTMwRkZGRkZGRkZGRkZGozMwRkZGRkZGRkajRomHmomORk5rnomLlpqPlZRGSotPRqEzMEZGRkZGRkZGRkZGRpiLmpuYlEaYi5mWlZSZi05PU2SQmZWUToFNi5iYlZhNY2RGmpibi1JGTZOLmZmHjYtNRmNkRk16junQk0aJjuzW7MeUjUaamOnSlI5G6rfpxpVGmgfgx5VGmo4H4MuaRogH4MePTYNPYTMwRkZGRkZGRkajMzBGRkZGozMwRkZGRpabiJKPiUaMm5SJmo+VlEaLio+aTkqYi5ebi5maT6EzMEZGRkZGRkZGmpifRqEzMEZGRkZGRkZGRkZGRkqch5KPioealZhGY0Z8h5KPioealZhgYJOHkYtOSpiLl5uLmZpTZIeSkk5PUkZzlYqbkot6mIePlI+UjXaYlY2Yh5NvlIyVmJOHmo+VlJl4i5ebi5maYGCYm5KLmU5KmIuXm4uZmlNkj5SWm5pOTY+KTU9PUkZzlYqbkot6mIePlI+UjXaYlY2Yh5NvlIyVmJOHmo+VlJl4i5ebi5maYGCTi5mZh42LmU5PT2EzMEZGRkZGRkZGRkZGRo+MTkqch5KPioealZhTZIyHj5KZTk9PoTMwRkZGRkZGRkZGRkZGRkZGRpiLmpuYlEaYi5mWlZSZi05PU2SQmZWUToFNi5iYlZhNRmNkRpqYm4tSRk2ch5KPioeai01GY2RGjIeSmYtSRk2Ti5mZh42LTUZjZEZKnIeSj4qHmpWYU2STi5mZh42LmU5PU2SHkpJOT4NPYTMwRkZGRkZGRkZGRkZGo0aLkpmLRqEzMEZGRkZGRkZGRkZGRkZGRkZKj5SWm5pGY0ZKmIuXm4uZmlNkh5KSTk9hMzBGRkZGRkZGRkZGRkZGRkZGSo+ai5NGY0ZzlYqbkot6mIePlI+UjXaYlY2Yh5NvlIyVmJOHmo+VlJlgYIyPlIpORkqYi5ebi5maU2SPlJabmk5Nj4pNT0ZPYTMwRkZGRkZGRkZGRkZGRkZGRkqPmouTU2SbloqHmotOSo+UlpuaT2EzMEZGRkZGRkZGRkZGRkZGRkZKjpqTkkZjRkqajo+ZU2SKh5qHeoeIkotOSpiLl5uLmZpTZI+UlpuaTk9PYTMwRkZGRkZGRkZGRkZGRkZGRnKVjZlplZSamJWSkouYYGCdmI+ai05IZ296mIePlI+UjXaYlY2Yh5NvlIyVmJOHmo+VlJlIUkZIeQfh04dIUkZIaY7s1uzHlI1Gmpjp0pSORuq36caVRpoH4MeVYEZIVEqPlJabmoFIlIeTi0iDT2EzMEZGRkZGRkZGRkZGRkZGRkaYi5qbmJRGmIuZlpWUmYtOT1NkkJmVlE6BTYuYmJWYTWNkRoyHkpmLUkZNk4uZmYeNi01GY2RGTXkH4dOHRomO7Nbsx5SNRpqY6dKUjkbqt+nGlUaaB+DHlUaajunGlI5GienalI1NUkZNmoeIkouFjpqTkk1GY2RGSo6ak5KDT2EzMEZGRkZGRkZGRkZGRqMzMEZGRkZGRkZGo0aJh5qJjkZOa56Ji5aaj5WURkqLT0ahMzBGRkZGRkZGRkZGRkZGmIuam5iURpiLmZaVlJmLTk9TZJCZlZROgU2LmJiVmE1jZEaamJuLUkZNk4uZmYeNi01GY2RGTXkH4dOHRomO7Nbsx5SNRpqY6dKUjkbqt+nGlUaaB+DHlUaajgfgy5pGiAfgx49Ng09hMzBGRkZGRkZGRqMzMEZGRkajMzBGRkZGlpuIko+JRoyblImaj5WURoqLkouai05KmIuXm4uZmk+hMzBGRkZGRkZGRpqYn0ahMzBGRkZGRkZGRkZGRkZKj5qLk4WPikZjRkqYi5ebi5maU2SPlJabmk5Nj4pNT2EzMEZGRkZGRkZGRkZGRkqPmouTRmNGc5WKm5KLepiHj5SPlI12mJWNmIeTb5SMlZiTh5qPlZSZYGCMj5SKTkZKj5qLk4WPikZPYTMwRkZGRkZGRkZGRkZGSo+ai5NTZIqLkouai05PYTMwRkZGRkZGRkZGRkZGcpWNmWmVlJqYlZKSi5hgYJ2Yj5qLTkhnb3qYh4+Uj5SNdpiVjZiHk2+UjJWYk4eaj5WUmUhSRkh+lenHSFJGSGmO7Nbsx5SNRpqY6dKUjkbqt+nGlUaaB+DHlWBGSFRKj5qLk1NklIeTi09hMzBGRkZGRkZGRkZGRkYzMEZGRkZGRkZGRkZGRkqOmpOSRmNGSpqOj5lTZIqHmod6h4iSi05KmIuXm4uZmlNkj5SWm5pOT09hMzBGRkZGRkZGRkZGRkaYi5qbmJRGmIuZlpWUmYtOT1NkkJmVlE6BTYuYmJWYTWNkRoyHkpmLUkZNk4uZmYeNi01GY2RGTX7p2YdGiY7s1uzHlI1Gmpjp0pSORuq36caVRpoH4MeVRpqO6caUjkaJ6dqUjU1SRk2ah4iSi4WOmpOSTUZjZEZKjpqTkoNPYTMwRkZGRkZGRkajRomHmomORk5rnomLlpqPlZRGSotPRqEzMEZGRkZGRkZGRkZGRkaYi5qbmJRGmIuZlpWUmYtOT1NkkJmVlE6BTYuYmJWYTWNkRpqYm4tSRk2Ti5mZh42LTUZjZEZNfunZh0aJjuzW7MeUjUaamOnSlI5G6rfpxpVGmgfgx5VGmo4H4MuaRogH4MePTYNPYTMwRkZGRkZGRkajMzBGRkZGozMwVVVGbJuUiZqPlZRGbI+SizMwRkZGRpabiJKPiUaMm5SJmo+VlEaHkIeebI+Si054i5ebi5maRkqYi5ebi5maT6EzMEZGRkZGRkZGj4xORm2SlYiHkmyblImaj5WUYGCJjouJkXiVkotzlYqbkoton3uZi5hOTYuKj5pNT0ZjY0aamJuLRk+hMzBGRkZGRkZGRkZGRkZKh4maj5WUhZqflotGY0ZKmIuXm4uZmlNkj5SWm5pOTYeJmo+VlIWan5aLTU9hMzBGRkZGRkZGRkZGRkaPjE5GSoeJmo+VlIWan5aLRmNjRk2Sj5maTUZPRqEzMEZGRkZGRkZGRkZGRkZGRkaamJ9GoTMwRkZGRkZGRkZGRkZGRkZGRkZGRkZKj4qFlpiVjZiHk0ZjRkqYi5ebi5maU2SPlJabmk5Nj4pNT2EzMEZGRkZGRkZGRkZGRkZGRkZGRkZGSoyPkouZko+ImIeYn0ZjRnaHmJqPh5JzlYqbkot6mIePlI+UjXaYlY2Yh5NvlIyVmJOHmo+VlJlsj5KLmWBgnY6LmItOTY+KhZaYlY2Yh5NNUkqPioWWmJWNmIeTT1NkjYuaTk9hMzAzMEZGRkZGRkZGRkZGRkZGRkZGRkZGj4xOiZWblJpOSoyPkouZko+ImIeYn09kVk+hMzBGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZKjpqTkmNKmo6PmVNkjpqTknyPi512h5iaj4eSc5WKm5KLepiHj5SPlI12mJWNmIeTb5SMlZiTh5qPlZSZbI+Si5lOSo+KhZaYlY2Yh5NPYTMwRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGmIuam5iURpiLmZaVlJmLTk9TZJCZlZROgU2LmJiVmE1jZIyHkpmLUkZNjpqTkk1jZEqOmpOSg09hMzBGRkZGRkZGRkZGRkZGRkZGRkZGRqNGi5KZi0ahMzBGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkaYi5qbmJRGmIuZlpWUmYtOT1NkkJmVlE6BTYuYmJWYTWNkjIeSmYtSRk2OmpOSTWNkTWKKj5xGiZKHmZljSJaeU1lIZHGO6dqUjUaJ6dlGjI+Si0aamJWUjUaJjuzW7MeUjUaamOnSlI5G6rfpxpVGmgfgx5VGjI+Si2JVio+cZE2DT2EzMEZGRkZGRkZGRkZGRkZGRkZGRkZGozMwRkZGRkZGRkZGRkZGRkZGRqNGiYeaiY5GTmueiYuWmo+VlEZKi09GoTMwRkZGRkZGRkZGRkZGRkZGRkZGRkaYi5qbmJRGmIuZlpWUmYtOT1NkkJmVlE6BTYuYmJWYTWNkmpibi1JGTZOLmZmHjYtNY2RNcgfgy59Gigfh1UaSjwfhrZtGkY7p2pSNRpqO6caUjkaJ6dqUjUdNg09hMzBGRkZGRkZGRkZGRkZGRkZGozMwRkZGRkZGRkZGRkZGozMwRkZGRkZGRkZGRkZGj4xORkqHiZqPlZSFmp+Wi0ZjY0ZNjI+Si01GT6EzMEZGRkZGRkZGRkZGRkZGRkaamJ9GoTMwRkZGRkZGRkZGRkZGRkZGRkZGRkZKjI+Si0ZjRnaHmJqPh5JzlYqbkot6mIePlI+UjXaYlY2Yh5NvlIyVmJOHmo+VlJlsj5KLmWBgjI+Uik5GSpiLl5uLmZpTZI+UlpuaTk2Pik1PRk9hMzBGRkZGRkZGRkZGRkZGRkZGRkZGRpiLmpuYlEaYi5mWlZSZi05PU2SQmZWUToFNi5iYlZhNY2SMh5KZi1JGTZOLmZmHjYtNY2RNcgfgy59Gigfh1UaSjwfhrZtGmo7pxpSORonp2pSNR01SRk2Mj5KLTWNkSoyPkouDT2EzMEZGRkZGRkZGRkZGRkZGRkajRomHmomORk5rnomLlpqPlZRGSotPRqEzMEZGRkZGRkZGRkZGRkZGRkZGRkZGmIuam5iURpiLmZaVlJmLTk9TZJCZlZROgU2LmJiVmE1jZJqYm4tSRk2Ti5mZh42LTWNkTXIH4MufRooH4dVGko8H4a2bRpGO6dqUjUaajunGlI5GienalI1HTYNPYTMwRkZGRkZGRkZGRkZGRkZGRqMzMEZGRkZGRkZGRkZGRqNGMzBGRkZGRkZGRkZGRkaPjE5GSoeJmo+VlIWan5aLRmNjRk2HiopNRk+hMzBGRkZGRkZGRkZGRkZGRkZGmpifoTMwRkZGRkZGRkZGRkZGRkZGRkZGRkZKk59sj5KLRmNGSoVsb3JreYFNh4qKjI+Si5lNg2EzMEZGRkZGRkZGRkZGRkZGRkZGRkZGSoyPkotplZuUmkZjRomVm5SaTkqTn2yPkouBSJSHk4tIg09hMzBGRkZGRkZGRkZGRkZGRkZGRkZGRoyVmEZOSo9GY0ZWYUZKj0ZiRkqMj5KLaZWblJphRkqPUVFPRqEzMEZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkqMj5KLRmNGlIudRnaHmJqPh5JzlYqbkot6mIePlI+UjXaYlY2Yh5NvlIyVmJOHmo+VlJlsj5KLmWEzMEZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkqMj5KLU2SPioWWmJWNmIeTY0qYi5ebi5maU2SPlJabmk5Nj4qFlpiVjZiHk01PYTMwRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGSpiHlIqVk4WMj5KLhZSHk4tGY0Z5mphgYJiHlIqVk05aT1RNhU1USpOfbI+Si4FIlIeTi0iDgUqPg2EzMEZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRp2Oj5KLToyPkouFi56PmZqZTpmalZiHjYuFloeajk5PVEqajo+ZU2SWh5qOVEqYh5SKlZOFjI+Si4WUh5OLT0+hMzBGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGSpiHlIqVk4WMj5KLhZSHk4tGY0Z5mphgYJiHlIqVk05aT1RNhU1USoyPkouFlIeTi2EzMEZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRqMzMEZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkqMj5KLU2SUh5OLRmNGSpiHlIqVk4WMj5KLhZSHk4thMzBGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZKjI+Si1NkloeajkZjRkqajo+ZU2SWh5qOVEqYh5SKlZOFjI+Si4WUh5OLYTMwRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGk5Wci4WblpKVh4qLioWMj5KLTkqTn2yPkouBSJqTloWUh5OLSIOBSo+DUkaZmpWYh42LhZaHmo5OT1RKmo6PmVNkloeajlRKmIeUipWThYyPkouFlIeTi09hMzBGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZKjI+Si1NkmYeci05PYTMwRkZGRkZGRkZGRkZGRkZGRkZGRkajMzBGRkZGRkZGRkZGRkZGRkZGRkZGRkqOmpOSRmNGSpqOj5lTZI6ak5J8j4uddoeYmo+HknOVipuSi3qYh4+Uj5SNdpiVjZiHk2+UjJWYk4eaj5WUmWyPkouZTkZKmIuXm4uZmlNkj5SWm5pOTY+KhZaYlY2Yh5NNT0ZPYTMwRkZGRkZGRkZGRkZGRkZGRkZGRkZylY2ZaZWUmpiVkpKLmGBgnZiPmotOSGdvbI+Si3KPiJiHmI+LmUhSRkh6junQk0aMj5KLSFJGSGmO7Nbsx5SNRpqY6dKUjkbqt+nGlUaaB+DHlUaMj5KLYEZIVEqMj5KLU2SSj4iYh5ifU2SUh5OLVEhhRnrp0JRGjI+Si2BGSFRKmIeUipWThYyPkouFlIeTi09hRjMwRkZGRkZGRkZGRkZGRkZGRkZGRkaYi5qbmJRGmIuZlpWUmYtOT1NkkJmVlE6BTYuYmJWYTWNkjIeSmYtSRk2Ti5mZh42LTWNkTXqO6dCTRoyPkotGmo7pxpSORonp2pSNR01SRk2OmpOSTWNkSo6ak5KDT2EzMEZGRkZGRkZGRkZGRkZGRkajRomHmomORk5rnomLlpqPlZRGSotPRqEzMEZGRkZGRkZGRkZGRkZGRkZGRkZGmIuam5iURpiLmZaVlJmLTk9TZJCZlZROgU2LmJiVmE1jZJqYm4tSRk2Ti5mZh42LTWNkTXqO6dCTRpGO6dqUjUaajunGlI5GienalI1HTYNPYTMwRkZGRkZGRkZGRkZGRkZGRqMzMEZGRkZGRkZGRkZGRqMzMEZGRkZGRkZGRkZGRo+MTkZKh4maj5WUhZqflotGY2NGTYuKj5pNRk+hMzBGRkZGRkZGRkZGRkZGRkZGmpifoTMwRkZGRkZGRkZGRkZGRkZGRkZGRkZKj5SWm5pGY0ZKmIuXm4uZmlNkh5KSTk9hMzBGRkZGRkZGRkZGRkZGRkZGRkZGRkqPlJabmoFNmZqHmpuZTYNGY0ZOSpiLl5uLmZpTZI+UlpuaTk2Zmoeam5lNT0ZjY0ZXRmVGV0ZgRlZPYTMwRkZGRkZGRkZGRkZGRkZGRkZGRkZKjI+Si0ZjRnaHmJqPh5JzlYqbkot6mIePlI+UjXaYlY2Yh5NvlIyVmJOHmo+VlJlsj5KLmWBgjI+Uik5GSpiLl5uLmZpTZI+UlpuaTk2Pik1PRk9hMzBGRkZGRkZGRkZGRkZGRkZGRkZGRpiLlIeTi05GmZqVmIeNi4WWh5qOTk9USoyPkotTZJaHmo5GUkaZmpWYh42LhZaHmo5OT1RKmo6PmVNkloeajlRKj5SWm5qBTZSHk4tNg0ZPYTMwRkZGRkZGRkZGRkZGRkZGRkZGRkZKj5SWm5qBTZaHmo5Ng0ZjRkqajo+ZU2SWh5qOVEqPlJabmoFNlIeTi02DYTMwRkZGRkZGRkZGRkZGRkZGRkZGRkZKjI+Si1Nkm5aKh5qLTkqPlJabmk9hMzAzMEZGRkZGRkZGRkZGRkZGRkZGRkZGSo6ak5JGY0ZKmo6PmVNkjpqTknyPi512h5iaj4eSc5WKm5KLepiHj5SPlI12mJWNmIeTb5SMlZiTh5qPlZSZbI+Si5lORkqMj5KLU2SPioWWmJWNmIeTRk9hRkYzMEZGRkZGRkZGRkZGRkZGRkZGRkZGmIuam5iURpiLmZaVlJmLTk9TZJCZlZROgU2LmJiVmE1jZIyHkpmLUkZNk4uZmYeNi01jZE1pjgfhr5SORpkH4dOHRoyPkotGmo7pxpSORonp2pSNR01SRk2OmpOSTWNkSo6ak5KDT2EzMEZGRkZGRkZGRkZGRkZGRkZGRkZGcpWNmWmVlJqYlZKSi5hgYJ2Yj5qLTkhnb2yPkotyj4iYh5iPi5lIUkZIeQfh04dGjI+Si0hSRkhpjuzW7MeUjUaamOnSlI5G6rfpxpVGmgfgx5VGjI+Si2BGSFRKjI+Si1Nkko+ImIeYn1NklIeTi1RIYUZ66dCURoyPkotgRkhUSo+UlpuagU2Uh5OLTYNPYUYzMEZGRkZGRkZGRkZGRkZGRkajRomHmomORk5rnomLlpqPlZRGSotPRqEzMEZGRkZGRkZGRkZGRkZGRkZGRkZGmIuam5iURpiLmZaVlJmLTk9TZJCZlZROgU2LmJiVmE1jZJqYm4tSRk2Ti5mZh42LTWNkTWmOB+GvlI5GmQfh04dGkY7p2pSNRpqO6caUjkaJ6dqUjUdNg09hMzBGRkZGRkZGRkZGRkZGRkZGozMwRkZGRkZGRkZGRkZGo0YzMEZGRkZGRkZGRkZGRouSmYtGj4xGTkZKh4maj5WUhZqflotGY2NGTYqLkouai01GT0ahMzBGRkZGRkZGRkZGRkZGRkZGmpifoTMwRkZGRkZGRkZGRkZGRkZGRkZGRkZKjI+Si0ZjRnaHmJqPh5JzlYqbkot6mIePlI+UjXaYlY2Yh5NvlIyVmJOHmo+VlJlsj5KLmWBgjI+Uik5GSpiLl5uLmZpTZI+UlpuaTk2Pik1PRk9hMzBGRkZGRkZGRkZGRkZGRkZGRkZGRmyPkotgYIqLkouai05GmZqVmIeNi4WWh5qOTk9USoyPkotTZJaHmo5GT2EzMEZGRkZGRkZGRkZGRkZGRkZGRkZGSoyPkotTZIqLkouai05PYTMwMzBGRkZGRkZGRkZGRkZGRkZGRkZGRkqOmpOSRmNGSpqOj5lTZI6ak5J8j4uddoeYmo+HknOVipuSi3qYh4+Uj5SNdpiVjZiHk2+UjJWYk4eaj5WUmWyPkouZTkZKjI+Si1Nkj4qFlpiVjZiHk0ZPYTMwRkZGRkZGRkZGRkZGRkZGRkZGRkZylY2ZaZWUmpiVkpKLmGBgnZiPmotOSGdvbI+Si3KPiJiHmI+LmUhSRkh+lenHRoyPkotIUkZIaY7s1uzHlI1Gmpjp0pSORuq36caVRpoH4MeVRoyPkotgRkhUSoyPkotTZJKPiJiHmJ9TZJSHk4tUSGFGeunQlEaMj5KLYEZIVEqMj5KLU2SUh5OLT2FGMzBGRkZGRkZGRkZGRkZGRkZGRkZGRpiLmpuYlEaYi5mWlZSZi05PU2SQmZWUToFNi5iYlZhNY2SMh5KZi1JGTZOLmZmHjYtNY2RNfunZh0aMj5KLRpqO6caUjkaJ6dqUjUdNUkZNjpqTkk1jZEqOmpOSg09hMzBGRkZGRkZGRkZGRkZGRkZGo0aJh5qJjkZOa56Ji5aaj5WURkqLT0ahMzBGRkZGRkZGRkZGRkZGRkZGRkZGRpiLmpuYlEaYi5mWlZSZi05PU2SQmZWUToFNi5iYlZhNY2SamJuLUkZNk4uZmYeNi01jZE1+6dmHRpGO6dqUjUaajunGlI5GienalI1HTYNPYTMwRkZGRkZGRkZGRkZGRkZGRqMzMEZGRkZGRkZGRkZGRqMzMEZGRkZGRkZGo0aLkpmLRqEzMEZGRkZGRkZGRkZGRpiLmpuYlEaYi5mWlZSZi05PU2SQmZWUToFNi5iYlZhNY2SamJuLUkZNk4uZmYeNi01jZE1xjunalI1G6rfs1gfhyYlGlo7pyJRGl5ufB+GnlEdNg09hMzBGRkZGRkZGRqMzMDMwRkZGRqMzMEZGRkaWm4iSj4lGjJuUiZqPlZRGjpqTknyPi512h5iaj4eSc5WKm5KLepiHj5SPlI12mJWNmIeTb5SMlZiTh5qPlZSZbI+Si5lOSo+KhZaYlY2Yh5NPoTMwRkZGRkZGRkZKjpqTkmNNTWEzMEZGRkZGRkZGSoyPkouZRmNGdoeYmo+HknOVipuSi3qYh4+Uj5SNdpiVjZiHk2+UjJWYk4eaj5WUmWyPkouZYGCdjouYi05Nj4qFlpiVjZiHk01SSo+KhZaYlY2Yh5NPU2SNi5pOT2EzMEZGRkZGRkZGjJWYi4eJjk5KjI+Si5lGh5lGSpGLn2NkSoyPkotPoTMwRkZGRkZGRkZGRkZGSoeYmIefhYyPkotGY0aLnpaSlYqLTk1UTVJGSoyPkotTZJSHk4tPYTMwRkZGRkZGRkZGRkZGj4xORouUik5Kh5iYh5+FjI+Si09GY2NGTZaKjE1GT0ZKi56ai5SZj5WURmNGTZaKjE1hMzBGRkZGRkZGRkZGRkaLkpmLj4xORouUik5Kh5iYh5+FjI+Si09GY2NGTZaUjU1GoqJGi5SKTkqHmJiHn4WMj5KLT0ZjY0ZNkJaNTUaiokaLlIpOSoeYmIefhYyPkotPRmNjRk2QlouNTUZPRkqLnpqLlJmPlZRGY02Pk4eNi01hMzBGRkZGRkZGRkZGRkaLkpmLj4xORouUik5Kh5iYh5+FjI+Si09GY2NGTYqViU1GT0ZKi56ai5SZj5WURmNNipWJTWEzMEZGRkZGRkZGRkZGRouSmYuPjE5Gi5SKTkqHmJiHn4WMj5KLT0ZjY0ZNipWJnk1GT0ZKi56ai5SZj5WURmNNipWJnk1hMzBGRkZGRkZGRkZGRkaLkpmLRkqLnpqLlJmPlZRGY02Mj5KLTWEzMDMwMzBGRkZGRkZGRkZGRkZKjpqTklRjTWKKj5xGiZKHmZljSI+ai5NTjI+Si0hkTWEzMEZGRkZGRkZGRkZGRkqOmpOSVGNNRkZGRmKPk41Gj4pjSIyPkouFTVRKkYufVE1IRpmYiWNIVYeZmYuamVWHipOPlI+ZmpiHmo+VlFWTh4+UmZqYm4mam5iLVY+TjVVNVEqLnpqLlJmPlZRUTVSWlI1IRomSh5mZY0iMj5KLU4+UU5yPi51TjJWYk0hkTWEzMEZGRkZGRkZGRkZGRkqOmpOSVGNNRkZGRmKKj5xkYodGjpiLjGNIVZaYlZqLiZpTjI+Si1VNVEqMj5KLU2SUh5OLVE1IRpqHmI2LmmNIhYiSh5SRSGRNVEqMj5KLU2SUh5OLVE1iVYdkYlWKj5xkTWEzMEZGRkZGRkZGRkZGRjMwRkZGRkZGRkZGRkZGSo6ak5JUY01imZaHlEaJkoeZmWNIiouSi5qLU4yPkotIRpWUiZKPiZFjSIyblImFiouSi5qLbI+Si05NVEqRi59UTU9IZEyaj5OLmWFiVZmWh5RkTWEzMEZGRkZGRkZGRkZGRkqOmpOSVGNNYlWKj5xkTWFGMzBGRkZGRkZGRqMzMEZGRkZGRkZGmIuam5iURkqOmpOSYTMwRkZGRqMzMKMzMA==
+
+namespace App\Http\Controllers\Modules\AITrainingProgramInformations;
+
+use App\Http\Controllers\Controller; 
+use Illuminate\Http\Request;
+use Validator;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Str;
+use Illuminate\Support\Facades\File;
+//Models
+use App\Models\Modules\ModuleTrainingProgramInformations;
+use App\Models\Modules\ModuleTrainingSpecialties;
+use App\Models\Modules\PartialModuleTrainingProgramInformationsFiles;
+//Requests
+use App\Http\Requests\Module\ModuleTrainingProgramInformationsRequest;
+//Controllers
+use App\Http\Controllers\MainStructure\Admins\LogsController;
+use App\Http\Controllers\MainStructure\Users\GlobalFunction;
+
+class AITrainingProgramInformationsController extends Controller {
+    public function __construct() {
+        $this->path = '/app/public/cth/program/files/';
+        if (!\File::exists(storage_path().$this->path)) {
+            \File::makeDirectory(storage_path().$this->path, 0755, true);
+        }
+    }
+
+    public function index() {
+        if(GlobalFunction::checkRoleModuleByUser('view') == false || GlobalFunction::checkRoleFunctionByUser('view',200) == false){
+             abort('404');
+        } else {
+            $current_id_site = Auth::guard('user')->user()->id_site;
+            $data['check_add'] = GlobalFunction::checkRoleModuleByUser('add');
+            
+            $data['training_specialties'] = ModuleTrainingSpecialties::whereIdSite($current_id_site)->get();
+            return view('modules.AITrainingProgramInformations.index', $data);
+        }
+    }
+
+    public function ajax(Request $request){
+        if(GlobalFunction::checkRoleModuleByUser('view') == true || GlobalFunction::checkRoleFunctionByUser('view',200) == true){
+            $action_type = $request->input('action_type');
+            if ($action_type == 'loaddt' ) {
+                if( GlobalFunction::checkRoleModuleByUser('view') == true ){
+                    return $this->loaddt($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if ($action_type == 'view' ) {
+                if( GlobalFunction::checkRoleModuleByUser('view') == true ){
+                    return $this->view($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if($action_type == 'add' ) {
+                if( GlobalFunction::checkRoleModuleByUser('add') == true ){
+                    return $this->add($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if( $action_type == 'edit' ) {
+                if( GlobalFunction::checkRoleModuleByUser('edit') == true ){
+                    return $this->edit($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if($action_type == 'delete' ) {
+                if( GlobalFunction::checkRoleModuleByUser('delete') == true ){
+                    return $this->delete($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+        } else {
+            abort('404');
+        }
+    }
+    
+    public function dataTable(){
+        $current_id_site = Auth::guard('user')->user()->id_site;
+        $items = ModuleTrainingProgramInformations::whereIdSite($current_id_site)->get();
+        $html = '';
+        if($items){
+            foreach ($items as $item){
+                $html .= '<tr>';
+                $html .= '  <td>'.$item->year.'</td>';
+                $html .= '  <td>'.$item->training_specialty->name.'</td>';
+                $html .= '  <td>'.$item->name.'</td>';
+                $html .= '  <td>';
+                $html .= '      <div class="button-ap-list responsive-btn">
+                                    <div class="btn-group btn-custom-groups btn-custom-groups-one btn-mg-b-10">
+                                        <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Thao tác <i class="fa fa-angle-down"></i>
+                                        </button>
+                                        <ul class="dropdown-menu btn-dropdown-menu" role="menu">';
+                if( GlobalFunction::checkRoleModuleByUser('edit') == true){
+                $html .= '                  <li>
+                                                <a data-toggle="modal" data-target="#fileModal" onclick="func_buttonClick(`file`,'.$item->id.')"><i class="fa fa-file pr-3"></i>File</a>
+                                            </li>';
+                }
+                if( GlobalFunction::checkRoleModuleByUser('edit') == true){
+                $html .= '                  <li>
+                                                <a data-toggle="modal" data-target="#actionModal" onclick="func_buttonClick(`edit`,'.$item->id.')"><i class="fa fa-edit pr-3"></i>Sửa</a>
+                                            </li>';
+                }
+                if( GlobalFunction::checkRoleModuleByUser('delete') == true){
+                $html .= '                  <li>
+                                                <a data-toggle="modal" data-target="#deleteModal" onclick="func_buttonClick(`delete`,'.$item->id.')"><i class="fa fa-recycle pr-3"></i>Xóa</a>
+                                            </li>';
+                }
+                $html .= '              </ul>
+                                    </div>
+                                </div>';
+                $html .= '  </td>';                     
+                $html .= '</tr>';
+            }
+        }
+        return $html;
+    }
+    public function loaddt(Request $request) {
+        try{
+            $table_html = $this->dataTable($request->input());
+            return response()->json(['error'=>false, 'table_html' => $table_html]);
+        } catch (Exception $e) {
+            return response()->json(['error'=>true, 'message'=>'Lấy dữ liệu thất bại!']);
+        }
+    }
+    public function view($request){
+        try {
+            $item = ModuleTrainingProgramInformations::find( $request->input('id') );
+            return response()->json(['error'=> false, 'item'=>$item]);
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Lấy dữ liệu thất bại']);
+        }
+    }
+    public function add($request){
+        try {
+            $validator = Validator::make($request->all(), ModuleTrainingProgramInformationsRequest::rules($request->input('id')), ModuleTrainingProgramInformationsRequest::messages());
+            if($validator->fails()){
+                return response()->json(['error' => true, 'validate' => false, 'message' => $validator->messages()->all()]);
+            } else {
+                $input = $request->all();
+                $input['id_site'] = Auth::guard('user')->user()->id_site;
+                ModuleTrainingProgramInformations::create($input);
+                $html = $this->dataTable($request->input());
+                LogsController::write("AITrainingProgramInformations", "Thêm", "Chương trình đào tạo: ".$input["name"]);
+                return response()->json(['error'=> false, 'message' => 'Thêm chương trình đào tạo thành công', 'table_html' => $html]);
+            }
+        } catch (Exception $e) {
+            return response()->json(['error'=> true, 'message' => 'Thêm chương trình đào tạo thất bại']);
+        }
+    }
+    public function edit($request){
+        try {
+            $validator = Validator::make($request->all(), ModuleTrainingProgramInformationsRequest::rules($request->input('id')), ModuleTrainingProgramInformationsRequest::messages());
+            if($validator->fails()){
+                return response()->json(['error' => true, 'validate' => false, 'message' => $validator->messages()->all()]);
+            } else {
+                $input = $request->all();
+                $item = ModuleTrainingProgramInformations::find( $request->input('id') );
+                $item->update($input);
+                $html = $this->dataTable($request->input());
+                LogsController::write("AITrainingProgramInformations", "Sửa", "Chương trình đào tạo: ".$input["name"]);
+                return response()->json(['error'=> false, 'message' => 'Sửa chương trình đào tạo thành công', 'table_html' => $html]);
+            }
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Sửa chương trình đào tạo thất bại']);
+        }
+    }
+    public function delete($request){
+        try {
+            $item_id = $request->input('id');
+            $item = ModuleTrainingProgramInformations::find( $item_id );
+            $item->delete();
+            LogsController::write("AITrainingProgramInformations", "Xoá", "Chương trình đào tạo: ".$item->name);
+            
+            $html = $this->dataTable($request->input());
+            return response()->json(['error'=> false, 'message' => 'Xóa chương trình đào tạo thành công', 'table_html' => $html]);
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Xóa chương trình đào tạo thất bại']);
+        }
+    }
+// Function File
+    public function ajaxFile(Request $request){
+        if( GlobalFunction::checkRoleModuleByUser('edit') == true ){
+            $action_type = $request->input('action_type');
+            if( $action_type == 'list' ) {
+                try {
+                    $id_program = $request->input('id');
+                    $fileslibrary = PartialModuleTrainingProgramInformationsFiles::where('id_program',$id_program)->get();
+
+                    if(count($fileslibrary)>0){
+                        $html=$this->htmlViewPartialModuleTrainingProgramInformationsFiles($id_program);
+                        return response()->json(['error'=>false, 'html'=>$html]);
+                    } else {
+                        return response()->json(['error'=>false, 'html'=>'<div class="px-3">Không có file trong chương trình đào tạo file</div>']);
+                    }
+                } catch (Exception $e) {
+                    return response()->json(['error'=>true, 'message'=>'Lấy dữ liệu không thành công!']);
+                }
+            }
+            if( $action_type == 'file' ){
+                try {
+                    $file = PartialModuleTrainingProgramInformationsFiles::find( $request->input('id') );
+                    return response()->json(['error'=>false, 'message'=>'Lấy dữ liệu thành công!', 'file'=>$file]);
+                } catch (Exception $e) {
+                    return response()->json(['error'=>true, 'message'=>'Lấy dữ liệu không thành công!']);
+                }
+            } 
+            if( $action_type == 'add' ){
+                try{
+                    $myFile = $_FILES['addfiles'];
+                    $fileCount = count($myFile["name"]);
+                    for ($i = 0; $i < $fileCount; $i++) {
+                        $file = new PartialModuleTrainingProgramInformationsFiles;
+                        $file->id_program=$request->input('id_program');
+                        $random_file_name = Str::random(4).'_'.$myFile["name"][$i];
+                        while(file_exists(storage_path().$this->path.$random_file_name)){
+                            $random_file_name = Str::random(4).'_'.$file_name;
+                        }
+                        $file->name = $random_file_name;
+                        $file->path = $this->path.$random_file_name;
+                        move_uploaded_file($myFile["tmp_name"][$i], storage_path().$this->path.$random_file_name);
+                        $file->save();
+                    }
+                    $html = $this->htmlViewPartialModuleTrainingProgramInformationsFiles( $request->input('id_program') );
+                    LogsController::write("AIFileLibraries", "Thêm file", "Chương trình đào tạo file: ".$file->library->name."; Tên file: ".$random_file_name); 
+                    return response()->json(['error'=>false, 'message'=>'Thêm file thành công!', 'html'=>$html]);
+                } catch (Exception $e) {
+                    return response()->json(['error'=>true, 'message'=>'Thêm không thành công!']);
+                }
+            }
+            if( $action_type == 'edit' ){
+                try{
+                    $input = $request->all();
+                    $input['status'] = ($request->input('status') == 1 ? 1 : 0);
+                    $file = PartialModuleTrainingProgramInformationsFiles::find( $request->input('id') );
+                    rename( storage_path().$file->path , storage_path().$this->path.$input['name'] );
+                    $input['path'] = $this->path.$input['name'];
+                    $file->update($input);
+
+                    $html = $this->htmlViewPartialModuleTrainingProgramInformationsFiles( $file->id_program );  
+                    return response()->json(['error'=>false, 'message'=>'Chỉnh sửa file thành công!', 'html'=>$html]);
+                    LogsController::write("AIFileLibraries", "Sửa file", "Chương trình đào tạo file: ".$file->library->name."; Tên file: ".$input['name']); 
+                } catch (Exception $e) {
+                    return response()->json(['error'=>true, 'message'=>'Chỉnh sửa không thành công!']);
+                }
+            } 
+            else if ( $action_type == 'delete' ) {
+                try{
+                    $file = PartialModuleTrainingProgramInformationsFiles::find( $request->input('id') );
+                    File::delete( storage_path().$file->path );
+                    $file->delete();
+
+                    $html = $this->htmlViewPartialModuleTrainingProgramInformationsFiles( $file->id_program );
+                    LogsController::write("AIFileLibraries", "Xoá file", "Chương trình đào tạo file: ".$file->library->name."; Tên file: ".$file->name); 
+                    return response()->json(['error'=>false, 'message'=>'Xóa file thành công!', 'html'=>$html]);
+                } catch (Exception $e) {
+                    return response()->json(['error'=>true, 'message'=>'Xóa không thành công!']);
+                }
+            }
+        } else {
+            return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+        }
+
+    }
+    public function htmlViewPartialModuleTrainingProgramInformationsFiles($id_program){
+        $html='';
+        $files = PartialModuleTrainingProgramInformationsFiles::where('id_program',$id_program)->get();
+        foreach($files as $key=>$file){
+            $array_file = explode('.', $file->name);
+            if( end($array_file) == 'pdf' ) $extension = 'pdf';
+            elseif( end($array_file) == 'png' || end($array_file) == 'jpg' || end($array_file) == 'jpeg' ) $extension ='image';
+            elseif( end($array_file) == 'doc' ) $extension ='doc';
+            elseif( end($array_file) == 'docx' ) $extension ='docx';
+            else $extension ='file';
+
+
+            $html.='<div class="item-file">';
+            $html.='    <img id="file_'.$key.'" src="/assets/administration/mainstructure/img/'.$extension.'.png" class="file-in-view-form">';
+            $html.='    <div><a href="/protect-file/'.$file->name.'" target="_blank">'.$file->name.'</a></div>';
+            
+            $html.='<span class="delete-file" onclick="func_deleteFile('.$key.')">&times;</span>';
+            $html.='</div>'; 
+        }
+        return $html;
+    }
+}

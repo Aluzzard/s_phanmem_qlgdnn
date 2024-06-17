@@ -1,3 +1,167 @@
 <?php
-bolt_decrypt( __FILE__ , 'Ap92DT'); return 0;
-##!!!##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JCYdIRUmLdQYJiMkGCMrIuEoIxsbIBnW1BgVKBXhKCMbGyAZ8dYYJiMkGCMrItbyCBwVI9Qod1UX1PAd1BcgFScn8dYaFdQaFeEVIhsgGeEYIysi1vLw4x3ywb7U1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU8OMWKSgoIyLywb7U1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU8Ckg1BcgFScn8dYYJiMkGCMrIuEhGSIp1BYoIuEYJiMkGCMrIuEhGSIp1tQmIyAZ8dYhGSIp1vLb78G+1NTU1NTU1NTU1NTU1NTU1B0a3NT7ICMWFSD6KSIXKB0jIu7uFxwZFx8GIyAZASMYKSAZ9i0JJxkm3NsZGB0o293U8fHUKCYpGd0vwb7U1NTU1NTU1NTU1NTU1NTU2BwoISDU4vHU29TU1NTU1NTU1NTU1NTU1NTU1PAgHfLBvtTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1PAV1BgVKBXhKCMbGyAZ8dYhIxgVINbUGBUoFeEoFSYbGSjx1tcVFygdIyIBIxgVINbUIyIXIB0XH/HWGikiFxMWKSgoIyL3IB0XH9wUGRgdKBTg2+LYJBkjJCAZ4fIdGOLb3dby8B3UFyAVJyfx1hoV1BoV4RkYHSjUJCbh59by8OMd8geVb2EV8OMV8sG+1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTw4yAd8tvvwb7U1NTU1NTU1NTU1NTU1NTUMcG+1NTU1NTU1NTU1NTU1NTU1B0a3NT7ICMWFSD6KSIXKB0jIu7uFxwZFx8GIyAZASMYKSAZ9i0JJxkm3NsYGSAZKBnb3dTx8dQoJikZ3S/BvtTU1NTU1NTU1NTU1NTU1NTYHCghINTi8dTb1NTU1NTU1NTU1NTU1NTU1NTU8CAd8sG+1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU8BXUGBUoFeEoIxsbIBnx1iEjGBUg1tQYFSgV4SgVJhsZKPHW1xgZIBkoGQEjGBUg1tQjIhcgHRcf8dYaKSIXExYpKCgjIvcgHRcf3BQYGSAZKBkU4Nvi2CQZIyQgGeHyHRji293W8vAd1BcgFScn8dYaFdQaFeEmGRctFyAZ1CQm4efW8vDjHfIMd2cV8OMV8sG+1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTw4yAd8tvvwb7U1NTU1NTU1NTU1NTU1NTUMcG+1NTU1NTU1NTU1NTU1NTU1NgcKCEg1OLx1NvU1NTU1NTU1NTU1NTU1PDjKSDywb7U1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTw4xgdKvLBvtTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU8OMYHSry2+/BvtTU1NTU1NTU1NTU1NTU1NTYHCghINTi8dTb1NTw4ygY8tvv1NTU1NTU1NTU1NTU1NTU1NTU1NTUwb7U1NTU1NTU1NTU1NTU1NTU2BwoISDU4vHU2/DjKCby2+/BvtTU1NTU1NTU1NTU1DHBvtTU1NTU1NTUMcG+1NTU1NTU1NQmGSgpJiLU2BwoISDvwb7U1NTUMcG+1NTU1CQpFiAdF9QaKSIXKB0jItQgIxUYGCjcBhklKRknKNTYJhklKRknKN3UL8G+1NTU1NTU1NQoJi0vwb7U1NTU1NTU1NTU1NTYKBUWIBkTHCghINTx1NgoHB0n4fIYFSgVCBUWIBnc2CYZJSkZJyjh8h0iJCko3N3d78G+1NTU1NTU1NTU1NTUJhkoKSYi1CYZJyQjIicZ3N3h8h4nIyLcD9sZJiYjJtvx8hoVICcZ4NTbKBUWIBkTHCghINvU8fLU2CgVFiAZExwoISAR3e/BvtTU1NTU1NTUMdQXFSgXHNTc+SwXGSQoHSMi1NgZ3dQvwb7U1NTU1NTU1NTU1NQmGSgpJiLUJhknJCMiJxnc3eHyHicjItwP2xkmJiMm2/HyKCYpGeDU2yEZJycVGxnb8fLbAJVuWS3UGJVvY9QgHZVvOynUKByVblko1BaVblUd1dsR3e/BvtTU1NTU1NTUMcG+1NTU1DHBvtTU1NQkKRYgHRfUGikiFygdIyLUKh0ZK9zYJhklKRknKN0vwb7U1NTU1NTU1CgmLdQvwb7U1NTU1NTU1NTU1NTYJBkjJCAZ1PHUASMYKSAZCC0kGQMa+SgcIh0XJ+7uGh0iGNzU2CYZJSkZJyjh8h0iJCko3NsdGNvd1N3v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
+
+namespace App\Http\Controllers\Modules\AITypeOfEthnics;
+
+use App\Http\Controllers\Controller; 
+use Illuminate\Http\Request;
+use Validator;
+use Illuminate\Support\Facades\Auth;
+//Models
+use App\Models\Modules\ModuleTypeOfEthnics;
+//Requests
+use App\Http\Requests\Module\ModuleTypeOfEthnicsRequest;
+//Controllers
+use App\Http\Controllers\MainStructure\Admins\LogsController;
+use App\Http\Controllers\MainStructure\Users\GlobalFunction;
+
+class AITypeOfEthnicsController extends Controller {
+
+    public function index() {
+        if(GlobalFunction::checkRoleModuleByUser('view') == false || GlobalFunction::checkRoleFunctionByUser('view',200) == false){
+             abort('404');
+        } else {
+            $data['check_add'] = GlobalFunction::checkRoleModuleByUser('add');
+            return view('modules.AITypeOfEthnics.index', $data);
+        }
+    }
+
+    public function ajax(Request $request){
+        if(GlobalFunction::checkRoleModuleByUser('view') == true || GlobalFunction::checkRoleFunctionByUser('view',200) == true){
+            $action_type = $request->input('action_type');
+            if ($action_type == 'loaddt' ) {
+                if( GlobalFunction::checkRoleModuleByUser('view') == true ){
+                    return $this->loaddt($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if ($action_type == 'view' ) {
+                if( GlobalFunction::checkRoleModuleByUser('view') == true ){
+                    return $this->view($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if($action_type == 'add' ) {
+                if( GlobalFunction::checkRoleModuleByUser('add') == true ){
+                    return $this->add($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if( $action_type == 'edit' ) {
+                if( GlobalFunction::checkRoleModuleByUser('edit') == true ){
+                    return $this->edit($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if($action_type == 'delete' ) {
+                if( GlobalFunction::checkRoleModuleByUser('delete') == true ){
+                    return $this->delete($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+        } else {
+            abort('404');
+        }
+    }
+    
+    public function dataTable(){
+        $current_id_site = Auth::guard('user')->user()->id_site;
+        $listofpeoples = ModuleTypeOfEthnics::whereIdSite($current_id_site)->get();
+        $html = '';
+        if($listofpeoples){
+            foreach ($listofpeoples as $people){
+                $html .= '<tr>';
+                $html .= '  <td>'.$people->name.'</td>';
+                $html .= '  <td>';
+                $html .= '      <div class="button-ap-list responsive-btn">
+                                    <div class="btn-group btn-custom-groups btn-custom-groups-one btn-mg-b-10">
+                                        <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Thao tác <i class="fa fa-angle-down"></i>
+                                        </button>
+                                        <ul class="dropdown-menu btn-dropdown-menu" role="menu">';
+                if( GlobalFunction::checkRoleModuleByUser('edit') == true){
+                $html .= '                  <li>
+                                                <a data-toggle="modal" data-target="#actionModal" onclick="func_buttonClick(`edit`,'.$people->id.')"><i class="fa fa-edit pr-3"></i>Sửa</a>
+                                            </li>';
+                }
+                if( GlobalFunction::checkRoleModuleByUser('delete') == true){
+                $html .= '                  <li>
+                                                <a data-toggle="modal" data-target="#deleteModal" onclick="func_buttonClick(`delete`,'.$people->id.')"><i class="fa fa-recycle pr-3"></i>Xóa</a>
+                                            </li>';
+                }
+                $html .= '              </ul>
+                                    </div>
+                                </div>';
+                $html .= '  </td>';                     
+                $html .= '</tr>';
+            }
+        }
+        return $html;
+    }
+    public function loaddt(Request $request) {
+        try{
+            $table_html = $this->dataTable($request->input());
+            return response()->json(['error'=>false, 'table_html' => $table_html]);
+        } catch (Exception $e) {
+            return response()->json(['error'=>true, 'message'=>'Lấy dữ liệu thất bại!']);
+        }
+    }
+    public function view($request){
+        try {
+            $people = ModuleTypeOfEthnics::find( $request->input('id') );
+            return response()->json(['error'=> false, 'people'=>$people]);
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Lấy dữ liệu thất bại']);
+        }
+    }
+    public function add($request){
+        try {
+            $validator = Validator::make($request->all(), ModuleTypeOfEthnicsRequest::rules($request->input('id')), ModuleTypeOfEthnicsRequest::messages());
+            if($validator->fails()){
+                return response()->json(['error' => true, 'validate' => false, 'message' => $validator->messages()->all()]);
+            } else {
+                $input = $request->all();
+                $input['id_site'] = Auth::guard('user')->user()->id_site;
+                ModuleTypeOfEthnics::create($input);
+                $html = $this->dataTable($request->input());
+                LogsController::write("AITypeOfEthnics", "Thêm", "Dân tộc: ".$input["name"]);
+                return response()->json(['error'=> false, 'message' => 'Thêm dân tộc thành công', 'table_html' => $html]);
+            }
+        } catch (Exception $e) {
+            return response()->json(['error'=> true, 'message' => 'Thêm dân tộc thất bại']);
+        }
+    }
+    public function edit($request){
+        try {
+            $validator = Validator::make($request->all(), ModuleTypeOfEthnicsRequest::rules($request->input('id')), ModuleTypeOfEthnicsRequest::messages());
+            if($validator->fails()){
+                return response()->json(['error' => true, 'validate' => false, 'message' => $validator->messages()->all()]);
+            } else {
+                $input = $request->all();
+                $people = ModuleTypeOfEthnics::find( $request->input('id') );
+                $people->update($input);
+                $html = $this->dataTable($request->input());
+                LogsController::write("AITypeOfEthnics", "Sửa", "Dân tộc: ".$input["name"]);
+                return response()->json(['error'=> false, 'message' => 'Sửa dân tộc thành công', 'table_html' => $html]);
+            }
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Sửa dân tộc thất bại']);
+        }
+    }
+    public function delete($request){
+        try {
+            $people_id = $request->input('id');
+            $people = ModuleTypeOfEthnics::find( $people_id );
+            $people->delete();
+            LogsController::write("AITypeOfEthnics", "Xoá", "Dân tộc: ".$people->name);
+            
+            $html = $this->dataTable($request->input());
+            return response()->json(['error'=> false, 'message' => 'Xóa dân tộc thành công', 'table_html' => $html]);
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Xóa dân tộc thất bại']);
+        }
+    }
+}

@@ -1,3 +1,211 @@
 <?php
-bolt_decrypt( __FILE__ , 'mY0Wgz'); return 0;
-##!!!##Ozg7OJyPm5Ohno+Rk05vnp6KdqKinopxnZyioJ2ampOgoYp7nZKjmpOhim93fZSUl5GToIWdoJl+oJ2Rk6GhaTs4OzijoZNOb56einaiop6KcZ2coqCdmpqToKGKcZ2coqCdmpqToGlOOzijoZNOd5qao5uXnI+ik4p2oqKeioCTn6OToaJpOzijoZNOhI+al5KPop2gaTs4o6GTTneamqObl5yPopOKgaOenp2goop0j5GPkpOhim+jopZpOzhdXXudkpOaoTs4o6GTTm+enop7nZKTmqGKe52So5qToYp7nZKjmpN9lJSXkZOgd5yUnaCbj6KXnZyhaTs4o6GTTm+enop7nZKTmqGKe52So5qToYp7nZKjmpN9lJSXkZOghZ2gmX6gnZGToaFpOzhdXYCTn6OToaKhOzijoZNOb56einaiop6KgJOfo5OhoqGKe52So5qTinudkqOak32UlJeRk6CFnaCZfqCdkZOhoYCTn6OToaJpOzhdXXGdnKKgnZqak6ChOzijoZNOb56einaiop6KcZ2coqCdmpqToKGKe4+XnIGioKORoqOgk4pvkpuXnKGKep2VoXGdnKKgnZqak6BpOzijoZNOb56einaiop6KcZ2coqCdmpqToKGKe4+XnIGioKORoqOgk4qDoZOgoYp1mp2Qj5p0o5yRopednGk7ODs4kZqPoaFOb3d9lJSXkZOghZ2gmX6gnZGToaFxnZyioJ2ampOgTpOmopOckqFOcZ2coqCdmpqToE6pOzg7OE5OTk6eo5Cal5FOlKOckaKXnZxOl5ySk6ZWV06pOzhOTk5OTk5OTpeUVnWanZCPmnSjnJGil52caGiRlpORmYCdmpN7nZKjmpNwp4Ohk6BWVaSXk6VVV05ra06Uj5qhk06qqk51mp2Qj5p0o5yRopednGhokZaTkZmAnZqTdKOckaKXnZxwp4Ohk6BWVaSXk6VVWmBeXldOa2tOlI+aoZNXqTs4Tk5OTk5OTk5OTk5OTo+QnaCiVlViXmJVV2k7OE5OTk5OTk5Oq06TmqGTTqk7OE5OTk5OTk5OTk5OTlKSj6KPiVWRlpORmY2PkpJVi05rTnWanZCPmnSjnJGil52caGiRlpORmYCdmpN7nZKjmpNwp4Ohk6BWVY+SklVXaTs4Tk5OTk5OTk5OTk5OoJOio6CcTqSXk6VWVZudkqOak6Fcb3d9lJSXkZOghZ2gmX6gnZGToaFcl5ySk6ZVWk5Sko+ij1dpOzhOTk5OTk5OTqs7OE5OTk6rOzg7OE5OTk6eo5Cal5FOlKOckaKXnZxOj5iPplaAk5+jk6GiTlKgk5+jk6GiV6k7OE5OTk5OTk5Ol5RWdZqdkI+adKOckaKXnZxoaJGWk5GZgJ2ak3udkqOak3Cng6GToFZVpJeTpVVXTmtrTqKgo5NOqqpOdZqdkI+adKOckaKXnZxoaJGWk5GZgJ2ak3SjnJGil52ccKeDoZOgVlWkl5OlVVpgXl5XTmtrTqKgo5NXqTs4Tk5OTk5OTk5OTk5OUo+RopednI2ip56TTmtOUqCTn6OToaJbbJecnqOiVlWPkaKXnZyNoqeek1VXaTs4Tk5OTk5OTk5OTk5Ol5ROVlKPkaKXnZyNoqeek05ra05Vmp2PkpKiVU5XTqk7OE5OTk5OTk5OTk5OTk5OTk6XlFZOdZqdkI+adKOckaKXnZxoaJGWk5GZgJ2ak3udkqOak3Cng6GToFZVpJeTpVVXTmtrTqKgo5NOV6k7OE5OTk5OTk5OTk5OTk5OTk5OTk5OoJOio6CcTlKilpehW2yanY+SkqJWUqCTn6OToaJXaTs4Tk5OTk5OTk5OTk5OTk5OTqtOk5qhk06pOzhOTk5OTk5OTk5OTk5OTk5OTk5OTqCToqOgnE6gk6GenZyhk1ZXW2yYoZ2cVolVk6CgnaBVa2yioKOTWk5Vm5OhoY+Vk1VrbFV5lvHinJVO8r/03g/p0ZFOnpbx0JxOn6OnD+mvnE9Vi1dpOzhOTk5OTk5OTk5OTk5OTk5Oqzs4Tk5OTk5OTk5OTk5Oqzs4Tk5OTk5OTk5OTk5Ok5qhk06XlE5WUo+RopednI2ip56TTmtrTlWkl5OlepeholVOV06pOzhOTk5OTk5OTk5OTk5OTk5Ol5RWTnWanZCPmnSjnJGil52caGiRlpORmYCdmpN7nZKjmpNwp4Ohk6BWVaSXk6VVV05ra06ioKOTTlepOzhOTk5OTk5OTk5OTk5OTk5OTk5OTqCToqOgnE5SopaXoVtspJeTpXqXoaJWUqCTn6OToaJXaTs4Tk5OTk5OTk5OTk5OTk5OTqtOk5qhk06pOzhOTk5OTk5OTk5OTk5OTk5OTk5OTqCToqOgnE6gk6GenZyhk1ZXW2yYoZ2cVolVk6CgnaBVa2yioKOTWk5Vm5OhoY+Vk1VrbFV5lvHinJVO8r/03g/p0ZFOnpbx0JxOn6OnD+mvnE9Vi1dpOzhOTk5OTk5OTk5OTk5OTk5Oqzs4Tk5OTk5OTk5OTk5Oqzs4Tk5OTk5OTk5OTk5Ok5qhk06XlE5WUo+RopednI2ip56TTmtrTlWkl5OlVU5XTqk7OE5OTk5OTk5OTk5OTk5OTk6XlFZOdZqdkI+adKOckaKXnZxoaJGWk5GZgJ2ak3udkqOak3Cng6GToFZVpJeTpVVXTmtrTqKgo5NOV6k7OE5OTk5OTk5OTk5OTk5OTk5OTk5OoJOio6CcTlKilpehW2ykl5OlVlKgk5+jk6GiV2k7OE5OTk5OTk5OTk5OTk5OTk6rTpOaoZNOqTs4Tk5OTk5OTk5OTk5OTk5OTk5OTk6gk6KjoJxOoJOhnp2coZNWV1tsmKGdnFaJVZOgoJ2gVWtsoqCjk1pOVZuToaGPlZNVa2xVeZbx4pyVTvK/9N4P6dGRTp6W8dCcTp+jpw/pr5xPVYtXaTs4Tk5OTk5OTk5OTk5OTk5OTqs7OE5OTk5OTk5OTk5OTqs7OE5OTk5OTk5OTk5OTpOaoZNOl5RWUo+RopednI2ip56TTmtrTlWPkpJVTldOqTs4Tk5OTk5OTk5OTk5OTk5OTpeUVk51mp2Qj5p0o5yRopednGhokZaTkZmAnZqTe52So5qTcKeDoZOgVlWPkpJVV05ra06ioKOTTlepOzhOTk5OTk5OTk5OTk5OTk5OTk5OTqCToqOgnE5SopaXoVtsj5KSVlKgk5+jk6GiV2k7OE5OTk5OTk5OTk5OTk5OTk6rTpOaoZNOqTs4Tk5OTk5OTk5OTk5OTk5OTk5OTk6gk6KjoJxOoJOhnp2coZNWV1tsmKGdnFaJVZOgoJ2gVWtsoqCjk1pOVZuToaGPlZNVa2xVeZbx4pyVTvK/9N4P6dGRTp6W8dCcTp+jpw/pr5xPVYtXaTs4Tk5OTk5OTk5OTk5OTk5OTqs7OE5OTk5OTk5OTk5OTqs7OE5OTk5OTk5OTk5OTpOaoZNOl5RWTlKPkaKXnZyNoqeek05ra05Vk5KXolVOV06pOzhOTk5OTk5OTk5OTk5OTk5Ol5RWTnWanZCPmnSjnJGil52caGiRlpORmYCdmpN7nZKjmpNwp4Ohk6BWVZOSl6JVV05ra06ioKOTTlepOzhOTk5OTk5OTk5OTk5OTk5OTk5OTqCToqOgnE5SopaXoVtsk5KXolZSoJOfo5OholdpOzhOTk5OTk5OTk5OTk5OTk5Oq06TmqGTTqk7OE5OTk5OTk5OTk5OTk5OTk5OTk5OoJOio6CcTqCToZ6dnKGTVldbbJihnZxWiVWToKCdoFVrbKKgo5NaTlWbk6Ghj5WTVWtsVXmW8eKclU7yv/TeD+nRkU6elvHQnE6fo6cP6a+cT1WLV2k7OE5OTk5OTk5OTk5OTk5OTk6rOzhOTk5OTk5OTk5OTk6rOzhOTk5OTk5OTk5OTk6TmqGTTpeUVlKPkaKXnZyNoqeek05ra05VkpOak6KTVU5XTqk7OE5OTk5OTk5OTk5OTk5OTk6XlFZOdZqdkI+adKOckaKXnZxoaJGWk5GZgJ2ak3udkqOak3Cng6GToFZVkpOak6KTVVdOa2tOoqCjk05XqTs4Tk5OTk5OTk5OTk5OTk5OTk5OTk6gk6KjoJxOUqKWl6FbbJKTmpOik1ZSoJOfo5OholdpOzhOTk5OTk5OTk5OTk5OTk5Oq06TmqGTTqk7OE5OTk5OTk5OTk5OTk5OTk5OTk5OoJOio6CcTqCToZ6dnKGTVldbbJihnZxWiVWToKCdoFVrbKKgo5NaTlWbk6Ghj5WTVWtsVXmW8eKclU7yv/TeD+nRkU6elvHQnE6fo6cP6a+cT1WLV2k7OE5OTk5OTk5OTk5OTk5OTk6rOzhOTk5OTk5OTk5OTk6rOzhOTk5OTk5OTqtOk5qhk06pOzhOTk5OTk5OTk5OTk6PkJ2golZVYl5iVVdpOzhOTk5OTk5OTqs7OE5OTk6rOzhOTk5OOzhOTk5OnqOQmpeRTpSjnJGil52cTpKPoo+Cj5Cak1ZXqTs4Tk5OTk5OTk5SkaOgoJOcoo2Xko2hl6KTTmtOb6OilmholaOPoJJWVaOhk6BVV1tso6GToFZXW2yXko2hl6KTaTs4Tk5OTk5OTk5SnZSUl5GToKFOa057nZKjmpN9lJSXkZOgd5yUnaCbj6KXnZyhaGillpOgk3eSgZeik1ZSkaOgoJOcoo2Xko2hl6KTV1tslZOiVldpOzhOTk5OTk5OTlKWopuaTmtOVVVpOzhOTk5OTk5OTpeUVlKdlJSXkZOgoVepOzhOTk5OTk5OTk5OTk6UnaCTj5GWTlZSnZSUl5GToKFOj6FOUp2UlJeRk6BXqTs4Tk5OTk5OTk5OTk5OTk5OTlKWopuaTlxrTlVqoqBsVWk7OE5OTk5OTk5OTk5OTk5OTk5SlqKbmk5ca05VTk5qopJsVVxSnZSUl5GToFtsnI+bk1xVal2ikmxVaTs4Tk5OTk5OTk5OTk5OTk5OTlKWopuaTlxrTlVOTmqikmxVaTs4Tk5OTk5OTk5OTk5OTk5OTpeUVlKdlJSXkZOgW2ylnaCZjZ6gnZGToaFXTjs4Tk5OTk5OTk5OTk5OTk5OTk5OTk6UnaCTj5GWVlKdlJSXkZOgW2ylnaCZjZ6gnZGToaFbbKGdoKJwp1ZVlKCdm42ilpONopebk1VXTo+hTlKiV047OE5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTlKWopuaTlxrTlVqnmxVXJKPopNWVZJdm12HVVpOoaKgop2il5uTVlKiW2yUoJ2bjaKWk42il5uTV1dcVU5bTlVcko+ik1ZVkl2bXYdVWk6hoqCinaKXm5NWUqJbbKKXmpqNopaTjaKXm5NXV1xVaE5VXFKiW2yXnJSdoJuPopednFxVal2ebFVpOzg7OE5OTk5OTk5OTk5OTk5OTk5SlqKbmk5ca05VTk5qXaKSbFVpOzhOTk5OTk5OTk5OTk5OTk5OUpaim5pOXGtOVU5OaqKSbFVpOzhOTk5OTk5OTk5OTk5OTk5OUpaim5pOXGtOVU5OTk5OTmqSl6ROkZqPoaFrUJCjoqKdnFuPnlual6GiTqCToZ6dnKGXpJNbkKKcUGw7OE5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTmqSl6ROkZqPoaFrUJCinFuVoJ2jnk6QopxbkaOhop2bW5WgnaOeoU6QopxbkaOhop2bW5WgnaOeoVudnJNOkKKcW5uVW5BbX15QbDs4Tk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTmqQo6KinZxOoqeek2tQkKOiop2cUE6Rmo+hoWtQkKKcTpCinFueoJebj6CnTpKgnZ6SnaWcW6KdlZWak1BOko+ij1uinZWVmpNrUJKgnZ6SnaWcUGyClo+dTqLxz5FOapdOkZqPoaFrUJSPTpSPW4+clZqTW5KdpZxQbGpdl2w7OE5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5qXZCjoqKdnGw7OE5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5qo5pOkZqPoaFrUJKgnZ6SnaWcW5uTnKNOkKKcW5KgnZ6SnaWcW5uTnKNQTqCdmpNrUJuTnKNQbFVpOzhOTk5OTk5OTk5OTk5OTk5OXV1Ol5RWTnWanZCPmnSjnJGil52caGiRlpORmYCdmpN7nZKjmpNwp4Ohk6BWVaSXk6VVV05ra06ioKOTV6k7OE5OTk5OTk5OTk5OTk5OTk5dXU5SlqKbmk5ca05VTk5OTk5OTk5OTk5OTk5OTk5OapqXbDs4Tk5OTk5OTk5OTk5OTk5OTl1dTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5Oao9Oko+ij1uinZWVmpNrUJudko+aUE6Sj6KPW6KPoJWTomtQUY+RopednHudko+aUE6dnJGal5GZa1CUo5yRjZCjoqKdnHGal5GZVo6kl5Olepehoo5aVVxSnZSUl5GToFtsl5JcVVdQbGqXTpGaj6Gha1CUj06Uj1uTp5NOnqBbYVBsal2XbIaTm2pdj2w7OE5OTk5OTk5OTk5OTk5OTk5dXU5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5Oal2al2xVaTs4Tk5OTk5OTk5OTk5OTk5OTl1dTqs7OE5OTk5OTk5OTk5OTk5OTk6XlFZOdZqdkI+adKOckaKXnZxoaJGWk5GZgJ2ak3udkqOak3Cng6GToFZVk5KXolVXTmtrTqKgo5NXqTs4Tk5OTk5OTk5OTk5OTk5OTlKWopuaTlxrTlVOTk5OTk5OTk5OTk5OTk5OTk5qmpdsOzhOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5qj06Sj6KPW6KdlZWak2tQm52Sj5pQTpKPoo9boo+glZOia1BRj5Gil52ce52Sj5pQTp2ckZqXkZlrUJSjnJGNkKOiop2ccZqXkZlWjpOSl6J6l6GijlpVXFKdlJSXkZOgW2yXklxVV1BsapdOkZqPoaFrUJSPTpSPW56TnJGXmk6eoFthUGxqXZdscZYP6beclk6hD+nbj2pdj2w7OE5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5Oal2al2xVaTs4Tk5OTk5OTk5OTk5OTk5OTqs7OE5OTk5OTk5OTk5OTk5OTk5SlqKbmk5ca05VTk5OTk5OTk5OTk5OTk5qXaOabDs4Tk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5Oal2Sl6RsOzhOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTmpdkpekbFVpOzhOTk5OTk5OTk5OTk5OTk5OUpaim5pOXGtOVU5Oal2ikmxVaU5OTk5OTk5OTk5OTk5OTk5OTk5OTjs4Tk5OTk5OTk5OTk5OTk5OTlKWopuaTlxrTlVqXaKgbFVpOzhOTk5OTk5OTk5OTk6rOzhOTk5OTk5OTqs7OE5OTk5OTk5OoJOio6CcTlKWopuaaTs4Tk5OTqs7OE5OTk6eo5Cal5FOlKOckaKXnZxOko+ij3qXoaKFnaCZfqCdlaCToaFWUpeSjZ2UlJeRk6BXqTs4Tk5OTk5OTk5SlqKbmk5rTlVVaTs4Tk5OTk5OTk5Smpehok5rTnudkqOak32UlJeRk6CFnaCZfqCdkZOhoWhopZaToJN3kn2UlJeRk6BWUpeSjZ2UlJeRk6BXW2yVk6JWV2k7OE5OTk5OTk5Ol5RWUpqXoaJXqTs4Tk5OTk5OTk5OTk5OlJ2gk4+Rlk5WUpqXoaJOj6FOUpeik5tXqTs4Tk5OTk5OTk5OTk5OTk5OTlKWopuaTlxrTlVqoqBOnZyRmpeRmWtQlKOckY2Qo6KinZxxmpeRmVaOk5KXoo5aVVxSl6KTm1tsl5JcVVdQbFVpOzhOTk5OTk5OTk5OTk5OTk5OUpaim5pOXGtOVU5OaqKSbFVcUpeik5tbbJeclJ2gm4+il52cXFVqXaKSbFVpOzhOTk5OTk5OTk5OTk5OTk5OUpaim5pOXGtOVU5OaqKSbFVcUpeik5tbbJSgnZuNopaTjaKXm5NcVWpdopJsVWk7OE5OTk5OTk5OTk5OTk5OTk5SlqKbmk5ca05VTk5qopJsVVxSl6KTm1tsopeamo2ilpONopebk1xVal2ikmxVaTs4Tk5OTk5OTk5OTk5OTk5OTlKWopuaTlxrTlVOTmqikmxVaTs4Tk5OTk5OTk5OTk5OTk5OTlKWopuaTlxrTlVOTk5OTk5qkKOiop2cTqKnnpNrUJCjoqKdnFBOkZqPoaFrUJCinE6QopxbkaOhop2cW5Sdo6BOkKKcW5KPnJWToFBOko+ij1uinZWVmpNrUJudko+aUE6Sj6KPW6KPoJWTomtQUZKTmpOik3udko+aUE6dnJGal5GZa1CUo5yRjZCjoqKdnHGal5GZVo6Sk5qTopOOWlVcUpeik5tbbJeSXFVXUGw7OE5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTmqXTpGaj6Gha1CUj06Ql5Vbl5GdnE6Uj1uil5uToVBsal2XbGqhno+cTpGaj6Gha1CbmltgUGyG8eGPal2hno+cbDs4Tk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5qXZCjoqKdnGxVaTs4Tk5OTk5OTk5OTk5OTk5OTlKWopuaTlxrTlVOTmpdopJsVWk7OE5OTk5OTk5OTk5OTk5OTk5SlqKbmk5ca05Val2ioGxVaTs4Tk5OTk5OTk5OTk5Oqzs4Tk5OTk5OTk6rOzhOTk5OTk5OTqCToqOgnE5SlqKbmmk7OE5OTk6rOzhOTk5OnqOQmpeRTpSjnJGil52cTpqdj5KSolaAk5+jk6GiTlKgk5+jk6GiV06pOzhOTk5OTk5OTqKgp6k7OE5OTk5OTk5OTk5OTlKij5Cak42WopuaTmtOUqKWl6FbbJKPoo+Cj5Cak1ZXaTs4Tk5OTk5OTk5OTk5OoJOio6CcTqCToZ6dnKGTVldbbJihnZxWiVWToKCdoFVrbJSPmqGTWk5Voo+QmpONlqKbmlVOa2xOUqKPkJqTjZaim5qLV2k7OE5OTk5OTk5Oq06Rj6KRlk5Wc6aRk56il52cTlKTV06pOzhOTk5OTk5OTk5OTk6gk6KjoJxOoJOhnp2coZNWV1tsmKGdnFaJVZOgoJ2gVWtsoqCjk1pOVZuToaGPlZNVa2xVeg/o06dOkg/p3U6alw/ptaNOopYP6NOiTpAP6M+XT1WLV2k7OE5OTk5OTk5Oqzs4Tk5OTqs7OE5OTk6eo5Cal5FOlKOckaKXnZxOpJeTpXqXoaJWUqCTn6OToaJXqTs4Tk5OTk5OTk6ioKdOqTs4Tk5OTk5OTk5OTk5OUqKPkJqTjZaim5pOa05SopaXoVtsko+ij3qXoaKFnaCZfqCdlaCToaFWUqCTn6OToaJbbJecnqOiVlWXklVXV2k7OE5OTk5OTk5OTk5OTqCToqOgnE6gk6GenZyhk1ZXW2yYoZ2cVolVk6CgnaBVa2xOlI+aoZNaTlWij5Cak42WopuaVWtsUqKPkJqTjZaim5qLV2k7OE5OTk5OTk5Oq06Rj6KRlk5Wc6aRk56il52cTlKTV06pOzhOTk5OTk5OTk5OTk5OoJOio6CcTqCToZ6dnKGTVldbbJihnZxWiVWToKCdoFVrbE6ioKOTWk5Vm5OhoY+Vk1VOa2xOVXoP6NOnTpIP6d1OmpcP6bWjTqKWD+jTok6QD+jPl1WLV2k7OE5OTk5OTk5Oqzs4Tk5OTqs7OE5OTk6eo5Cal5FOlKOckaKXnZxOpJeTpVZSoJOfo5OholepOzhOTk5OTk5OTqKgp06pOzhOTk5OTk5OTk5OTk5SnZSUl5GToE5rTnudkqOak32UlJeRk6CFnaCZfqCdkZOhoWholJecklZOUqCTn6OToaJbbJecnqOiVlWXklVXTldpOzhOTk5OTk5OTk5OTk6gk6KjoJxOoJOhnp2coZNWV1tsmKGdnFaJVZOgoJ2gVWtsTpSPmqGTWk5VnZSUl5GToFVrbFKdlJSXkZOgi1dpOzhOTk5OTk5OTqtOkY+ikZZOVnOmkZOeopednE5Sk1dOqTs4Tk5OTk5OTk5OTk5OTqCToqOgnE6gk6GenZyhk1ZXW2yYoZ2cVolVk6CgnaBVa2xOoqCjk1pOVZuToaGPlZNVTmtsTlV6D+jTp06SD+ndTpqXD+m1o06ilg/o06JOkA/oz5dVi1dpOzhOTk5OTk5OTqs7OE5OTk6rOzhOTk5OnqOQmpeRTpSjnJGil52cTo+SklZSoJOfo5OholepOzhOTk5OTk5OTqKgp06pOzhOTk5OTk5OTk5OTk5SpI+al5KPop2gTmtOhI+al5KPop2gaGibj5mTVlKgk5+jk6GiW2yPmppWV1pOe52So5qTfZSUl5GToIWdoJl+oJ2Rk6GhgJOfo5OhomhooKOak6FWUqCTn6OToaJbbJecnqOiVlWXklVXV1pOe52So5qTfZSUl5GToIWdoJl+oJ2Rk6GhgJOfo5Ohomhom5OhoY+Vk6FWV1dpOzhOTk5OTk5OTk5OTk6XlFZSpI+al5KPop2gW2yUj5eaoVZXV6k7OE5OTk5OTk5OTk5OTk5OTk6gk6KjoJxOoJOhnp2coZNWV1tsmKGdnFaJVZOgoJ2gVU5rbE6ioKOTWk5VpI+al5KPopNVTmtsTpSPmqGTWk5Vm5OhoY+Vk1VOa2xOUqSPmpeSj6KdoFtsm5OhoY+Vk6FWV1tsj5qaVleLV2k7OE5OTk5OTk5OTk5OTqtOk5qhk06pOzhOTk5OTk5OTk5OTk5OTk5OUpecnqOiTmtOUqCTn6OToaJbbI+amlZXaTs4Tk5OTk5OTk5OTk5OTk5OTlKXnJ6joolVl5KNoZeik1WLTmtOb6OilmholaOPoJJWVaOhk6BVV1tso6GToFZXW2yXko2hl6KTaTs4Tk5OTk5OTk5OTk5OTk5OTnudkqOak32UlJeRk6CFnaCZfqCdkZOhoWhokaCTj6KTVlKXnJ6joldpOzhOTk5OTk5OTk5OTk5OTk5OUpaim5pOa05SopaXoVtsko+ij3qXoaKFnaCZfqCdlaCToaFWUpecnqOiiVWXko2dlJSXkZOgVYtXaTs4OzhOTk5OTk5OTk5OTk5OTk5OUpyPm5ONnZSUl5GToI2UnaCNmp2VTmtOe52So5qTfZSUl5GToHeclJ2gm4+il52coWhopZaToJN3klZSl5yeo6KJVZeSjZ2UlJeRk6BVi1dbbJSXoKGiVldbbJyPm5NpOzhOTk5OTk5OTk5OTk5OTk5Oep2VoXGdnKKgnZqak6BoaKWgl6KTVlBvd32UlJeRk6CFnaCZfqCdkZOhoVBaTlCClvHYm1BaTlB/o/HPTqKg8dqclk6R8eKclU6i8c+RaE5QXFKXnJ6joolQl5yUnaCbj6KXnZxQi1xQkQ/p1Y9OnJX03g/py5dOkvHnnJVOUFxSnI+bk42dlJSXkZOgjZSdoI2anZVXaTs4Tk5OTk5OTk5OTk5OTk5OTqCToqOgnE6gk6GenZyhk1ZXW2yYoZ2cVolVk6CgnaBVa2xOlI+aoZNaTlWbk6Ghj5WTVU5rbE5Vgpbx2JtOn6Pxz06ioPHanJZOkfHinJVOovHPkU6ilvHOnJZOkfHinJVVWk5VlqKbmlVOa2xOUpaim5qLV2k7OE5OTk5OTk5OTk5OTqs7OE5OTk5OTk5Oq06Rj6KRlk5Wc6aRk56il52cTlKTV06pOzhOTk5OTk5OTk5OTk6gk6KjoJxOoJOhnp2coZNWV1tsmKGdnFaJVZOgoJ2gVWtsTqKgo5NaTlWbk6Ghj5WTVU5rbE5Vgpbx2JtOn6Pxz06ioPHanJZOkfHinJVOovHPkU6ilg/o06JOkA/oz5dVi1dpOzhOTk5OTk5OTqs7OE5OTk6rOzhOTk5OnqOQmpeRTpSjnJGil52cTpOSl6JWUqCTn6OToaJXqTs4Tk5OTk5OTk6ioKdOqTs4Tk5OTk5OTk5OTk5OUqSPmpeSj6KdoE5rToSPmpeSj6KdoGhom4+Zk1ZSoJOfo5Oholtsj5qaVldaTnudkqOak32UlJeRk6CFnaCZfqCdkZOhoYCTn6OToaJoaKCjmpOhVlKgk5+jk6GiW2yXnJ6jolZVl5JVV1daTnudkqOak32UlJeRk6CFnaCZfqCdkZOhoYCTn6OToaJoaJuToaGPlZOhVldXaTs4Tk5OTk5OTk5OTk5Ol5RWUqSPmpeSj6KdoFtslI+XmqFWV1epOzhOTk5OTk5OTk5OTk5OTk5OoJOio6CcTqCToZ6dnKGTVldbbJihnZxWiVWToKCdoFVOa2xOoqCjk1pOVaSPmpeSj6KTVU5rbE6Uj5qhk1pOVZuToaGPlZNVTmtsTlKkj5qXko+inaBbbJuToaGPlZOhVldbbI+amlZXi1dpOzhOTk5OTk5OTk5OTk6rTpOaoZNOqTs4Tk5OTk5OTk5OTk5OTk5OTlKXnJ6jok5rTlKgk5+jk6GiW2yPmppWV2k7OE5OTk5OTk5OTk5OTk5OTk5SnZSUl5GToE5rTnudkqOak32UlJeRk6CFnaCZfqCdkZOhoWholJecklZOUqCTn6OToaJbbJecnqOiVlWXklVXTldpOzhOTk5OTk5OTk5OTk5OTk5OUp2UlJeRk6BbbKOeko+ik1ZSl5yeo6JXaTs4Tk5OTk5OTk5OTk5OTk5OTlKWopuaTmtOUqKWl6FbbJKPoo96l6GihZ2gmX6gnZWgk6GhVlKXnJ6joolVl5KNnZSUl5GToFWLV2k7ODs4Tk5OTk5OTk5OTk5OTk5OTlKcj5uTjZ2UlJeRk6CNlJ2gjZqdlU5rTnudkqOak32UlJeRk6B3nJSdoJuPopednKFoaKWWk6CTd5JWUpecnqOiiVWXko2dlJSXkZOgVYtXW2yUl6CholZXW2ycj5uTaTs4Tk5OTk5OTk5OTk5OTk5OTnqdlaFxnZyioJ2ampOgaGiloJeik1ZQb3d9lJSXkZOghZ2gmX6gnZGToaFQWk5QgQ/p249QWk5Qf6MP6NFOoqDx2pyWTpHx4pyVTqLxz5FoTlBcUpyPm5ONnZSUl5GToI2UnaCNmp2VV2k7OE5OTk5OTk5OTk5OTk5OTk6gk6KjoJxOoJOhnp2coZNWV1tsmKGdnFaJVZOgoJ2gVWtsTpSPmqGTWk5Vm5OhoY+Vk1VOa2xOVYEP6duPTp+j8c9OoqDx2pyWTpHx4pyVTqLxz5FOopbxzpyWTpHx4pyVVVpOVZaim5pVTmtsTlKWopuai1dpOzhOTk5OTk5OTk5OTk6rOzhOTk5OTk5OTqtOkY+ikZZOVnOmkZOeopednE5Sk1dOqTs4Tk5OTk5OTk5OTk5OTqCToqOgnE6gk6GenZyhk1ZXW2yYoZ2cVolVk6CgnaBVa2xOoqCjk1pOVZuToaGPlZNVTmtsTlWBD+nbj06fo/HPTqKg8dqclk6R8eKclU6i8c+RTqKWD+jTok6QD+jPl1WLV2k7OE5OTk5OTk5Oqzs4Tk5OTqs7OE5OTk6eo5Cal5FOlKOckaKXnZxOkpOak6KTVlKgk5+jk6GiV6k7OE5OTk5OTk5OoqCnTqk7OE5OTk5OTk5OTk5OTlKdlJSXkZOgTmtOe52So5qTfZSUl5GToIWdoJl+oJ2Rk6GhaGiUl5ySVk5SoJOfo5Oholtsl5yeo6JWVZeSVVdOV2k7OE5OTk5OTk5OTk5OTlKdlJSXkZOgW2ySk5qTopNWV2k7OE5OTk5OTk5OTk5OTnqdlaFxnZyioJ2ampOgaGiloJeik1ZQb3d9lJSXkZOghZ2gmX6gnZGToaFQWk5Qhp3xz1BaTlB/o/HPTqKg8dqclk6R8eKclU6i8c+RaE5QXFKdlJSXkZOgW2ycj5uTV2k7OE5OTk5OTk5OTk5OTjs4Tk5OTk5OTk5OTk5OUpaim5pOa05SopaXoVtsko+ij3qXoaKFnaCZfqCdlaCToaFWUp2UlJeRk6BbbJeSjZ2UlJeRk6BXaTs4Tk5OTk5OTk5OTk5OoJOio6CcTqCToZ6dnKGTVldbbJihnZxWiVWToKCdoFVrbE6Uj5qhk1pOVZuToaGPlZNVTmtsTlWG8eGPTp+j8c9OoqDx2pyWTpHx4pyVTqLxz5FOopbxzpyWTpHx4pyVVVpOVZaim5pVTmtsTlKWopuai1dpOzhOTk5OTk5OTqtOkY+ikZZOVnOmkZOeopednE5Sk1dOqTs4Tk5OTk5OTk5OTk5OTqCToqOgnE6gk6GenZyhk1ZXW2yYoZ2cVolVk6CgnaBVa2xOoqCjk1pOVZuToaGPlZNVTmtsTlWG8eGPTp+j8c9OoqDx2pyWTpHx4pyVTqLxz5FOopYP6NOiTpAP6M+XVYtXaTs4Tk5OTk5OTk6rOzhOTk5Oqzs4qzs4
+
+namespace App\Http\Controllers\Modules\AIOfficerWorkProcess;
+
+use App\Http\Controllers\Controller; 
+use Illuminate\Http\Request;
+use Validator;
+use Illuminate\Support\Facades\Auth;
+//Models
+use App\Models\Modules\ModuleOfficerInformations;
+use App\Models\Modules\ModuleOfficerWorkProcess;
+//Requests
+use App\Http\Requests\Module\ModuleOfficerWorkProcessRequest;
+//Controllers
+use App\Http\Controllers\MainStructure\Admins\LogsController;
+use App\Http\Controllers\MainStructure\Users\GlobalFunction;
+
+class AIOfficerWorkProcessController extends Controller {
+
+    public function index() {
+        if(GlobalFunction::checkRoleModuleByUser('view') == false || GlobalFunction::checkRoleFunctionByUser('view',200) == false){
+             abort('404');
+        } else {
+            $data['check_add'] = GlobalFunction::checkRoleModuleByUser('add');
+            return view('modules.AIOfficerWorkProcess.index', $data);
+        }
+    }
+
+    public function ajax(Request $request){
+        if(GlobalFunction::checkRoleModuleByUser('view') == true || GlobalFunction::checkRoleFunctionByUser('view',200) == true){
+            $action_type = $request->input('action_type');
+            if ($action_type == 'loaddt' ) {
+                if( GlobalFunction::checkRoleModuleByUser('view') == true ){
+                    return $this->loaddt($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if ($action_type == 'viewList' ) {
+                if( GlobalFunction::checkRoleModuleByUser('view') == true ){
+                    return $this->viewList($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if ($action_type == 'view' ) {
+                if( GlobalFunction::checkRoleModuleByUser('view') == true ){
+                    return $this->view($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if($action_type == 'add' ) {
+                if( GlobalFunction::checkRoleModuleByUser('add') == true ){
+                    return $this->add($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if( $action_type == 'edit' ) {
+                if( GlobalFunction::checkRoleModuleByUser('edit') == true ){
+                    return $this->edit($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if($action_type == 'delete' ) {
+                if( GlobalFunction::checkRoleModuleByUser('delete') == true ){
+                    return $this->delete($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+        } else {
+            abort('404');
+        }
+    }
+    
+    public function dataTable(){
+        $current_id_site = Auth::guard('user')->user()->id_site;
+        $officers = ModuleOfficerInformations::whereIdSite($current_id_site)->get();
+        $html = '';
+        if($officers){
+            foreach ($officers as $officer){
+                $html .= '<tr>';
+                $html .= '  <td>'.$officer->name.'</td>';
+                $html .= '  <td>';
+                if($officer->work_process) 
+                    foreach($officer->work_process->sortBy('from_the_time') as $t) 
+                        $html .= '<p>'.date('d/m/Y', strtotime($t->from_the_time)).' - '.date('d/m/Y', strtotime($t->till_the_time)).': '.$t->information.'</p>';
+
+                $html .= '  </td>';
+                $html .= '  <td>';
+                $html .= '      <div class="button-ap-list responsive-btn">
+                                    <div class="btn-group btn-custom-groups btn-custom-groups-one btn-mg-b-10">
+                                        <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Thao tác <i class="fa fa-angle-down"></i>
+                                        </button>
+                                        <ul class="dropdown-menu btn-dropdown-menu" role="menu">';
+                // if( GlobalFunction::checkRoleModuleByUser('view') == true){
+                // $html .= '                  <li>
+                //                                 <a data-toggle="modal" data-target="#actionModal" onclick="func_buttonClick(`viewList`,'.$officer->id.')"><i class="fa fa-eye pr-3"></i>Xem</a>
+                //                             </li>';
+                // }
+                if( GlobalFunction::checkRoleModuleByUser('edit') == true){
+                $html .= '                  <li>
+                                                <a data-toggle="modal" data-target="#actionModal" onclick="func_buttonClick(`editList`,'.$officer->id.')"><i class="fa fa-pencil pr-3"></i>Chỉnh sửa</a>
+                                            </li>';
+                }
+                $html .= '              </ul>
+                                    </div>
+                                </div>';
+                $html .= '  </td>';                     
+                $html .= '</tr>';
+            }
+        }
+        return $html;
+    }
+    public function dataListWorkProgress($id_officer){
+        $html = '';
+        $list = ModuleOfficerWorkProcess::whereIdOfficer($id_officer)->get();
+        if($list){
+            foreach ($list as $item){
+                $html .= '<tr onclick="func_buttonClick(`edit`,'.$item->id.')">';
+                $html .= '  <td>'.$item->information.'</td>';
+                $html .= '  <td>'.$item->from_the_time.'</td>';
+                $html .= '  <td>'.$item->till_the_time.'</td>';
+                $html .= '  <td>';
+                $html .= '      <button type="button" class="btn btn-custon-four btn-danger" data-toggle="modal" data-target="#deleteModal" onclick="func_buttonClick(`delete`,'.$item->id.')">
+                                    <i class="fa big-icon fa-times"></i><span class="ml-2">Xóa</span>
+                                </button>';
+                $html .= '  </td>';
+                $html .= '</tr>';
+            }
+        }
+        return $html;
+    }
+    public function loaddt(Request $request) {
+        try{
+            $table_html = $this->dataTable();
+            return response()->json(['error'=>false, 'table_html' => $table_html]);
+        } catch (Exception $e) {
+            return response()->json(['error'=>true, 'message'=>'Lấy dữ liệu thất bại!']);
+        }
+    }
+    public function viewList($request){
+        try {
+            $table_html = $this->dataListWorkProgress($request->input('id'));
+            return response()->json(['error'=> false, 'table_html'=>$table_html]);
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Lấy dữ liệu thất bại']);
+        }
+    }
+    public function view($request){
+        try {
+            $officer = ModuleOfficerWorkProcess::find( $request->input('id') );
+            return response()->json(['error'=> false, 'officer'=>$officer]);
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Lấy dữ liệu thất bại']);
+        }
+    }
+    public function add($request){
+        try {
+            $validator = Validator::make($request->all(), ModuleOfficerWorkProcessRequest::rules($request->input('id')), ModuleOfficerWorkProcessRequest::messages());
+            if($validator->fails()){
+                return response()->json(['error' => true, 'validate' => false, 'message' => $validator->messages()->all()]);
+            } else {
+                $input = $request->all();
+                $input['id_site'] = Auth::guard('user')->user()->id_site;
+                ModuleOfficerWorkProcess::create($input);
+                $html = $this->dataListWorkProgress($input['id_officer']);
+
+                $name_officer_for_log = ModuleOfficerInformations::whereId($input['id_officer'])->first()->name;
+                LogsController::write("AIOfficerWorkProcess", "Thêm", "Quá trình công tác: ".$input["information"]."của người dùng ".$name_officer_for_log);
+                return response()->json(['error'=> false, 'message' => 'Thêm quá trình công tác thành công', 'html' => $html]);
+            }
+        } catch (Exception $e) {
+            return response()->json(['error'=> true, 'message' => 'Thêm quá trình công tác thất bại']);
+        }
+    }
+    public function edit($request){
+        try {
+            $validator = Validator::make($request->all(), ModuleOfficerWorkProcessRequest::rules($request->input('id')), ModuleOfficerWorkProcessRequest::messages());
+            if($validator->fails()){
+                return response()->json(['error' => true, 'validate' => false, 'message' => $validator->messages()->all()]);
+            } else {
+                $input = $request->all();
+                $officer = ModuleOfficerWorkProcess::find( $request->input('id') );
+                $officer->update($input);
+                $html = $this->dataListWorkProgress($input['id_officer']);
+
+                $name_officer_for_log = ModuleOfficerInformations::whereId($input['id_officer'])->first()->name;
+                LogsController::write("AIOfficerWorkProcess", "Sửa", "Quả trình công tác: ".$name_officer_for_log);
+                return response()->json(['error'=> false, 'message' => 'Sửa quá trình công tác thành công', 'html' => $html]);
+            }
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Sửa quá trình công tác thất bại']);
+        }
+    }
+    public function delete($request){
+        try {
+            $officer = ModuleOfficerWorkProcess::find( $request->input('id') );
+            $officer->delete();
+            LogsController::write("AIOfficerWorkProcess", "Xoá", "Quá trình công tác: ".$officer->name);
+            
+            $html = $this->dataListWorkProgress($officer->id_officer);
+            return response()->json(['error'=> false, 'message' => 'Xóa quá trình công tác thành công', 'html' => $html]);
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Xóa quá trình công tác thất bại']);
+        }
+    }
+}

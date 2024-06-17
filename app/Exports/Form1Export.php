@@ -1,3 +1,44 @@
 <?php
-bolt_decrypt( __FILE__ , 'oQR01A'); return 0;
-##!!!##wb7BviIVIRknJBUXGdT1JCQQ+SwkIyYoJ+/BvsG+KScZ1PUkJBABIxgZICcQASMYKSAZJxABIxgpIBkILSQZAxr3IykmJxkn78G+KScZ1P0gICkhHSIVKBkQ9yMiKCYVFygnEAodGSsQCh0ZK+/BviknGdQBFRUoKxkWJx0oGRD5LBcZIBD3IyIXGSYiJxD6JiMhCh0ZK+/BvuPjBygtIBknwb4pJxnUBBwkAxoaHRcZEAQcJAckJhkVGCccGRkoEAcoLSAZEPodICDvwb4pJxnUBBwkAxoaHRcZEAQcJAckJhkVGCccGRkoEAcoLSAZEPYjJhgZJu/BviknGdQEHCQDGhodFxkQBBwkByQmGRUYJxwZGSgQBygtIBkQBygtIBnvwb4pJxnUBBwkAxoaHRcZEAQcJAckJhkVGCccGRkoEAcoLSAZEPcjICMm78G+KScZ1AEVFSgrGRYnHSgZEPksFxkgEPcjIhcZJiInEAsdKBz4GRoVKSAoBygtIBkn78G+KScZ1AQcJAMaGh0XGRAEHCQHJCYZFRgnHBkZKBALIyYfJxwZGSgQCyMmHyccGRko78G+wb4XIBUnJ9T6IyYh5fksJCMmKNQdISQgGSEZIign1PomIyEKHRkr4AsdKBz4GRoVKSAoBygtIBkn1C/BvsG+1NTU1OPj/5VucyjUJSmVblfUKByVb2UX1BwdlW87ItQclW9L1CgmlW9X1HhFd1Qj1CiVblUj1CIbHJVvNdQXHCPUIBUj1HhFlW9NIhvUIndoIhvUKBx3aCLBvtTU1NQkJiMoGRcoGRjU2BcjKSYnGSfvwb7BvtTU1NQkKRYgHRfUGikiFygdIyLUExMXIyInKCYpFyjcFSYmFS3U2BgVKBXd1C/BvtTU1NTU1NTU2CgcHSfh8hgVKBXU8dTYGBUoFQ/kEe/BvtTU1NQxwb7U1NTUJCkWIB0X1BopIhcoHSMi1BgZGhUpICgHKC0gGSfcBygtIBnU2BgZGhUpICgHKC0gGd3UL8G+1NTU1NTU1NQmGSgpJiLUD8G+1NTU1NTU1NTU1NTU2xojIijb1PHy1A/BvtTU1NTU1NTU1NTU1NTU1NTbJx0uGdvU8fLU5eTgwb7U1NTU1NTU1NTU1NTU1NTU2yIVIRnb1PHy1NsIHSEZJ9QCGSvUBiMhFSLb4MG+1NTU1NTU1NTU1NTUEeDBvtTU1NTU1NTU1NTU1NsWIyYYGSYn29Tx8tQPwb7U1NTU1NTU1NTU1NTU1NTU2yMpKCAdIhnb1PHy1A/BvtTU1NTU1NTU1NTU1NTU1NTU1NTU2xYjJhgZJgcoLSAZ29Tx8tQQBBwkAxoaHRcZEAQcJAckJhkVGCccGRkoEAcoLSAZEPYjJhgZJu7u9gMG+PkGEwj8/ff/4MG+1NTU1NTU1NTU1NTU1NTU1NTU1NTbFyMgIybb1PHy1A/bFSYbFtvU8fLU2/r6+vrk5OTk2xHgwb7U1NTU1NTU1NTU1NTU1NTUEeDBvtTU1NTU1NTU1NTU1BHBvtTU1NTU1NTUEe/BvtTU1NQxwb7BvtTU1NQkKRYgHRfUGikiFygdIyLUKh0ZK9zd7tQKHRkr1C/BvtTU1NTU1NTU2BgVKBUP2xgVKBXbEdTx1NgoHB0n4fIYFSgV78G+wb7U1NTU1NTU1CYZKCkmItQqHRkr3NshIxgpIBkn4vX9/SIoGRsmFSgZGAcoFSgdJygdFyfiGiMmIRPl4igVFiAZ2+DU2BgVKBXd78G+1NTU1DHBvjHBvg==
+
+namespace App\Exports;
+
+use App\Models\Modules\ModuleTypeOfCourses;
+use Illuminate\Contracts\View\View;
+use Maatwebsite\Excel\Concerns\FromView;
+//Styles
+use PhpOffice\PhpSpreadsheet\Style\Fill;
+use PhpOffice\PhpSpreadsheet\Style\Border;
+use PhpOffice\PhpSpreadsheet\Style\Style;
+use PhpOffice\PhpSpreadsheet\Style\Color;
+use Maatwebsite\Excel\Concerns\WithDefaultStyles;
+use PhpOffice\PhpSpreadsheet\Worksheet\Worksheet;
+
+class Form1Export implements FromView,WithDefaultStyles {
+
+    //Kết quả thực hiện hỗ trợ đào tạo nghề cho lao động nông thôn
+    protected $courses;
+
+    public function __construct(array $data) {
+        $this->data = $data[0];
+    }
+    public function defaultStyles(Style $defaultStyle) {
+        return [
+            'font' => [
+                'size' => 10,
+                'name' => 'Times New Roman',
+            ],
+            'borders' => [
+                'outline' => [
+                    'borderStyle' => \PhpOffice\PhpSpreadsheet\Style\Border::BORDER_THICK,
+                    'color' => ['argb' => 'FFFF0000'],
+                ],
+            ]
+        ];
+    }
+
+    public function view(): View {
+        $data['data'] = $this->data;
+
+        return view('modules.AIIntegratedStatistics.form_1.table', $data);
+    }
+}

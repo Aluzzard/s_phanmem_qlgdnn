@@ -1,3 +1,11 @@
 <?php
-bolt_decrypt( __FILE__ , 'WCu485'); return 0;
-##!!!##vbq9uh4RHRUjIBETFdDxICAM/R8UFRwjDP0RGR4DJCIlEyQlIhXrvbolIxXQ+RwcJR0ZHhEkFQz0ESQREhEjFQz1HB8hJRUeJAz9HxQVHOu9ur26ExwRIyPQAykj/BkjJP0fFCUcFSPQFSgkFR4UI9D9HxQVHCu9ur26uSAlEhwZE9AWJR4TJBkfHtASKQ8XIh8lINjZ0Cu9utDQ0NC5IhUkJSIe0NQkGBkj3e4SFRwfHhcjBB/YAykj9yIfJSAj/R8UJRwVI+rqExwRIyPc1xkUDxciHyUg19nrvbrQ0NDQLb26LQ==
+
+namespace App\Models\MainStructure;
+use Illuminate\Database\Eloquent\Model;
+
+class SysListModules extends Model{
+
+	public function by_group() {
+    	return $this->belongsTo(SysGroupsModules::class,'id_group');
+    }
+}

@@ -1,3 +1,19 @@
 <?php
-bolt_decrypt( __FILE__ , 'byysti'); return 0;
-##!!!##sa6t09PoBRcMBhMFFgixrsTExMT2ExkYCd7eCwkYzMsIBRcMBhMFFgjL0MTL8QUNEvcYFhkHGBkWCQD5FwkWFwDoBRcMBhMFFgjnExIYFhMQEAkW5AgFFwwGEwUWCMvN0eISBREJzMsZFwkW0gsJGNIIBRcMBhMFFgjLzd+xrsTExMTT0/EFEgULCRbEChkSBxgNExLEFAkWEQ0XFw0TEsQFBwcTFggNEgvEGBPEGRcJFrGuxMTExPYTGRgJ3t4LCRjMywoZEgcYDRMS0RQJFhENFxcNExLL0MTL8QUNEvcYFhkHGBkWCQD5FwkWFwDqGRIHGA0TEvQJFhENFxcNExIX5QcHExYIDRIL+BP5FwkW5A0SCAkcy82xrsTExMTExMTExMTExNHiEgURCczLGRcJFtILCRjSChkSBxgNExLSFAkWEQ0XFw0TEsvN37GuxMTExPYTGRgJ3t4UExcYzMsKGRIHGA0TEtEUCRYRDRcXDRMSy9DEy/EFDRL3GBYZBxgZFgkA+RcJFhcA6hkSBxgNExL0CRYRDRcXDRMSF+UHBxMWCA0SC/gT+RcJFuQFDgUcy82xrsTExMTExMTExMTExNHiEgURCczLGRcJFtIFBxgNExLSChkSBxgNExLSFAkWEQ0XFw0TEsvN37GuxMTExNPT8QUSBQsJFsQQDRcYxBkXCRYXsa7ExMTE9hMZGAne3gsJGMzLGRcJFhfL0MTL8QUNEvcYFhkHGBkWCQD5FwkWFwD5FwkWF+cTEhgWExAQCRbkDRIICRzLzdHiEgURCczLGRcJFtILCRjSDRIICRzLzd+xrsTExMT2ExkYCd7eFBMXGMzLGRcJFhfL0MTL8QUNEvcYFhkHGBkWCQD5FwkWFwD5FwkWF+cTEhgWExAQCRbkBQ4FHMvN0eISBREJzMsZFwkW0hQTFxjSBQ4FHMvN37GuxMTExNPT8QUSBQsJFsQREwgZEAnEFAkWEQ0XFw0TErGuxMTExPYTGRgJ3t4LCRjMyxETCBkQCdEUCRYRDRcXDRMSy9DEy/EFDRL3GBYZBxgZFgkA+RcJFhcA8RMIGRAJ9AkWEQ0XFw0TEhflBwcTFggNEgv4E/kXCRbkDRIICRzLzdHiEgURCczLGRcJFtILCRjSERMIGRAJ0hQJFhENFxcNExLLzd+xrsTExMT2ExkYCd7eFBMXGMzLERMIGRAJ0RQJFhENFxcNExLL0MTL8QUNEvcYFhkHGBkWCQD5FwkWFwDxEwgZEAn0CRYRDRcXDRMSF+UHBxMWCA0SC/gT+RcJFuQFDgUcy83R4hIFEQnMyxkXCRbSBQcYDRMS0hETCBkQCdIUCRYRDRcXDRMSy83fsa6xrsTExMT2ExkYCd7eCxYTGRTM/8sUFgkKDRzLxOHixMsQBRYFGgkQ0QoNEAkRBRIFCwkWy9DEyxENCAgQCRsFFgnLxOHixP/LGwkGy9DEywUZGAzLAQHQxAoZEgcYDRMSxMzNxB+xrsTExMTExMTExAD5Eg33DAUWFADwBRYFGgkQ6g0QCREFEgULCRYA8AoR3t4WExkYCRfMzd+xrsTExMQhzd+xruPi
+	//Dashboard
+    Route::get('dashboard', 'MainStructure\Users\DashboardController@dashboard')->name('user.get.dashboard');
+    //Manager function permission according to user
+    Route::get('function-permission', 'MainStructure\Users\FunctionPermissionsAccordingToUser@index')
+            ->name('user.get.function.permission');
+    Route::post('function-permission', 'MainStructure\Users\FunctionPermissionsAccordingToUser@ajax')
+            ->name('user.action.function.permission');
+    //Manager list users
+    Route::get('users', 'MainStructure\Users\UsersController@index')->name('user.get.index');
+    Route::post('users', 'MainStructure\Users\UsersController@ajax')->name('user.post.ajax');
+    //Manager module permission
+    Route::get('module-permission', 'MainStructure\Users\ModulePermissionsAccordingToUser@index')->name('user.get.module.permission');
+    Route::post('module-permission', 'MainStructure\Users\ModulePermissionsAccordingToUser@ajax')->name('user.action.module.permission');
+
+    Route::group(['prefix' => 'laravel-filemanager', 'middleware' => ['web', 'auth']], function () {
+         \UniSharp\LaravelFilemanager\Lfm::routes();
+    });
+?>

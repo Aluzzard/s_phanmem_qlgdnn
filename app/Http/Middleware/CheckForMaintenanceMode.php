@@ -1,3 +1,17 @@
 <?php
-bolt_decrypt( __FILE__ , 'AbmXO2'); return 0;
-##!!!##9vP281dKVk5cWUpMTgkqWVlFMV1dWUU2Uk1NVU5gSltOJPbz9vNeXE4JMlVVXlZSV0pdTkUvWF5XTUpdUlhXRTFdXVlFNlJNTVVOYEpbTkUsUU5MVC9YWzZKUlddTldKV0xONlhNTglKXAk2Uk1NVU5gSltOJPbz9vNMVUpcXAksUU5MVC9YWzZKUlddTldKV0xONlhNTglOYV1OV01cCTZSTU1VTmBKW07282T28wkJCQkYExP28wkJCQkJEwk9UU4JPjsyXAldUUpdCVxRWF5VTQlLTglbTkpMUUpLVU4JYFFSVU4JVkpSV11OV0pXTE4JVlhNTglSXAlOV0pLVU5NF/bzCQkJCQkT9vMJCQkJCRMJKV9KWwlKW1tKYvbzCQkJCQkTGPbzCQkJCVlbWF1OTF1OTQkNTmFMTlldCSYJRPbzCQkJCQkJCQkYGPbzCQkJCUYk9vNm9vM=
+
+namespace App\Http\Middleware;
+
+use Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode as Middleware;
+
+class CheckForMaintenanceMode extends Middleware
+{
+    /**
+     * The URIs that should be reachable while maintenance mode is enabled.
+     *
+     * @var array
+     */
+    protected $except = [
+        //
+    ];
+}

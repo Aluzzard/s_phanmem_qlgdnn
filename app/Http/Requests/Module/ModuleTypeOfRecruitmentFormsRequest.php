@@ -1,3 +1,32 @@
 <?php
-bolt_decrypt( __FILE__ , 'xcdHMX'); return 0;
-##!!!##OTY5NpqNmZGfnI2PkUxtnJyIdKCgnIh+kZ2hkZ+gn4h5m5ChmJFnOTY5NqGfkUx1mJihmZWajaCRiHKboZqQjaCVm5qIdKCgnIhym56ZfpGdoZGfoGc5NqGfkUx1mJihmZWajaCRiH+hnJybnqCIco2PjZCRn4htoaCUZzk2oZ+RTHWYmKGZlZqNoJGIgo2YlZCNoJWbmoh+oZiRZzk2OTaPmI2fn0x5m5ChmJGApZyRe5J+kY+eoZWgmZGaoHKbnpmffpGdoZGfoEyRpKCRmpCfTHKbnpl+kZ2hkZ+gTKc5Njk2TExMTJyhjpiVj0ySoZqPoJWbmkyeoZiRn1RQlZBVTKc5NkxMTExMTExMnpGgoZ6aTIc5NkxMTExMTExMNVOajZmRU0xpakw5NkxMTExMTExMTExMTExMTEyHOTZMTExMTExMTExMTExMTExMTExMTFOekZ2hlZ6RkFNYTDk2TExMTExMTExMTExMTExMTExMTEx+oZiRZmahmpWdoZFUU5mbkKGYkYugpZyRi5uSi56Rj56hlaCZkZqgi5KbnpmfU1U5NkxMTExMTExMTExMTExMTExMTExMWWqjlJGekVSSoZqPoJWbmkxUUJ2hkZ6lVUynOTZMTExMTExMTExMTExMTExMTExMTExMTExQnaGRnqVZaqOUkZ6RVFOVkIuflaCRU1hMbaGglGZmk6GNnpBUU6GfkZ5TVVlqoZ+RnlRVWWqVkIuflaCRVWc5NkxMTExMTExMTExMTExMTExMTExMqVU5NkxMTExMTExMTExMTExMTExMTExMWWqVk5qbnpFUUJWQVTk2TExMTExMTExMTExMTExMTIk5NkxMTExMTExMiWc5NkxMTEypOTY5NkxMTEycoY6YlY9MkqGaj6CVm5pMmZGfn42TkZ9UVTk2TExMTKc5NkxMTExMTExMnpGgoZ6aTIc5NkxMTExMTExMTExMTFOajZmRWp6RnaGVnpGQU0xMTExMTExMTExMTExMaWpTgqGVTJjv3pqTTJqUDebZnEyg79aaTJTv2JqUTKCUDefVj0ygoaUN56+aTJ+VmpRNU1g5NkxMTExMTExMTExMTFOajZmRWqGalZ2hkVNMTExMTExMTExMTExMTExMaWpTdO/YmpRMoJQN59WPTKChpQ3nr5pMn5WalEzwve/PTKAN57+aTKAN5s2VTVNYOTZMTExMTExMTIlnOTZMTExMqUxMTEw5Nqk5Ng==
+
+namespace App\Http\Requests\Module;
+
+use Illuminate\Foundation\Http\FormRequest;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Validation\Rule;
+
+class ModuleTypeOfRecruitmentFormsRequest extends FormRequest {
+
+    public function rules($id) {
+        return [
+        	'name' => 
+                [
+                    'required', 
+                    Rule::unique('module_type_of_recruitment_forms')
+                    ->where(function ($query) {
+                        $query->where('id_site', Auth::guard('user')->user()->id_site);
+                    })
+                    ->ignore($id)
+                ]
+        ];
+    }
+
+    public function messages()
+    {
+        return [
+            'name.required'              =>'Vui lòng nhập tên hình thức tuyển sinh!',
+            'name.unique'                =>'Hình thức tuyển sinh đã tồn tại!',
+        ];
+    }    
+}

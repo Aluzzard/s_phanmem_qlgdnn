@@ -1,3 +1,32 @@
 <?php
-bolt_decrypt( __FILE__ , 'QGBSic'); return 0;
-##!!!##BgMGA2daZl5saVpcXhk6aWlVQW1taVVLXmpuXmxtbFVGaF1uZV40BgMGA25sXhlCZWVuZmJnWm1eVT9obmddWm1iaGdVQW1taVU/aGtmS15qbl5sbTQGA25sXhlCZWVuZmJnWm1eVUxuaWloa21VP1pcWl1ebFU6bm1hNAYDbmxeGUJlZW5mYmdabV5VT1plYl1abWJoZ1VLbmVeNAYDBgNcZVpsbBlGaF1uZV5NcmleSF9LXlxrbmJtZl5nbWxLXmpuXmxtGV5xbV5nXWwZP2hrZkteam5ebG0ZdAYDBgMZGRkZaW5bZWJcGV9uZ1xtYmhnGWtuZV5sIR1iXSIZdAYDGRkZGRkZGRlrXm1ua2cZVAYDGRkZGRkZGRkCIGdaZl4gGTY3GQYDGRkZGRkZGRkZGRkZGRkZGVQGAxkZGRkZGRkZGRkZGRkZGRkZGRkZIGteam5ia15dICUZBgMZGRkZGRkZGRkZGRkZGRkZGRkZGUtuZV4zM25nYmpuXiEgZmhdbmVeWG1yaV5YaF9Ya15ca25ibWZeZ21sICIGAxkZGRkZGRkZGRkZGRkZGRkZGRkZJjdwYV5rXiFfbmdcbWJoZxkhHWpuXmtyIhl0BgMZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkdam5ea3ImN3BhXmteISBiXVhsYm1eICUZOm5tYTMzYG5aa10hIG5sXmsgIiY3bmxeayEiJjdiXVhsYm1eIjQGAxkZGRkZGRkZGRkZGRkZGRkZGRkZdiIGAxkZGRkZGRkZGRkZGRkZGRkZGRkZJjdiYGdoa14hHWJdIgYDGRkZGRkZGRkZGRkZGRkZGVYGAxkZGRkZGRkZVjQGAxkZGRl2BgMGAxkZGRlpbltlYlwZX25nXG1iaGcZZl5sbFpgXmwhIgYDGRkZGXQGAxkZGRkZGRkZa15tbmtnGVQGAxkZGRkZGRkZGRkZGSBnWmZeJ2team5ia15dIBkZGRkZGRkZGRkZGRkZNjcgT25iGWW8q2dgGWdh2rOmaRldWmdhGWbatJ5cGW1uctq0fGcZbGJnYSi/qW4ZbWK8o2caICUGAxkZGRkZGRkZGRkZGSBnWmZeJ25nYmpuXiAZGRkZGRkZGRkZGRkZGRkZNjcgPVpnYRlm2rSeXBltbnLatHxnGWxiZ2Eov6luGW1ivKNnGb2KvJwZbdq0jGcZbdqzmmIaICUGAxkZGRkZGRkZVjQGAxkZGRl2GRkZGQYDdgYD
+
+namespace App\Http\Requests\Module;
+
+use Illuminate\Foundation\Http\FormRequest;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Validation\Rule;
+
+class ModuleTypeOfRecruitmentsRequest extends FormRequest {
+
+    public function rules($id) {
+        return [
+        	'name' => 
+                [
+                    'required', 
+                    Rule::unique('module_type_of_recruitments')
+                    ->where(function ($query) {
+                        $query->where('id_site', Auth::guard('user')->user()->id_site);
+                    })
+                    ->ignore($id)
+                ]
+        ];
+    }
+
+    public function messages()
+    {
+        return [
+            'name.required'              =>'Vui lòng nhập danh mục tuyển sinh/ưu tiên!',
+            'name.unique'                =>'Danh mục tuyển sinh/ưu tiên đã tồn tại!',
+        ];
+    }    
+}

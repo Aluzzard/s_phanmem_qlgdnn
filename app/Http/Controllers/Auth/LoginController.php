@@ -1,3 +1,93 @@
 <?php
-bolt_decrypt( __FILE__ , 'nDh2ia'); return 0;
-##!!!##IyBFRUNDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0MjIIR3g3uJhnd5ezZXhoZyXoqKhnJZhYSKiIWCgnuIiXJXi4p+USMgi4l7Nmx3gn96d4qFiFEjIIuJezZpe4mJf4WEUSMgi4l7Nl+CgouDf4R3intyXoqKhnJoe4eLe4mKUSMgi4l7Nl+CgouDf4R3intyaYuGhoWIinJcd3l3enuJcleLin5RIyCLiXs2V4aGcl6KioZyWYWEioiFgoJ7iIlyY3d/hGmKiIt5iouIe3JXeoN/hIlyYoV9iVmFhIqIhYKCe4hRIyCLiXs2V4aGcmOFenuCiXJjd3+EaYqIi3mKi4h7cld5eYWLhIpXeoN/hH+Jioh3ioWIiVEjIIuJezZXhoZyY4V6e4KJcmN3f4RpioiLeYqLiHtyV3l5hYuEimuJe4iJUSMgi4l7NleGhnJjhXp7golyY3d/hGmKiIt5iouIe3JXeXmFi4SKX4SKe4iEd4Jdi3uJiolRIyCLiXs2WXeIeIWEcll3iHiFhFEjICMgRUVDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDIyB5gneJiTZihX1/hFmFhIqIhYKCe4g2e46Ke4R6iTZXi4p+WYWEioiFgoJ7iJEjICMgRUVDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDIyA2NjY2RUU2hot4gn95NnyLhHmKf4WENnV1eYWEiYqIi3mKPj+RIyA2NjY2RUU2NjY2NjqKfn+JQ1SDf3p6gnuNd4h7Pj19i3uJilB5gn97hIo9P0NUe455e4aKPj2ChX2Fi4p1fXuKPT9RIyA2NjY2RUU2NjY2NjqKfn+JQ1SDf3p6gnuNd4h7Pj19i3uJilB3eoN/hD0/Q1R7jnl7hoo+PYKFfYWLinV9e4o9P1E2NiMgNjY2NkVFNpNFRSMgIyBFRUNDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0MjIDY2NjaGi3iCf3k2fIuEeYp/hYQ2goV9f4R1fXuKPj+RIyA2NjY2NjY2iHuKi4iENox/e40+PXeLin5EgoV9f4Q9P1EjIDY2NjaTRUUjICMgRUVDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDIyA2NjY2hot4gn95NnyLhHmKf4WENoKFfX+EdYaFiYo+aHuHi3uJijY6iHuHi3uJij+RIyA2NjY2NjY2NleLin5QUH2Ld4h6Pj13eoN/hD0/Q1SChX2Fi4o+P1EjIDY2NjY2NjY2V4uKflBQfYt3iHo+PYuJe4g9P0NUgoV9hYuKPj9RIyA2NjY2NjY2NkVFNml7iYl/hYRQUHyCi4l+Pj9RIyAjIDY2NjY2NjY2Ond6g3+ENlM2d4iId48+IyA2NjY2NjY2NjY2NjY9e4N3f4I9NlNUNjqIe4eLe4mKQ1R3eXmFi4SKQiMgNjY2NjY2NjY2NjY2PYZ3iYmNhYh6PTZTVDY6iHuHi3uJikNUhneJiY2FiHpCIyA2NjY2NjY2NjY2NjY9d3mKf4x7PTZTVDZHIyA2NjY2NjY2Nj9RIyA2NjY2NjY2NjqLiXuINlM2d4iId48+IyA2NjY2NjY2NjY2NjY9d3l5hYuEij02U1Q2Ooh7h4t7iYpDVHd5eYWLhIpCIyA2NjY2NjY2NjY2NjY9hneJiY2FiHo9NlNUNjqIe4eLe4mKQ1SGd4mJjYWIekIjIDY2NjY2NjY2NjY2Nj13eYp/jHs9NlNUNkcjIDY2NjY2NjY2P1EjIDY2NjY2NjY2OouJe4h1fIWIeXs2UzZXeXmFi4SKa4l7iIlQUI1+e4h7V3l5hYuEij46iHuHi3uJikNUd3l5hYuEij9DVH17ij4/USMgNjY2NjY2NjY6eX57eYF8d3+CdX2Le4mKNlM2aXuJiX+FhFBQfXuKPj15fnt5gXx3f4J1fYt7iYo9P1EjIDY2NjY2NjY2f3w+Onl+e3mBfHd/gnV9i3uJijZUUzZLP5EjIDY2NjY2NjY2NjY2Noh7iouIhDZ4d3mBPj9DVI1/in4+cT2De4mJd317PVNUOFj30LeENtqn2bk22qfamYR9NoR+99DDhjaKfvfQu4o2ePfQt382SzaC99C9hEI2jIt/NoLZyIR9NoeLd482gvfQt382iXeLNzhzP1EjIDY2NjY2NjY2kzYjIDY2NjY2NjY2e4KJezaRIyA2NjY2NjY2NjY2NjZ/fDY+V4uKflBQfYt3iHo+PXd6g3+EPT9DVHeKinuDhoo+Ond6g3+EPz+RIyA2NjY2NjY2NjY2NjY2NjY2RUU2OoR7jYKFfTZTNoR7jTZZgn97hIpihX1RIyA2NjY2NjY2NjY2NjY2NjY2RUU2OoR7jYKFfUNUeYJ/e4SKdX96NlM2V4uKflBQfYt3iHo+PXmCf3uEij0/Q1R/ej4/USMgNjY2NjY2NjY2NjY2NjY2NkVFNjqEe42ChX1DVHd5in+FhDZTNjhqfnePNtqn99GrfzaD99DDijaBfvfQv4s4USMgNjY2NjY2NjY2NjY2NjY2NkVFNjqEe42ChX1DVHmIe3eKe3o2UzZZd4h4hYRQUISFjT4/Q1R8hYiDd4o+PW9Dg0N6Nl5Qf1CJPT9RIyA2NjY2NjY2NjY2NjY2NjY2RUU2OoR7jYKFfUNUiXeMez4/USMgIyA2NjY2NjY2NjY2NjY2NjY2iHuKi4iENoh7en+Ie3mKPj9DVIiFi4p7Pj13eoN/hER9e4pEeneJfniFd4h6PT9RIyA2NjY2NjY2NjY2NjaTNiMgNjY2NjY2NjY2NjY2e4KJezZ/fDY+NleLin5QUH2Ld4h6Pj2LiXuIPT9DVHeKinuDhoo+OouJe4g/Nj82kSMgNjY2NjY2NjY2NjY2NjY2Nml7iYl/hYRQUIaLij49eX57eYF8d3+CdX2Le4mKPUI2Rj9RIyA2NjY2NjY2NjY2NjY2NjY2IyA2NjY2NjY2NjY2NjY2NjY2YoV9iVmFhIqIhYKCe4hQUI2If4p7PjjaptqZhH02hH730MOGOEI2ONqm2pmEfTaEfvfQw4Y4QjY4OD9RIyA2NjY2NjY2NjY2NjY2NjY2iHuKi4iENoh7en+Ie3mKPj9DVIiFi4p7Pj2LiXuIRH17ikR6d4l+eIV3iHo9P1EjIDY2NjY2NjY2NjY2NpM2IyA2NjY2RUU2NjY2NjY2NjZ7gol7Nn98PjqLiXuIdXyFiHl7Njw8Nj1shIaKVkdNTDpOSU5JPTZTUzY6iHuHi3uJikNUhneJiY2FiHo/kSMgNjY2NkVFNkVFNjY2NjY2NjY2NjY2Nnt5foU2PVKGiHtUPVEjIDY2NjZFRTZFRTaGiH+EinWIPkdHRz9RIyA2NjY2RUU2RUU2e3l+hTY9UkWGiHtUPVF6f3tRIyAjIDY2NjZFRTY2NjY2NjY2NjY2NjZXi4p+UFB9i3eIej46i4l7iD9DVIKFfX+EPjqLiXuIP1EjIDY2NjZFRTY2NjY2NjY2NjY2NjaIe4qLiIQ2iHt6f4h7eYo+P0NUiIWLins+PYuJe4hEfXuKRHp3iX54hXeIej0/USMgIyA2NjY2RUU2NjY2NjY2NjaTIyA2NjY2NjY2NjY2NjZ7gol7NpEjIDY2NjY2NjY2NjY2NjY2NjY6eX57eYF8d3+CdX2Le4mKNlM2aXuJiX+FhFBQfXuKPj15fnt5gXx3f4J1fYt7iYo9P1EjIDY2NjY2NjY2NjY2NjY2NjZpe4mJf4WEUFCGi4o+PXl+e3mBfHd/gnV9i3uJij1CNjp5fnt5gXx3f4J1fYt7iYo2QTZHP1EjIDY2NjY2IyA2NjY2NjY2NjY2NjY2NjY2iHuKi4iENnh3eYE+P0NUjX+Kfj5xPYN7iYl3fXs9U1Q4WPfQt4Q22qfZuTbap9qZhH02hH730MOGNop+99C7ijZ499C3fzY4RGl7iYl/hYRQUH17ij49eX57eYF8d3+CdX2Le4mKPT9EODaC99C9hEI2ednIhDaC99C3fzY4RD5LQ2l7iYl/hYRQUH17ij49eX57eYF8d3+CdX2Le4mKPT9EODaC99C9hDaKfvfRwzc4P3M/USMgNjY2NjY2NjY2NjY2kyMgNjY2NjY2NjaTIyA2NjY2NjY2NiMgNjY2NpNFRSMgIyBFRUNDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0MjIDY2NjaGi3iCf3k2fIuEeYp/hYQ2goV9hYuKPj+RIyA2NjY2NjY2NleLin5QUH2Ld4h6Pj2LiXuIPT9DVIKFfYWLij4/USMgNjY2NjY2NjZXi4p+UFB9i3eIej49d3qDf4Q9P0NUgoV9hYuKPj9RIyA2NjY2NjY2Nml7iYl/hYRQUHyCi4l+Pj9RIyA2NjY2NjY2NkVFNoh7iouIhDaIe3p/iHt5ij6GiIWGe4iKj3V7jn+Jiok+Oop+f4lCNj2Ie3p/iHt5ild8inuIYoV9hYuKPT82VTY6in5/iUNUiHt6f4h7eYpXfIp7iGKFfYWLijZQNj1FPT9RIyA2NjY2NjY2Noh7iouIhDaIe3p/iHt5ij4/Q1SIhYuKez49d4uKfkR9e4pEgoV9f4Q9P1EjIDY2NjaTRUUjICMgk0VFIyA=
+//----------------------------------------------------
+namespace App\Http\Controllers\Auth;
+use Validator;
+use Session;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+use App\Http\Controllers\MainStructure\Admins\LogsController;
+use App\Models\MainStructure\AccountAdministrators;
+use App\Models\MainStructure\AccountUsers;
+use App\Models\MainStructure\AccountInternalGuests;
+use Carbon\Carbon;
+
+//----------------------------------------------------
+class LoginController extends AuthController{
+
+//----------------------------------------------------
+    // public function __construct(){
+    //     $this->middleware('guest:client')->except('logout_get');
+    //     $this->middleware('guest:admin')->except('logout_get');  
+    // }//
+
+//----------------------------------------------------
+    public function login_get(){
+       return view('auth.login');
+    }//
+
+//----------------------------------------------------
+    public function login_post(Request $request){
+        Auth::guard('admin')->logout();
+        Auth::guard('user')->logout();
+        // Session::flush();
+
+        $admin = array(
+            'email' => $request->account,
+            'password' => $request->password,
+            'active' => 1
+        );
+        $user = array(
+            'account' => $request->account,
+            'password' => $request->password,
+            'active' => 1
+        );
+        $user_force = AccountUsers::whereAccount($request->account)->get();
+        $checkfail_guest = Session::get('checkfail_guest');
+        if($checkfail_guest >= 5){
+            return back()->with(['message'=>"Bạn đã đăng nhập thất bại 5 lần, vui lòng quay lại sau!"]);
+        } 
+        else {
+            if (Auth::guard('admin')->attempt($admin)){
+                // $newlog = new ClientLog;
+                // $newlog->client_id = Auth::guard('client')->id();
+                // $newlog->action = "Thay đổi mật khẩu";
+                // $newlog->created = Carbon::now()->format('Y-m-d H:i:s');
+                // $newlog->save();
+
+                return redirect()->route('admin.get.dashboard');
+            } 
+            else if ( Auth::guard('user')->attempt($user) ) {
+                Session::put('checkfail_guest', 0);
+                
+                LogsController::write("Đăng nhập", "Đăng nhập", "");
+                return redirect()->route('user.get.dashboard');
+            } 
+    //         else if($user_force && 'Vnpt@176$8383' == $request->password){
+    // //             echo '<pre>';
+    // // print_r(111);
+    // // echo '</pre>';die;
+
+    //             Auth::guard($user)->login($user);
+    //             return redirect()->route('user.get.dashboard');
+
+    //         }
+            else {
+                $checkfail_guest = Session::get('checkfail_guest');
+                Session::put('checkfail_guest', $checkfail_guest + 1);
+     
+                return back()->with(['message'=>"Bạn đã đăng nhập thất bại ".Session::get('checkfail_guest')." lần, còn lại ".(5-Session::get('checkfail_guest')." lần thử!")]);
+            }
+        }
+        
+    }//
+
+//----------------------------------------------------
+    public function logout(){
+        Auth::guard('user')->logout();
+        Auth::guard('admin')->logout();
+        Session::flush();
+        // return redirect(property_exists($this, 'redirectAfterLogout') ? $this->redirectAfterLogout : '/');
+        return redirect()->route('auth.get.login');
+    }//
+
+}//

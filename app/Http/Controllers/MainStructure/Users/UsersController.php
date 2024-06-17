@@ -1,3 +1,168 @@
 <?php
-bolt_decrypt( __FILE__ , 'kIPdkv'); return 0;
-##!!!##VlNWU7eqtq68uaqsrmmKubmlkb29uaWMuLe9u7i1ta67vKWWqrK3nL27vqy9vruupZ68rru8hFZTVlO+vK5pirm5pZG9vbmljLi3vbu4tbWuu7yljLi3vbu4tbWuu4RpVlO+vK5pkrW1vrayt6q9rqWRvb25pZuuur6uvL2EVlO+vK5pn6q1sq2qvbi7hFZTvryuaZK1tb62sreqva6lnL65ubi7vaWPqqyqra68pYq+vbGEVlN4eJa4ra61vFZTvryuaYq5uaWWuK2utbyllqqyt5y9u76svb67rqWKrKy4vre9nryuu7yEVlN4eIy4t727uLW1rrtWU768rmmKubmlkb29uaWMuLe9u7i1ta67vKWWqrK3nL27vqy9vruupYqttrK3vKWVuLC8jLi3vbu4tbWuu4RWU3h4m666vq68vbxWU768rmmKubmlkb29uaWbrrq+rry9vKWWqrK3nL27vqy9vruupZ68rrubrrq+rry9hFZTVlOstaq8vGmevK67vIy4t727uLW1rrtprsG9rretvGmMuLe9u7i1ta67acRWU1K5vqu1sqxpr763rL2yuLdpsretrsFxcsRWU1JSsq9xkLW4q6q1j763rL2yuLeDg6yxrqy0m7i1ro++t6y9sri3i8KevK67cXC/sq7AcHVpfHl5cmmGhmmvqrW8rnLEVlNpaWlpUlKqq7i7vXFwfXl9cHKEVlNpaWlpUsZprrW8rmnEVlNpaWlpUlJtraq9qqRwsb22tai9qqu1rnCmaYZpbb2xsrx2h7G9trWNqr2qnaqrta5xcoRWU2lpaWlSUm2tqr2qpHCssa6stKiqra1wpmmGaZC1uKuqtY++t6y9sri3g4Ossa6stJu4ta6PvresvbK4t4vCnryuu3Fwrq2yvXB1aXx5eXKEVlNSUlK7rr2+u7dpv7KuwHFwtqqyt7y9u76svb67rne5qrCuvHe+vK67vHeWqreqsK67nryuu7x3lbK8vZ68rru8cHVpba2qvapyhFZTaWlpaVLGVlNSxlZTUrm+q7WyrGmvvresvbK4t2mqs6rBcZuuur6uvL1pbbuuur6uvL1yxFZTUlKyr3GQtbirqrWPvresvbK4t4ODrLGurLSbuLWuj763rL2yuLeLwp68rrtxcL+yrsBwdWl8eXlyaYaGab27vq5yxFZTUmlpaWlSbaqsvbK4t6i9wrmuaYZpbbuuur6uvL12h7K3ub69cXCqrL2yuLeovcK5rnByhFZTUmlpaWlSsq9pcW2qrL2yuLeovcK5rmmGhmlwv7KuwHBpcmnEVlNSaWlpaVJSsq9xaZC1uKuqtY++t6y9sri3g4Ossa6stJu4ta6PvresvbK4t4vCnryuu3Fwv7KuwHB1aXx5eXJphoZpvbu+rmlyxFZTUmlpaWlSUlK7rr2+u7dpbb2xsrx2h7+yrsBxbbuuur6uvL1yhFZTaWlpaVJSUsZprrW8rmnEVlNSUlJSUruuvb67t2m7rry5uLe8rnFydoezvLi3caRwrru7uLtwhoe9u76udWlwtq68vKqwrnCGh3CUsQz9t7BpDdoP+SoE7KxpubEM67dpur7CKgTKt2pwpnKEVlNSUlJSxlZTUmlpaWlSxlZTUmlpaWlSrrW8rmmyr3Ftqqy9sri3qL3Cua5phoZpcKqtrXBpcmnEVlNSaWlpaVJSsq9xaZC1uKuqtY++t6y9sri3g4Ossa6stJu4ta6PvresvbK4t4vCnryuu3Fwrq2yvXB1aXx5eXJphoZpvbu+rmlyxFZTUmlpaWlSUlK7rr2+u7dpbb2xsrx2h6qtrXFtu666vq68vXKEVlNSaWlpaVJSxmmutbyuacRWU1JSUlJSu669vru3abuuvLm4t7yucXJ2h7O8uLdxpHCuu7u4u3CGh727vq51aXC2rry8qrCucIaHcJSxDP23sGkN2g/5KgTsrGm5sQzrt2m6vsIqBMq3anCmcoRWU1JSUlLGVlNSaWlpaVLGVlNSaWlpaVKutbyuabKvcWltqqy9sri3qL3Cua5phoZpcK6tsr1waXJpxFZTUmlpaWlSUrKvcWmQtbirqrWPvresvbK4t4ODrLGurLSbuLWuj763rL2yuLeLwp68rrtxcK6tsr1wdWl8eXlyaYaGab27vq5pcsRWU1JpaWlpUlJSu669vru3aW29sbK8doeurbK9cW27rrq+rry9coRWU1JpaWlpUlLGaa61vK5pxFZTUlJSUlK7rr2+u7dpu668ubi3vK5xcnaHs7y4t3GkcK67u7i7cIaHvbu+rnVpcLauvLyqsK5whodwlLEM/bewaQ3aD/kqBOysabmxDOu3abq+wioEyrdqcKZyhFZTUlJSUsZWU1JpaWlpUsZWU1JpaWlpUq61vK5psq9xbaqsvbK4t6i9wrmuaYaGaXCtrrWuva5waXJpxFZTUmlpaWlSUrKvcWmQtbirqrWPvresvbK4t4ODrLGurLSbuLWuj763rL2yuLeLwp68rrtxcK2uta69rnB1aXx5eXJphoZpvbu+rmlyxFZTUmlpaWlSUlK7rr2+u7dpbb2xsrx2h62uta69rnFtu666vq68vXKEVlNSaWlpaVJSxmmutbyuacRWU1JSUlJSu669vru3abuuvLm4t7yucXJ2h7O8uLdxpHCuu7u4u3CGh727vq51aXC2rry8qrCucIaHcJSxDP23sGkN2g/5KgTsrGm5sQzrt2m6vsIqBMq3anCmcoRWU1JSUlLGVlNSaWlpaVLGVlNSaWlpacZWU2lpaWnGVlNWU1K5vqu1sqxpr763rL2yuLdpsb22tY2qvaqdqqu1rnFyxFZTUlJtrL67u663vaiyrai8sr2uaYZpir69sYODsL6qu61xcL68rrtwcnaHvryuu3Fydoeyrai8sr2uhFZTUlJtrL67u663vaiyrWmGaYq+vbGDg7C+qrutcXC+vK67cHJ2h7KtcXKEVlNSUm2qrKy4vre9vKi+vK67vGmGaYqsrLi+t72evK67vIODwLGuu66SrZyyva5xbay+u7uut72osq2ovLK9rnJWU1JSUlJSUlJpaWlpUlJ2h8CxrruucXC1rr+utXB1cGqGcHVpcHpwclZTUlJSUlJSUmlpaWlSUnaHwLGuu65xcLKtcHVwaoZwdWltrL67u663vaiyrXJWU1JSUlJSUlJpaWlpUlJ2h7i7ra67q8JxcKqsvbK/rnB1aXCtrryscHJWU1JSUlJSUlJpaWlpUlJ2h7CuvXFyhFZTUlJtsb22tWmGaXBwhFZTUlKyr3FtqqysuL63vbyovryuu7xyxFZTUlJSr7i7rqqssXFtqqysuL63vbyovryuu7xpqrxpbaqsrLi+t72ovryuu7xpcsRWU1JSUlJtsb22tWl3hmlwhb27h3CEVlNSUlJSbbG9trVpd4ZpcFKFva2HcHdtqqysuL63vai+vK67vHaHqqysuL63vXdwhXi9rYdwhFZTUlJSUm2xvba1aXeGaXBShb2th3B3baqsrLi+t72ovryuu7x2h7eqtq53cIV4va2HcIRWU1JSUlJtsb22tWl3hmlwUoW9rYdwd22qrKy4vre9qL68rru8doeutqqytXdwhXi9rYdwhFZTUlJSUlKyr3FpbaqsrLi+t72ovryuu7x2h6qsvbK/rmmGhml6aXJpxFZTUlJSUlJSbbG9trVpd4ZpcFKFva1prLWqvLyGa72uwb12vL6srK68vGmvwHaAeXlrh4W8vbu4t7CHkbgqA+q9aQ3aKgTit7CFeLy9u7i3sIeFeL2th3CEVlNSUlJSUsZprrW8rmnEVlNSUlJSUlJtsb22tWl3hmlwUoW9rWmstaq8vIZrva7BvXatqrewrrtpr8B2gHl5a4eFvL27uLewh5SxDP23sGmxuCoD6r1pDdoqBOK3sIV4vL27uLewhXi9rYdwhFZTUlJSUlLGVlNSUlJSbbG9trVpd4ZpcFKFva2HcIRWU1JSUlKyr3FpkLW4q6q1j763rL2yuLeDg6yxrqy0m7i1ro++t6y9sri3i8KevK67cXCurbK9cHVpfHl5cmmGhmm9u76uaXLEVlNSUlJSUm2xvba1aXeGaXBSUlKFq769vbi3ab3Cua6Ga6u+vb24t2tprLWqvLyGa6u9t2mrvbd2vLZpq723dqy+vL24t3avuL67aau9t3bAqru3srewa2mtqr2qdr24sLC1roZrtritqrVraa2qvap2vaq7sK69hmtsqqy9sri3lritqrVrabi3rLWyrLSGa6++t6yoq769vbi3jLWyrLRxqa6tsr2pdXB3baqsrLi+t72ovryuu7x2h7Ktd3Bya4dWU1JSUlJSUlJSUlKFsmmstaq8vIZrr6ppq7KwdrKsuLdpr6p2ua63rLK1a4eFeLKHhby5qrdprLWqvLyGa7a1dntrh5wqBPaqhXi8uaq3h1ZTUlJSUlJSUlJShXirvr29uLeHcIRWU1JSUlLGVlNSUlJSeHhpsq9xaZC1uKuqtY++t6y9sri3g4Ossa6stJu4ta6PvresvbK4t4vCnryuu3Fwra61rr2ucHVpfHl5cmmGhmm9u76uaXLEVlNSUlJSeHhpUm2xvba1aXeGaXBSUlKFq769vbi3ab3Cua6Ga6u+vb24t2tprLWqvLyGa6u9t2mrvbd2vLZpq723dqy+vL24t3avuL67aau9t3atqrewrrtraa2qvap2vbiwsLWuhmu2uK2qtWtpraq9qna9qruwrr2Ga2ytrrWuva6WuK2qtWtpuLestbKstIZrr763rKirvr29uLeMtbKstHGpra61rr2uqXVwd22qrKy4vre9qL68rru8doeyrXdwcmuHVlNSUlJSeHhpUlJSUlJShbJprLWqvLyGa6+qaauysHayrLi3aa+qdr2ytq68a4eFeLKHhby5qrdprLWqvLyGa7a1dntrh6EM/KqFeLy5qreHVlNSUlJSeHhpUlJSUlKFeKu+vb24t4dwhFZTUlJSUnh4acZWU1JSUlJtsb22tWl3hmlwUoV4va2HcIRWU1JSUlJtsb22tWl3hmlwhXi9u4dwhFZTUlJSxlZTUlLGVlNSUruuvb67t2ltsb22tYRWU1LGVlNpaWlpVlNpaWlpub6rtbKsaa++t6y9sri3ab+yrsBxbbuuur6uvL1yacRWU2lpaWlSvbvCacRWU2lpaWlpaWlpaWlpaW2+vK67aYZpiqysuL63vZ68rru8g4OvsretcWltu666vq68vXaHsre5vr1xcLKtcHJpcoRWU2lpaWlpaWlpaWlpabuuvb67t2m7rry5uLe8rnFydoezvLi3caRwrru7uLtwhodpr6q1vK51aXC+vK67cIaHbb68rrumcoRWU2lpaWlpaWlpxmmsqr2ssWlxjsGsrrm9sri3aW2ucmnEVlNpaWlpaWlpaWlpaWlpu669vru3abuuvLm4t7yucXJ2h7O8uLdxpHCuu7u4u3CGh2m9u76udWlwtq68vKqwrnBphodpcJUqA+7Caa0qBPhptbIqBNC+ab2xKgPuvWmrKgPqsnCmcoRWU2lpaWlpaWlpxlZTaWlpacZWU2lpaWm5vqu1sqxpr763rL2yuLdpqq2tcW27rrq+rry9cmnEVlNpaWlpUr27wmnEVlNpaWlpaWlpaWlpaWltv6q1sq2qvbi7aYZpn6q1sq2qvbi7g4O2qrSucW27rrq+rry9doeqtbVxcnVpnryuu5uuur6uvL2Dg7u+ta68cW27rrq+rry9doeyt7m+vXFwsq1wcnJ1aZ68rrubrrq+rry9g4O2rry8qrCuvHFycoRWU2lpaWlpaWlpaWlpabKvcW2/qrWyraq9uLt2h6+qsrW8cXJyxFZTaWlpaWlpaWlpaWlpaWlpabuuvb67t2m7rry5uLe8rnFydoezvLi3caRwrru7uLtwaYaHab27vq51aXC/qrWyraq9rnBphodpr6q1vK51aXC2rry8qrCucGmGh2ltv6q1sq2qvbi7doe2rry8qrCuvHFydoeqtbVxcqZyhFZTaWlpaWlpaWlpaWlpxmmutbyuacRWU2lpaWlpaWlpaWlpaWlpaWltsre5vr1phmltu666vq68vXaHqrW1cXKEVlNpaWlpaWlpaWlpaWlpaWlpbbK3ub69pHCqrL2yv65wpmmGaXqEVlNpaWlpaWlpaWlpaWlpaWlpbbK3ub69pHC5qry8wLi7rXCmaYZpq6y7wrm9cW27rrq+rry9doeyt7m+vXFwuaq8vMC4u61wcnKEVlNpaWlpaWlpaWlpaWlpaWlpbbK3ub69pHCyrai8sr2ucKZphmmKvr2xg4Owvqq7rXFwvryuu3Bydoe+vK67cXJ2h7KtqLyyva6EVlNpaWlpaWlpaWlpaWlpaWlpiqysuL63vZ68rru8g4Osu66qva5xbbK3ub69coRWU2lpaWlpaWlpaWlpaWlpaWltsb22tWmGaW29sbK8doexvba1jaq9qp2qq7WucXKEVlNWU2lpaWlpaWlpaWlpaWlpaWmVuLC8jLi3vbu4tbWuu4ODwLuyva5xa5q+KgPst2m1DAZpt7AP+SoE5rJprQwCt7BrdWlrnbEM87ZptioE5LJrdWlrnQzpsmm0sbgqA+y3g2lrd227rrq+rry9doeyt7m+vXFwt6q2rnBycoRWU1JpaWlpaWlpaWlpaWm7rr2+u7dpu668ubi3vK5xcnaHs7y4t3GkcK67u7i7cIaHaa+qtbyudWlwtq68vKqwrnBphodpcJ2xDPO2ab0M6bJptLG4KgPst2m9sQzpt7FprAz9t7BwdWlwvaqrta6osb22tXBphodpbbG9trWmcoRWU2lpaWlpaWlpaWlpacZWU2lpaWlpaWlpxmmsqr2ssWlxjsGsrrm9sri3aW2ucmnEVlNpaWlpaWlpaVK7rr2+u7dpu668ubi3vK5xcnaHs7y4t3GkcK67u7i7cIaHab27vq51aXC2rry8qrCucGmGh2lwnbEM87ZpvQzpsmm0sbgqA+y3ab2xKgPuvWmrKgPqsnCmcoRWU2lpaWlpaWlpxlZTaWlpacZWU2lpaWm5vqu1sqxpr763rL2yuLdprq2yvXFtu666vq68vXJpxFZTUlK9u8JpxFZTaWlpaWlpaWlpaWlpbb+qtbKtqr24u2mGaZ+qtbKtqr24u4ODtqq0rnFtu666vq68vXaHqrW1cXJ1aZ68rrubrrq+rry9g4O7vrWuvHFtu666vq68vXaHsre5vr1xcLKtcHJydWmevK67m666vq68vYODtq68vKqwrrxxcnKEVlNpaWlpaWlpaWlpaWmyr3Ftv6q1sq2qvbi7doevqrK1vHFycsRWU2lpaWlpaWlpaWlpaWlpaWm7rr2+u7dpu668ubi3vK5xcnaHs7y4t3GkcK67u7i7cGmGh2m9u76udWlwv6q1sq2qva5waYaHaa+qtbyudWlwtq68vKqwrnBphodpbb+qtbKtqr24u3aHtq68vKqwrrxxcnaHqrW1cXKmcoRWU2lpaWlpaWlpaWlpacZprrW8rmnEVlNpaWlpaWlpaWlpaWlSsq9xir69sYODsq1xcmmGhmltu666vq68vXaHsre5vr1xcLKtcHJyxFZTUlJSUlK7rr2+u7dpu668ubi3vK5xcnaHs7y4t3GkcK67u7i7cIaHab27vq51aXC2rry8qrCucGmGh2lwnQzpsmm0sbgqA+y3aQ3aqrewabwqBPZprSoE7rewanCmcoRWU1JSUlLGaa61vK5pxFZTUlJSUlJtvryuu2mGaYqsrLi+t72evK67vIODr7K3rXFpbbuuur6uvL12h7K3ub69cXCyrXByaXKEVlNSUlJSUm2+vK67doe3qrauaYZpbbuuur6uvL12h7K3ub69cXC3qraucHKEVlNSUlJSUm2+vK67doeutqqytWmGaW27rrq+rry9doeyt7m+vXFwrraqsrVwcoRWU1JSUlJSbb68rrt2h7e+tquuu7mxuLeuaYZpbbuuur6uvL12h7K3ub69cXC3vrarrru5sbi3rnByhFZTUlJSUlKyr2lxbbuuur6uvL12h7K3ub69cXC5qry8wLi7rXBycsRWU1JSUlJSUm2+vK67doe5qry8wLi7rWmGaausu8K5vXFtu666vq68vXaHsre5vr1xcLmqvLzAuLutcHJyhFZTUlJSUlLGVlNSUlJSUm2+vK67doeqrL2yv65phmlxbbuuur6uvL12h7K3ub69cXC8vaq9vrxwcmmGhml6cmmIaXppg2l5hFZTUmlpaWlpaWlpaWlpaWlpaWltvryuu3aHvrmtqr2ucXKEVlNSUmlpaWlpaWlpaWlpaW2xvba1aYZpbb2xsrx2h7G9trWNqr2qnaqrta5xcoRWU1JSaWlpaWlpaWlpaWlplbiwvIy4t727uLW1rruDg8C7sr2ucWuavioD7LdptQwGabewD/kqBOayaa0MArewa3Vpa5wqBPaqaQ3aKgTesmt1aWudDOmyabSxuCoD7LeDaWt3bbuuur6uvL12h7K3ub69cXC3qraucHJyhFZTUlJpaWlpaWlpaWlpaWm7rr2+u7dpu668ubi3vK5xcnaHs7y4t3GkcK67u7i7cIaHaa+qtbyudWlwtq68vKqwrnBphodpcJwqBPaqab0M6bJptLG4KgPst2m9sQzpt7FprAz9t7BwdWlwvaqrta6osb22tXBphodpbbG9trWmcoRWU1JSaWlpaWlpaWnGVlNpaWlpaWlpaWlpaWnGVlNpaWlpaWlpacZprKq9rLFpcY7BrK65vbK4t2ltrnJpxFZTaWlpaWlpaWlpaWlpu669vru3abuuvLm4t7yucXJ2h7O8uLdxpHCuu7u4u3CGh2m9u76udWlwtq68vKqwrnBphodpcJwqBPaqab0M6bJptLG4KgPst2m9sSoD7r1pqyoD6rJwpnKEVlNpaWlpaWlpacZWU2lpaWnGVlNpaWlpub6rtbKsaa++t6y9sri3aa2uta69rnFtu666vq68vXJpxFZTaWlpaVK9u8JpxFZTUlJSsq9xir69sYODsq1xcmmGhmltu666vq68vXaHsre5vr1xcLKtcHJyxFZTUlJSUruuvb67t2m7rry5uLe8rnFydoezvLi3caRwrru7uLtwhodpvbu+rnVpcLauvLyqsK5waYaHaXCdDOmyabSxuCoD7LdpDdqqt7BpvCoE9mmtKgTut7BqcKZyhFZTUlJSxmmutbyuacRWU1JSUlJtvryuu2mGaYqsrLi+t72evK67vIODr7K3rXFpbbuuur6uvL12h7K3ub69cXCyrXByaXKEVlNpaWlpUlJSbb68rrt2h62uta69rnFyhFZTUmlpaWlpaWlpaWlpaW2xvba1aYZpbb2xsrx2h7G9trWNqr2qnaqrta5xcoRWU1JpaWlpaWlpaWlpaWmVuLC8jLi3vbu4tbWuu4ODwLuyva5xa5q+KgPst2m1DAZpt7AP+SoE5rJprQwCt7BrdWlrobgM6mt1aWudDOmyabSxuCoD7LeDaWt3bb68rrt2h6qsrLi+t71yhFZTUmlpaWlpaWlpaWlpabuuvb67t2m7rry5uLe8rnFydoezvLi3caRwrru7uLtwhodpr6q1vK51aXC2rry8qrCucGmGh2lwoQz8qmm9DOmyabSxuCoD7LdpvbEM6bexaawM/bewcHVpcL2qq7WuqLG9trVwaYaHaW2xvba1pnKEVlNSUlLGVlNpaWlpaWlpacZprKq9rLFpcY7BrK65vbK4t2ltrnJpxFZTaWlpaWlpaWlpaWlpabuuvb67t2m7rry5uLe8rnFydoezvLi3caRwrru7uLtwhodpvbu+rnVpcLauvLyqsK5waYaHaXChDPyqab0M6bJptLG4KgPst2m9sSoD7r1pqyoD6rJwpnKEVlNpaWlpaWlpacZWU2lpaWnGVlPGVlM=
+
+namespace App\Http\Controllers\MainStructure\Users;
+
+use App\Http\Controllers\Controller; 
+use Illuminate\Http\Request;
+use Validator;
+use Illuminate\Support\Facades\Auth;
+//Models
+use App\Models\MainStructure\AccountUsers;
+//Controller
+use App\Http\Controllers\MainStructure\Admins\LogsController;
+//Requests
+use App\Http\Requests\MainStructure\UserRequest;
+
+class UsersController extends Controller {
+	public function index(){
+		if(GlobalFunction::checkRoleFunctionByUser('view', 300) == false){
+    		abort('404');
+    	} else {
+    		$data['html_table'] = $this->htmlDataTable();
+    		$data['check_add'] = GlobalFunction::checkRoleFunctionByUser('edit', 300);
+			return view('mainstructure.pages.users.ManagerUsers.ListUsers', $data);
+    	}
+	}
+	public function ajax(Request $request){
+		if(GlobalFunction::checkRoleFunctionByUser('view', 300) == true){
+	    	$action_type = $request->input('action_type');
+	    	if ($action_type == 'view' ) {
+	    		if( GlobalFunction::checkRoleFunctionByUser('view', 300) == true ){
+	    			return $this->view($request);
+    			} else {
+					return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+				}
+	    	}
+	    	else if($action_type == 'add' ) {
+	    		if( GlobalFunction::checkRoleFunctionByUser('edit', 300) == true ){
+	    			return $this->add($request);
+	    		} else {
+					return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+				}
+	    	}
+	    	else if( $action_type == 'edit' ) {
+	    		if( GlobalFunction::checkRoleFunctionByUser('edit', 300) == true ){
+	    			return $this->edit($request);
+	    		} else {
+					return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+				}
+	    	}
+	    	else if($action_type == 'delete' ) {
+	    		if( GlobalFunction::checkRoleFunctionByUser('delete', 300) == true ){
+	    			return $this->delete($request);
+	    		} else {
+					return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+				}
+	    	}
+	    }
+    }
+
+	public function htmlDataTable(){
+		$current_id_site = Auth::guard('user')->user()->id_site;
+		$current_id = Auth::guard('user')->id();
+		$accounts_users = AccountUsers::whereIdSite($current_id_site)
+							    		->where('level','!=', '1')
+							    		->where('id','!=', $current_id)
+							    		->orderby('active', 'desc')
+							    		->get();
+		$html = '';
+		if($accounts_users){
+			foreach($accounts_users as $account_users ){
+				$html .= '<tr>';
+				$html .= '	<td>'.$account_users->account.'</td>';
+				$html .= '	<td>'.$account_users->name.'</td>';
+				$html .= '	<td>'.$account_users->email.'</td>';
+					if( $account_users->active == 1 ) {
+						$html .= '	<td class="text-success fw-700"><strong>Hoạt động</strong></td>';
+					} else {
+						$html .= '	<td class="text-danger fw-700"><strong>Không hoạt động</strong</td>';
+					}
+				$html .= '	<td>';
+				if( GlobalFunction::checkRoleFunctionByUser('edit', 300) == true ){
+					$html .= '			<button type="button" class="btn btn-sm btn-custon-four btn-warning" data-toggle="modal" data-target="#actionModal" onclick="func_buttonClick(`edit`,'.$account_users->id.')">
+										<i class="fa big-icon fa-pencil"></i><span class="ml-2">Sửa</span>
+									</button>';
+				}
+				// if( GlobalFunction::checkRoleFunctionByUser('delete', 300) == true ){
+				// 	$html .= '			<button type="button" class="btn btn-sm btn-custon-four btn-danger" data-toggle="modal" data-target="#deleteModal" onclick="func_buttonClick(`delete`,'.$account_users->id.')">
+				// 						<i class="fa big-icon fa-times"></i><span class="ml-2">Xóa</span>
+				// 					</button>';
+				// }
+				$html .= '	</td>';
+				$html .= '</tr>';
+			}
+		}
+		return $html;
+	}
+    
+    public function view($request) {
+    	try {
+            $user = AccountUsers::find( $request->input('id') );
+            return response()->json(['error'=> false, 'user'=>$user]);
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Lấy dữ liệu thất bại']);
+        }
+    }
+    public function add($request) {
+    	try {
+            $validator = Validator::make($request->all(), UserRequest::rules($request->input('id')), UserRequest::messages());
+            if($validator->fails()){
+                return response()->json(['error' => true, 'validate' => false, 'message' => $validator->messages()->all()]);
+            } else {
+                $input = $request->all();
+                $input['active'] = 1;
+                $input['password'] = bcrypt($request->input('password'));
+                $input['id_site'] = Auth::guard('user')->user()->id_site;
+                AccountUsers::create($input);
+                $html = $this->htmlDataTable();
+
+                LogsController::write("Quản lý người dùng", "Thêm mới", "Tài khoản: ".$request->input('name'));
+	            return response()->json(['error'=> false, 'message' => 'Thêm tài khoản thành công', 'table_html' => $html]);
+            }
+        } catch (Exception $e) {
+        	return response()->json(['error'=> true, 'message' => 'Thêm tài khoản thất bại']);
+        }
+    }
+    public function edit($request) {
+		try {
+            $validator = Validator::make($request->all(), UserRequest::rules($request->input('id')), UserRequest::messages());
+            if($validator->fails()){
+                return response()->json(['error' => true, 'validate' => false, 'message' => $validator->messages()->all()]);
+            } else {
+            	if(Auth::id() == $request->input('id')){
+					return response()->json(['error'=> true, 'message' => 'Tài khoản đang sử dụng!']);
+				} else {
+					$user = AccountUsers::find( $request->input('id') );
+					$user->name = $request->input('name');
+					$user->email = $request->input('email');
+					$user->numberphone = $request->input('numberphone');
+					if ($request->input('password')){
+						$user->password = bcrypt($request->input('password'));
+					}
+					$user->active = ($request->input('status') == 1) ? 1 : 0;
+	                $user->update();
+		            $html = $this->htmlDataTable();
+		            LogsController::write("Quản lý người dùng", "Sửa đổi", "Tài khoản: ".$request->input('name'));
+		            return response()->json(['error'=> false, 'message' => 'Sửa tài khoản thành công', 'table_html' => $html]);
+		        }
+            }
+        } catch (Exception $e) {
+            return response()->json(['error'=> true, 'message' => 'Sửa tài khoản thất bại']);
+        }
+    }
+    public function delete($request) {
+    	try {
+			if(Auth::id() == $request->input('id')){
+				return response()->json(['error'=> true, 'message' => 'Tài khoản đang sử dụng!']);
+			} else {
+				$user = AccountUsers::find( $request->input('id') );
+    			$user->delete();
+	            $html = $this->htmlDataTable();
+	            LogsController::write("Quản lý người dùng", "Xoá", "Tài khoản: ".$user->account);
+	            return response()->json(['error'=> false, 'message' => 'Xóa tài khoản thành công', 'table_html' => $html]);
+			}
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Xóa tài khoản thất bại']);
+        }
+    }
+}

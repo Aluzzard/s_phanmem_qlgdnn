@@ -1,3 +1,167 @@
 <?php
-bolt_decrypt( __FILE__ , 'D8wILN'); return 0;
-##!!!##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9vb29vb29vb29vb29vb29vYSOEtKSkVE9kpPRjsT+DhLSkpFRPj2OUI3SUkT+DhKRPY4SkQDRkg/QzdIT/Y6SEVGOkVNRANKRT09Qjv49jo3SjcDSkU9PUI7E/g6SEVGOkVNRPgUKj43RfZKmXc59hI/9jlCN0lJE/g8N/Y8NwM3RD1COwM6RU1E+BQSBT8U4+D29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb2EgU4S0pKRUQU4+D29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb2EktC9jlCN0lJE/g6SEVGOkVNRANDO0RL9jhKRAM6SEVGOkVNRANDO0RL+PZIRUI7E/hDO0RL+BT9EePg9vb29vb29vb29vb29vb29j88/vYdQkU4N0IcS0Q5Sj9FRBAQOT47OUEoRUI7I0U6S0I7GE8rSTtI/v07Oj9K/f/2ExP2SkhLO/9R4+D29vb29vb29vb29vb29vb2+j5KQ0L2BBP2/fb29vb29vb29vb29vb29vb29hJCPxTj4Pb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29hI39jo3SjcDSkU9PUI7E/hDRTo3Qvj2OjdKNwNKN0g9O0oT+Pk3OUo/RUQjRTo3Qvj2RUQ5Qj85QRP4PEtEOTU4S0pKRUQZQj85Qf42Ozo/SjYC/QT6RjtFRkI7AxQ/OgT9//gUEj/2OUI3SUkT+Dw39jw3Azs6P0r2RkgDCfgUEgU/FCm3kYM3EgU3FOPg9vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vYSBUI/FP0R4+D29vb29vb29vb29vb29vb2U+Pg9vb29vb29vb29vb29vb29j88/vYdQkU4N0IcS0Q5Sj9FRBAQOT47OUEoRUI7I0U6S0I7GE8rSTtI/v06O0I7Sjv9//YTE/ZKSEs7/1Hj4Pb29vb29vb29vb29vb29vb6PkpDQvYEE/b99vb29vb29vb29vb29vb29vb2EkI/FOPg9vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb2Ejf2OjdKNwNKRT09QjsT+ENFOjdC+PY6N0o3A0o3SD07ShP4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
+
+namespace App\Http\Controllers\Modules\AITypeOfTrainingPrograms;
+
+use App\Http\Controllers\Controller; 
+use Illuminate\Http\Request;
+use Validator;
+use Illuminate\Support\Facades\Auth;
+//Models
+use App\Models\Modules\ModuleTypeOfTrainingPrograms;
+//Requests
+use App\Http\Requests\Module\ModuleTypeOfTrainingProgramsRequest;
+//Controllers
+use App\Http\Controllers\MainStructure\Admins\LogsController;
+use App\Http\Controllers\MainStructure\Users\GlobalFunction;
+
+class AITypeOfTrainingProgramsController extends Controller {
+
+    public function index() {
+        if(GlobalFunction::checkRoleModuleByUser('view') == false || GlobalFunction::checkRoleFunctionByUser('view',200) == false){
+             abort('404');
+        } else {
+            $data['check_add'] = GlobalFunction::checkRoleModuleByUser('add');
+            return view('modules.AITypeOfTrainingPrograms.index', $data);
+        }
+    }
+
+    public function ajax(Request $request){
+        if(GlobalFunction::checkRoleModuleByUser('view') == true || GlobalFunction::checkRoleFunctionByUser('view',200) == true){
+            $action_type = $request->input('action_type');
+            if ($action_type == 'loaddt' ) {
+                if( GlobalFunction::checkRoleModuleByUser('view') == true ){
+                    return $this->loaddt($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if ($action_type == 'view' ) {
+                if( GlobalFunction::checkRoleModuleByUser('view') == true ){
+                    return $this->view($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if($action_type == 'add' ) {
+                if( GlobalFunction::checkRoleModuleByUser('add') == true ){
+                    return $this->add($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if( $action_type == 'edit' ) {
+                if( GlobalFunction::checkRoleModuleByUser('edit') == true ){
+                    return $this->edit($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if($action_type == 'delete' ) {
+                if( GlobalFunction::checkRoleModuleByUser('delete') == true ){
+                    return $this->delete($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+        } else {
+            abort('404');
+        }
+    }
+    
+    public function dataTable(){
+        $current_id_site = Auth::guard('user')->user()->id_site;
+        $listofpeoples = ModuleTypeOfTrainingPrograms::whereIdSite($current_id_site)->get();
+        $html = '';
+        if($listofpeoples){
+            foreach ($listofpeoples as $people){
+                $html .= '<tr>';
+                $html .= '  <td>'.$people->name.'</td>';
+                $html .= '  <td>';
+                $html .= '      <div class="button-ap-list responsive-btn">
+                                    <div class="btn-group btn-custom-groups btn-custom-groups-one btn-mg-b-10">
+                                        <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Thao tác <i class="fa fa-angle-down"></i>
+                                        </button>
+                                        <ul class="dropdown-menu btn-dropdown-menu" role="menu">';
+                if( GlobalFunction::checkRoleModuleByUser('edit') == true){
+                $html .= '                  <li>
+                                                <a data-toggle="modal" data-target="#actionModal" onclick="func_buttonClick(`edit`,'.$people->id.')"><i class="fa fa-edit pr-3"></i>Sửa</a>
+                                            </li>';
+                }
+                if( GlobalFunction::checkRoleModuleByUser('delete') == true){
+                $html .= '                  <li>
+                                                <a data-toggle="modal" data-target="#deleteModal" onclick="func_buttonClick(`delete`,'.$people->id.')"><i class="fa fa-recycle pr-3"></i>Xóa</a>
+                                            </li>';
+                }
+                $html .= '              </ul>
+                                    </div>
+                                </div>';
+                $html .= '  </td>';                     
+                $html .= '</tr>';
+            }
+        }
+        return $html;
+    }
+    public function loaddt(Request $request) {
+        try{
+            $table_html = $this->dataTable($request->input());
+            return response()->json(['error'=>false, 'table_html' => $table_html]);
+        } catch (Exception $e) {
+            return response()->json(['error'=>true, 'message'=>'Lấy dữ liệu thất bại!']);
+        }
+    }
+    public function view($request){
+        try {
+            $people = ModuleTypeOfTrainingPrograms::find( $request->input('id') );
+            return response()->json(['error'=> false, 'people'=>$people]);
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Lấy dữ liệu thất bại']);
+        }
+    }
+    public function add($request){
+        try {
+            $validator = Validator::make($request->all(), ModuleTypeOfTrainingProgramsRequest::rules($request->input('id')), ModuleTypeOfTrainingProgramsRequest::messages());
+            if($validator->fails()){
+                return response()->json(['error' => true, 'validate' => false, 'message' => $validator->messages()->all()]);
+            } else {
+                $input = $request->all();
+                $input['id_site'] = Auth::guard('user')->user()->id_site;
+                ModuleTypeOfTrainingPrograms::create($input);
+                $html = $this->dataTable($request->input());
+                LogsController::write("AITypeOfTrainingPrograms", "Thêm", "Chương trình đào tạo: ".$input["name"]);
+                return response()->json(['error'=> false, 'message' => 'Thêm chương trình đào tạo thành công', 'table_html' => $html]);
+            }
+        } catch (Exception $e) {
+            return response()->json(['error'=> true, 'message' => 'Thêm chương trình đào tạo thất bại']);
+        }
+    }
+    public function edit($request){
+        try {
+            $validator = Validator::make($request->all(), ModuleTypeOfTrainingProgramsRequest::rules($request->input('id')), ModuleTypeOfTrainingProgramsRequest::messages());
+            if($validator->fails()){
+                return response()->json(['error' => true, 'validate' => false, 'message' => $validator->messages()->all()]);
+            } else {
+                $input = $request->all();
+                $people = ModuleTypeOfTrainingPrograms::find( $request->input('id') );
+                $people->update($input);
+                $html = $this->dataTable($request->input());
+                LogsController::write("AITypeOfTrainingPrograms", "Sửa", "Chương trình đào tạo: ".$input["name"]);
+                return response()->json(['error'=> false, 'message' => 'Sửa chương trình đào tạo thành công', 'table_html' => $html]);
+            }
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Sửa chương trình đào tạo thất bại']);
+        }
+    }
+    public function delete($request){
+        try {
+            $people_id = $request->input('id');
+            $people = ModuleTypeOfTrainingPrograms::find( $people_id );
+            $people->delete();
+            LogsController::write("AITypeOfTrainingPrograms", "Xoá", "Chương trình đào tạo: ".$people->name);
+            
+            $html = $this->dataTable($request->input());
+            return response()->json(['error'=> false, 'message' => 'Xóa chương trình đào tạo thành công', 'table_html' => $html]);
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Xóa chương trình đào tạo thất bại']);
+        }
+    }
+}

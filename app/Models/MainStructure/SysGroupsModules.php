@@ -1,3 +1,12 @@
 <?php
-bolt_decrypt( __FILE__ , 'Fwn5xi'); return 0;
-##!!!##TktOS6+irqa0saKkpmGCsbGdjrClpq20nY6iqq+UtbO2pLW2s6Z8Tku2tKZhiq2ttq6qr6K1pp2ForWio6K0pp2GrbCytqavtZ2OsKWmrXxOS05LpK2itLRhlLq0iLOwtrG0jrCltq2mtGGmubWmr6W0YY6wpaatvE5LYWFhYbG2o62qpGFltaquprS1oq6xtGF+YaeirbSmfE5LYWFhYbG2o62qpGGntq+ktaqwr2GusKW2raa0aWpOS2FhYWG8TkthYWFhYWFhYbOmtbazr2FltamqtG5/qaK0jqKvumlogrGxnY6wpaattJ2UurSNqrS1jrCltq2mtGhtaKqloKizsLaxaGp8TkthYWFhvk5Lvg==
+
+namespace App\Models\MainStructure;
+use Illuminate\Database\Eloquent\Model;
+
+class SysGroupsModules extends Model{
+    public $timestamps = false;
+    public function modules()
+    {
+        return $this->hasMany('App\Models\SysListModules','id_group');
+    }
+}

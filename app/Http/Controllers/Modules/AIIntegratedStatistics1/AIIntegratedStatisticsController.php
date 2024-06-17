@@ -1,3 +1,68 @@
 <?php
-bolt_decrypt( __FILE__ , 'gIn3BC'); return 0;
-##!!!##4+Dj4EQ3QztJRjc5O/YXRkYyHkpKRjIZRURKSEVCQjtISTIjRTpLQjtJMhcfH0RKOz1IN0o7OilKN0o/SUo/OUkR4+Dj4EtJO/YXRkYyHkpKRjIZRURKSEVCQjtISTIZRURKSEVCQjtIEfbj4EtJO/YfQkJLQz9EN0o7Mh5KSkYyKDtHSztJShHj4EtJO/YsN0I/OjdKRUgR4+BLSTv2H0JCS0M/RDdKOzIpS0ZGRUhKMhw3OTc6O0kyF0tKPhHj4AUFI0U6O0JJ4+BLSTv2F0ZGMiNFOjtCSTIjRTpLQjtJMiNFOktCOx9ESjs9SDdKOzopSjdKP0lKPzlJEePgS0k79hdGRjIjRTo7QkkyI0U6S0I7STIjRTpLQjsqSDc/RD9EPSlGOzk/N0JKPztJEePgS0k79hdGRjIjRTo7QkkyI0U6S0I7STIjRTpLQjsqT0Y7JTwZRUtISTtJEePgBQUoO0dLO0lKSePgS0k79hdGRjIeSkpGMig7R0s7SUpJMiNFOktCOzIjRTpLQjsfREo7PUg3Sjs6KUo3Sj9JSj85SSg7R0s7SUoR4+AFBRlFREpIRUJCO0hJ4+BLSTv2F0ZGMh5KSkYyGUVESkhFQkI7SEkyIzc/RClKSEs5SktIOzIXOkM/REkyIkU9SRlFREpIRUJCO0gR4+BLSTv2F0ZGMh5KSkYyGUVESkhFQkI7SEkyIzc/RClKSEs5SktIOzIrSTtISTIdQkU4N0IcS0Q5Sj9FRBHj4AUFG05GRUhK4+BLSTv2F0ZGMhtORkVISkkyHEVIQwcbTkZFSEoR4+BLSTv2Izc3Sk07OEk/SjsyG045O0IyHDc5Nzo7STIbTjk7QhHj4OPgOUI3SUn2Fx8fREo7PUg3Sjs6KUo3Sj9JSj85SRlFREpIRUJCO0j2O05KO0Q6SfYZRURKSEVCQjtI9lHj4OPg9vb29kZLOEI/OfY8S0Q5Sj9FRPY/RDo7Tv4oO0dLO0lK9vpIO0dLO0lK//ZR4+D29vb29vb29j88/h1CRTg3QhxLRDlKP0VEEBA5Pjs5QShFQjsjRTpLQjsYTytJO0j+/Uw/O039//YTE/Y8N0JJO/ZSUvYdQkU4N0IcS0Q5Sj9FRBAQOT47OUEoRUI7HEtEOUo/RUQYTytJO0j+/Uw/O039AggGBv/2ExP2PDdCSTv/UePg9vb29vb29vb29vb29jc4RUhK/v0KBgr9/xHj4Pb29vb29vb2U/Y7Qkk79lHj4Pb29vb29vb29vb29j88/vf6SDtHSztJSgMUP0RGS0r+/TxFSEP9//ZSUvb6SDtHSztJSgMUP0RGS0r+/TxFSEP9//YTE/YH/1Hj4Pb29vb29vb29vb29vb29vY/PP72+kg7R0s7SUoDFD9ERktK/v1POzdI/f/2//ZR4+D29vb29vb29vb29vb29vb29vb29vo6N0o3Mf06N0o3/TP2E/YcRUhDBxlFREpIRUJCO0gQEDxFSEP++kg7R0s7SUr/EePg9vb29vb29vb29vb29vb29vb29vY/PP72+kg7R0s7SUoDFD9ERktK/v07TkZFSEr9//YTE/b9SkhLO/32//ZR4+D29vb29vb29vb29vb29vb29vb29vb29vb6O05GRUhK9hP2RDtN9hxFSEMHG05GRUhK/jHj4Pb29vb29vb29vb29vb29vb29vb29vb29vb29vb6OjdKNzH9OjdKN/0z4+D29vb29vb29vb29vb29vb29vb29vb29vYz/xHj4Pb29vb29vb29vb29vb29vb29vb29vb29kg7SktIRPYbTjk7QhAQOkVNREJFNzr++jtORkVISgL2/T9ETEU/OTtJBE5CSU79/xHj4Pb29vb29vb29vb29vb29vb29vb2U+Pg9vb29vb29vb29vb29vb29lPj4Pb29vb29vb29vb29vb29vb6OjdKNzH9Tzs3SEn9M/YT9iNFOktCOypPRjslPBlFS0hJO0kQEEk7Qjs5Sv79Tzs3SP3/AxRFSDo7SBhP/v1POzdI/QL2/To7STn9/wMUPTtK/v8DFEtEP0dLO/79Tzs3SP3/EePg9vb29vb29vb29vb29vb29uPg9vb29vb29vb29vb29vb29gUF9jxFSDs3OT7++jo3Sjcx/To3Sjf9MzH9SUU5N0b9MzH9OjtKNz9C/TP2N0n2+kE7TxMU+j9KO0P/9lHj4Pb29vb29vb29vb29vb29vb29vb2BQX2Ozk+Rfb9EkZIOxT9EePg9vb29vb29vb29vb29vb29vb29vYFBfb29vb2Rkg/REo1SP76OjdKNzH9OjdKN/0zMf1JRTk3Rv0zMf06O0o3P0L9MzEGMzEGM/8R4+D29vb29vb29vb29vb29vb29vb29gUF9vb29vY7OT5F9v0SBUZIOxT9ETo/OxHj4Pb29vb29vb29vb29vb29vYFBfZT4+AFBfY7OT5F9v0SRkg7FP0R4+AFBfb29vb2Rkg/REo1SP76OjdKN/8R4+AFBfb29vb2Ozk+Rfb9EgVGSDsU/RE6PzsR4+Dj4Pb29vb29vb29vb29vb29vZIO0pLSET2TD87Tf79Q0U6S0I7SQQXHx9ESjs9SDdKOzopSjdKP0lKPzlJBDxFSEM1BwQ/RDo7Tv0C9vo6N0o3/xHj4Pb29vb29vb29vb29lPj4Pb29vb29vb29vb29jtCSTv2Pzz++kg7R0s7SUoDFD9ERktK/v08RUhD/f/2ExP2CP9R4+D29vb29vb29vb29vb29vb2Pzz+9vpIO0dLO0lKAxQ/REZLSv79Tzs3SP3/9vz89vpIO0dLO0lKAxQ/REZLSv79Q0VESj79///2UePg9vb29vb29vb29vb29vb29vb29vb6OjdKNzH9OjdKN/0z9hP2HEVIQwgZRURKSEVCQjtIEBA8RUhD/vpIO0dLO0lK/xHj4Pb29vb29vb29vb29vb29vZT4+D29vb29vb29vb29vb29vb2+jo3Sjcx/U87N0hJ/TP2E/YjRTpLQjsqT0Y7JTwZRUtISTtJEBBJO0I7OUr+/U87N0j9/wMURUg6O0gYT/79Tzs3SP0C9v06O0k5/f8DFD07Sv7/AxRLRD9HSzv+/U87N0j9/xHj4Pb29vb29vb29vb29vb29vZIO0pLSET2TD87Tf79Q0U6S0I7SQQXHx9ESjs9SDdKOzopSjdKP0lKPzlJBDxFSEM1CAQ/RDo7Tv0C9vo6N0o3/xHj4OPg9vb29vb29vb29vb2U+Pg4+D29vb29vb29lPj4Pb29vZT4+Dj4Pb29vbj4Pb29vZGSzhCPzn2PEtEOUo/RUT2PEVIQzUI/v9R4+D29vb29vb29uPg9vb29lPj4OPgU+Pg
+
+namespace App\Http\Controllers\Modules\AIIntegratedStatistics;
+
+use App\Http\Controllers\Controller; 
+use Illuminate\Http\Request;
+use Validator;
+use Illuminate\Support\Facades\Auth;
+//Models
+use App\Models\Modules\ModuleIntegratedStatistics;
+use App\Models\Modules\ModuleTrainingSpecialties;
+use App\Models\Modules\ModuleTypeOfCourses;
+//Requests
+use App\Http\Requests\Module\ModuleIntegratedStatisticsRequest;
+//Controllers
+use App\Http\Controllers\MainStructure\Admins\LogsController;
+use App\Http\Controllers\MainStructure\Users\GlobalFunction;
+//Export
+use App\Exports\Form1Export;
+use Maatwebsite\Excel\Facades\Excel;
+
+class AIIntegratedStatisticsController extends Controller {
+
+    public function index(Request $request) {
+        if(GlobalFunction::checkRoleModuleByUser('view') == false || GlobalFunction::checkRoleFunctionByUser('view',200) == false){
+             abort('404');
+        } else {
+            if(!$request->input('form') || $request->input('form') == 1){
+                if( $request->input('year') ) {
+                    $data['data'] = Form1Controller::form($request);
+                    if( $request->input('export') == 'true' ) {
+                        $export = new Form1Export([
+                            $data['data']
+                        ]);
+                        return Excel::download($export, 'invoices.xlsx');
+                    }
+                }
+                $data['years'] = ModuleTypeOfCourses::select('year')->orderBy('year', 'desc')->get()->unique('year');
+                
+                // foreach($data['data']['socap']['detail'] as $key=>$item) {
+                    // echo '<pre>';
+                    //     print_r($data['data']['socap']['detail'][0][0]);
+                    //     echo '</pre>';die;
+                // }
+// echo '<pre>';
+//     print_r($data);
+//     echo '</pre>';die;
+
+                return view('modules.AIIntegratedStatistics.form_1.index', $data);
+            }
+            else if($request->input('form') == 2){
+                if( $request->input('year') && $request->input('month')) {
+                    $data['data'] = Form2Controller::form($request);
+                }
+                $data['years'] = ModuleTypeOfCourses::select('year')->orderBy('year', 'desc')->get()->unique('year');
+                return view('modules.AIIntegratedStatistics.form_2.index', $data);
+
+            }
+
+        }
+    }
+
+    
+    public function form_2(){
+        
+    }
+
+}

@@ -1,3 +1,427 @@
 <?php
-bolt_decrypt( __FILE__ , '11FrCE'); return 0;
-##!!!##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
+
+namespace App\Http\Controllers\Modules\AIManageStudents;
+
+use App\Http\Controllers\Controller; 
+use Illuminate\Http\Request;
+use Validator;
+use Illuminate\Support\Facades\Auth;
+use Carbon\Carbon;
+
+//Models
+use App\Models\Modules\ModuleManageStudents;
+use App\Models\Modules\ModuleTypeOfEthnics;
+use App\Models\Modules\ModuleTypeOfReligions;
+use App\Models\Modules\ModuleTrainingSpecialties;
+use App\Models\Modules\ModuleTypeOfCourses;
+use App\Models\Modules\ModuleGraduationScoreInformations;
+use App\Models\Modules\ModuleVocationalEducationPolicities;
+use App\Models\Modules\ModuleAttendance;
+//Requests
+use App\Http\Requests\Module\ModuleManageStudentsRequest;
+//Controllers
+use App\Http\Controllers\MainStructure\Admins\LogsController;
+use App\Http\Controllers\MainStructure\Users\GlobalFunction;
+//Imports
+use App\Imports\TemplateStudentsImport;
+use Maatwebsite\Excel\Facades\Excel;
+//Exports
+use App\Exports\TemplateStudentsExport;
+
+class AIManageStudentsController extends Controller {
+
+    public function index() {
+        if(GlobalFunction::checkRoleModuleByUser('view') == false || GlobalFunction::checkRoleFunctionByUser('view',200) == false){
+            abort('404');
+        } else {
+            $current_id_site = Auth::guard('user')->user()->id_site;
+            $data['check_add'] = GlobalFunction::checkRoleModuleByUser('add');
+            $data['training_specialties'] = ModuleTrainingSpecialties::whereIdSite($current_id_site)->with(['courses' => function($query) {
+                $query->orderBy('year', 'desc')->orderBy('name', 'desc');
+            }])->get();
+            $data['ethnics'] = ModuleTypeOfEthnics::whereIdSite($current_id_site)->get();
+            $data['regions'] = ModuleTypeOfReligions::whereIdSite($current_id_site)->get();
+            $data['vocational_education_policities'] = ModuleVocationalEducationPolicities::whereIdSite($current_id_site)->get();
+
+            return view('modules.AIManageStudents.index', $data);
+        }
+    }
+
+    public function downloadTemplate(){
+        return Excel::download(new TemplateStudentsExport, 'Mẫu nhập học viên.xlsx');
+    }
+
+    public function ajax(Request $request){
+        if(GlobalFunction::checkRoleModuleByUser('view') == true || GlobalFunction::checkRoleFunctionByUser('view',200) == true){
+            $action_type = $request->input('action_type');
+            if ($action_type == 'loaddt' ) {
+                if( GlobalFunction::checkRoleModuleByUser('view') == true ){
+                    return $this->loaddt($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if ($action_type == 'view' ) {
+                if( GlobalFunction::checkRoleModuleByUser('view') == true ){
+                    return $this->view($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if($action_type == 'add' ) {
+                if( GlobalFunction::checkRoleModuleByUser('add') == true ){
+                    return $this->add($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if( $action_type == 'edit' ) {
+                if( GlobalFunction::checkRoleModuleByUser('edit') == true ){
+                    return $this->edit($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            else if($action_type == 'delete' ) {
+                if( GlobalFunction::checkRoleModuleByUser('delete') == true ){
+                    return $this->delete($request);
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+        } else {
+            abort('404');
+        }
+    }
+    
+    public function dataTable(Request $request){
+        $current_id_site = Auth::guard('user')->user()->id_site;
+        $id_course = $request->input('id_course');
+        $items = ModuleManageStudents::whereIdSite($current_id_site)
+                                    ->whereIdCourse($id_course)
+                                    ->orderBy('is_active', 'desc')
+                                    ->orderBy('first_name')
+                                    ->get();
+        $html = '';
+        if($items){
+            foreach ($items as $item){
+                $html .= '<tr>';
+                $html .= '  <td>'.$item->last_name.' '.$item->first_name.'</td>';
+                $html .= ($item->is_active == 1) ? '<td class="text-success"><strong>Đang học</strong></td>' : '<td class="text-danger"><strong>Đã nghỉ</strong></td>';
+                $html .= '  <td>'.(($item->gender == 'nam') ? 'Nam' : 'Nữ').'</td>';
+                $html .= '  <td>'.date('d/m/Y', strtotime($item->date_of_birth)).'</td>';
+                $html .= '  <td>'.$item->ethnic->name.'</td>';
+                $html .= '  <td>';
+                $html .= '      <div class="button-ap-list responsive-btn">
+                                    <div class="btn-group btn-custom-groups btn-custom-groups-one btn-mg-b-10">
+                                        <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Thao tác <i class="fa fa-angle-down"></i>
+                                        </button>
+                                        <ul class="dropdown-menu btn-dropdown-menu" role="menu">';
+                if( GlobalFunction::checkRoleModuleByUser('edit') == true){
+                $html .= '                  <li>
+                                                <a data-toggle="modal" data-target="#actionModal" onclick="func_buttonClick(`edit`,'.$item->id.')"><i class="fa fa-edit pr-3"></i>Sửa</a>
+                                            </li>';
+                }
+                if( GlobalFunction::checkRoleModuleByUser('delete') == true){
+                $html .= '                  <li>
+                                                <a data-toggle="modal" data-target="#deleteModal" onclick="func_buttonClick(`delete`,'.$item->id.')"><i class="fa fa-recycle pr-3"></i>Xóa</a>
+                                            </li>';
+                }
+                $html .= '              </ul>
+                                    </div>
+                                </div>';
+                $html .= '  </td>';                     
+                $html .= '</tr>';
+            }
+        }
+        return $html;
+    }
+    public function loaddt(Request $request) {
+        try{
+            $table_html = $this->dataTable($request);
+            return response()->json(['error'=>false, 'table_html' => $table_html]);
+        } catch (Exception $e) {
+            return response()->json(['error'=>true, 'message'=>'Lấy dữ liệu thất bại!']);
+        }
+    }
+    public function view($request){
+        try {
+            $item = ModuleManageStudents::find( $request->input('id') );
+            return response()->json(['error'=> false, 'item'=>$item]);
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Lấy dữ liệu thất bại']);
+        }
+    }
+    public function add($request){
+        try {
+            $validator = Validator::make($request->all(), ModuleManageStudentsRequest::rules($request->input('id')), ModuleManageStudentsRequest::messages());
+            if($validator->fails()){
+                return response()->json(['error' => true, 'validate' => false, 'message' => $validator->messages()->all()]);
+            } else {
+                $input = $request->all();
+                $fullName = $request->input('name');
+                // Tách tên và họ
+                $parts = explode(' ', $fullName);
+                $firstName = array_pop($parts); // Lấy tên (phần cuối cùng)
+                $lastName = implode(' ', $parts); // Ghép các phần còn lại thành họ và chữ đệm
+                // Gán giá trị vào $input
+                $input['first_name'] = $firstName;
+                $input['last_name'] = $lastName;
+                $input['id_site'] = Auth::guard('user')->user()->id_site;
+                $id_student = ModuleManageStudents::create($input)->id;
+
+                //Thêm vào quản lý điểm
+                $input_score['id_site'] = Auth::guard('user')->user()->id_site;
+                $input_score['id_student'] = $id_student;
+                $input_score['id_course'] = $request->input('id_course');
+                ModuleGraduationScoreInformations::create($input_score);
+                //Thêm vào quản lý điểm danh
+                $input_attendance['id_site'] = Auth::guard('user')->user()->id_site;
+                $input_attendance['id_student'] = $id_student;
+                $input_attendance['id_course'] = $request->input('id_course');
+                $information_course = ModuleTypeOfCourses::find( $request->input('id_course') );
+                $information_training_specialty = ModuleTrainingSpecialties::find($information_course->id_training_specialty)->duration_by_day;
+                $attendances = '';
+                for( $i=0; $i<$information_training_specialty; $i++ ) {
+                    $attendances .= ',0';
+                }
+                $input_attendance['attendance'] = substr($attendances, 1);
+                ModuleAttendance::create($input_attendance);
+
+                LogsController::write("AIManageStudents", "Thêm", "Thông tin học viên: ".$input["name"]);
+
+                $html = $this->dataTable($request);
+                return response()->json(['error'=> false, 'message' => 'Thêm thông tin học viên thành công', 'table_html' => $html]);
+            }
+        } catch (Exception $e) {
+            return response()->json(['error'=> true, 'message' => 'Thêm thông tin học viên thất bại']);
+        }
+    }
+    public function edit($request){
+        try {
+            $validator = Validator::make($request->all(), ModuleManageStudentsRequest::rules($request->input('id')), ModuleManageStudentsRequest::messages());
+            if($validator->fails()){
+                return response()->json(['error' => true, 'validate' => false, 'message' => $validator->messages()->all()]);
+            } else {
+                $item = ModuleManageStudents::find($request->input('id'));
+                $input = $request->all();
+
+                // Tách tên và họ từ đầu vào
+                $fullName = $request->input('name');
+                $parts = explode(' ', $fullName);
+                $firstName = array_pop($parts); // Lấy tên (phần cuối cùng)
+                $lastName = implode(' ', $parts); // Ghép các phần còn lại thành họ và chữ đệm
+
+                // Gán giá trị vào $input
+                $input['first_name'] = $firstName;
+                $input['last_name'] = $lastName;
+                $input['is_active'] = ($request->input('is_active') == 1 ? 1 : 0);
+
+                // Cập nhật dữ liệu
+                $item->update($input);
+
+                LogsController::write("AIManageStudents", "Sửa", "Thông tin học viên: ".$input["name"]);
+
+                $html = $this->dataTable($request);
+                return response()->json(['error'=> false, 'message' => 'Sửa thông tin học viên thành công', 'table_html' => $html]);
+            }
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Sửa thông tin học viên thất bại']);
+        }
+    }
+    public function delete($request){
+        try {
+            $id_item = $request->input('id');    
+            $item = ModuleManageStudents::find( $id_item );
+            $item->delete();
+  
+            LogsController::write("AIManageStudents", "Xoá", "Thông tin học viên: ".$item->last_name." ".$item->first_name);
+
+            return response()->json(['error'=> false, 'message' => 'Xóa thông tin học viên thành công']);
+        } catch (Exception $e) {
+             return response()->json(['error'=> true, 'message' => 'Xóa thông tin học viên thất bại']);
+        }
+    }
+
+// Import Excel
+// ---------------------------------------------------------------------------------------------
+    public function ajaxImports(Request $request){
+        if(GlobalFunction::checkRoleModuleByUser('view') == true || GlobalFunction::checkRoleFunctionByUser('view',200) == true){
+            $action_type = $request->input('action_type');
+            if ($action_type == 'preview' ) {
+                if( GlobalFunction::checkRoleModuleByUser('add') == true ){
+                    $array = Excel::toArray(new TemplateStudentsImport, request()->file('file_import'));
+                    $array = $this->filterVisibleColumns($array[0]);
+
+                    if( $this->checkOverlap($array) == 0 ) {
+                        return response()->json(['error'=>false, 'array'=>$array]);
+                    } 
+                    else {
+                        return response()->json(['error'=>true, 'message'=>'Có học sinh trùng nhau, vui lòng kiểm tra lại CCCD/CMND!']);
+                    }
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            } else if ($action_type == 'upload' ) {
+                if( GlobalFunction::checkRoleModuleByUser('add') == true ){
+                    $array = Excel::toArray(new TemplateStudentsImport, request()->file('file_import'));
+                    $array = $this->filterVisibleColumns($array[0]);
+
+                    $array_check = [];
+                    //Kiểm tra validate từng người
+                    foreach($array as $key=>$item) {
+                        $temp = ModuleManageStudents::whereIdCourse($request->input('id_course'))
+                                                ->whereIdentificationIdCard($item[4])
+                                                ->get();
+                        if(count($temp) > 0) {
+                            array_push($array_check, $key+1);
+                        }
+                    }
+                    if( count($array_check) == 0 ) {
+                        foreach($array as $item) {
+                            $this->addImport($request, $item);
+                        }
+                        return response()->json(['error'=>false, 'message'=>'Đã thêm '.count($array).' học viên thành công!']);
+                    } 
+                    else {
+                        return response()->json(['error'=>true, 'message'=>'Các dòng '.implode(', ', $array_check).' đã tồn tại trong dữ liệu!']);
+                    }
+                } else {
+                    return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+                }
+            }
+            
+        } else {
+            abort('404');
+        }
+    }
+
+    public function checkOverlap($data) {
+        $cccdCheck = [];
+
+        foreach ($data as $item) {
+            // Kiểm tra CCCD/CMND
+            if ($item[4] !== null) {
+                if (isset($cccdCheck[$item[4]])) {
+                    return 1; // Trùng CCCD/CMND
+                }
+                $cccdCheck[$item[4]] = true;
+            }
+        }
+
+        return 0; // Không có trùng lặp
+    }
+
+    public function addImport($request, $item) {
+        // Tách tên và họ từ $item[0]
+        $fullName = $item[0];
+        $parts = explode(' ', $fullName);
+        $firstName = array_pop($parts); // Lấy tên (phần cuối cùng)
+        $lastName = implode(' ', $parts); // Ghép các phần còn lại thành họ và chữ đệm
+
+        // Gán giá trị vào $input
+        $input['first_name'] = $firstName;
+        $input['last_name'] = $lastName;
+        
+        $input['id_site']                               = Auth::guard('user')->user()->id_site;
+        $input['date_of_birth']                         = $this->convertExcelDate($item[1]);
+        $input['numberphone']                           = $item[2];
+        $input['email']                                 = $item[3];
+        $input['identification_id_card']                = $item[4];
+        $input['date_of_issue']                         = $this->convertExcelDate($item[5]);
+        $input['department_of_issue']                   = $item[6];
+        $input['permanent_residence']                   = $item[7];
+        $input['place_of_live']                         = $item[8];
+        $input['id_ethnic']                             = ModuleTypeOfEthnics::whereName($item[9])->first()->id ?? null;
+        $input['region' ]                               = ModuleTypeOfReligions::whereName($item[10])->first()->id ?? null;
+        $input['gender']                                = $item[11] == "Nam" ? "nam" : "nu";
+        $input['is_active']                             = '1';
+        $input['class']                                 = $item[12];
+        $input['policy']                                = ModuleVocationalEducationPolicities::whereName($item[13])->first()->id ?? null;
+        $input['id_course']                             = $request->input('id_course');
+
+        $id_student = ModuleManageStudents::create($input)->id;
+
+        //Thêm vào quản lý điểm
+        $input_score['id_site'] = Auth::guard('user')->user()->id_site;
+        $input_score['id_student'] = $id_student;
+        $input_score['id_course'] = $request->input('id_course');
+        ModuleGraduationScoreInformations::create($input_score);
+        //Thêm vào quản lý điểm danh
+        $input_attendance['id_site'] = Auth::guard('user')->user()->id_site;
+        $input_attendance['id_student'] = $id_student;
+        $input_attendance['id_course'] = $request->input('id_course');
+
+        $information_course = ModuleTypeOfCourses::find( $request->input('id_course') );
+        $information_training_specialty = ModuleTrainingSpecialties::find($information_course->id_training_specialty)->duration_by_day;
+        $attendances = '';
+        for( $i=0; $i<$information_training_specialty; $i++ ) {
+            $attendances .= ',0';
+        }
+        $input_attendance['attendance'] = substr($attendances, 1);
+        ModuleAttendance::create($input_attendance);
+    }
+
+    public function convertExcelDate($excelDate) {
+        // Kiểm tra nếu dữ liệu là năm (4 ký tự và đều là số)
+        if (strlen($excelDate) == 4 && ctype_digit($excelDate)) {
+            return $excelDate . '-01-01';  // Trả về ngày đầu tiên của năm với định dạng dd/mm/YYYY
+        }
+
+        // Xử lý các định dạng ngày tháng khác
+        try {
+            // Nếu dữ liệu là một số, giả định đây là định dạng ngày của Excel
+            if (is_numeric($excelDate)) {
+                $date = \PhpOffice\PhpSpreadsheet\Shared\Date::excelToDateTimeObject($excelDate);
+            } else {
+                // Nếu dữ liệu có định dạng dd-mm-yy hoặc dd-mm-yyyy
+                $date = \DateTime::createFromFormat('d-m-y', $excelDate);
+                if (!$date) {
+                    $date = \DateTime::createFromFormat('d-m-Y', $excelDate);
+                }
+            }
+
+            // Nếu chuyển đổi thành công, trả về định dạng dd/mm/YYYY
+            if ($date) {
+                return $date->format('Y-m-d');
+            } else {
+                // Nếu định dạng ngày không hợp lệ
+                return null; // Hoặc trả về giá trị mặc định, tùy theo yêu cầu của ứng dụng
+            }
+        } catch (\Exception $e) {
+            // Log lỗi hoặc xử lý nếu định dạng ngày không hợp lệ
+            return null; // Hoặc trả về giá trị mặc định, tùy theo yêu cầu của ứng dụng
+        }
+    }
+
+
+    private function filterVisibleColumns($data) {
+        $filteredData = [];
+        foreach ($data as $row) {
+            // Chỉ lấy các cột hiển thị từ file Excel và bỏ qua các cột không cần thiết
+            $filteredRow = [
+                $row[0], // Tên học viên
+                $row[1], // Ngày sinh
+                $row[2], // Số điện thoại
+                $row[3], // Email
+                $row[4], // CCCD/CMND
+                $row[5], // Ngày cấp
+                $row[6], // Nơi cấp
+                $row[7], // Địa chỉ thường trú
+                $row[8], // Nơi ở hiện tại
+                $row[9], // Dân tộc
+                $row[10], // Tôn giáo
+                $row[11], // Giới tính
+                $row[12], // Trình độ học vấn
+                $row[13], // Chính sách
+            ];
+            
+            // Bỏ qua các hàng mà tất cả các giá trị đều trống
+            if (array_filter($filteredRow)) {
+                $filteredData[] = $filteredRow;
+            }
+        }
+        return $filteredData; // Trả về tất cả các hàng không trống
+    }
+
+}

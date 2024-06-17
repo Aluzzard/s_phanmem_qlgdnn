@@ -1,3 +1,23 @@
 <?php
-bolt_decrypt( __FILE__ , 'YfcIhF'); return 0;
-##!!!##JiMmI4d6hn6MiXp8fjlaiYl1YY2NiXVrfoqOfoyNjHVmiH2OhX5UJiMmI46MfjlihYWOhoKHeo1+dV+Ijod9eo2CiId1YY2NiXVfiIuGa36Kjn6MjVQmI46MfjlihYWOhoKHeo1+dWyOiYmIi411X3p8en1+jHVajo2BVCYjjox+OWKFhY6Ggod6jX51b3qFgn16jYKIh3VrjoV+VCYjJiN8hXqMjDlmiH2OhX5gi3p9jnqNgoiHbHyIi35ih3+Ii4Z6jYKIh4xrfoqOfoyNOX6RjX6HfYw5X4iLhmt+io5+jI05lCYjJiM5OTk5iY57hYJ8OX+Oh3yNgoiHOYuOhX6MQT2CfUI5lCYjOTk5OTk5OTmLfo2Oi4c5dCYjOTk5OTk5OTk5OTk5JiM5OTk5OTk5OXZUJiM5OTk5liYjJiM5OTk5iY57hYJ8OX+Oh3yNgoiHOYZ+jIx6gH6MQUImIzk5OTmUJiM5OTk5OTk5OYt+jY6Lhzl0JiM5OTk5OTk5OTk5OTkmIzk5OTk5OTk5dlQmIzk5OTmWOTk5OSYjliYj
+
+namespace App\Http\Requests\Module;
+
+use Illuminate\Foundation\Http\FormRequest;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Validation\Rule;
+
+class ModuleGraduationScoreInformationsRequest extends FormRequest {
+
+    public function rules($id) {
+        return [
+            
+        ];
+    }
+
+    public function messages()
+    {
+        return [
+            
+        ];
+    }    
+}

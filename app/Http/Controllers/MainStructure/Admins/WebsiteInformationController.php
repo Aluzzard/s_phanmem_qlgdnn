@@ -1,3 +1,147 @@
 <?php
-bolt_decrypt( __FILE__ , '1X5weB'); return 0;
-##!!!##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
+namespace App\Http\Controllers\MainStructure\Admins;
+
+use App\Http\Controllers\Controller;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Http\Request;
+use Validator;
+//Models
+use App\Models\MainStructure\SysWebsiteInformation;
+//Requests
+use App\Http\Requests\MainStructure\WebsiteInformationRequest;
+//Controllers
+use App\Http\Controllers\MainStructure\Users\GlobalFunction;
+
+class WebsiteInformationController extends Controller {
+
+	public function __construct() {
+        $this->path = '/upload/mainstructure/logo/';
+        if (!\File::exists(public_path().$this->path)) {
+            \File::makeDirectory(public_path().$this->path, 0755, true);
+        }
+    }
+
+	public function index(){
+		$data['information'] = SysWebsiteInformation::first();
+		if (Auth::guard('user')->check() == true){
+			if( GlobalFunction::checkRoleFunctionByUser('view', 100) == false ){
+	    		abort('404');
+	    	} else {
+				return view('mainstructure.pages.users.WebsiteInformation.WebsiteInformation', $data);
+			}
+		} 
+		else if (Auth::guard('admin')->check() == true){
+			return view('mainstructure.pages.admins.WebsiteInformation.WebsiteInformation', $data);
+		}
+	}
+	public function ajax(Request $request){
+		$action_type = $request->input('action_type');
+		if(Auth::guard('user')->check()){
+			if ($action_type == 'view_website_information' ) {
+				if( GlobalFunction::checkRoleFunctionByUser('view', 100) == true ){
+					return $this->view_websiteInformation();
+				} else {
+					return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+				}
+        	} else if ($action_type == 'edit_website_information' ) {
+        		if( GlobalFunction::checkRoleFunctionByUser('view', 100) == true ){
+					return $this->edit_websiteInformation($request);
+				} else {
+					return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
+				}
+        	} 
+		} else if(Auth::guard('admin')->check()){
+        	if ($action_type == 'view_website_information' ) {
+        		return $this->view_websiteInformation();
+        	}
+        	else if ($action_type == 'edit_website_information' ) {
+    	        return $this->edit_websiteInformation($request);
+        	} 
+        	else if ($action_type == 'edit_website_config' ) {
+        		return $this->edit_websiteConfig($request);
+        	}
+        	else if ($action_type == 'edit_website_seo' ) {
+        		return $this->edit_websiteSEO($request);
+        	}
+        } else {
+            abort('404');
+        }
+	}
+
+	public function view_websiteInformation(){
+		try {
+			$information = SysWebsiteInformation::find(1);
+			return response()->json(['error'=> false, 'message' => 'Lấy dữ liệu thành công', 'result' => $information]);
+		} catch (Exception $e) {
+            return response()->json(['error'=> true, 'message' => 'Lấy dữ liệu thất bại']);
+        }
+	}
+	public function edit_websiteInformation($request){
+		try {
+			$validator = Validator::make($request->all(), WebsiteInformationRequest::rules($request->input('id')), WebsiteInformationRequest::messages());
+            if($validator->fails()){
+                return response()->json(['error' => true, 'validate' => false, 'message' => $validator->messages()->all()]);
+            } else {
+				$input = $request->input();
+				$information = SysWebsiteInformation::find(1);
+				if($request->hasFile('logo')){
+					if($information->logo != ''){
+						unlink(public_path().$information->logo);
+					}
+		    		$file = $request->file('logo');
+		    		$file_extension = $file->getClientOriginalExtension(); // Lấy đuôi của file
+	                $file_name = $file->getClientOriginalName();
+	                $file->move(public_path().$this->path,$file_name);
+	                $input['logo'] = $this->path.$file_name;
+		    	}
+				$information->update($input);
+				return response()->json(['error'=> false, 'message' => 'Chỉnh sửa thông tin website thành công', 'option_response_private' => true, 'data'=>$information]);
+			}
+		} catch (Exception $e) {
+            return response()->json(['error'=> true, 'message' => 'Lấy dữ liệu thất bại']);
+        }
+	}
+	public function edit_websiteConfig($request){
+		try {
+			// $validator = Validator::make($request->all(), WebsiteInformationRequest::rules($request->input('id')), WebsiteInformationRequest::messages());
+   //          if($validator->fails()){
+   //              return response()->json(['error' => true, 'validate' => false, 'message' => $validator->messages()->all()]);
+   //          } else {
+				$information = SysWebsiteInformation::find(1);
+				$information->color_gradient = $request->input('color_gradient');
+				$information->color_background = $request->input('color_background');
+				$information->color_font = $request->input('color_font');
+				$information->color_font_hover = $request->input('color_font_hover');
+				$information->color_font_focus = $request->input('color_font_focus');
+				$information->update();
+				return response()->json(['error'=> false, 'message' => 'Chỉnh sửa cấu hình website thành công', 'option_response_private' => true, 'data'=>$information]);
+			// }
+		} catch (Exception $e) {
+            return response()->json(['error'=> true, 'message' => 'Lấy dữ liệu thất bại']);
+        }
+	}
+	public function edit_websiteSEO($request){
+		try {
+			// $validator = Validator::make($request->all(), WebsiteInformationRequest::rules($request->input('id')), WebsiteInformationRequest::messages());
+   //          if($validator->fails()){
+   //              return response()->json(['error' => true, 'validate' => false, 'message' => $validator->messages()->all()]);
+   //          } else {
+				$information = SysWebsiteInformation::find(1);
+				$information->meta_title 		= $request->input('meta_title');
+				$information->meta_description 	= $request->input('meta_description');
+				$information->keywords 			= $request->input('keywords');
+				$information->author 			= $request->input('author');
+				$information->country 			= $request->input('country');
+				$information->meta_dc_title 	= $request->input('meta_dc_title');
+				$information->meta_geo_region 	= $request->input('meta_geo_region');
+				$information->meta_geo_placename= $request->input('meta_geo_placename');
+				$information->meta_geo_position = $request->input('meta_geo_position');
+				$information->meta_icbm 		= $request->input('meta_icbm');
+				$information->update();
+				return response()->json(['error'=> false, 'message' => 'Chỉnh sửa cấu hình website thành công', 'option_response_private' => true, 'data'=>$information]);
+			// }
+		} catch (Exception $e) {
+            return response()->json(['error'=> true, 'message' => 'Lấy dữ liệu thất bại']);
+        }
+	}
+}

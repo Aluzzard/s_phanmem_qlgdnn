@@ -1,3 +1,63 @@
 <?php
-bolt_decrypt( __FILE__ , 'iFhz6m'); return 0;
-##!!!##QT5BPqmnmVR9oKCpoZ2ilaiZkIeppKSjpqiQepWXlZiZp5CGo6momW9BPkE+Y15BPrBhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYUE+sFSLmZZUhqOpqJmnQT6wYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFBPrBBPrBUfJmmmVSdp1SrnJmmmVSto6lUl5WiVKaZm52nqJmmVKuZllSmo6momadUmqOmVK2jqaZUlaSkoJ2Xlaido6JiVIicmaeZQT6wVKajqaiZp1SVpplUoKOVmJmYVJatVKicmVSGo6momYeZpqqdl5mEpqOqnZiZplSrnaicnaJUlVSbpqOppFSrnJ2XnEE+sFSXo6KolZ2ip1SonJlUVquZllZUoZ2YmKCZq5WmmVSbpqOppGJUgqOrVJemmZWomVSno6GZqJydoptUm6aZlahVQT6wQT5eY0E+QT6Go6momW5um5moXFtjW2BUmqmil6ido6JUXF1Ur0E+VFRUVKaZqKmmolSmmZidppmXqFxdYXKmo6momVxblamonGKbmahioKObnaJbXW9BPlRUVFSGo6momW5upKOnqFxbY52hpKOmqFtgVFt9oaSjpqh3o6KopqOgoJmmdJ2hpKOmqFtdb0E+QT6xXW9BPkE+hqOpqJlubpumo6mkXI9bpKaZmp2sW1RxclRblamonFuRYFSaqaKXqJ2jolxdr0E+VFRUVIajqaiZbm6bmahcW6Cjm52iW2BUW3WpqJyQgKObnaJ3o6KopqOgoJmmdKCjm52ik5uZqFtdYXKilaGZXFuVqaicYpuZqGKgo5udoltdb0E+VFRUVIajqaiZbm6ko6eoXFugo5udoltgVFt1qaickICjm52id6OiqKajoKCZpnSgo5udopOko6eoW11hcqKVoZlcW5WpqJxipKOnqGKgo5udoltdb0E+VFRUVIajqaiZbm6bmahcW6Cjm6OpqFtgVFt1qaickICjm52id6OiqKajoKCZpnSgo5ujqahbXWFyopWhmVxblamonGKbmahioKObo6moW11vQT6xXW9BPkE+hqOpqJlubpumo6mkXI9boZ2YmKCZq5WmmVtxco9blamonG6VmKGdomCpp5mmW5GRYFSaqaKXqJ2jolxdr0E+VFRUVGNjd5yVopuZVKSVp6ero6aYQT5UVFRUhqOpqJlubpuZqFxbl5yVopuZYaSVp6ero6aYW2BUW3WpqJyQd5yVopuZhJWnp6ujpph3o6KopqOgoJmmdJ2imJmsW11hcqKVoZlcW6mnmaZim5moYpeclaKbmaSVp6ero6aYW11vQT5UVFRUhqOpqJlubqSjp6hcW5eclaKbmWGklaenq6OmmFtgVFt1qaickHeclaKbmYSVp6ero6aYd6OiqKajoKCZpnSVnpWsW11hcqKVoZlcW6mnmaZipKOnqGKXnJWim5mklaenq6OmmFtdb0E+VFRUVGNjeJmolZ2gVHWXl6OpoqhBPlRUVFSGo6momW5um5moXFuVl5ejqaKoW2BUW3WpqJyQeJmolZ2gdZeXo6miqHejoqimo6CgmaZ0naKYmaxbXWFyopWhmVxblZeXo6miqGKbmahinaKYmaxbXW9BPlRUVFSGo6momW5upKOnqFxblZeXo6miqFtgVFt1qaickHiZqJWdoHWXl6Opoqh3o6KopqOgoJmmdJWelaxbXWFyopWhmVxblZeXo6miqGKko6eoYpWelaxbXW9BPlRUVFRjY32imqOmoZWonaOiVKuZlqedqJlBPlRUVFSGo6momW5um5moXFurmZannaiZYZ2imqOmoZWonaOiW2BUW4GVnaKHqKapl6ipppmQdZihnaKnkIuZlqedqJl9opqjpqGVqJ2jonejoqimo6CgmaZ0naKYmaxbXUE+VFRUVFRUVFRUVFRUYXKilaGZXFuVmKGdomKrmZannaiZYp2imqOmoZWonaOiYp2imJmsW11vQT5UVFRUhqOpqJlubqSjp6hcW6uZlqedqJlhnaKao6ahlaido6JbYFRbgZWdooeopqmXqKmmmZB1mKGdoqeQi5mWp52omX2imqOmoZWonaOid6OiqKajoKCZpnSVnpWsW11BPlRUVFRUVFRUVFRUVGFyopWhmVxblZihnaJiq5mWp52omWKdopqjpqGVqJ2jomKVnpWsW11vQT5UVFRUY2N3qaeoo6FUnaKomaaalZeZQT5UVFRUVFRUVGNjiJyZoZlBPlRUVFRUVFRUhqOpqJlubpuZqFxbqJyZoZlbYFRbgZWdooeopqmXqKmmmZB1mKGdoqeQiJyZoZl3o6KopqOgoJmmdJ2imJmsW11hcqKVoZlcW6mnmaZil6mnqKOhnaKomaaalZeZYpuZqGKonJmhmVtdb0E+VFRUVFRUVFSGo6momW5upKOnqFxbqJyZoZlbYFRbgZWdooeopqmXqKmmmZB1mKGdoqeQiJyZoZl3o6KopqOgoJmmdJWelaxbXWFyopWhmVxbqaeZpmKXqaeoo6GdoqiZppqVl5lipKOnqGKonJmhmVtdb0E+VFRUVFRUVFRjY4CVraOpqEE+VFRUVFRUVFSGo6momW5um5moXFugla2jqahbYFRbgZWdooeopqmXqKmmmZB1mKGdoqeQgJWto6mod6OiqKajoKCZpnSdopiZrFtdYXKilaGZXFupp5mmYpepp6ijoZ2iqJmmmpWXmWKbmahioJWto6moW11vQT5UVFRUVFRUVIajqaiZbm6ko6eoXFugla2jqahbYFRbgZWdooeopqmXqKmmmZB1mKGdoqeQgJWto6mod6OiqKajoKCZpnSVnpWsW11hcqKVoZlcW6mnmaZil6mnqKOhnaKomaaalZeZYqSjp6hioJWto6moW11vQT5BPlRUVFSGo6momW5um5moXFukpqOomZeoYZqdoJljr5qjoJiZprFjr6SVqJyxW2BUW4GVnaKHqKapl6ipppmQiaeZpqeQdamonHqdoJmnd6OiqKajoKCZpnSqnZmrW11vQT5BPrFdb0E+hqOpqJlubpumo6mkXI9bpKaZmp2sW1RxclRbpqOjqFtgW6GdmJigmauVpplbcXJblamonG6VmKGdoluRYFSaqaKXqJ2jolxdr0E+VFRUVKaZpamdpplUlpWnmZOklaicXFumo6momadjpJWmqJ2VoKdjlZihnaJipJykW11vQT6xXW9BPmNjVJmimFR1mKGdokE+QT5jY1SJp5mmQT6Go6momW5um6ajqaRcj1ukppmanaxbVHFyVFuVmKGdoltgVFuhnZiYoJmrlaaZW3FyW5WpqJxuqaeZpluRYFSaqaKXqJ2jolxdr0E+VFRUVKaZpamdpplUlpWnmZOklaicXFumo6momadjpJWmqJ2VoKdjqaeZpmKknKRbXW9BPlRUVFRjY4GjmKmgmUE+VFRUVKaZpamdpplUlpWnmZOklaicXFumo6momadjpJWmqJ2VoKdjqaeZppOho5ipoJmnYqScpFtdb0E+sV1vQT5jY1SZophUiaeZpkE+c3I=
+
+use Illuminate\Support\Facades\Route;
+
+/*
+|--------------------------------------------------------------------------
+| Web Routes
+|--------------------------------------------------------------------------
+|
+| Here is where you can register web routes for your application. These
+| routes are loaded by the RouteServiceProvider within a group which
+| contains the "web" middleware group. Now create something great!
+|
+*/
+
+Route::get('/', function () {
+    return redirect()->route('auth.get.login');
+    Route::post('/import', 'ImportController@import');
+
+});
+
+Route::group(['prefix' => 'auth'], function(){
+    Route::get('login', 'Auth\LoginController@login_get')->name('auth.get.login');
+    Route::post('login', 'Auth\LoginController@login_post')->name('auth.post.login');
+    Route::get('logout', 'Auth\LoginController@logout')->name('auth.get.logout');
+});
+
+Route::group(['middleware'=>['auth:admin,user']], function(){
+    //Change password
+    Route::get('change-password', 'Auth\ChangePasswordController@index')->name('user.get.changepassword');
+    Route::post('change-password', 'Auth\ChangePasswordController@ajax')->name('user.post.changepassword');
+    //Detail Account
+    Route::get('account', 'Auth\DetailAccountController@index')->name('account.get.index');
+    Route::post('account', 'Auth\DetailAccountController@ajax')->name('account.post.ajax');
+    //Information website
+    Route::get('website-information', 'MainStructure\Admins\WebsiteInformationController@index')
+            ->name('admin.website.information.index');
+    Route::post('website-information', 'MainStructure\Admins\WebsiteInformationController@ajax')
+            ->name('admin.website.information.ajax');
+    //Custom interface
+        //Theme
+        Route::get('theme', 'MainStructure\Admins\ThemeController@index')->name('user.custominterface.get.theme');
+        Route::post('theme', 'MainStructure\Admins\ThemeController@ajax')->name('user.custominterface.post.theme');
+        //Layout
+        Route::get('layout', 'MainStructure\Admins\LayoutController@index')->name('user.custominterface.get.layout');
+        Route::post('layout', 'MainStructure\Admins\LayoutController@ajax')->name('user.custominterface.post.layout');
+
+    Route::get('protect-file/{folder}/{path}', 'MainStructure\Users\AuthFilesController@view');
+
+});
+Route::group(['prefix' => 'root','middleware'=>'auth:admin'], function(){
+    require base_path('routes/partials/admin.php');
+});
+// end Admin
+
+// User
+Route::group(['prefix' => 'admin', 'middleware'=>'auth:user'], function(){
+    require base_path('routes/partials/user.php');
+    //Module
+    require base_path('routes/partials/user_modules.php');
+});
+// end User
+?>

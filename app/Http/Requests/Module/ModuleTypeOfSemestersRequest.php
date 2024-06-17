@@ -1,3 +1,32 @@
 <?php
-bolt_decrypt( __FILE__ , 'NqWs5j'); return 0;
-##!!!##NTI1MpaJlY2bmImLjUhpmJiEcJycmIR6jZmdjZucm4R1l4ydlI1jNTI1Mp2bjUhxlJSdlZGWiZyNhG6XnZaMiZyRl5aEcJycmIRul5qVeo2ZnY2bnGM1Mp2bjUhxlJSdlZGWiZyNhHudmJiXmpyEbomLiYyNm4RpnZyQYzUynZuNSHGUlJ2VkZaJnI2EfomUkYyJnJGXloR6nZSNYzUyNTKLlImbm0h1l4ydlI18oZiNd457jZWNm5yNmpt6jZmdjZucSI2gnI2WjJtIbpealXqNmZ2Nm5xIozUyNTJISEhImJ2KlJGLSI6dlouckZeWSJqdlI2bUEyRjFFIozUySEhISEhISEiajZydmpZIgzUySEhISEhISEgxT5aJlY1PSGVmSDUySEhISEhISEhISEhISEhISIM1MkhISEhISEhISEhISEhISEhISEhIT5qNmZ2Rmo2MT1RINTJISEhISEhISEhISEhISEhISEhISHqdlI1iYp2WkZmdjVBPlZeMnZSNh5yhmI2Hl46Hm42VjZucjZqbT1E1MkhISEhISEhISEhISEhISEhISEhIVWafkI2ajVCOnZaLnJGXlkhQTJmdjZqhUUijNTJISEhISEhISEhISEhISEhISEhISEhISEhMmZ2NmqFVZp+QjZqNUE+RjIebkZyNT1RIaZ2ckGJij52JmoxQT52bjZpPUVVmnZuNmlBRVWaRjIebkZyNUWM1MkhISEhISEhISEhISEhISEhISEhIpVE1MkhISEhISEhISEhISEhISEhISEhIVWaRj5aXmo1QTJGMUTUySEhISEhISEhISEhISEhISIU1MkhISEhISEhIhWM1MkhISEilNTI1MkhISEiYnYqUkYtIjp2Wi5yRl5ZIlY2bm4mPjZtQUTUySEhISKM1MkhISEhISEhImo2cnZqWSIM1MkhISEhISEhISEhISE+WiZWNVpqNmZ2Rmo2MT0hISEhISEhISEhISEhIZWZPfp2RSJTr2paPSJaQCeLVmEic69KWSJAJ47WLSJMJ49tJT1Q1MkhISEhISEhISEhISE+WiZWNVp2WkZmdjU9ISEhISEhISEhISEhISEhIZWZPcAnjtYtIkwnj20jsuevLSJwJ47uWSJwJ4smRSU9UNTJISEhISEhISIVjNTJISEhIpUhISEg1MqU1Mg==
+
+namespace App\Http\Requests\Module;
+
+use Illuminate\Foundation\Http\FormRequest;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Validation\Rule;
+
+class ModuleTypeOfSemestersRequest extends FormRequest {
+
+    public function rules($id) {
+        return [
+        	'name' => 
+                [
+                    'required', 
+                    Rule::unique('module_type_of_semesters')
+                    ->where(function ($query) {
+                        $query->where('id_site', Auth::guard('user')->user()->id_site);
+                    })
+                    ->ignore($id)
+                ]
+        ];
+    }
+
+    public function messages()
+    {
+        return [
+            'name.required'              =>'Vui lòng nhập tên học kỳ!',
+            'name.unique'                =>'Học kỳ đã tồn tại!',
+        ];
+    }    
+}

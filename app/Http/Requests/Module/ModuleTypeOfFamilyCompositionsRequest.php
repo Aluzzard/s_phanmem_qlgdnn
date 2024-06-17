@@ -1,3 +1,32 @@
 <?php
-bolt_decrypt( __FILE__ , 'DHX5jN'); return 0;
-##!!!##3tve2z8yPjZEQTI0NvESQUEtGUVFQS0jNkJGNkRFRC0eQDVGPTYM3tve20ZENvEaPT1GPjo/MkU2LRdARj81MkU6QD8tGUVFQS0XQEM+IzZCRjZERQze20ZENvEaPT1GPjo/MkU2LSRGQUFAQ0UtFzI0MjU2RC0SRkU5DN7bRkQ28Ro9PUY+Oj8yRTYtJzI9OjUyRTpAPy0jRj02DN7b3ts0PTJERPEeQDVGPTYlSkE2IDcXMj46PUoUQD5BQEQ6RTpAP0QjNkJGNkRF8TZJRTY/NUTxF0BDPiM2QkY2REXxTN7b3tvx8fHxQUYzPTo08TdGPzRFOkA/8UNGPTZE+fU6NfrxTN7b8fHx8fHx8fFDNkVGQz/xLN7b8fHx8fHx8fHa+D8yPjb48Q4P8d7b8fHx8fHx8fHx8fHx8fHx8Sze2/Hx8fHx8fHx8fHx8fHx8fHx8fHx+EM2QkY6QzY1+P3x3tvx8fHx8fHx8fHx8fHx8fHx8fHx8SNGPTYLC0Y/OkJGNvn4PkA1Rj02MEVKQTYwQDcwNzI+Oj1KMDRAPkFARDpFOkA/RPj63tvx8fHx8fHx8fHx8fHx8fHx8fHx8f4PSDk2Qzb5N0Y/NEU6QD/x+fVCRjZDSvrxTN7b8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx9UJGNkNK/g9IOTZDNvn4OjUwRDpFNvj98RJGRTkLCzhGMkM1+fhGRDZD+Pr+D0ZENkP5+v4POjUwRDpFNvoM3tvx8fHx8fHx8fHx8fHx8fHx8fHx8U763tvx8fHx8fHx8fHx8fHx8fHx8fHx8f4POjg/QEM2+fU6Nfre2/Hx8fHx8fHx8fHx8fHx8fEu3tvx8fHx8fHx8S4M3tvx8fHxTt7b3tvx8fHxQUYzPTo08TdGPzRFOkA/8T42REQyODZE+fre2/Hx8fFM3tvx8fHx8fHx8UM2RUZDP/Es3tvx8fHx8fHx8fHx8fH4PzI+Nv9DNkJGOkM2Nfjx8fHx8fHx8fHx8fHx8Q4P+CdGOvE9lIM/OPE/ObKLfkHxRZR7P/FFOZRxPznxQTmyi3g/8Tg6MvGVYpR9Pzny+P3e2/Hx8fHx8fHx8fHx8fg/Mj42/0Y/OkJGNvjx8fHx8fHx8fHx8fHx8fHxDg/4JTmUcT858UE5sot4P/E4OjLxlWKUfT858ZVilHTxRbKMZD/xRbKLcjry+P3e2/Hx8fHx8fHxLgze2/Hx8fFO8fHx8d7bTt7b
+
+namespace App\Http\Requests\Module;
+
+use Illuminate\Foundation\Http\FormRequest;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Validation\Rule;
+
+class ModuleTypeOfFamilyCompositionsRequest extends FormRequest {
+
+    public function rules($id) {
+        return [
+        	'name' => 
+                [
+                    'required', 
+                    Rule::unique('module_type_of_family_compositions')
+                    ->where(function ($query) {
+                        $query->where('id_site', Auth::guard('user')->user()->id_site);
+                    })
+                    ->ignore($id)
+                ]
+        ];
+    }
+
+    public function messages()
+    {
+        return [
+            'name.required'              =>'Vui lòng nhập tên thành phần gia đình!',
+            'name.unique'                =>'Thành phần gia đình đã tồn tại!',
+        ];
+    }    
+}

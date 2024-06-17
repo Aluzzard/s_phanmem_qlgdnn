@@ -1,3 +1,21 @@
 <?php
-bolt_decrypt( __FILE__ , 'Htm0Iv'); return 0;
-##!!!##JSIhaoeNjH1SUn99jEA/fHmLgHqHeYp8P0Q4P2V5gYZrjIqNe4yNin10WXyFgYaLdFx5i4B6h3mKfFuHhoyKh4SEfYpYfHmLgHqHeYp8P0FFVoZ5hX1AP3l8hYGGRn99jEZ8eYuAeod5inw/QVMlIiUiODg4OEdHZId/iyUiODg4OGqHjYx9UlJ/fYxAP4SHf4s/RDg/ZXmBhmuMio17jI2KfXRZfIWBhot0ZId/i1uHhoyKh4SEfYpYgYZ8fZA/QUVWhnmFfUA/eXyFgYZGf32MRoSHf4tGgYZ8fZA/QVMlIjg4ODhHR2R5hn+NeX99JSI4ODg4aoeNjH1SUn99jEA/hHmGf415f30/RDg/ZXmBhmuMio17jI2KfXRZfIWBhot0ZHmGf415f31bh4aMioeEhH2KWIGGfH2QP0FFVoZ5hX1AP3l8hYGGRn99jEaEeYZ/jXl/fT9BUyUiODg4OGqHjYx9UlKIh4uMQD+EeYZ/jXl/fT9EOD9leYGGa4yKjXuMjYp9dFl8hYGGi3RkeYZ/jXl/fVuHhoyKh4SEfYpYeYJ5kD9BRVaGeYV9QD95fIWBhkZ5e4yBh4ZGhHmGf415f30/QVMlIjg4ODhqh42MfVJSf4qHjYhAcz+Iin1+gZA/OFVWOD+LkYuMfYU/dUQ4fo2Ge4yBh4ZAQZMlIjg4ODg4ODg4aoeNjH1SUn99jEA/i4GMfT9EOD9leYGGa4yKjXuMjYp9dFl8hYGGi3RrgYx9W4eGjIqHhIR9iliBhnx9kD9BRVaGeYV9QD95fIWBhkZ/fYxGi4GMfT9BUyUiODg4ODg4ODhqh42MfVJSiIeLjEA/i4GMfT9EOD9leYGGa4yKjXuMjYp9dFl8hYGGi3RrgYx9W4eGjIqHhIR9ilh5gnmQP0FFVoZ5hX1AP3l8hYGGRnmCeZBGi4GMfT9BUyUiJSI4ODg4ODg4OEdHZXmGeX99ijiEgYuMOIWHfI2EfSUiODg4ODg4ODhqh42MfVJSf32MQD+Fh3yNhH0/RDg/ZXmBhmuMio17jI2KfXRZfIWBhot0ZYd8jYR9W4eGjIqHhIR9iliEgYuMd4WHfI2EfT9BRVaGeYV9QD95fIWBhkZ/fYxGhYd8jYR9P0FTJSI4ODg4ODg4OGqHjYx9UlKIh4uMQD95e4yBh4ZFhYd8jYR9P0Q4P2V5gYZrjIqNe4yNin10WXyFgYaLdGWHfI2EfVuHhoyKh4SEfYpYeXuMgYeGd4WHfI2EfT9BRVaGeYV9QD95fIWBhkZ5e4yBh4ZGhYd8jYR9P0FTJSI4ODg4ODg4OGqHjYx9UlKIh4uMQD95e4yBh4ZFfo2Ge4yBh4Y/RDg/ZXmBhmuMio17jI2KfXRZfIWBhot0ZYd8jYR9W4eGjIqHhIR9ilh5e4yBh4Z3fo2Ge4yBh4Y/QUVWhnmFfUA/eXyFgYZGeXuMgYeGRn6NhnuMgYeGP0FTJSI4ODg4ODg4OGqHjYx9UlKIh4uMQD95e4yBh4ZFf4qHjYiLRYWHfI2EfT9EOD9leYGGa4yKjXuMjYp9dFl8hYGGi3Rlh3yNhH1bh4aMioeEhH2KWHl7jIGHhnd/ioeNiIt3hYd8jYR9iz9BJSI4ODg4ODg4ODg4ODg4ODg4RVaGeYV9QD95fIWBhkZ5e4yBh4ZGf4qHjYhGhYd8jYR9iz9BUyUiODg4OJVBUyUiODg4OCUiV1YlIg==
+	Route::get('dashboard', 'MainStructure\Admins\DashboardController@dashboard')->name('admin.get.dashboard');
+
+    //Logs
+    Route::get('logs', 'MainStructure\Admins\LogsController@index')->name('admin.get.logs.index');
+    //Language
+    Route::get('language', 'MainStructure\Admins\LanguageController@index')->name('admin.get.language');
+    Route::post('language', 'MainStructure\Admins\LanguageController@ajax')->name('admin.action.language');
+    Route::group(['prefix' => 'system'], function(){
+        Route::get('site', 'MainStructure\Admins\SiteController@index')->name('admin.get.site');
+        Route::post('site', 'MainStructure\Admins\SiteController@ajax')->name('admin.ajax.site');
+
+        //Manager list module
+        Route::get('module', 'MainStructure\Admins\ModuleController@list_module')->name('admin.get.module');
+        Route::post('action-module', 'MainStructure\Admins\ModuleController@action_module')->name('admin.action.module');
+        Route::post('action-function', 'MainStructure\Admins\ModuleController@action_function')->name('admin.action.function');
+        Route::post('action-groups-module', 'MainStructure\Admins\ModuleController@action_groups_modules')
+                ->name('admin.action.group.modules');
+    });
+    
+?>

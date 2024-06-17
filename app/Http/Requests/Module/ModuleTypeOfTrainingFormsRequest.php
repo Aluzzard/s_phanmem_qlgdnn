@@ -1,3 +1,32 @@
 <?php
-bolt_decrypt( __FILE__ , 'dwV2RT'); return 0;
-##!!!##FhMWE3dqdm58eWpsbilKeXllUX19eWVbbnp+bnx9fGVWeG1+dW5EFhMWE358bilSdXV+dnJ3an1uZU94fndtan1yeHdlUX19eWVPeHt2W256fm58fUQWE358bilSdXV+dnJ3an1uZVx+eXl4e31lT2psam1ufGVKfn1xRBYTfnxuKVJ1dX52cndqfW5lX2p1cm1qfXJ4d2VbfnVuRBYTFhNsdWp8fClWeG1+dW5dgnluWG9de2pyd3J3cE94e3Z8W256fm58fSlugX1ud218KU94e3Zbbnp+bnx9KYQWExYTKSkpKXl+a3VybClvfndsfXJ4dyl7fnVufDEtcm0yKYQWEykpKSkpKSkpe259fnt3KWQWEykpKSkpKSkpEjB3anZuMClGRykWEykpKSkpKSkpKSkpKSkpKSlkFhMpKSkpKSkpKSkpKSkpKSkpKSkpKTB7bnp+cntubTA1KRYTKSkpKSkpKSkpKSkpKSkpKSkpKSlbfnVuQ0N+d3J6fm4xMHZ4bX51bmh9gnluaHhvaH17anJ3cndwaG94e3Z8MDIWEykpKSkpKSkpKSkpKSkpKSkpKSkpNkeAcW57bjFvfndsfXJ4dykxLXp+bnuCMimEFhMpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkten5ue4I2R4BxbntuMTBybWh8cn1uMDUpSn59cUNDcH5qe20xMH58bnswMjZHfnxuezEyNkdybWh8cn1uMkQWEykpKSkpKSkpKSkpKSkpKSkpKSkphjIWEykpKSkpKSkpKSkpKSkpKSkpKSkpNkdycHd4e24xLXJtMhYTKSkpKSkpKSkpKSkpKSkpKWYWEykpKSkpKSkpZkQWEykpKSmGFhMWEykpKSl5fmt1cmwpb353bH1yeHcpdm58fGpwbnwxMhYTKSkpKYQWEykpKSkpKSkpe259fnt3KWQWEykpKSkpKSkpKSkpKTB3anZuN3tuen5ye25tMCkpKSkpKSkpKSkpKSkpRkcwX35yKXXMu3dwKXdx6sO2eSl9zLN3KXHMtXdxKX1x6sSybCnNmsypeCl96sOqeCowNRYTKSkpKSkpKSkpKSkpMHdqdm43fndyen5uMCkpKSkpKSkpKSkpKSkpKSlGRzBRzLV3cSl9cerEsmwpzZrMqXgpferDqngpzZrMrCl96sScdyl96sOqciowNRYTKSkpKSkpKSlmRBYTKSkpKYYpKSkpFhOGFhM=
+
+namespace App\Http\Requests\Module;
+
+use Illuminate\Foundation\Http\FormRequest;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Validation\Rule;
+
+class ModuleTypeOfTrainingFormsRequest extends FormRequest {
+
+    public function rules($id) {
+        return [
+        	'name' => 
+                [
+                    'required', 
+                    Rule::unique('module_type_of_training_forms')
+                    ->where(function ($query) {
+                        $query->where('id_site', Auth::guard('user')->user()->id_site);
+                    })
+                    ->ignore($id)
+                ]
+        ];
+    }
+
+    public function messages()
+    {
+        return [
+            'name.required'              =>'Vui lòng nhập tên hình thức đào tạo!',
+            'name.unique'                =>'Hình thức đào tạo đã tồn tại!',
+        ];
+    }    
+}

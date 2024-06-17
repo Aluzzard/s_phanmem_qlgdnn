@@ -1,3 +1,41 @@
 <?php
-bolt_decrypt( __FILE__ , 'dLVdGl'); return 0;
-##!!!##KicqJ4t+ioKQjX6Agj1ejY15YIyLkIyJglgqJyonkpCCPWaJiZKKhot+kYJ5YIyLkIyJgnlwgIWCgZKJhouEeXCAhYKBkomCWConkpCCPWaJiZKKhot+kYJ5Y4ySi4F+kYaMi3lgjIuQjImCeWiCj4uCiT1+kD1gjIuQjImCaIKPi4KJWConKieAiX6QkD1ogo+Lgok9gpWRgouBkD1gjIuQjImCaIKPi4KJKieYKic9PT09TEdHKic9PT09PUc9cYWCPV6PkYaQfos9gIyKin6LgZA9jY+Mk4aBgoE9f5Y9loySjz1+jY2JhoB+kYaMi0sqJz09PT09RyonPT09PT1HPV2Tfo89fo+PfpYqJz09PT09R0wqJz09PT2Nj4yRgoCRgoE9QYCMiop+i4GQPVo9eConPT09PT09PT1MTConPT09PXpYKicqJz09PT1MR0cqJz09PT09Rz1hgoOGi4I9kYWCPX6NjYmGgH6RhoyLRJA9gIyKin6LgT2QgIWCgZKJgksqJz09PT09RyonPT09PT1HPV2Nfo9+ij09eWaJiZKKhot+kYJ5YIyLkIyJgnlwgIWCgZKJhouEeXCAhYKBkomCPT1BkICFgoGSiYIqJz09PT09Rz1dj4KRko+LPZOMhoEqJz09PT09R0wqJz09PT2Nj4yRgoCRgoE9g5KLgJGGjIs9kICFgoGSiYJFcICFgoGSiYI9QZCAhYKBkomCRionPT09PZgqJz09PT09PT09TEw9QZCAhYKBkomCSluAjIqKfouBRUSGi5CNho+CREZKW4WMko+JlkVGWConPT09PZoqJyonPT09PUxHRyonPT09PT1HPW+ChIaQkYKPPZGFgj2AjIqKfouBkD2DjI89kYWCPX6NjYmGgH6RhoyLSyonPT09PT1HKic9PT09PUc9XY+CkZKPiz2TjIaBKic9PT09PUdMKic9PT09jY+MkYKAkYKBPYOSi4CRhoyLPYCMiop+i4GQRUYqJz09PT2YKic9PT09PT09PUGRhYaQSluJjH6BRXx8YWZvfHxLRExgjIqKfouBkERGWConKic9PT09PT09PY+CjpKGj4I9f36QgnyNfpGFRUSPjJKRgpBMgIyLkIyJgkuNhY1ERlgqJz09PT2aKieaKic=
+
+namespace App\Console;
+
+use Illuminate\Console\Scheduling\Schedule;
+use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
+
+class Kernel extends ConsoleKernel
+{
+    /**
+     * The Artisan commands provided by your application.
+     *
+     * @var array
+     */
+    protected $commands = [
+        //
+    ];
+
+    /**
+     * Define the application's command schedule.
+     *
+     * @param  \Illuminate\Console\Scheduling\Schedule  $schedule
+     * @return void
+     */
+    protected function schedule(Schedule $schedule)
+    {
+        // $schedule->command('inspire')->hourly();
+    }
+
+    /**
+     * Register the commands for the application.
+     *
+     * @return void
+     */
+    protected function commands()
+    {
+        $this->load(__DIR__.'/Commands');
+
+        require base_path('routes/console.php');
+    }
+}

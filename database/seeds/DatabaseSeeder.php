@@ -1,3 +1,16 @@
 <?php
-bolt_decrypt( __FILE__ , 'Go2oh2'); return 0;
-##!!!##/vv++2ZkVhE6XV1mXlpfUmVWTTVSZVJTUmRWTURWVlVWYyz++/77VF1SZGQRNVJlUlNSZFZEVlZVVmMRVmllVl9VZBFEVlZVVmP++2z++xEREREgGxv++xERERERGxFEVlZVEWVZVhFSYWFdWlRSZVpgXxhkEVVSZVJTUmRWH/77EREREREb/vsRERERERsRMWNWZWZjXxFnYFpV/vsRERERERsg/vsRERERYWZTXVpUEVdmX1RlWmBfEWNmXxka/vsRERERbP77EREREREREREgIBEVZVlaZB4vVFJdXRlGZFZjZEVSU11WRFZWVVZjKytUXVJkZBos/vsRERERbv77bv77
+
+use Illuminate\Database\Seeder;
+
+class DatabaseSeeder extends Seeder
+{
+    /**
+     * Seed the application's database.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        // $this->call(UsersTableSeeder::class);
+    }
+}

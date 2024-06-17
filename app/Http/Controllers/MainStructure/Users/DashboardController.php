@@ -1,3 +1,13 @@
 <?php
-bolt_decrypt( __FILE__ , 'Mg0NUf'); return 0;
-##!!!##+vf691tOWlJgXU5QUg0uXV1JNWFhXUkwXFthX1xZWVJfYEk6TlZbQGFfYlBhYl9SSUJgUl9gKPr3+vdiYFINLl1dSTVhYV1JMFxbYV9cWVlSX2BJMFxbYV9cWVlSXygN+vdiYFINNllZYlpWW05hUkk1YWFdST9SXmJSYGEo+vdiYFINMS8o+vf691BZTmBgDTFOYFVPXE5fUTBcW2FfXFlZUl8NUmVhUltRYA0wXFthX1xZWVJfDWj69w0NDQ1dYk9ZVlANU2JbUGFWXFsNUU5gVU9cTl9RFRZo+vf29l9SYWJfWw1jVlJkFRRaTlZbYGFfYlBhYl9SG11OVFJgG2JgUl9gGzFOYFVPXE5fURsxTmBVT1xOX1EUFij69/Zq+vdq+vc=
+
+namespace App\Http\Controllers\MainStructure\Users;
+
+use App\Http\Controllers\Controller; 
+use Illuminate\Http\Request;
+use DB;
+
+class DashboardController extends Controller {
+    public function dashboard(){
+		return view('mainstructure.pages.users.Dashboard.Dashboard');
+	}
+}

@@ -1,3 +1,55 @@
 <?php
-bolt_decrypt( __FILE__ , 'ZLmiSf'); return 0;
-##!!!##Qj9CP6OWopqopZaYmlV2paWReq2YmqWpnqSjqHBCP0I/qqiaVX6hoaqinqOWqZqRe6Sqo5mWqZ6ko5F6rZiapamepKOokX2Wo5mhmqdVlqhVeq2YmqWpnqSjfZajmaGap3BCP6qomlWJnaekrJaXoZpwQj9CP5ihlqioVX2Wo5mhmqdVmq2pmqOZqFV6rZiapamepKN9lqOZoZqnQj+wQj9VVVVVZF9fQj9VVVVVVV9VdlWhnqipVaSbVamdmlWarZiapamepKNVqa6lmqhVqZ2WqVWWp5pVo6SpVaeapaSnqZqZY0I/VVVVVVVfQj9VVVVVVV9VdauWp1WWp6eWrkI/VVVVVVVfZEI/VVVVVaWnpKmamKmamVVZmaSjqYeapaSnqVVyVZBCP1VVVVVVVVVVZGRCP1VVVVWScEI/Qj9VVVVVZF9fQj9VVVVVVV9VdlWhnqipVaSbVamdmlWeo6WqqahVqZ2WqVWWp5pVo5qrmqdVm6GWqJ2amVWbpKdVq5ahnpmWqZ6ko1WarZiapamepKOoY0I/VVVVVVVfQj9VVVVVVV9VdauWp1WWp6eWrkI/VVVVVVVfZEI/VVVVVaWnpKmamKmamVVZmaSjqXuhlqidVXJVkEI/VVVVVVVVVVVcpZaoqKykp5lcYUI/VVVVVVVVVVVcpZaoqKykp5mUmKSjm56nopapnqSjXGFCP1VVVVWScEI/Qj9VVVVVZF9fQj9VVVVVVV9Vh5qlpKepVaSnVaGknFWWo1WarZiapamepKNjQj9VVVVVVV9CP1VVVVVVX1V1pZanlqJVVZGJnaekrJaXoZpVVVmarZiapamepKNCP1VVVVVVX1V1p5qpqqejVauknplCP1VVVVVVX0I/VVVVVVVfVXWpnaekrKhVkXqtmJqlqZ6ko0I/VVVVVVVfZEI/VVVVVaWql6GemFWbqqOYqZ6ko1WnmqWkp6ldiZ2npKyWl6GaVVmarZiapamepKNeQj9VVVVVsEI/VVVVVVVVVVWllqeao6lvb6eapaSnqV1Zmq2YmqWpnqSjXnBCP1VVVVWyQj9CP1VVVVVkX19CP1VVVVVVX1WHmqOZmqdVlqNVmq2YmqWpnqSjVZ6jqaRVlqNVfYmJhVWnmqilpKOommNCP1VVVVVVX0I/VVVVVVVfVXWllqeWolVVkX6hoaqinqOWqZqRfamppZGHmqaqmqipVVVZp5qmqpqoqUI/VVVVVVVfVXWllqeWolVVkYmdp6SslpehmlVVWZqtmJqlqZ6ko0I/VVVVVVVfVXWnmqmqp6NVkYiuopuko66ReKSipaSjmqOpkX2pqaV7pKqjmZapnqSjkYeaqKWko6iaQj9VVVVVVV9CP1VVVVVVX1V1qZ2npKyoVZGJnaekrJaXoZpCP1VVVVVVX2RCP1VVVVWlqpehnphVm6qjmKmepKNVp5qjmZqnXVmnmqaqmqipYVWJnaekrJaXoZpVWZqtmJqlqZ6ko15CP1VVVVWwQj9VVVVVVVVVVaeaqaqno1Wllqeao6lvb6eao5map11Zp5qmqpqoqWFVWZqtmJqlqZ6ko15wQj9VVVVVskI/skI/
+
+namespace App\Exceptions;
+
+use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
+use Throwable;
+
+class Handler extends ExceptionHandler
+{
+    /**
+     * A list of the exception types that are not reported.
+     *
+     * @var array
+     */
+    protected $dontReport = [
+        //
+    ];
+
+    /**
+     * A list of the inputs that are never flashed for validation exceptions.
+     *
+     * @var array
+     */
+    protected $dontFlash = [
+        'password',
+        'password_confirmation',
+    ];
+
+    /**
+     * Report or log an exception.
+     *
+     * @param  \Throwable  $exception
+     * @return void
+     *
+     * @throws \Exception
+     */
+    public function report(Throwable $exception)
+    {
+        parent::report($exception);
+    }
+
+    /**
+     * Render an exception into an HTTP response.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @param  \Throwable  $exception
+     * @return \Symfony\Component\HttpFoundation\Response
+     *
+     * @throws \Throwable
+     */
+    public function render($request, Throwable $exception)
+    {
+        return parent::render($request, $exception);
+    }
+}
