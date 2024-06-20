@@ -83,8 +83,9 @@ class AITypeOfCoursesController extends Controller {
                 $html .= '  <td>'.$item->training_specialty->name.'</td>';
                 $html .= '  <td>Khóa '.$item->name.'</td>';
                 $html .= '  <td>'.$item->year.'</td>';
-                $html .= '  <td>'.$item->from_the_time.'</td>';
-                $html .= '  <td>'.$item->till_the_time.'</td>';
+                $html .= '  <td>'.date('d/m/Y', strtotime($item->from_the_time)).'</td>';
+                $html .= '  <td>'.date('d/m/Y', strtotime($item->till_the_time)).'</td>';
+                $html .= '  <td>'.$item->address.'</td>';
                 $html .= '  <td>';
                 $html .= '      <div class="button-ap-list responsive-btn">
                                     <div class="btn-group btn-custom-groups btn-custom-groups-one btn-mg-b-10">

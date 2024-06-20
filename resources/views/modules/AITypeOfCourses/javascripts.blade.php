@@ -52,6 +52,7 @@ $(document).ready(function() {
                 $('#actionModal input[name=from_the_time]').val(data.item.from_the_time);
                 $('#actionModal input[name=till_the_time]').val(data.item.till_the_time);
                 $('#actionModal input[name=exam_date]').val(data.item.exam_date);
+                $('#actionModal input[name=address]').val(data.item.address);
 
             },
             error: function(data) { 

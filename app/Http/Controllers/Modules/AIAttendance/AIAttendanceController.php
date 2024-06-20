@@ -40,7 +40,11 @@ class AIAttendanceController extends Controller {
             $action_type = $request->input('action_type');
             if ($action_type == 'loadTableAttendance' ) {
                 if( GlobalFunction::checkRoleModuleByUser('view') == true ){
-                    return $this->loadTableAttendance($request);
+                    if( $this->partial_check_numberday($request) == true ) {
+                        return $this->loadTableAttendance($request);
+                    } else {
+                        return response()->json(['validate'=>false, 'message'=> 'Khóa học chưa được phân công giảng dạy đủ số buổi!']);
+                    }
                 } else {
                     return response()->json(['error'=>true, 'message'=>'Không được phân quyền!']);
                 }
@@ -157,5 +161,35 @@ class AIAttendanceController extends Controller {
              return response()->json(['error'=> true, 'message' => 'Điểm danh thất bại']);
         }
     }
+    //Hàm kiểm tra số ngày trong khóa học
+    public function partial_check_numberday(Request $request){
+        $check = true;
+        //Số ngày bắt buộc phải nhập
+        $number_days_specialty = ModuleTypeOfCourses::find( $request->input('id_course') )
+                                    ->training_specialty
+                                    ->duration_by_day;
+        //Số ngày thực tế đã nhập
+        $number_of_days = $this->partial_numberday( $request );
 
+        if( $number_of_days != $number_days_specialty ) $check = false;
+        return $check;
+    }
+    public function partial_numberday(Request $request){
+        $query = ModuleTeachingAssignment::whereIdSite( Auth::guard('user')->user()->id_site )
+                                        ->whereIdCourse( $request->input('id_course') );
+        if ($request->input('action_type') != 'add') {
+            $query->where('id', '!=', $request->input('id'));
+        }
+
+        $array = $query->get();
+
+        $number_of_days = 0;
+        foreach ($array as $item) {
+            $start_time = new DateTime($item["start_time"]);
+            $end_time = new DateTime($item["end_time"]);
+            $diff = $end_time->diff($start_time);
+            $number_of_days += $diff->days;
+        }
+        return $number_of_days;
+    }
 }

@@ -28,6 +28,7 @@
                                                         <th data-field="year">Năm học</th>
                                                         <th data-field="from_the_time">Từ ngày</th>
                                                         <th data-field="till_the_time">Đến ngày</th>
+                                                        <th data-field="address">Địa điểm lớp học</th>
                                                         <th data-field="action">Hành động</th>
                                                     </tr>
                                                 </thead>

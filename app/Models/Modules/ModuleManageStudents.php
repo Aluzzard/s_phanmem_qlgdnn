@@ -26,12 +26,16 @@ class ModuleManageStudents extends Model{
         'is_active',
         'id_course',
         'class',
-        'policy'
+        'policy',
+        'note'
 	];
     public function ethnic() {
         return $this->belongsTo('App\Models\Modules\ModuleTypeOfEthnics','id_ethnic','id');
     }
     public function course() {
         return $this->belongsTo('App\Models\Modules\ModuleTypeOfCourses','id_course','id');
+    }
+    public function policy() {
+        return $this->belongsTo('App\Models\Modules\ModuleVocationalEducationPolicities','policy','id');
     }
 }

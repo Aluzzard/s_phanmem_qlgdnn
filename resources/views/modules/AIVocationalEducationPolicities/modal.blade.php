@@ -18,6 +18,12 @@
                                 </div>
                             </div>
                             <div class="form-group row">
+                                <label class="col-sm-4 col-form-label">Thứ tự hiển thị <code>*</code></label>
+                                <div class="col-sm-8">
+                                    <input type="text" name="order" class="form-control"></textarea> 
+                                </div>
+                            </div>
+                            <div class="form-group row">
                                 <label class="col-sm-4 col-form-label">Nhóm chính sách <code>*</code></label>
                                 <div class="col-sm-8">
                                 	<select name="type" class="form-control mb-3">

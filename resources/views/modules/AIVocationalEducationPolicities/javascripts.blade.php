@@ -48,6 +48,7 @@ $(document).ready(function() {
             success: function(data) {
                 $('#actionModal textarea[name=name]').val(data.item.name);
                 $('#actionModal select[name=type]').val(data.item.type);
+                $('#actionModal input[name=order]').val(data.item.input);
             },
             error: function(data) { 
                 $('.modal').modal('hide');

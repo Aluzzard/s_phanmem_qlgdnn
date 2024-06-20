@@ -41,14 +41,15 @@ class TemplateStudentsExport implements FromCollection, WithHeadings, WithStyles
             'Tôn giáo', 
             'Giới tính', 
             'Trình độ học vấn', 
-            'Chính sách'
+            'Chính sách',
+            'Ghi chú'
         ];
     }
 
     public function styles(Worksheet $sheet)
     {
         // Định dạng cho hàng tiêu đề
-        $sheet->getStyle('A1:N1')->applyFromArray([
+        $sheet->getStyle('A1:O1')->applyFromArray([
             'font' => [
                 'bold' => true,
                 'color' => ['rgb' => '000000'] // Màu chữ tiêu đề là màu đen
@@ -66,7 +67,7 @@ class TemplateStudentsExport implements FromCollection, WithHeadings, WithStyles
         ]);
 
         // Định dạng viền cho các ô dữ liệu (A2:N100 là ví dụ, điều chỉnh theo số hàng bạn muốn)
-        $sheet->getStyle('A2:N100')->applyFromArray([
+        $sheet->getStyle('A2:O100')->applyFromArray([
             'borders' => [
                 'allBorders' => [
                     'borderStyle' => Border::BORDER_THIN,

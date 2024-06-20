@@ -3,11 +3,11 @@
 namespace App\Models\Modules;
 use Illuminate\Database\Eloquent\Model;
 
-class ModuleVocationalEducationPolicities extends Model{
+class ModuleConfigPrintDocuments extends Model{
 	protected $fillable = [
-		'name', 
-		'id_site',
+		'id_user',
 		'type',
-		'order'
+		'config'
 	];
+	
 }

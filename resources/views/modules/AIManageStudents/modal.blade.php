@@ -82,6 +82,12 @@
                             <input type="number" name="class" class="form-control">
                         </div>
                     </div>
+                    <div class="form-group row">
+                        <label class="col-sm-1 col-form-label">Ghi chú </label>
+                        <div class="col-sm-11">
+                            <textarea name="note" class="form-control"></textarea>
+                        </div>
+                    </div>
                     <!-- <div class="form-group row">
                         <label class="col-sm-1 col-form-label">Tình trạng sức khỏe </label>
                         <div class="col-sm-2">
@@ -205,6 +211,7 @@
                             <th>Giới tính</th>
                             <th>Trình độ</th>
                             <th>Chính sách</th>
+                            <th>Ghi chú</th>
                         </tr>
                     </thead>
                     <tbody></tbody>

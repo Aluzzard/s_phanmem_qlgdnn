@@ -78,6 +78,7 @@ class AIVocationalEducationPolicitiesController extends Controller {
             foreach ($items as $item){
                 $html .= '<tr>';
                 $html .= '  <td>'.$item->name.'</td>';
+                $html .= '  <td>'.$item->order.'</td>';
                 $html .= '  <td>Nhóm '.$item->type.'</td>';
                 $html .= '  <td>';
                 $html .= '      <div class="button-ap-list responsive-btn">

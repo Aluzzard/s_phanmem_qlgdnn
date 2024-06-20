@@ -11,14 +11,17 @@ class ModuleTypeOfCourses extends Model {
         'name', 
         'from_the_time',
         'till_the_time',
-        'exam_date'
+        'exam_date',
+        'address'
     ];
 
     public function students() {
         return $this->hasMany('App\Models\Modules\ModuleManageStudents','id_course','id');
     }
-
     public function training_specialty() {
         return $this->belongsTo('App\Models\Modules\ModuleTrainingSpecialties','id_training_specialty','id');
+    }
+    public function countStudents() {
+        return $this->students()->count();
     }
 }

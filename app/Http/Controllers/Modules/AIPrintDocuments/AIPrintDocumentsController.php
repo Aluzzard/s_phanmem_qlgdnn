@@ -10,6 +10,8 @@ use Illuminate\Support\Facades\Auth;
 use App\Models\Modules\ModulePrintDocuments;
 use App\Models\Modules\ModuleTrainingSpecialties;
 use App\Models\Modules\ModuleTypeOfCourses;
+use App\Models\Modules\ModuleConfigPrintDocuments;
+
 //Requests
 use App\Http\Requests\Module\ModulePrintDocumentsRequest;
 //Controllers
@@ -23,30 +25,27 @@ class AIPrintDocumentsController extends Controller {
     public function index(Request $request) {
         if(GlobalFunction::checkRoleModuleByUser('view') == false || GlobalFunction::checkRoleFunctionByUser('view',200) == false){
              abort('404');
-        } else {
-            $type = $request->input('type', 1);
-            
-            if($request->input('type') == 2){
-                if( $request->input('year') && $request->input('month')) {
-                    $data['data'] = Form2Controller::type($request);
-                }
-                $data['years'] = ModuleTypeOfCourses::select('year')->orderBy('year', 'desc')->get()->unique('year');
-                return view('modules.AIPrintDocuments.type_2.index', $data);
-            }
-            else{
-                $data['courses'] = ModuleTypeOfCourses::whereIdSite(Auth::guard('user')->user()->id_site)->get();
-                if( $request->input('edit') == true && $request->input('id_course')) {
-                    $data['data'] = Type1Controller::callback($request);
-                }
-                return view('modules.AIPrintDocuments.type_1.index', $data);
-            }
-
+        } else {            
+            $data['config_history'] = json_decode(ModuleConfigPrintDocuments::whereIdUser( Auth::guard('user')->id() )->first()->config);
+            $data['courses'] = ModuleTypeOfCourses::whereIdSite( Auth::guard('user')->user()->id_site )->get();
+            return view('modules.AIPrintDocuments.global.index', $data);
         }
     }
 
+
+
     
-    public function type_2(){
-        
+    public function ajax(Request $request){
+        if( $request->input('type') == 1 ) {
+            if( $request->input('id_course') ) {
+                $html = Type1Controller::callback($request);
+                return response()->json(['error'=>false, 'html'=>$html]);
+            } else {
+                return response()->json(['warning'=>true, 'message'=>'Vui lòng chọn khóa học!']);
+            }
+        } elseif( $request->input('type') == 2 ) {
+
+        }
     }
 
 }

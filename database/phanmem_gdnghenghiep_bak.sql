@@ -1,17 +1,17 @@
 /*
  Navicat Premium Data Transfer
 
- Source Server         : DB Laravel
+ Source Server         : DB server Vinh ca
  Source Server Type    : MySQL
- Source Server Version : 100418
- Source Host           : localhost:3306
- Source Schema         : ql_ttgdnn
+ Source Server Version : 100129
+ Source Host           : 10.97.29.203:3306
+ Source Schema         : phanmem_gdnghenghiep
 
  Target Server Type    : MySQL
- Target Server Version : 100418
+ Target Server Version : 100129
  File Encoding         : 65001
 
- Date: 17/06/2024 22:59:02
+ Date: 18/06/2024 08:21:51
 */
 
 SET NAMES utf8mb4;
@@ -32,10 +32,10 @@ CREATE TABLE `account_administrators`  (
   `avatar_path` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   `active` bit(1) NULL DEFAULT NULL,
   `remember_token` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`, `account`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 2 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 2 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of account_administrators
@@ -56,13 +56,13 @@ CREATE TABLE `account_users`  (
   `avatar_path` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   `active` int NULL DEFAULT NULL,
   `remember_token` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   `id_site` int NOT NULL,
   `level` int NOT NULL,
   PRIMARY KEY (`id`, `account`) USING BTREE,
-  INDEX `id`(`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 33 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = COMPACT;
+  INDEX `id`(`id` ASC) USING BTREE
+) ENGINE = InnoDB AUTO_INCREMENT = 33 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of account_users
@@ -80,14 +80,14 @@ CREATE TABLE `module_attendances`  (
   `id_student` int NOT NULL,
   `id_course` int NOT NULL,
   `attendance` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE,
-  INDEX `id_student`(`id_student`) USING BTREE,
-  INDEX `id_course`(`id_course`) USING BTREE,
+  INDEX `id_student`(`id_student` ASC) USING BTREE,
+  INDEX `id_course`(`id_course` ASC) USING BTREE,
   CONSTRAINT `module_attendances_ibfk_2` FOREIGN KEY (`id_course`) REFERENCES `module_type_of_courses` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
   CONSTRAINT `module_attendances_ibfk_3` FOREIGN KEY (`id_student`) REFERENCES `module_manage_students` (`id`) ON DELETE CASCADE ON UPDATE CASCADE
-) ENGINE = InnoDB AUTO_INCREMENT = 205 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 205 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_attendances
@@ -112,8 +112,8 @@ INSERT INTO `module_attendances` VALUES (151, 25, 215, 25, '0,0,0,0,0,0,0,0,0,0,
 INSERT INTO `module_attendances` VALUES (152, 25, 216, 25, '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0', '2024-05-07 14:14:08', '2024-05-07 14:14:08');
 INSERT INTO `module_attendances` VALUES (153, 25, 217, 26, '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0', '2024-05-15 09:37:17', '2024-05-15 09:37:17');
 INSERT INTO `module_attendances` VALUES (154, 25, 218, 26, '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0', '2024-05-15 09:39:39', '2024-05-15 09:39:39');
-INSERT INTO `module_attendances` VALUES (155, 25, 219, 26, '0,0,0,0,0,0,0,0,0,0,K,0,K,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0', '2024-05-15 09:41:18', '2024-06-16 16:41:28');
-INSERT INTO `module_attendances` VALUES (156, 25, 220, 26, '0,0,0,0,0,0,0,0,K,0,0,0,0,K,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0', '2024-05-15 09:43:37', '2024-06-16 16:41:29');
+INSERT INTO `module_attendances` VALUES (155, 25, 219, 26, '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0', '2024-05-15 09:41:18', '2024-05-15 09:41:18');
+INSERT INTO `module_attendances` VALUES (156, 25, 220, 26, '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0', '2024-05-15 09:43:37', '2024-05-15 09:43:37');
 INSERT INTO `module_attendances` VALUES (157, 25, 221, 26, '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0', '2024-05-15 09:45:04', '2024-05-15 09:45:04');
 INSERT INTO `module_attendances` VALUES (158, 25, 222, 26, '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0', '2024-05-15 09:49:07', '2024-05-15 09:49:07');
 INSERT INTO `module_attendances` VALUES (159, 25, 223, 26, '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0', '2024-05-15 09:52:24', '2024-05-15 09:52:24');
@@ -125,7 +125,7 @@ INSERT INTO `module_attendances` VALUES (164, 25, 228, 26, '0,0,0,0,0,0,0,0,0,0,
 INSERT INTO `module_attendances` VALUES (165, 25, 229, 26, '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0', '2024-05-15 10:05:26', '2024-05-15 10:05:26');
 INSERT INTO `module_attendances` VALUES (166, 25, 230, 26, '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0', '2024-05-15 10:06:46', '2024-05-15 10:06:46');
 INSERT INTO `module_attendances` VALUES (168, 25, 232, 26, '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0', '2024-05-15 10:11:57', '2024-05-15 10:11:57');
-INSERT INTO `module_attendances` VALUES (169, 25, 233, 27, '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0', '2024-05-20 08:51:14', '2024-06-16 20:35:12');
+INSERT INTO `module_attendances` VALUES (169, 25, 233, 27, '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0', '2024-05-20 08:51:14', '2024-05-20 08:51:14');
 INSERT INTO `module_attendances` VALUES (170, 25, 234, 27, '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0', '2024-05-20 08:52:33', '2024-05-20 08:52:33');
 INSERT INTO `module_attendances` VALUES (171, 25, 235, 27, '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0', '2024-05-20 08:53:41', '2024-05-20 08:53:41');
 INSERT INTO `module_attendances` VALUES (172, 25, 236, 27, '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0', '2024-05-20 08:55:59', '2024-05-20 08:55:59');
@@ -172,12 +172,12 @@ CREATE TABLE `module_certification_lists`  (
   `description` text CHARACTER SET utf8 COLLATE utf8_general_ci NULL,
   `path` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
   `id_course` int NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE,
-  INDEX `library_id`(`id_course`) USING BTREE,
+  INDEX `library_id`(`id_course` ASC) USING BTREE,
   CONSTRAINT `module_certification_lists_ibfk_1` FOREIGN KEY (`id_course`) REFERENCES `module_type_of_courses` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_certification_lists
@@ -193,9 +193,9 @@ CREATE TABLE `module_config_print_documents`  (
   `type` int NOT NULL,
   `config` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   PRIMARY KEY (`id`) USING BTREE,
-  INDEX `id_user`(`id_user`) USING BTREE,
+  INDEX `id_user`(`id_user` ASC) USING BTREE,
   CONSTRAINT `module_config_print_documents_ibfk_1` FOREIGN KEY (`id_user`) REFERENCES `account_users` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_config_print_documents
@@ -210,7 +210,7 @@ CREATE TABLE `module_employment_wishes`  (
   `id_site` int NOT NULL,
   `name` int NOT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 28 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 28 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_employment_wishes
@@ -240,14 +240,14 @@ CREATE TABLE `module_graduation_score_informations`  (
   `average` smallint NULL DEFAULT NULL,
   `classification` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NULL DEFAULT NULL,
   `note` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE,
-  INDEX `id_student`(`id_student`) USING BTREE,
-  INDEX `id_course`(`id_course`) USING BTREE,
+  INDEX `id_student`(`id_student` ASC) USING BTREE,
+  INDEX `id_course`(`id_course` ASC) USING BTREE,
   CONSTRAINT `module_graduation_score_informations_ibfk_2` FOREIGN KEY (`id_course`) REFERENCES `module_type_of_courses` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
   CONSTRAINT `module_graduation_score_informations_ibfk_3` FOREIGN KEY (`id_student`) REFERENCES `module_manage_students` (`id`) ON DELETE CASCADE ON UPDATE NO ACTION
-) ENGINE = InnoDB AUTO_INCREMENT = 185 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 185 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_graduation_score_informations
@@ -329,7 +329,7 @@ DROP TABLE IF EXISTS `module_manage_students`;
 CREATE TABLE `module_manage_students`  (
   `id` int NOT NULL AUTO_INCREMENT,
   `id_site` int NOT NULL,
-  `full_name` varchar(191) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `name` varchar(191) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `date_of_birth` date NULL DEFAULT NULL COMMENT 'Ngày sinh',
   `numberphone` varchar(11) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NULL DEFAULT NULL COMMENT 'Số điện thoại',
   `identification_id_card` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NULL DEFAULT NULL COMMENT 'CMND/CCCD',
@@ -347,95 +347,93 @@ CREATE TABLE `module_manage_students`  (
   `gender` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `family_composition` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NULL DEFAULT NULL,
   `is_active` bit(1) NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   `id_course` int NOT NULL,
   `class` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NULL DEFAULT NULL,
   `policy` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `id_employment_wishes` int NULL DEFAULT NULL,
-  `last_name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `first_name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   PRIMARY KEY (`id`) USING BTREE,
-  INDEX `id_site`(`id_site`) USING BTREE,
-  INDEX `id_course`(`id_course`) USING BTREE,
-  INDEX `id_employment_wishes`(`id_employment_wishes`) USING BTREE,
+  INDEX `id_site`(`id_site` ASC) USING BTREE,
+  INDEX `id_course`(`id_course` ASC) USING BTREE,
+  INDEX `id_employment_wishes`(`id_employment_wishes` ASC) USING BTREE,
   CONSTRAINT `module_manage_students_ibfk_1` FOREIGN KEY (`id_site`) REFERENCES `sys_sites` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE,
   CONSTRAINT `module_manage_students_ibfk_3` FOREIGN KEY (`id_course`) REFERENCES `module_type_of_courses` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE,
   CONSTRAINT `module_manage_students_ibfk_4` FOREIGN KEY (`id_employment_wishes`) REFERENCES `module_employment_wishes` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE = InnoDB AUTO_INCREMENT = 269 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 269 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_manage_students
 -- ----------------------------
-INSERT INTO `module_manage_students` VALUES (199, 25, 'Tăng Thị Chial', '1972-01-01', NULL, '094172004277', '2021-06-28', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'0', '2024-05-07 09:20:04', '2024-05-07 09:20:04', 25, '7', '20', NULL, 'Tăng Thị', 'Chial');
-INSERT INTO `module_manage_students` VALUES (200, 25, 'Lý Thị Khánh Dư', '1971-01-01', NULL, '094171007622', '2021-09-21', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'0', '2024-05-07 13:17:18', '2024-05-07 13:17:38', 25, '3', '24', NULL, 'Lý Thị Khánh', 'Dư');
-INSERT INTO `module_manage_students` VALUES (201, 25, 'Lâm Thị Miên', '1997-08-30', NULL, '094197000594', '2021-04-13', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'0', '2024-05-07 13:24:48', '2024-05-07 13:24:48', 25, '7', '24', NULL, 'Lâm Thị', 'Miên');
-INSERT INTO `module_manage_students` VALUES (202, 25, 'Trần Thị Hồng Thúy', '1988-01-01', NULL, '094188014958', '2021-09-21', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', NULL, 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'0', '2024-05-07 13:26:46', '2024-05-07 13:26:46', 25, '5', '20', NULL, 'Trần Thị Hồng', 'Thúy');
-INSERT INTO `module_manage_students` VALUES (203, 25, 'Huỳnh Thị Mộng', '1976-01-01', NULL, '094176013151', '2022-03-23', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'0', '2024-05-07 13:28:41', '2024-05-07 13:30:27', 25, '1', '41', NULL, 'Huỳnh Thị', 'Mộng');
-INSERT INTO `module_manage_students` VALUES (204, 25, 'Ngô Thị Thúy Oanh', '1973-01-01', NULL, '094173002876', '2021-08-13', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 15, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'0', '2024-05-07 13:30:18', '2024-05-07 13:30:35', 25, '1', '24', NULL, 'Ngô Thị Thúy', 'Oanh');
-INSERT INTO `module_manage_students` VALUES (205, 25, 'Thạch Thị Mỹ Nhung', '1985-01-01', NULL, '094185006029', '2022-09-21', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'0', '2024-05-07 13:32:16', '2024-05-07 13:39:44', 25, '1', '20', NULL, 'Thạch Thị Mỹ', 'Nhung');
-INSERT INTO `module_manage_students` VALUES (206, 25, 'Lý Thị Thu Thảo', '1994-11-04', NULL, '094194001378', '2021-06-28', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Hữu, xã Phú Tâm', 'Ấp Phú Hữu, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'0', '2024-05-07 13:34:18', '2024-05-07 13:34:18', 25, '10', '20', NULL, 'Lý Thị Thu', 'Thảo');
-INSERT INTO `module_manage_students` VALUES (207, 25, 'Nguyễn Thị Thu Trang', '1985-06-02', NULL, '094185009533', '2021-07-09', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Thành A, xã Phú Tâm', 'Ấp Phú Thành A, xã Phú Tâm', 15, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'0', '2024-05-07 13:41:36', '2024-05-07 13:41:36', 25, '3', '20', NULL, 'Nguyễn Thị Thu', 'Trang');
-INSERT INTO `module_manage_students` VALUES (208, 25, 'Kim Tuấn', '1970-08-12', NULL, '094070023209', '2023-06-13', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'0', '2024-05-07 13:43:04', '2024-05-07 13:43:04', 25, '1', '20', NULL, 'Kim', 'Tuấn');
-INSERT INTO `module_manage_students` VALUES (209, 25, 'Nguyễn Văn Giang', '2006-10-12', NULL, '094206010890', '2022-10-19', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'0', '2024-05-07 13:44:52', '2024-05-07 13:44:52', 25, '6', '41', NULL, 'Nguyễn Văn', 'Giang');
-INSERT INTO `module_manage_students` VALUES (210, 25, 'Thạch Phương', '1980-01-01', NULL, '094080015000', '2022-03-21', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'0', '2024-05-07 13:46:39', '2024-05-07 13:46:39', 25, '1', '41', NULL, 'Thạch', 'Phương');
-INSERT INTO `module_manage_students` VALUES (211, 25, 'Ngô Văn Hiếu', '1987-01-01', NULL, '094087012173', '2022-07-18', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'0', '2024-05-07 13:48:24', '2024-05-07 13:52:33', 25, '3', '20', NULL, 'Ngô Văn', 'Hiếu');
-INSERT INTO `module_manage_students` VALUES (212, 25, 'Thạch Minh Dũng', '1978-02-10', NULL, '094078001020', '2021-04-13', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'0', '2024-05-07 13:50:12', '2024-05-07 13:50:12', 25, '1', '41', NULL, 'Thạch Minh', 'Dũng');
-INSERT INTO `module_manage_students` VALUES (213, 25, 'Huỳnh Văn Hùng', '1985-02-06', NULL, '094085001226', '2021-04-13', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'0', '2024-05-07 13:52:09', '2024-05-07 13:52:09', 25, '4', '24', NULL, 'Huỳnh Văn', 'Hùng');
-INSERT INTO `module_manage_students` VALUES (214, 25, 'Lâm Minh Tú', '1993-06-06', NULL, '094093013047', '2021-08-10', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'0', '2024-05-07 14:08:33', '2024-05-07 14:08:33', 25, '6', '24', NULL, 'Lâm Minh', 'Tú');
-INSERT INTO `module_manage_students` VALUES (215, 25, 'Lâm Thiện', '1989-01-01', NULL, '094089010674', '2022-10-05', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-07 14:10:08', '2024-05-07 14:10:08', 25, '1', '20', NULL, 'Lâm', 'Thiện');
-INSERT INTO `module_manage_students` VALUES (216, 25, 'Thạch Sọnh', '1967-01-01', NULL, '094067000714', '2021-04-13', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Hữu, xã Phú Tâm', 'Ấp Phú Hữu, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-07 14:14:08', '2024-05-07 14:14:08', 25, '1', '24', NULL, 'Thạch', 'Sọnh');
-INSERT INTO `module_manage_students` VALUES (217, 25, 'Lý Thị Bé Ngọc', '2008-04-06', NULL, '094308005899', '2023-05-18', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 09:37:17', '2024-05-15 09:37:17', 26, '6', '21', NULL, 'Lý Thị Bé', 'Ngọc');
-INSERT INTO `module_manage_students` VALUES (218, 25, 'Đinh Thị Sà Lượl', '1989-06-12', NULL, '094189006533', '2021-08-17', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 09:39:39', '2024-05-15 09:39:39', 26, '5', '21', NULL, 'Đinh Thị Sà', 'Lượl');
-INSERT INTO `module_manage_students` VALUES (219, 25, 'Thạch Thị Ngọc Ái', '2007-03-27', NULL, '094307011835', '2022-08-31', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 09:41:18', '2024-05-15 09:41:18', 26, '10', '21', NULL, 'Thạch Thị Ngọc', 'Ái');
-INSERT INTO `module_manage_students` VALUES (220, 25, 'Lâm Thị Phương Thì', '2006-10-14', NULL, '094306000388', '2022-08-25', 'Cục QLHC về TTXH', 'ấp Trà Lây 2, xã Thuận Hưng, huyện Mỹ Tú, tỉnh Sóc Trăng', 'ấp Trà Lây 2, xã Thuận Hưng, huyện Mỹ Tú, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 09:43:37', '2024-05-15 09:43:37', 26, '7', '21', NULL, 'Lâm Thị Phương', 'Thì');
-INSERT INTO `module_manage_students` VALUES (221, 25, 'Lý Thị Pu', '1988-02-07', NULL, '094183002705', '2022-06-06', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 09:45:04', '2024-05-15 09:45:04', 26, '5', '21', NULL, 'Lý Thị', 'Pu');
-INSERT INTO `module_manage_students` VALUES (222, 25, 'Trần Thị Huỳnh Như', '2008-08-04', NULL, '094308009572', '2022-09-21', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 09:49:07', '2024-05-15 09:49:07', 26, '7', '21', NULL, 'Trần Thị Huỳnh', 'Như');
-INSERT INTO `module_manage_students` VALUES (223, 25, 'Hàng Thị Mỹ Liễu', '2000-08-28', NULL, '094300012683', '2021-08-04', 'Cục QLHC về TTXH', 'ấp Sóc Vồ, Phường 7, TP Sóc Trăng, tỉnh Sóc Trăng', 'ấp Sóc Vồ, Phường 7, TP Sóc Trăng, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 09:52:24', '2024-05-15 09:52:24', 26, '8', '21', NULL, 'Hàng Thị Mỹ', 'Liễu');
-INSERT INTO `module_manage_students` VALUES (224, 25, 'Lưu Thị Kim Thoa', '2007-09-21', NULL, '094307009780', '2023-03-01', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 09:54:16', '2024-05-15 09:54:16', 26, '7', '21', NULL, 'Lưu Thị Kim', 'Thoa');
-INSERT INTO `module_manage_students` VALUES (225, 25, 'Lý Thị Thảo', '1988-01-01', NULL, '094188007937', '2022-08-17', 'Cục QLHC về TTXH', NULL, NULL, 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 09:56:58', '2024-05-15 09:56:58', 26, '7', '21', NULL, 'Lý Thị', 'Thảo');
-INSERT INTO `module_manage_students` VALUES (226, 25, 'Sơn Thị Diễm', '2008-03-13', NULL, '094308010304', '2022-09-23', 'Cục QLHC về TTXH', 'ấp Bưng Tróp B, xã An Hiệp, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Bưng Tróp B, xã An Hiệp, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 09:59:41', '2024-05-15 09:59:41', 26, '6', '21', NULL, 'Sơn Thị', 'Diễm');
-INSERT INTO `module_manage_students` VALUES (227, 25, 'Danh Thị Thanh Tài', '2001-05-09', NULL, '094301002441', '2021-05-10', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 10:01:05', '2024-05-15 10:01:05', 26, '6', '21', NULL, 'Danh Thị Thanh', 'Tài');
-INSERT INTO `module_manage_students` VALUES (228, 25, 'Liêng Diễm Trinh', '2008-12-17', NULL, '094308002973', '2023-05-31', 'Cục QLHC về TTXH', 'ấp Phú Ninh A, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh A, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 10:02:38', '2024-05-15 10:02:38', 26, '5', '21', NULL, 'Liêng Diễm', 'Trinh');
-INSERT INTO `module_manage_students` VALUES (229, 25, 'Triệu Thị Kim Cúc', '1990-03-09', NULL, '094190014992', '2021-08-09', 'Cục QLHC về TTXH', 'ấp Phú Ninh A, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh A, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 10:05:25', '2024-05-15 10:05:25', 26, '9', '21', NULL, 'Triệu Thị Kim', 'Cúc');
-INSERT INTO `module_manage_students` VALUES (230, 25, 'Triệu Kiều Phương', '2007-06-11', NULL, '094307001462', '2023-08-13', 'Cục QLHC về TTXH', 'ấp Phú Ninh A, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh A, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 10:06:46', '2024-05-15 10:06:46', 26, '9', '21', NULL, 'Triệu Kiều', 'Phương');
-INSERT INTO `module_manage_students` VALUES (232, 25, 'Đào Thị Simonne', '1974-01-01', NULL, '094174009840', '2022-09-29', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 10:11:57', '2024-05-20 08:42:47', 26, '6', '21', NULL, 'Đào Thị', 'Simonne');
-INSERT INTO `module_manage_students` VALUES (233, 25, 'Trịnh Thanh Tường', '2008-10-03', NULL, '094208004070', '2023-02-28', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 08:51:14', '2024-05-20 08:51:14', 27, '9', '21', NULL, 'Trịnh Thanh', 'Tường');
-INSERT INTO `module_manage_students` VALUES (234, 25, 'Liêu Huỳnh Nghi', '1980-01-01', NULL, '094080019321', '2021-08-10', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 08:52:33', '2024-05-20 08:52:33', 27, '6', '21', NULL, 'Liêu Huỳnh', 'Nghi');
-INSERT INTO `module_manage_students` VALUES (235, 25, 'Liêu Lâm Hoài', '2009-02-20', NULL, '094209013481', '2021-11-20', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 08:53:41', '2024-05-20 08:53:41', 27, '8', '21', NULL, 'Liêu Lâm', 'Hoài');
-INSERT INTO `module_manage_students` VALUES (236, 25, 'Dương Văn Đường', '1992-01-01', NULL, '094092008218', '2022-04-14', 'Cục QLHC về TTXH', '383/114 Đường 30/04, P9, TP. Sóc Trăng, tỉnh Sóc Trăng', '383/114 Đường 30/04, P9, TP. Sóc Trăng, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 08:55:58', '2024-05-20 08:55:58', 27, '6', '21', NULL, 'Dương Văn', 'Đường');
-INSERT INTO `module_manage_students` VALUES (237, 25, 'Lâm Lai', '1992-12-03', NULL, '094092005758', '2021-08-06', 'Cục QLHC về TTXH', '658/12A Tôn Đức Thắng, P5, TP Sóc Trăng, tỉnh Sóc Trăng', '658/12A Tôn Đức Thắng, P5, TP Sóc Trăng, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 08:57:45', '2024-05-20 09:18:37', 27, '8', '21', NULL, 'Lâm', 'Lai');
-INSERT INTO `module_manage_students` VALUES (238, 25, 'Danh Út Tài', '1995-01-12', NULL, '094095011531', '2022-09-06', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 08:59:20', '2024-05-20 08:59:20', 27, '9', '21', NULL, 'Danh Út', 'Tài');
-INSERT INTO `module_manage_students` VALUES (239, 25, 'Lý Phi Rinh', '1998-10-11', NULL, '094098009497', '2023-12-11', 'Cục QLHC về TTXH', 'ấp Chông Nô, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Chông Nô, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:00:14', '2024-05-20 09:01:13', 27, '6', '21', NULL, 'Lý Phi', 'Rinh');
-INSERT INTO `module_manage_students` VALUES (240, 25, 'Lâm Sà Rinh', '1969-01-01', NULL, '094069012809', '2022-09-16', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:02:41', '2024-05-20 09:02:41', 27, '6', '21', NULL, 'Lâm Sà', 'Rinh');
-INSERT INTO `module_manage_students` VALUES (241, 25, 'Lâm Hùng', '1991-10-20', NULL, '094091005034', '2021-08-10', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:03:55', '2024-05-20 09:03:55', 27, '6', '21', NULL, 'Lâm', 'Hùng');
-INSERT INTO `module_manage_students` VALUES (242, 25, 'Trịnh Thanh Tâm', '2007-03-11', NULL, '094207004400', '2021-06-10', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:05:11', '2024-05-20 09:05:11', 27, '8', '21', NULL, 'Trịnh Thanh', 'Tâm');
-INSERT INTO `module_manage_students` VALUES (243, 25, 'Trần Giang', '1984-01-01', NULL, '094084008242', '2021-08-19', 'Cục QLHC về TTXH', '239A Sóc Vồ, P7, TP Sóc Trăng, tỉnh Sóc Trăng', '239A Sóc Vồ, P7, TP Sóc Trăng, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:08:45', '2024-05-20 09:08:45', 27, '6', '21', NULL, 'Trần', 'Giang');
-INSERT INTO `module_manage_students` VALUES (244, 25, 'Kim Minh Đạo', '1976-01-01', NULL, '094076008053', '2022-10-05', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:10:03', '2024-05-20 09:10:03', 27, '6', '21', NULL, 'Kim Minh', 'Đạo');
-INSERT INTO `module_manage_students` VALUES (245, 25, 'Thạch Chươl', '1992-12-13', NULL, '094092013272', '2023-11-24', 'Cục QLHC về TTXH', 'ấp Tam Sóc C1, Xã Mỹ Thuận, huyện Mỹ Tú, tỉnh Sóc Trăng', 'ấp Tam Sóc C1, Xã Mỹ Thuận, huyện Mỹ Tú, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:11:55', '2024-05-20 09:11:55', 27, '6', '21', NULL, 'Thạch', 'Chươl');
-INSERT INTO `module_manage_students` VALUES (246, 25, 'La Hoàng Anh', '1982-11-10', NULL, '094082013733', '2021-11-18', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:13:04', '2024-05-20 09:13:04', 27, '6', '21', NULL, 'La Hoàng', 'Anh');
-INSERT INTO `module_manage_students` VALUES (247, 25, 'Trần Thuỷ', '1993-09-10', NULL, '094093009959', '2022-10-05', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:15:39', '2024-05-20 09:15:39', 27, '6', '21', NULL, 'Trần', 'Thuỷ');
-INSERT INTO `module_manage_students` VALUES (248, 25, 'Lâm Hùng 2', '1990-11-28', NULL, '094090019383', '2021-06-10', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:24:29', '2024-05-20 09:24:29', 27, '6', '21', NULL, 'Lâm Hùng', '2');
-INSERT INTO `module_manage_students` VALUES (249, 25, 'Dương Khe', '1965-01-25', NULL, '094065010078', '2021-05-10', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:26:22', '2024-05-20 09:26:22', 27, '12', '21', NULL, 'Dương', 'Khe');
-INSERT INTO `module_manage_students` VALUES (250, 25, 'Lý Đơ', '1983-05-29', NULL, '094083004124', '1983-05-29', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:27:36', '2024-05-20 09:27:36', 27, '9', '21', NULL, 'Lý', 'Đơ');
-INSERT INTO `module_manage_students` VALUES (251, 25, 'Thạch Thùy Liên Như', '1999-01-07', '0377943623', '094199004431', '2022-01-09', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 14:56:28', '2024-05-28 15:08:52', 28, '6', '21', NULL, 'Thạch Thùy Liên', 'Như');
-INSERT INTO `module_manage_students` VALUES (252, 25, 'Thạch Thị Thảo', '1989-01-01', '0353974014', '094189011072', '2022-08-05', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:02:40', '2024-05-28 15:09:25', 28, '5', '21', NULL, 'Thạch Thị', 'Thảo');
-INSERT INTO `module_manage_students` VALUES (253, 25, 'Lý Thị Nhân', '1999-08-20', NULL, '094199010192', '2021-10-02', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:08:30', '2024-05-28 15:08:30', 28, '9', '21', NULL, 'Lý Thị', 'Nhân');
-INSERT INTO `module_manage_students` VALUES (254, 25, 'Đào Thị Dung', '1985-01-01', '0967421103', '094185005727', '2022-08-02', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:11:47', '2024-05-28 15:11:47', 28, '9', '21', NULL, 'Đào Thị', 'Dung');
-INSERT INTO `module_manage_students` VALUES (255, 25, 'Phạm Thị Ngọc Huyền', '2008-01-06', NULL, '094308010561', '2023-06-07', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Sóc Tháo, xã Phú Tâm', 'Ấp Sóc Tháo, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:15:35', '2024-05-28 15:15:35', 28, '9', '21', NULL, 'Phạm Thị Ngọc', 'Huyền');
-INSERT INTO `module_manage_students` VALUES (256, 25, 'Trương Thị Ngọc Mai', '2007-10-19', '0783778651', '094307014440', '2022-04-15', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:24:00', '2024-05-28 15:24:00', 28, '11', '21', NULL, 'Trương Thị Ngọc', 'Mai');
-INSERT INTO `module_manage_students` VALUES (257, 25, 'Ngô Thanh Tuyền', '2008-12-07', '0329537596', '094308009730', '2023-04-06', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:25:38', '2024-05-28 15:25:38', 28, '9', '21', NULL, 'Ngô Thanh', 'Tuyền');
-INSERT INTO `module_manage_students` VALUES (258, 25, 'Lâm Thúy Vy', '2007-10-10', '0345454002', '094307007277', '2022-04-27', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:28:55', '2024-05-28 15:28:55', 28, '11', '21', NULL, 'Lâm Thúy', 'Vy');
-INSERT INTO `module_manage_students` VALUES (259, 25, 'Lâm Thị Diệu', '2008-06-25', '0789559867', '094308009881', '2022-10-16', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:30:52', '2024-05-28 15:30:52', 28, '5', '21', NULL, 'Lâm Thị', 'Diệu');
-INSERT INTO `module_manage_students` VALUES (260, 25, 'Sơn Thị Ngọc Kiều', '1990-10-30', '0326364244', '094190003273', '2022-09-26', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:35:03', '2024-05-28 15:35:03', 28, '7', '21', NULL, 'Sơn Thị Ngọc', 'Kiều');
-INSERT INTO `module_manage_students` VALUES (261, 25, 'Huỳnh Bích Vân', '1983-01-01', '0377932504', '094183003779', '2021-07-09', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:37:06', '2024-05-28 15:37:06', 28, '6', '21', NULL, 'Huỳnh Bích', 'Vân');
-INSERT INTO `module_manage_students` VALUES (262, 25, 'Thạch Thị Mỹ Dung', '1987-04-17', '0383076421', '094187001335', '2021-04-13', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Hữu, xã Phú Tâm', 'Ấp Phú Hữu, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:38:49', '2024-05-28 15:38:49', 28, NULL, '21', NULL, 'Thạch Thị Mỹ', 'Dung');
-INSERT INTO `module_manage_students` VALUES (263, 25, 'Lâm Tâm Như', '2008-09-25', '0333953741', '094308014792', '2022-10-18', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:48:07', '2024-05-28 15:48:07', 28, NULL, '21', NULL, 'Lâm Tâm', 'Như');
-INSERT INTO `module_manage_students` VALUES (264, 25, 'Lâm Ngọc Mai', '2004-06-15', '0342857644', '094304007955', '2021-08-13', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phước An, xã Phú Tân', 'Ấp Phước An, xã Phú Tân', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 16:06:21', '2024-05-28 16:06:21', 28, '12', '21', NULL, 'Lâm Ngọc', 'Mai');
-INSERT INTO `module_manage_students` VALUES (265, 25, 'Trần Thị Bích Phượng', '2007-07-20', '0347145604', '094307003276', '2022-12-13', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Xây Đá A, xã Hồ Đắc Kiện', 'Ấp Xây Đá A, xã Hồ Đắc Kiện', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 16:09:53', '2024-05-28 16:09:53', 28, '10', '21', NULL, 'Trần Thị Bích', 'Phượng');
-INSERT INTO `module_manage_students` VALUES (266, 25, 'Huỳnh Quốc Phong', '2008-04-25', '0359627697', '094208013157', '2022-09-15', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Hữu, xã Phú Tâm', 'Ấp Phú Hữu, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-28 16:12:51', '2024-05-28 16:12:51', 28, NULL, '21', NULL, 'Huỳnh Quốc', 'Phong');
-INSERT INTO `module_manage_students` VALUES (267, 25, 'Danh Hiền', '1987-01-01', '0373852272', '094087003915', '2022-09-23', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-28 16:14:33', '2024-05-28 16:14:33', 28, '6', '21', NULL, 'Danh', 'Hiền');
-INSERT INTO `module_manage_students` VALUES (268, 25, 'Nguyễn La Hoài Nam', '2005-03-11', '0865429614', '094205001762', NULL, 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 18, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-28 16:15:59', '2024-05-28 16:15:59', 28, NULL, '21', NULL, 'Nguyễn La Hoài', 'Nam');
+INSERT INTO `module_manage_students` VALUES (199, 25, 'Tăng Thị Chial', '1972-01-01', NULL, '094172004277', '2021-06-28', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'0', '2024-05-07 09:20:04', '2024-05-07 09:20:04', 25, '7', '20', NULL);
+INSERT INTO `module_manage_students` VALUES (200, 25, 'Lý Thị Khánh Dư', '1971-01-01', NULL, '094171007622', '2021-09-21', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'0', '2024-05-07 13:17:18', '2024-05-07 13:17:38', 25, '3', '24', NULL);
+INSERT INTO `module_manage_students` VALUES (201, 25, 'Lâm Thị Miên', '1997-08-30', NULL, '094197000594', '2021-04-13', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'0', '2024-05-07 13:24:48', '2024-05-07 13:24:48', 25, '7', '24', NULL);
+INSERT INTO `module_manage_students` VALUES (202, 25, 'Trần Thị Hồng Thúy', '1988-01-01', NULL, '094188014958', '2021-09-21', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', NULL, 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'0', '2024-05-07 13:26:46', '2024-05-07 13:26:46', 25, '5', '20', NULL);
+INSERT INTO `module_manage_students` VALUES (203, 25, 'Huỳnh Thị Mộng', '1976-01-01', NULL, '094176013151', '2022-03-23', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'0', '2024-05-07 13:28:41', '2024-05-07 13:30:27', 25, '1', '41', NULL);
+INSERT INTO `module_manage_students` VALUES (204, 25, 'Ngô Thị Thúy Oanh', '1973-01-01', NULL, '094173002876', '2021-08-13', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 15, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'0', '2024-05-07 13:30:18', '2024-05-07 13:30:35', 25, '1', '24', NULL);
+INSERT INTO `module_manage_students` VALUES (205, 25, 'Thạch Thị Mỹ Nhung', '1985-01-01', NULL, '094185006029', '2022-09-21', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'0', '2024-05-07 13:32:16', '2024-05-07 13:39:44', 25, '1', '20', NULL);
+INSERT INTO `module_manage_students` VALUES (206, 25, 'Lý Thị Thu Thảo', '1994-11-04', NULL, '094194001378', '2021-06-28', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Hữu, xã Phú Tâm', 'Ấp Phú Hữu, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'0', '2024-05-07 13:34:18', '2024-05-07 13:34:18', 25, '10', '20', NULL);
+INSERT INTO `module_manage_students` VALUES (207, 25, 'Nguyễn Thị Thu Trang', '1985-06-02', NULL, '094185009533', '2021-07-09', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Thành A, xã Phú Tâm', 'Ấp Phú Thành A, xã Phú Tâm', 15, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'0', '2024-05-07 13:41:36', '2024-05-07 13:41:36', 25, '3', '20', NULL);
+INSERT INTO `module_manage_students` VALUES (208, 25, 'Kim Tuấn', '1970-08-12', NULL, '094070023209', '2023-06-13', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'0', '2024-05-07 13:43:04', '2024-05-07 13:43:04', 25, '1', '20', NULL);
+INSERT INTO `module_manage_students` VALUES (209, 25, 'Nguyễn Văn Giang', '2006-10-12', NULL, '094206010890', '2022-10-19', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'0', '2024-05-07 13:44:52', '2024-05-07 13:44:52', 25, '6', '41', NULL);
+INSERT INTO `module_manage_students` VALUES (210, 25, 'Thạch Phương', '1980-01-01', NULL, '094080015000', '2022-03-21', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'0', '2024-05-07 13:46:39', '2024-05-07 13:46:39', 25, '1', '41', NULL);
+INSERT INTO `module_manage_students` VALUES (211, 25, 'Ngô Văn Hiếu', '1987-01-01', NULL, '094087012173', '2022-07-18', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'0', '2024-05-07 13:48:24', '2024-05-07 13:52:33', 25, '3', '20', NULL);
+INSERT INTO `module_manage_students` VALUES (212, 25, 'Thạch Minh Dũng', '1978-02-10', NULL, '094078001020', '2021-04-13', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'0', '2024-05-07 13:50:12', '2024-05-07 13:50:12', 25, '1', '41', NULL);
+INSERT INTO `module_manage_students` VALUES (213, 25, 'Huỳnh Văn Hùng', '1985-02-06', NULL, '094085001226', '2021-04-13', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'0', '2024-05-07 13:52:09', '2024-05-07 13:52:09', 25, '4', '24', NULL);
+INSERT INTO `module_manage_students` VALUES (214, 25, 'Lâm Minh Tú', '1993-06-06', NULL, '094093013047', '2021-08-10', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'0', '2024-05-07 14:08:33', '2024-05-07 14:08:33', 25, '6', '24', NULL);
+INSERT INTO `module_manage_students` VALUES (215, 25, 'Lâm Thiện', '1989-01-01', NULL, '094089010674', '2022-10-05', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-07 14:10:08', '2024-05-07 14:10:08', 25, '1', '20', NULL);
+INSERT INTO `module_manage_students` VALUES (216, 25, 'Thạch Sọnh', '1967-01-01', NULL, '094067000714', '2021-04-13', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Hữu, xã Phú Tâm', 'Ấp Phú Hữu, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-07 14:14:08', '2024-05-07 14:14:08', 25, '1', '24', NULL);
+INSERT INTO `module_manage_students` VALUES (217, 25, 'Lý Thị Bé Ngọc', '2008-04-06', NULL, '094308005899', '2023-05-18', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 09:37:17', '2024-05-15 09:37:17', 26, '6', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (218, 25, 'Đinh Thị Sà Lượl', '1989-06-12', NULL, '094189006533', '2021-08-17', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 09:39:39', '2024-05-15 09:39:39', 26, '5', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (219, 25, 'Thạch Thị Ngọc Ái', '2007-03-27', NULL, '094307011835', '2022-08-31', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 09:41:18', '2024-05-15 09:41:18', 26, '10', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (220, 25, 'Lâm Thị Phương Thì', '2006-10-14', NULL, '094306000388', '2022-08-25', 'Cục QLHC về TTXH', 'ấp Trà Lây 2, xã Thuận Hưng, huyện Mỹ Tú, tỉnh Sóc Trăng', 'ấp Trà Lây 2, xã Thuận Hưng, huyện Mỹ Tú, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 09:43:37', '2024-05-15 09:43:37', 26, '7', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (221, 25, 'Lý Thị Pu', '1988-02-07', NULL, '094183002705', '2022-06-06', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 09:45:04', '2024-05-15 09:45:04', 26, '5', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (222, 25, 'Trần Thị Huỳnh Như', '2008-08-04', NULL, '094308009572', '2022-09-21', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 09:49:07', '2024-05-15 09:49:07', 26, '7', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (223, 25, 'Hàng Thị Mỹ Liễu', '2000-08-28', NULL, '094300012683', '2021-08-04', 'Cục QLHC về TTXH', 'ấp Sóc Vồ, Phường 7, TP Sóc Trăng, tỉnh Sóc Trăng', 'ấp Sóc Vồ, Phường 7, TP Sóc Trăng, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 09:52:24', '2024-05-15 09:52:24', 26, '8', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (224, 25, 'Lưu Thị Kim Thoa', '2007-09-21', NULL, '094307009780', '2023-03-01', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 09:54:16', '2024-05-15 09:54:16', 26, '7', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (225, 25, 'Lý Thị Thảo', '1988-01-01', NULL, '094188007937', '2022-08-17', 'Cục QLHC về TTXH', NULL, NULL, 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 09:56:58', '2024-05-15 09:56:58', 26, '7', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (226, 25, 'Sơn Thị Diễm', '2008-03-13', NULL, '094308010304', '2022-09-23', 'Cục QLHC về TTXH', 'ấp Bưng Tróp B, xã An Hiệp, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Bưng Tróp B, xã An Hiệp, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 09:59:41', '2024-05-15 09:59:41', 26, '6', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (227, 25, 'Danh Thị Thanh Tài', '2001-05-09', NULL, '094301002441', '2021-05-10', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 10:01:05', '2024-05-15 10:01:05', 26, '6', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (228, 25, 'Liêng Diễm Trinh', '2008-12-17', NULL, '094308002973', '2023-05-31', 'Cục QLHC về TTXH', 'ấp Phú Ninh A, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh A, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 10:02:38', '2024-05-15 10:02:38', 26, '5', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (229, 25, 'Triệu Thị Kim Cúc', '1990-03-09', NULL, '094190014992', '2021-08-09', 'Cục QLHC về TTXH', 'ấp Phú Ninh A, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh A, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 10:05:25', '2024-05-15 10:05:25', 26, '9', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (230, 25, 'Triệu Kiều Phương', '2007-06-11', NULL, '094307001462', '2023-08-13', 'Cục QLHC về TTXH', 'ấp Phú Ninh A, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh A, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 10:06:46', '2024-05-15 10:06:46', 26, '9', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (232, 25, 'Đào Thị Simonne', '1974-01-01', NULL, '094174009840', '2022-09-29', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-15 10:11:57', '2024-05-20 08:42:47', 26, '6', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (233, 25, 'Trịnh Thanh Tường', '2008-10-03', NULL, '094208004070', '2023-02-28', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 08:51:14', '2024-05-20 08:51:14', 27, '9', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (234, 25, 'Liêu Huỳnh Nghi', '1980-01-01', NULL, '094080019321', '2021-08-10', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 08:52:33', '2024-05-20 08:52:33', 27, '6', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (235, 25, 'Liêu Lâm Hoài', '2009-02-20', NULL, '094209013481', '2021-11-20', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 08:53:41', '2024-05-20 08:53:41', 27, '8', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (236, 25, 'Dương Văn Đường', '1992-01-01', NULL, '094092008218', '2022-04-14', 'Cục QLHC về TTXH', '383/114 Đường 30/04, P9, TP. Sóc Trăng, tỉnh Sóc Trăng', '383/114 Đường 30/04, P9, TP. Sóc Trăng, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 08:55:58', '2024-05-20 08:55:58', 27, '6', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (237, 25, 'Lâm Lai', '1992-12-03', NULL, '094092005758', '2021-08-06', 'Cục QLHC về TTXH', '658/12A Tôn Đức Thắng, P5, TP Sóc Trăng, tỉnh Sóc Trăng', '658/12A Tôn Đức Thắng, P5, TP Sóc Trăng, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 08:57:45', '2024-05-20 09:18:37', 27, '8', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (238, 25, 'Danh Út Tài', '1995-01-12', NULL, '094095011531', '2022-09-06', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 08:59:20', '2024-05-20 08:59:20', 27, '9', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (239, 25, 'Lý Phi Rinh', '1998-10-11', NULL, '094098009497', '2023-12-11', 'Cục QLHC về TTXH', 'ấp Chông Nô, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Chông Nô, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:00:14', '2024-05-20 09:01:13', 27, '6', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (240, 25, 'Lâm Sà Rinh', '1969-01-01', NULL, '094069012809', '2022-09-16', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:02:41', '2024-05-20 09:02:41', 27, '6', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (241, 25, 'Lâm Hùng', '1991-10-20', NULL, '094091005034', '2021-08-10', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:03:55', '2024-05-20 09:03:55', 27, '6', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (242, 25, 'Trịnh Thanh Tâm', '2007-03-11', NULL, '094207004400', '2021-06-10', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:05:11', '2024-05-20 09:05:11', 27, '8', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (243, 25, 'Trần Giang', '1984-01-01', NULL, '094084008242', '2021-08-19', 'Cục QLHC về TTXH', '239A Sóc Vồ, P7, TP Sóc Trăng, tỉnh Sóc Trăng', '239A Sóc Vồ, P7, TP Sóc Trăng, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:08:45', '2024-05-20 09:08:45', 27, '6', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (244, 25, 'Kim Minh Đạo', '1976-01-01', NULL, '094076008053', '2022-10-05', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:10:03', '2024-05-20 09:10:03', 27, '6', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (245, 25, 'Thạch Chươl', '1992-12-13', NULL, '094092013272', '2023-11-24', 'Cục QLHC về TTXH', 'ấp Tam Sóc C1, Xã Mỹ Thuận, huyện Mỹ Tú, tỉnh Sóc Trăng', 'ấp Tam Sóc C1, Xã Mỹ Thuận, huyện Mỹ Tú, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:11:55', '2024-05-20 09:11:55', 27, '6', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (246, 25, 'La Hoàng Anh', '1982-11-10', NULL, '094082013733', '2021-11-18', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:13:04', '2024-05-20 09:13:04', 27, '6', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (247, 25, 'Trần Thuỷ', '1993-09-10', NULL, '094093009959', '2022-10-05', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:15:39', '2024-05-20 09:15:39', 27, '6', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (248, 25, 'Lâm Hùng 2', '1990-11-28', NULL, '094090019383', '2021-06-10', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:24:29', '2024-05-20 09:24:29', 27, '6', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (249, 25, 'Dương Khe', '1965-01-25', NULL, '094065010078', '2021-05-10', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:26:22', '2024-05-20 09:26:22', 27, '12', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (250, 25, 'Lý Đơ', '1983-05-29', NULL, '094083004124', '1983-05-29', 'Cục QLHC về TTXH', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 'ấp Phú Ninh, xã An Ninh, huyện Châu Thành, tỉnh Sóc Trăng', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-20 09:27:36', '2024-05-20 09:27:36', 27, '9', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (251, 25, 'Thạch Thùy Liên Như', '1999-01-07', '0377943623', '094199004431', '2022-01-09', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 14:56:28', '2024-05-28 15:08:52', 28, '6', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (252, 25, 'Thạch Thị Thảo', '1989-01-01', '0353974014', '094189011072', '2022-08-05', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:02:40', '2024-05-28 15:09:25', 28, '5', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (253, 25, 'Lý Thị Nhân', '1999-08-20', NULL, '094199010192', '2021-10-02', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:08:30', '2024-05-28 15:08:30', 28, '9', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (254, 25, 'Đào Thị Dung', '1985-01-01', '0967421103', '094185005727', '2022-08-02', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:11:47', '2024-05-28 15:11:47', 28, '9', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (255, 25, 'Phạm Thị Ngọc Huyền', '2008-01-06', NULL, '094308010561', '2023-06-07', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Sóc Tháo, xã Phú Tâm', 'Ấp Sóc Tháo, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:15:35', '2024-05-28 15:15:35', 28, '9', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (256, 25, 'Trương Thị Ngọc Mai', '2007-10-19', '0783778651', '094307014440', '2022-04-15', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:24:00', '2024-05-28 15:24:00', 28, '11', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (257, 25, 'Ngô Thanh Tuyền', '2008-12-07', '0329537596', '094308009730', '2023-04-06', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:25:38', '2024-05-28 15:25:38', 28, '9', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (258, 25, 'Lâm Thúy Vy', '2007-10-10', '0345454002', '094307007277', '2022-04-27', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:28:55', '2024-05-28 15:28:55', 28, '11', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (259, 25, 'Lâm Thị Diệu', '2008-06-25', '0789559867', '094308009881', '2022-10-16', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:30:52', '2024-05-28 15:30:52', 28, '5', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (260, 25, 'Sơn Thị Ngọc Kiều', '1990-10-30', '0326364244', '094190003273', '2022-09-26', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:35:03', '2024-05-28 15:35:03', 28, '7', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (261, 25, 'Huỳnh Bích Vân', '1983-01-01', '0377932504', '094183003779', '2021-07-09', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:37:06', '2024-05-28 15:37:06', 28, '6', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (262, 25, 'Thạch Thị Mỹ Dung', '1987-04-17', '0383076421', '094187001335', '2021-04-13', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Hữu, xã Phú Tâm', 'Ấp Phú Hữu, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:38:49', '2024-05-28 15:38:49', 28, NULL, '21', NULL);
+INSERT INTO `module_manage_students` VALUES (263, 25, 'Lâm Tâm Như', '2008-09-25', '0333953741', '094308014792', '2022-10-18', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Bình, xã Phú Tâm', 'Ấp Phú Bình, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 15:48:07', '2024-05-28 15:48:07', 28, NULL, '21', NULL);
+INSERT INTO `module_manage_students` VALUES (264, 25, 'Lâm Ngọc Mai', '2004-06-15', '0342857644', '094304007955', '2021-08-13', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phước An, xã Phú Tân', 'Ấp Phước An, xã Phú Tân', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 16:06:21', '2024-05-28 16:06:21', 28, '12', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (265, 25, 'Trần Thị Bích Phượng', '2007-07-20', '0347145604', '094307003276', '2022-12-13', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Xây Đá A, xã Hồ Đắc Kiện', 'Ấp Xây Đá A, xã Hồ Đắc Kiện', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nu', NULL, b'1', '2024-05-28 16:09:53', '2024-05-28 16:09:53', 28, '10', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (266, 25, 'Huỳnh Quốc Phong', '2008-04-25', '0359627697', '094208013157', '2022-09-15', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Phú Hữu, xã Phú Tâm', 'Ấp Phú Hữu, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-28 16:12:51', '2024-05-28 16:12:51', 28, NULL, '21', NULL);
+INSERT INTO `module_manage_students` VALUES (267, 25, 'Danh Hiền', '1987-01-01', '0373852272', '094087003915', '2022-09-23', 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 19, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-28 16:14:33', '2024-05-28 16:14:33', 28, '6', '21', NULL);
+INSERT INTO `module_manage_students` VALUES (268, 25, 'Nguyễn La Hoài Nam', '2005-03-11', '0865429614', '094205001762', NULL, 'Cục trưởng cục CS QLHC về TTXH', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 'Ấp Thọ Hòa Đông A, xã Phú Tâm', 18, '17', NULL, NULL, NULL, NULL, NULL, 'nam', NULL, b'1', '2024-05-28 16:15:59', '2024-05-28 16:15:59', 28, NULL, '21', NULL);
 
 -- ----------------------------
 -- Table structure for module_officer_assessment_processes
@@ -451,16 +449,16 @@ CREATE TABLE `module_officer_assessment_processes`  (
   `id_course` int NOT NULL,
   `id_semester` int NOT NULL,
   `note` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE,
-  INDEX `id_officer`(`id_officer`) USING BTREE,
-  INDEX `module_officer_assessment_processes_ibfk_2`(`id_course`) USING BTREE,
-  INDEX `module_officer_assessment_processes_ibfk_3`(`id_semester`) USING BTREE,
+  INDEX `id_officer`(`id_officer` ASC) USING BTREE,
+  INDEX `module_officer_assessment_processes_ibfk_2`(`id_course` ASC) USING BTREE,
+  INDEX `module_officer_assessment_processes_ibfk_3`(`id_semester` ASC) USING BTREE,
   CONSTRAINT `module_officer_assessment_processes_ibfk_1` FOREIGN KEY (`id_officer`) REFERENCES `module_officer_informations` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
   CONSTRAINT `module_officer_assessment_processes_ibfk_2` FOREIGN KEY (`id_course`) REFERENCES `module_type_of_courses` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
   CONSTRAINT `module_officer_assessment_processes_ibfk_3` FOREIGN KEY (`id_semester`) REFERENCES `module_type_of_semesters` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_officer_assessment_processes
@@ -492,16 +490,15 @@ CREATE TABLE `module_officer_informations`  (
   `weight` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NULL DEFAULT NULL,
   `gender` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `family_composition` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NULL DEFAULT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE,
-  INDEX `name`(`name`(191)) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 2 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+  INDEX `name`(`name`(191) ASC) USING BTREE
+) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_officer_informations
 -- ----------------------------
-INSERT INTO `module_officer_informations` VALUES (1, 25, 'Huỳnh Thế Lưỡng', NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, '15', '17', NULL, '0', '0', NULL, NULL, 'nam', '---', '2024-06-16 14:04:08', '2024-06-16 14:04:08');
 
 -- ----------------------------
 -- Table structure for module_officer_professional_training_processes
@@ -516,14 +513,14 @@ CREATE TABLE `module_officer_professional_training_processes`  (
   `till_the_time` date NULL DEFAULT NULL,
   `id_training_form` int NOT NULL,
   `id_certificate` int NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE,
-  INDEX `id_training_form`(`id_training_form`) USING BTREE,
-  INDEX `id_certificate`(`id_certificate`) USING BTREE,
+  INDEX `id_training_form`(`id_training_form` ASC) USING BTREE,
+  INDEX `id_certificate`(`id_certificate` ASC) USING BTREE,
   CONSTRAINT `module_officer_professional_training_processes_ibfk_1` FOREIGN KEY (`id_training_form`) REFERENCES `module_type_of_training_forms` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
   CONSTRAINT `module_officer_professional_training_processes_ibfk_2` FOREIGN KEY (`id_certificate`) REFERENCES `module_type_of_certificates` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_officer_professional_training_processes
@@ -539,11 +536,11 @@ CREATE TABLE `module_officer_work_processes`  (
   `from_the_time` date NOT NULL,
   `till_the_time` date NOT NULL,
   `id_officer` bigint UNSIGNED NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE,
-  INDEX `id_officer`(`id_officer`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+  INDEX `id_officer`(`id_officer` ASC) USING BTREE
+) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_officer_work_processes
@@ -563,19 +560,19 @@ CREATE TABLE `module_review_processes`  (
   `id_course` int NOT NULL,
   `start_time` date NULL DEFAULT NULL,
   `end_time` date NULL DEFAULT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   `week` int NOT NULL,
   PRIMARY KEY (`id`) USING BTREE,
-  INDEX `id_course`(`id_course`) USING BTREE,
-  INDEX `id_training_specialty`(`id_training_specialty`) USING BTREE,
-  INDEX `id_officer`(`id_activity`) USING BTREE,
-  INDEX `id_type`(`id_type`) USING BTREE,
+  INDEX `id_course`(`id_course` ASC) USING BTREE,
+  INDEX `id_training_specialty`(`id_training_specialty` ASC) USING BTREE,
+  INDEX `id_officer`(`id_activity` ASC) USING BTREE,
+  INDEX `id_type`(`id_type` ASC) USING BTREE,
   CONSTRAINT `module_review_processes_ibfk_1` FOREIGN KEY (`id_course`) REFERENCES `module_type_of_courses` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
   CONSTRAINT `module_review_processes_ibfk_2` FOREIGN KEY (`id_training_specialty`) REFERENCES `module_training_specialties` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
   CONSTRAINT `module_review_processes_ibfk_3` FOREIGN KEY (`id_activity`) REFERENCES `partial_module_review_processes_categories` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
   CONSTRAINT `module_review_processes_ibfk_4` FOREIGN KEY (`id_type`) REFERENCES `partial_module_review_processes_categories` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_review_processes
@@ -593,19 +590,18 @@ CREATE TABLE `module_teaching_assignments`  (
   `id_course` int NOT NULL,
   `start_time` date NULL DEFAULT NULL,
   `end_time` date NULL DEFAULT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE,
-  INDEX `id_course`(`id_course`) USING BTREE,
-  INDEX `id_officer`(`id_officer`) USING BTREE,
+  INDEX `id_course`(`id_course` ASC) USING BTREE,
+  INDEX `id_officer`(`id_officer` ASC) USING BTREE,
   CONSTRAINT `module_teaching_assignments_ibfk_1` FOREIGN KEY (`id_course`) REFERENCES `module_type_of_courses` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
   CONSTRAINT `module_teaching_assignments_ibfk_3` FOREIGN KEY (`id_officer`) REFERENCES `module_officer_informations` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE = InnoDB AUTO_INCREMENT = 3 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_teaching_assignments
 -- ----------------------------
-INSERT INTO `module_teaching_assignments` VALUES (2, 25, 'Huỳnh Thế Lưỡng', 1, 26, '2024-05-27', '2024-06-29', '2024-06-16 16:03:55', '2024-06-16 16:04:05');
 
 -- ----------------------------
 -- Table structure for module_training_program_informations
@@ -617,12 +613,12 @@ CREATE TABLE `module_training_program_informations`  (
   `name` varchar(11) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `id_training_specialty` int NOT NULL,
   `year` year NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE,
-  INDEX `id_training_specialty`(`id_training_specialty`) USING BTREE,
+  INDEX `id_training_specialty`(`id_training_specialty` ASC) USING BTREE,
   CONSTRAINT `module_training_program_informations_ibfk_1` FOREIGN KEY (`id_training_specialty`) REFERENCES `module_training_specialties` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_training_program_informations
@@ -640,10 +636,10 @@ CREATE TABLE `module_training_specialties`  (
   `type_2` int NOT NULL COMMENT '1: phi nông nghiệp; 2: nông nghiệp',
   `duration_by_month` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `duration_by_day` int NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 33 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 33 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_training_specialties
@@ -671,10 +667,10 @@ CREATE TABLE `module_type_of_certificates`  (
   `id` int NOT NULL AUTO_INCREMENT,
   `id_site` int NOT NULL,
   `name` varchar(191) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 25 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 25 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_type_of_certificates
@@ -700,14 +696,14 @@ CREATE TABLE `module_type_of_courses`  (
   `id_training_specialty` int NOT NULL,
   `year` year NOT NULL,
   `exam_date` date NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   `from_the_time` date NOT NULL,
   `till_the_time` date NOT NULL,
   PRIMARY KEY (`id`) USING BTREE,
-  INDEX `id_training_specialty`(`id_training_specialty`) USING BTREE,
+  INDEX `id_training_specialty`(`id_training_specialty` ASC) USING BTREE,
   CONSTRAINT `module_type_of_courses_ibfk_1` FOREIGN KEY (`id_training_specialty`) REFERENCES `module_training_specialties` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE = InnoDB AUTO_INCREMENT = 29 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 29 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_type_of_courses
@@ -732,10 +728,10 @@ CREATE TABLE `module_type_of_departments`  (
   `numberphone` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NULL DEFAULT NULL,
   `email` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NULL DEFAULT NULL,
   `note` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 20 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 20 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_type_of_departments
@@ -752,10 +748,10 @@ CREATE TABLE `module_type_of_ethnics`  (
   `id` int UNSIGNED NOT NULL AUTO_INCREMENT,
   `id_site` int NOT NULL,
   `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 71 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 71 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_type_of_ethnics
@@ -824,10 +820,10 @@ CREATE TABLE `module_type_of_family_compositions`  (
   `id` int UNSIGNED NOT NULL AUTO_INCREMENT,
   `id_site` int NOT NULL,
   `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 32 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 32 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_type_of_family_compositions
@@ -856,10 +852,10 @@ CREATE TABLE `module_type_of_officer_titles`  (
   `id` int UNSIGNED NOT NULL AUTO_INCREMENT,
   `id_site` int NOT NULL,
   `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 26 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 26 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_type_of_officer_titles
@@ -884,10 +880,10 @@ CREATE TABLE `module_type_of_recruitment_forms`  (
   `id` int UNSIGNED NOT NULL AUTO_INCREMENT,
   `id_site` int NOT NULL,
   `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_type_of_recruitment_forms
@@ -901,10 +897,10 @@ CREATE TABLE `module_type_of_recruitments`  (
   `id` int UNSIGNED NOT NULL AUTO_INCREMENT,
   `id_site` int NOT NULL,
   `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_type_of_recruitments
@@ -918,10 +914,10 @@ CREATE TABLE `module_type_of_religions`  (
   `id` int UNSIGNED NOT NULL AUTO_INCREMENT,
   `id_site` int NOT NULL,
   `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 34 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 34 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_type_of_religions
@@ -952,10 +948,10 @@ CREATE TABLE `module_type_of_semesters`  (
   `id` int NOT NULL AUTO_INCREMENT,
   `id_site` int NOT NULL,
   `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 17 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 17 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_type_of_semesters
@@ -971,10 +967,10 @@ CREATE TABLE `module_type_of_subject_teams`  (
   `id` int NOT NULL AUTO_INCREMENT,
   `id_site` int NOT NULL,
   `name` varchar(191) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 17 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 17 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_type_of_subject_teams
@@ -990,10 +986,10 @@ CREATE TABLE `module_type_of_teaching_levels`  (
   `id` int UNSIGNED NOT NULL AUTO_INCREMENT,
   `id_site` int NOT NULL,
   `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 26 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 26 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_type_of_teaching_levels
@@ -1015,10 +1011,10 @@ CREATE TABLE `module_type_of_training_forms`  (
   `id` int NOT NULL AUTO_INCREMENT,
   `id_site` int NOT NULL,
   `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 27 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 27 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_type_of_training_forms
@@ -1041,10 +1037,10 @@ CREATE TABLE `module_type_of_training_levels`  (
   `id` int UNSIGNED NOT NULL AUTO_INCREMENT,
   `id_site` int NOT NULL,
   `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_type_of_training_levels
@@ -1058,10 +1054,10 @@ CREATE TABLE `module_type_of_training_programs`  (
   `id` int UNSIGNED NOT NULL AUTO_INCREMENT,
   `id_site` int NOT NULL,
   `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_type_of_training_programs
@@ -1075,10 +1071,10 @@ CREATE TABLE `module_type_of_training_subsystems`  (
   `id` int UNSIGNED NOT NULL AUTO_INCREMENT,
   `id_site` int NOT NULL,
   `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_type_of_training_subsystems
@@ -1093,27 +1089,26 @@ CREATE TABLE `module_vocational_education_policities`  (
   `id_site` int NOT NULL,
   `name` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `type` int NOT NULL COMMENT '1: đào tạo dưới 3 tháng; 2: đào tạo sơ cấp',
-  `order` int NOT NULL DEFAULT 0,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 42 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 42 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of module_vocational_education_policities
 -- ----------------------------
-INSERT INTO `module_vocational_education_policities` VALUES (18, 25, 'Người có công Cách mạng', 1, 0, '2023-07-30 00:20:03', '2023-08-24 15:14:11');
-INSERT INTO `module_vocational_education_policities` VALUES (20, 25, 'Hộ nghèo', 1, 0, '2023-07-30 00:40:36', '2023-07-30 00:40:36');
-INSERT INTO `module_vocational_education_policities` VALUES (21, 25, 'Dân tộc thiểu số', 1, 0, '2023-07-30 00:40:57', '2023-07-30 00:40:57');
-INSERT INTO `module_vocational_education_policities` VALUES (22, 25, 'Người tàn tật', 1, 0, '2023-07-30 00:41:13', '2023-07-30 00:41:13');
-INSERT INTO `module_vocational_education_policities` VALUES (23, 25, 'Lao động nữ bị mất việc làm', 1, 0, '2023-07-30 00:41:48', '2023-07-30 00:41:48');
-INSERT INTO `module_vocational_education_policities` VALUES (24, 25, 'Đối tượng cận nghèo(Thu nhập tối đa bằng 150% thu nhập hộ nghèo)', 2, 0, '2023-07-30 00:41:59', '2023-07-30 00:41:59');
-INSERT INTO `module_vocational_education_policities` VALUES (25, 25, 'Lao động nông thôn khác', 3, 0, '2023-07-30 00:42:18', '2023-07-30 00:45:50');
-INSERT INTO `module_vocational_education_policities` VALUES (36, 25, 'Trợ cấp bảo trợ xã hội', 1, 0, '2023-08-24 15:14:41', '2023-08-24 15:14:41');
-INSERT INTO `module_vocational_education_policities` VALUES (37, 25, 'Người thuộc hộ bị thu hồi đất', 1, 0, NULL, NULL);
-INSERT INTO `module_vocational_education_policities` VALUES (38, 25, 'Ngư dân', 1, 0, NULL, NULL);
-INSERT INTO `module_vocational_education_policities` VALUES (39, 25, 'Thanh niên hoàn thành nghĩa vụ', 1, 0, NULL, NULL);
-INSERT INTO `module_vocational_education_policities` VALUES (41, 25, 'Thoát nghèo dưới 36 tháng', 1, 0, '2024-05-07 09:07:51', '2024-05-07 09:07:51');
+INSERT INTO `module_vocational_education_policities` VALUES (18, 25, 'Người có công Cách mạng', 1, '2023-07-30 00:20:03', '2023-08-24 15:14:11');
+INSERT INTO `module_vocational_education_policities` VALUES (20, 25, 'Hộ nghèo', 1, '2023-07-30 00:40:36', '2023-07-30 00:40:36');
+INSERT INTO `module_vocational_education_policities` VALUES (21, 25, 'Dân tộc thiểu số', 1, '2023-07-30 00:40:57', '2023-07-30 00:40:57');
+INSERT INTO `module_vocational_education_policities` VALUES (22, 25, 'Người tàn tật', 1, '2023-07-30 00:41:13', '2023-07-30 00:41:13');
+INSERT INTO `module_vocational_education_policities` VALUES (23, 25, 'Lao động nữ bị mất việc làm', 1, '2023-07-30 00:41:48', '2023-07-30 00:41:48');
+INSERT INTO `module_vocational_education_policities` VALUES (24, 25, 'Đối tượng cận nghèo(Thu nhập tối đa bằng 150% thu nhập hộ nghèo)', 2, '2023-07-30 00:41:59', '2023-07-30 00:41:59');
+INSERT INTO `module_vocational_education_policities` VALUES (25, 25, 'Lao động nông thôn khác', 3, '2023-07-30 00:42:18', '2023-07-30 00:45:50');
+INSERT INTO `module_vocational_education_policities` VALUES (36, 25, 'Trợ cấp bảo trợ xã hội', 1, '2023-08-24 15:14:41', '2023-08-24 15:14:41');
+INSERT INTO `module_vocational_education_policities` VALUES (37, 25, 'Người thuộc hộ bị thu hồi đất', 1, NULL, NULL);
+INSERT INTO `module_vocational_education_policities` VALUES (38, 25, 'Ngư dân', 1, NULL, NULL);
+INSERT INTO `module_vocational_education_policities` VALUES (39, 25, 'Thanh niên hoàn thành nghĩa vụ', 1, NULL, NULL);
+INSERT INTO `module_vocational_education_policities` VALUES (41, 25, 'Thoát nghèo dưới 36 tháng', 1, '2024-05-07 09:07:51', '2024-05-07 09:07:51');
 
 -- ----------------------------
 -- Table structure for partial_module_review_processes_categories
@@ -1124,12 +1119,12 @@ CREATE TABLE `partial_module_review_processes_categories`  (
   `id_site` int NOT NULL,
   `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `type` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   `order` int NULL DEFAULT NULL,
   `id_training_specialty` int NOT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 42 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 42 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of partial_module_review_processes_categories
@@ -1164,11 +1159,11 @@ CREATE TABLE `partial_module_training_program_informations_files`  (
   `description` text CHARACTER SET utf8 COLLATE utf8_general_ci NULL,
   `path` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
   `id_program` int UNSIGNED NOT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE,
-  INDEX `library_id`(`id_program`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = COMPACT;
+  INDEX `library_id`(`id_program` ASC) USING BTREE
+) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of partial_module_training_program_informations_files
@@ -1184,12 +1179,12 @@ CREATE TABLE `sys_function_of_controllers`  (
   `id_module` int NOT NULL,
   `description` text CHARACTER SET utf8 COLLATE utf8_general_ci NULL,
   `method` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL COMMENT '1: GET; 2: Post',
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE,
-  INDEX `id_id_module`(`id_module`) USING BTREE,
+  INDEX `id_id_module`(`id_module` ASC) USING BTREE,
   CONSTRAINT `sys_function_of_controllers_ibfk_1` FOREIGN KEY (`id_module`) REFERENCES `sys_list_modules` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE = InnoDB AUTO_INCREMENT = 182 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 182 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of sys_function_of_controllers
@@ -1287,7 +1282,7 @@ CREATE TABLE `sys_function_permissions_according_to_users`  (
   `function_permissions` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   `action` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 25 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 25 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of sys_function_permissions_according_to_users
@@ -1314,7 +1309,7 @@ CREATE TABLE `sys_groups_modules`  (
   `name` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
   `order` int NOT NULL DEFAULT 0,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 21 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 21 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of sys_groups_modules
@@ -1340,15 +1335,15 @@ CREATE TABLE `sys_list_modules`  (
   `id_group` int NOT NULL,
   `content_config` text CHARACTER SET utf8 COLLATE utf8_general_ci NULL,
   `avatar` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   `controller` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   `description` text CHARACTER SET utf8 COLLATE utf8_general_ci NULL,
   `active` int NOT NULL,
   PRIMARY KEY (`id`) USING BTREE,
-  INDEX `foreign_key_module_group`(`id_group`) USING BTREE,
+  INDEX `foreign_key_module_group`(`id_group` ASC) USING BTREE,
   CONSTRAINT `sys_list_modules_ibfk_1` FOREIGN KEY (`id_group`) REFERENCES `sys_groups_modules` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE = InnoDB AUTO_INCREMENT = 100 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 100 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of sys_list_modules
@@ -1377,7 +1372,7 @@ INSERT INTO `sys_list_modules` VALUES (72, 'Chính sách trong giáo dục ngh�
 INSERT INTO `sys_list_modules` VALUES (73, 'Thông tin chương trình đào tạo', 'thong-tin-chuong-trinh-dao-tao', 'Modules\\AITrainingProgramInformations\\AITrainingProgramInformationsController', 'modules.AITrainingProgramInformations', 1, 4, 19, NULL, '/upload/mainstructure/icon/module/AITrainingProgramInformations.png', '2023-07-24 09:18:09', '2024-06-04 15:36:36', 'AITrainingProgramInformations', NULL, 1);
 INSERT INTO `sys_list_modules` VALUES (74, 'Chuyên ngành đào tạo', 'chuyen-nganh-dao-tao', 'Modules\\AITrainingSpecialties\\AITrainingSpecialtiesController', 'modules.AITrainingSpecialties', 1, 0, 19, NULL, '/upload/mainstructure/icon/module/AITrainingSpecialties.png', '2023-07-24 09:36:55', '2024-06-04 15:36:07', 'AITrainingSpecialties', NULL, 1);
 INSERT INTO `sys_list_modules` VALUES (75, 'Quản lý môn học', 'quan-ly-mon-hoc', 'Modules\\AITrainingSubjects\\AITrainingSubjectsController', 'modules.AITrainingSubjects', 1, 2, 19, NULL, NULL, '2023-07-24 09:38:14', '2023-08-02 10:56:40', 'AITrainingSubjects', NULL, 0);
-INSERT INTO `sys_list_modules` VALUES (76, 'Phân công giảng dạy', 'phan-cong-giang-day', 'Modules\\AITeachingAssignment\\AITeachingAssignmentController', 'modules.AITeachingAssignment', 1, 2, 19, NULL, '/upload/mainstructure/icon/module/AITeachingAssignment.png', '2023-07-24 09:39:30', '2024-06-16 13:16:51', 'AITeachingAssignment', NULL, 1);
+INSERT INTO `sys_list_modules` VALUES (76, 'Phân công giảng dạy', 'phan-cong-giang-day', 'Modules\\AITeachingAssignment\\AITeachingAssignmentController', 'modules.AITeachingAssignment', 1, 4, 19, NULL, '/upload/mainstructure/icon/module/AITeachingAssignment.png', '2023-07-24 09:39:30', '2023-08-24 12:08:24', 'AITeachingAssignment', NULL, 1);
 INSERT INTO `sys_list_modules` VALUES (77, 'Thông tin giáo trình đào tạo', 'thong-tin-giao-trinh-dao-tao', 'Modules\\AITrainingCurriculumInformations\\AITrainingCurriculumInformationsController', 'modules.AITrainingCurriculumInformations', 1, 5, 19, NULL, NULL, '2023-07-24 09:40:13', '2023-08-14 15:40:54', 'AITrainingCurriculumInformations', NULL, 0);
 INSERT INTO `sys_list_modules` VALUES (78, 'Quản lý lớp dự thi', 'quan-ly-lop-du-thi', 'Modules\\AIExamClass\\AIExamClassController', 'modules.AIExamClass', 1, 6, 19, NULL, NULL, '2023-07-24 09:41:22', '2023-09-18 15:14:55', 'AIExamClass', NULL, 0);
 INSERT INTO `sys_list_modules` VALUES (79, 'Quản lý sổ đầu bài', 'quan-ly-so-dau-bai', 'Modules\\AIManageHeadbooks\\AIManageHeadbooksController', 'modules.AIManageHeadbooks', 1, 7, 19, NULL, NULL, '2023-07-24 09:43:36', '2023-08-02 10:57:37', 'AIManageHeadbooks', NULL, 0);
@@ -1398,7 +1393,7 @@ INSERT INTO `sys_list_modules` VALUES (93, 'Xét thi đua', 'xet-thi-dua', 'Modu
 INSERT INTO `sys_list_modules` VALUES (94, 'Thống kê tổng hợp', 'thong-ke-tong-hop', 'Modules\\AIIntegratedStatistics\\AIIntegratedStatisticsController', 'modules.AIIntegratedStatistics', 1, 1, 20, NULL, '/upload/mainstructure/icon/module/AIIntegratedStatistics.png', '2023-07-24 10:04:46', '2023-08-16 10:23:55', 'AIIntegratedStatistics', NULL, 1);
 INSERT INTO `sys_list_modules` VALUES (95, 'Báo cáo thông tin dạy nghề', 'bao-cao-thong-tin-day-nghe', 'Modules\\AIVocationalTrainingInformationReport\\AIVocationalTrainingInformationReportController', 'modules.AIVocationalTrainingInformationReport', 1, 2, 20, NULL, NULL, '2023-07-24 10:05:30', '2023-10-02 14:33:32', 'AIVocationalTrainingInformationReport', NULL, 0);
 INSERT INTO `sys_list_modules` VALUES (96, 'Báo cáo học sinh sinh viên', 'bao-cao-hoc-sinh-sinh-vien', 'Modules\\AIStudentReport\\AIStudentReportController', 'modules.AIStudentReport', 1, 3, 20, NULL, NULL, '2023-07-24 10:05:59', '2023-10-02 14:33:43', 'AIStudentReport', NULL, 0);
-INSERT INTO `sys_list_modules` VALUES (97, 'Quản lý điểm danh', 'quan-ly-diem-danh', 'Modules\\AIAttendance\\AIAttendanceController', 'modules.AIAttendance', 1, 3, 19, NULL, '/upload/mainstructure/icon/module/AIAttendance.png', '2023-08-17 14:50:00', '2024-06-16 13:17:00', 'AIAttendance', NULL, 1);
+INSERT INTO `sys_list_modules` VALUES (97, 'Quản lý điểm danh', 'quan-ly-diem-danh', 'Modules\\AIAttendance\\AIAttendanceController', 'modules.AIAttendance', 1, 2, 19, NULL, '/upload/mainstructure/icon/module/AIAttendance.png', '2023-08-17 14:50:00', '2023-08-17 16:27:51', 'AIAttendance', NULL, 1);
 INSERT INTO `sys_list_modules` VALUES (98, 'In văn bản', 'in-van-ban', 'Modules\\AIPrintDocuments\\AIPrintDocumentsController', 'modules.AIPrintDocuments', 1, 1, 20, NULL, '/upload/mainstructure/icon/module/AIPrintDocuments.png', '2024-06-04 17:00:44', '2024-06-04 17:00:44', 'AIPrintDocuments', NULL, 1);
 INSERT INTO `sys_list_modules` VALUES (99, 'Danh mục nguyện vọng việc làm', 'danh-muc-nguyen-vong-viec-lam', 'Modules\\AIEmploymentWishes\\AIEmploymentWishesController', 'modules.AIEmploymentWishes', 1, 5, 17, NULL, '/upload/mainstructure/icon/module/AIEmploymentWishes.png', '2024-06-04 17:25:07', '2024-06-04 17:25:07', 'AIEmploymentWishes', NULL, 1);
 
@@ -1412,11 +1407,11 @@ CREATE TABLE `sys_logs`  (
   `action` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
   `user_id` int UNSIGNED NOT NULL,
   `detail` text CHARACTER SET utf8 COLLATE utf8_general_ci NULL,
-  `created_at` timestamp(0) NULL DEFAULT NULL,
-  `updated_at` timestamp(0) NULL DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE,
-  INDEX `user_id`(`user_id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 1533 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = COMPACT;
+  INDEX `user_id`(`user_id` ASC) USING BTREE
+) ENGINE = InnoDB AUTO_INCREMENT = 1527 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of sys_logs
@@ -1457,12 +1452,6 @@ INSERT INTO `sys_logs` VALUES (1523, 'Đăng nhập', 'Đăng nhập', 31, '', '
 INSERT INTO `sys_logs` VALUES (1524, 'Đăng nhập', 'Đăng nhập', 31, '', '2024-06-14 08:35:28', '2024-06-14 08:35:28');
 INSERT INTO `sys_logs` VALUES (1525, 'Đăng nhập', 'Đăng nhập', 31, '', '2024-06-14 13:32:22', '2024-06-14 13:32:22');
 INSERT INTO `sys_logs` VALUES (1526, 'Đăng nhập', 'Đăng nhập', 31, '', '2024-06-14 13:33:42', '2024-06-14 13:33:42');
-INSERT INTO `sys_logs` VALUES (1527, 'Đăng nhập', 'Đăng nhập', 31, '', '2024-06-15 22:55:08', '2024-06-15 22:55:08');
-INSERT INTO `sys_logs` VALUES (1528, 'Đăng nhập', 'Đăng nhập', 31, '', '2024-06-15 22:55:08', '2024-06-15 22:55:08');
-INSERT INTO `sys_logs` VALUES (1529, 'Đăng nhập', 'Đăng nhập', 31, '', '2024-06-16 13:15:37', '2024-06-16 13:15:37');
-INSERT INTO `sys_logs` VALUES (1530, 'AIOfficerInformations', 'Thêm', 31, 'Thông tin cán bộ, giáo viên: Huỳnh Thế Lưỡng', '2024-06-16 14:04:08', '2024-06-16 14:04:08');
-INSERT INTO `sys_logs` VALUES (1531, 'Đăng nhập', 'Đăng nhập', 31, '', '2024-06-16 20:34:41', '2024-06-16 20:34:41');
-INSERT INTO `sys_logs` VALUES (1532, 'Đăng nhập', 'Đăng nhập', 31, '', '2024-06-17 21:24:24', '2024-06-17 21:24:24');
 
 -- ----------------------------
 -- Table structure for sys_module_permissions_according_to_users
@@ -1474,7 +1463,7 @@ CREATE TABLE `sys_module_permissions_according_to_users`  (
   `module_permissions` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   `action` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL COMMENT 'view, edit, delete',
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 76 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 76 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of sys_module_permissions_according_to_users
@@ -1513,7 +1502,7 @@ CREATE TABLE `sys_sites`  (
   `note` text CHARACTER SET utf8 COLLATE utf8_general_ci NULL,
   `logo` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 26 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 26 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of sys_sites
@@ -1529,7 +1518,7 @@ CREATE TABLE `sys_themes`  (
   `name` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
   `code` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 3 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 3 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of sys_themes
@@ -1567,7 +1556,7 @@ CREATE TABLE `sys_website_information`  (
   `meta_geo_position` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   `meta_icbm` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 2 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = COMPACT;
+) ENGINE = InnoDB AUTO_INCREMENT = 2 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of sys_website_information

@@ -5,36 +5,43 @@
 
 <script type="text/javascript">
 $(document).ready(function() {
-    $('select[name=id_training_specialty]').on('change', function(){
-        $.ajax({
-            type: 'POST',
-            url: '{!! route('AIManageStudents.post.ajax') !!}',
-            data: {
-                id: $(this).val(),
-                action_type: 'course'
+//Khởi tạo cây
+    $('#jstree_course').jstree({
+        'core' : {
+            'check_callback' : true
+        },
+        "plugins" : ["types"],
+        "types" : {
+            "training_specialty" : {
+                "icon" : "/assets/administration/mainstructure/img/badge.png"
             },
-            dataType:'JSON',
-            success: function(data) {
-                html = '';
-                if(data.courses.length == 0) {
-                    html = '<option value="0" selected>Không có khóa học</option>';
-                } else {
-                    for(i=0; i<data.courses.length;i++){
-                        html += '<option value="'+data.courses[i].id+'"'+(i==0 ? " selected":"")+'>Khóa '+data.courses[i].name+'/'+data.courses[i].year+'</option>';
-                    }
-                }
-                $('select[name=id_course]').html(html);
-                loadCalendar();
-
+            "year" : {
+                "icon" : "/assets/administration/mainstructure/img/calendar.png"
             },
-            error: function(data) { 
-
+            "course" : {
+                "icon" : "/assets/administration/mainstructure/img/course.png"
             }
-        });
-    })
-    $('select[name=id_course]').on('change', function(){
-        loadCalendar();
-    })
+        }
+    });
+    $('#jstree_course').on("select_node.jstree", function (e, data) {
+        if (data.node.type !== "course") {
+            $('#jstree_course').jstree("deselect_node", data.node);
+        } else {
+            // Trích xuất ID của khóa học từ ID nút
+            loadCalendar();
+            $('.right-panel').show();
+            calendar.render();
+        }
+    });
+
+    $('#jstree_course').on("hover_node.jstree", function (e, data) {
+        if (data.node.type !== "course") {
+            $('#jstree_course').jstree("dehover_node", data.node);
+        }
+    });
+//End khởi tạo cây
+
+//Khởi tạo lịch
     new FullCalendar.Draggable( document.getElementById('external-events-list'), {
         itemSelector: '.fc-event',
         eventData: function(eventEl) {
@@ -94,23 +101,25 @@ $(document).ready(function() {
             console.log(event);
 
         }
-
     });
     calendar.render();
+//End khởi tạo lịch
+
     loadCalendar = function(){
+        console.log('data:' + $('#jstree_course').jstree("get_selected", true)[0]['id'].split('_').pop())
         $.ajax({
             url: '{!! route('AITeachingAssignment.post.ajax') !!}',
             type: 'POST',
             data: {
-                action_type: 'loaddt',
-                id_training_specialty: $('select[name=id_training_specialty]').val(),
-                id_course: $('select[name=id_course]').val()
+                action_type: 'loadCalendar',
+                id_course: $('#jstree_course').jstree("get_selected", true)[0]['id'].split('_').pop()
             },
             dataType:'JSON',
             beforeSend: function () {
                 $('.ts_preloading_box').show();
             },
             success: function(data){
+                console.log(data);
                 //Gọi tất cả các sự kiện
                 var eventSources = calendar.getEventSources(); 
                 //Đếm và xóa tất cả sự kiện
@@ -137,8 +146,6 @@ $(document).ready(function() {
             }
         });
     }
-    loadCalendar();
-
 // -------------------------- Handle --------------------------
     function func_submitCalender(action_type, id, name, start, end){
         $.ajax({
@@ -150,15 +157,13 @@ $(document).ready(function() {
                 name: name,
                 start_time: start,
                 end_time: end,
-                id_training_specialty: $('select[name=id_training_specialty]').val(),
-                id_course: $('select[name=id_course]').val()
+                id_course: $('#jstree_course').jstree("get_selected", true)[0]['id'].split('_').pop()
             },
             dataType:'JSON',
             beforeSend: function () {
                 $('.ts_preloading_box').show();
             },
             success: function(data){
-                console.log(data)
                 if(data.error == false) {
                     show_notify('success', 5000, 'Thành công', data.message);
                 } else {

@@ -338,6 +338,7 @@ class AIManageStudentsController extends Controller {
         $input['is_active']                             = '1';
         $input['class']                                 = $item[12];
         $input['policy']                                = ModuleVocationalEducationPolicities::whereName($item[13])->first()->id ?? null;
+        $input['note']                                  = $item[14];
         $input['id_course']                             = $request->input('id_course');
 
         $id_student = ModuleManageStudents::create($input)->id;
@@ -414,6 +415,7 @@ class AIManageStudentsController extends Controller {
                 $row[11], // Giới tính
                 $row[12], // Trình độ học vấn
                 $row[13], // Chính sách
+                $row[14], // Ghi chú
             ];
             
             // Bỏ qua các hàng mà tất cả các giá trị đều trống

@@ -23,6 +23,7 @@
                                                 <thead>
                                                     <tr>
                                                         <th data-field="name">Tên chính sách</th>
+                                                        <th data-field="order">Thứ tự hiển thị</th>
                                                         <th data-field="type">Nhóm</th>
                                                         <th data-field="action">Hành động</th>
                                                     </tr>

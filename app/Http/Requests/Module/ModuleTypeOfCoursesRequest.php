@@ -22,7 +22,9 @@ class ModuleTypeOfCoursesRequest extends FormRequest {
                 ],
             'from_the_time'         =>'required', 
             'till_the_time'         =>'required',
-            'exam_date'             =>'required'
+            'exam_date'             =>'required',
+            'address'               =>'required'
+
         ];
     }
 
@@ -34,7 +36,8 @@ class ModuleTypeOfCoursesRequest extends FormRequest {
             'name.unique'                           =>'Khóa học đã tồn tại!',
             'from_the_time.required'                =>'Vui lòng nhập Thời gian bắt đầu khóa học!',
             'till_the_time.required'                =>'Vui lòng nhập Thời gian kết thúc khóa học!',
-            'exam_date.required'                    =>'Vui lòng nhập Thời gian thi!'
+            'exam_date.required'                    =>'Vui lòng nhập Thời gian thi!',
+            'address.required'                      =>'Vui lòng nhập Địa điểm lớp học!'
         ];
     }    
 }

@@ -1,82 +1,59 @@
 <script src="{{ asset('assets/administration/mainstructure/js/global.js') }}"></script>
-<!-- icheck JS
-    ============================================ -->
-<script src="{{ asset('assets/administration/mainstructure/js/icheck/icheck.min.js') }}"></script>
-<script src="{{ asset('assets/administration/mainstructure/js/icheck/icheck-active.js') }}"></script>
 <script type="text/javascript">
 $(document).ready(function() {
-    func_buttonClick = function(p_type, p_id){
-        if ( p_type == 'edit') {
-            $('#actionModal .modal-title').text("Điểm học viên");
-            func_formReset();
-            func_viewListCourse(p_id);
-            $('#actionModal input[name=id]').val(p_id);
+    //Khởi tạo cây
+    $('#jstree_course').jstree({
+        'core' : {
+            'check_callback' : true
+        },
+        "plugins" : ["types"],
+        "types" : {
+            "training_specialty" : {
+                "icon" : "/assets/administration/mainstructure/img/badge.png"
+            },
+            "year" : {
+                "icon" : "/assets/administration/mainstructure/img/calendar.png"
+            },
+            "course" : {
+                "icon" : "/assets/administration/mainstructure/img/course.png"
+            }
         }
-    };
-    func_formReset = function(){
-        $('#form-action')[0].reset();
-    }
-    /* ------------------------------------------ Handle ------------------------------------------*/
-    $("#form-action").on("submit", function( event ) {
-        event.preventDefault();
-        data = {
-            action_type: $('#form-action input[name=action_type]').val(),
-            id_course: $("#form-action input[name=id]").val(),
-            array_is_checked: func_checkRole()
-            
-        };
-        url = '{!! route('AIAttendance.post.ajax') !!}';
-        func_callAjax(url,'data', data,'submit');
     });
-    $('select[name=id_training_specialty]').on('change', function(){
-        func_loaddt();
+    $('#jstree_course').on("select_node.jstree", function (e, data) {
+        if (data.node.type !== "course") {
+            $('#jstree_course').jstree("deselect_node", data.node);
+        } else {
+            // Trích xuất ID của khóa học từ ID nút
+            func_loadTableAttendance();
+        }
     });
-    func_loaddt = function() {
-        data = { 
-            action_type: 'loaddt',
-            id_training_specialty: $('select[name=id_training_specialty]').val(),
-        };
-        url = '{!! route('AIAttendance.post.ajax') !!}';
-        func_callAjax(url,'data', data,'submit');
-    };
-    func_loaddt();
-    func_checkRole = function(){
-        var id_student = '';
-        var array_is_checked = []; 
 
-        $("#form-action table tbody tr").each(function() {
-            var index = $(this).index();
-            id_student = $(this).attr('data-id-student');
-            var string_checked = '';
-            $(this).find('.box-attendance').each(function() {
-                if( $(this).text() == "") {
-                    string_checked += ',0'
-                } else {
-                    string_checked += ','+$(this).text()
-                }
-            });
-            array_is_checked.push({
-                id_student: id_student,
-                attendance: string_checked.substring(1)
-            });
-        });
-        
-        return array_is_checked;
-    }//
+    $('#jstree_course').on("hover_node.jstree", function (e, data) {
+        if (data.node.type !== "course") {
+            $('#jstree_course').jstree("dehover_node", data.node);
+        }
+    });
+//End khởi tạo cây
+
+    /* ------------------------------------------ Handle ------------------------------------------*/
     //Lấy dữ liệu 1 module và đổ ra trong edit
-    func_viewListCourse = function(id) {     
+    func_loadTableAttendance = function() {     
         $.ajax({
             type: 'POST',
             url: '{!! route('AIAttendance.post.ajax') !!}',
             data: {
-                id: id,
-                action_type: 'view'
+                id_course: $('#jstree_course').jstree("get_selected", true)[0]['id'].split('_').pop(),
+                action_type: 'loadTableAttendance'
             },
             dataType:'JSON',
             success: function(data) {
-                console.log(data)
-                $('#actionModal input[name=action_type]').val('edit');
-                $('#actionModal table').html(data.html);
+                if(data.error == false) {
+                    $('.right-panel').show();
+                    $('.right-panel').html(data.html);
+                } else if(data.validate == false) {
+                    show_notify('warning', 5000, 'Cảnh báo', data.message);
+                    $('.right-panel').hide();
+                }
             },
             error: function(data) { 
                 $('.modal').modal('hide');
@@ -84,14 +61,57 @@ $(document).ready(function() {
         });
     };
 
-    $(document).on("click",".box-attendance", function(){
-        if( $(this).text() == '' ) {
-            $(this).text('K');
-        } else if( $(this).text() == 'K' ) {
-            $(this).text('P');
+    // Update attendance on click
+    function updateAttendance(element) {
+        if(element.text() == '') {
+            element.text('K');
+        } else if(element.text() == 'K') {
+            element.text('P');
         } else {
-            $(this).text('');
+            element.text('');
         }
+
+        var id_student = element.closest('tr').attr('data-id-student');
+        var id_course = $('#jstree_course').jstree("get_selected", true)[0]['id'].split('_').pop();
+        var attendance = '';
+        element.closest('tr').find('.box-attendance').each(function() {
+            if($(this).text() == "") {
+                attendance += ',0';
+            } else {
+                attendance += ','+$(this).text();
+            }
+        });
+        attendance = attendance.substring(1);
+
+        $.ajax({
+            type: 'POST',
+            url: '{!! route('AIAttendance.post.ajax') !!}',
+            data: {
+                action_type: 'edit',
+                array_is_checked: [{
+                    id_student: id_student,
+                    attendance: attendance
+                }],
+                id_course: id_course
+            },
+            dataType: 'JSON',
+            success: function(data) {
+                if (data.error) {
+                    show_notify('warning', 5000, 'Cảnh báo', data.message);
+                } else {
+                    func_loadTableAttendance();
+                    show_notify('success', 5000, 'Thành công', data.message);
+                }
+            },
+            error: function(data) {
+                show_notify('error', 5000, 'Cảnh báo', 'Vui lòng chọn khóa học');
+            }
+        });
+    }
+
+    // Initial bind of click event
+    $(document).on("click", ".box-attendance", function(){
+        updateAttendance($(this));
     });
     
 });

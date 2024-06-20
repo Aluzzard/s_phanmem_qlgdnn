@@ -18,7 +18,8 @@ class ModuleVocationalEducationPolicitiesRequest extends FormRequest {
                         $query->where('id_site', Auth::guard('user')->user()->id_site);
                     })
                     ->ignore($id)
-                ]
+                ],
+            'order'                             => 'required'
         ];
     }
 
@@ -26,7 +27,8 @@ class ModuleVocationalEducationPolicitiesRequest extends FormRequest {
     {
         return [
             'name.required'              =>'Vui lòng nhập danh mục ngành đào tạo!',
-            'name.unique'                =>'Danh mục ngành đào tạo đã tồn tại!'
+            'name.unique'                =>'Danh mục ngành đào tạo đã tồn tại!',
+            'order.required'             => 'Vui lòng nhập thứ tự hiển thị'
         ];
     }    
 }

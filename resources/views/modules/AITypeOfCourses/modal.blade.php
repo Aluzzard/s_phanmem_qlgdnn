@@ -55,6 +55,12 @@
                                     <input type="date" name="exam_date" class="form-control">   
                                 </div>
                             </div>
+                            <div class="form-group row">
+                                <label class="col-sm-4 col-form-label">Địa điểm lớp học <code>*</code></label>
+                                <div class="col-sm-8">
+                                    <input type="text" name="address" class="form-control">   
+                                </div>
+                            </div>
                             <div>
                                 <button type="submit" class="btn btn-success">Lưu</button>
                             </div>

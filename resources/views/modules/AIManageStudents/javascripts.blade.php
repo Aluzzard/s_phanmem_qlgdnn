@@ -103,7 +103,7 @@ $(document).ready(function() {
                 $('#actionModal input[name=action_type]').val('edit');
                 $('#actionModal input[name=id]').val(data.item.id);
 
-                $('#actionModal input[name="name"]').val(data.item.name);
+                $('#actionModal input[name="name"]').val(data.item.last_name+' '+data.item.first_name);
                 $('#actionModal input[name="date_of_birth"]').val(data.item.date_of_birth);
                 $('#actionModal input[name="numberphone"]').val(data.item.numberphone);
                 $('#actionModal input[name="identification_id_card"]').val(data.item.identification_id_card);
@@ -122,6 +122,8 @@ $(document).ready(function() {
                 // $('#actionModal input[name="weight"]').val(data.item.weight);
                 $('#actionModal select[name="gender"]').val(data.item.gender);
                 $('#actionModal input[name="class"]').val(data.item.class);
+                $('#actionModal textarea[name="note"]').val(data.item.note);
+
 
                 data.item.is_active == 1 ? $('input[name="is_active"]').iCheck('check') : $('input[name="is_active"]').iCheck('uncheck');
 
